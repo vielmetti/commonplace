@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Commonplace"
+theme = "docdock"
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]

@@ -1,0 +1,2951 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="generator" content="Hugo 0.24.1" />
+    <meta name="description" content="">
+
+
+    <title>ARM at the UEFI Forum :: Commonplace</title>
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
+    <link href="/css/nucleus.css" rel="stylesheet">
+    <link href="/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/css/hybrid.css" rel="stylesheet">
+    <link href="/css/featherlight.min.css" rel="stylesheet">
+    <link href="/css/horsey.css" rel="stylesheet">
+    
+      <link href="/css/theme-blue.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <script src="/js/jquery-2.x.min.js"></script>
+    <style type="text/css">
+      :root #header + #content > #left > #rlblock_left {
+        display:none !important;
+      }
+    </style>
+
+    
+
+    
+
+  </head>
+  <body class="" data-url="/works-on-arm/articles/article-ay/">
+    <nav id="sidebar" class="">
+  <div id="header-wrapper">
+    <div id="header">
+      
+<span style="font-size:smaller">
+	<a id="logo" href="http://example.org/">
+	  <span class="fa fa-gears" style="font-size:large"></span>
+	</a>
+	Create a _header.md to customize this
+</small>
+
+
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fa fa-search"></i></label>
+    <input data-search-input id="search-by" type="text" placeholder="Search...">
+    <span data-search-clear=""><i class="fa fa-close"></i></span>
+</div>
+<script type="text/javascript" src="/js/lunr.min.js"></script>
+<script type="text/javascript" src="/js/horsey.js"></script>
+<script type="text/javascript">
+    var baseurl = "http:\/\/example.org\/";
+</script>
+<script type="text/javascript" src="/js/search.js"></script>
+
+    
+  </div>
+
+
+
+
+
+<div class="highlightable">
+    <ul class="topics">
+        
+        
+            <li data-nav-id="/" class="dd-item">
+            <a href="/"><i class="fa fa-fw fa-home"></i></a>
+            </li>
+        
+
+        
+
+
+
+
+<li data-nav-id="/ann-arbor/" class="dd-item 
+
+
+
+">
+  <a href="/ann-arbor/">
+    <span>Ann Arbor</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+        
+
+
+
+
+<li data-nav-id="/ann-arbor/coffee/" class="dd-item 
+
+
+
+">
+  <a href="/ann-arbor/coffee/">
+    <span>Coffee and cafes</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/ann-arbor/coffee/black-diesel/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coffee/black-diesel/">
+            <span>Black Diesel Coffee</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/ann-arbor/coffee/cafe-verde/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coffee/cafe-verde/">
+            <span>Cafe Verde</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/ann-arbor/coffee/carrigan-cafe/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coffee/carrigan-cafe/">
+            <span>Carrigan Cafe, Saline</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/ann-arbor/coffee/elixir-vitae/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coffee/elixir-vitae/">
+            <span>Elixir Vitae</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/ann-arbor/coffee/fleetwood-diner/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coffee/fleetwood-diner/">
+            <span>Fleetwood Diner</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/ann-arbor/coffee/morgan-and-york/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coffee/morgan-and-york/">
+            <span>Morgan and York</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/ann-arbor/coffee/roos-rosewood/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coffee/roos-rosewood/">
+            <span>Roos Roast on Rosewood</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/ann-arbor/coffee/starbucks-arborland/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coffee/starbucks-arborland/">
+            <span>Starbucks Arborland</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/ann-arbor/coffee/tuscan-cafe/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coffee/tuscan-cafe/">
+            <span>Tuscan Cafe, Northville</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/ann-arbor/coworking/" class="dd-item 
+
+
+
+">
+  <a href="/ann-arbor/coworking/">
+    <span>Coworking</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/ann-arbor/coworking/ann-arbor-software-coworkers/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coworking/ann-arbor-software-coworkers/">
+            <span>Ann Arbor Software Co-Workers</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/ann-arbor/coworking/workantile/" class="dd-item
+         
+          ">
+            <a href="/ann-arbor/coworking/workantile/">
+            <span>Workantile, Ann Arbor</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/radio/" class="dd-item 
+
+
+
+">
+  <a href="/radio/">
+    <span>Radio</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+        
+
+
+
+
+<li data-nav-id="/radio/am-broadcast/" class="dd-item 
+
+
+
+">
+  <a href="/radio/am-broadcast/">
+    <span>AM broadcast</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/radio/am-broadcast/wfan/" class="dd-item
+         
+          ">
+            <a href="/radio/am-broadcast/wfan/">
+            <span>WFAN 660 New York City</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/am-broadcast/knbr/" class="dd-item
+         
+          ">
+            <a href="/radio/am-broadcast/knbr/">
+            <span>KNBR 680 San Francisco</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/am-broadcast/wwj/" class="dd-item
+         
+          ">
+            <a href="/radio/am-broadcast/wwj/">
+            <span>WWJ 950 Detroit</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/am-broadcast/wmvp/" class="dd-item
+         
+          ">
+            <a href="/radio/am-broadcast/wmvp/">
+            <span>WMVP 1000 Chicago</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/am-broadcast/wins/" class="dd-item
+         
+          ">
+            <a href="/radio/am-broadcast/wins/">
+            <span>WINS 1010 New York City</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/am-broadcast/wtka/" class="dd-item
+         
+          ">
+            <a href="/radio/am-broadcast/wtka/">
+            <span>WTKA 1050 Ann Arbor</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/am-broadcast/wxyt/" class="dd-item
+         
+          ">
+            <a href="/radio/am-broadcast/wxyt/">
+            <span>WXYT 1270 Detroit</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/radio/amateur-radio/" class="dd-item 
+
+
+
+">
+  <a href="/radio/amateur-radio/">
+    <span>Amateur Radio</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/radio/amateur-radio/arrow/" class="dd-item
+         
+          ">
+            <a href="/radio/amateur-radio/arrow/">
+            <span>ARROW</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/amateur-radio/baofeng/" class="dd-item
+         
+          ">
+            <a href="/radio/amateur-radio/baofeng/">
+            <span>Baofeng</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/amateur-radio/chirp/" class="dd-item
+         
+          ">
+            <a href="/radio/amateur-radio/chirp/">
+            <span>Chirp</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/amateur-radio/echolink/" class="dd-item
+         
+          ">
+            <a href="/radio/amateur-radio/echolink/">
+            <span>Echolink</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/amateur-radio/kb6nu/" class="dd-item
+         
+          ">
+            <a href="/radio/amateur-radio/kb6nu/">
+            <span>KB6NU (Dan Romanchik)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/amateur-radio/nooelec/" class="dd-item
+         
+          ">
+            <a href="/radio/amateur-radio/nooelec/">
+            <span>Nooelec</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/amateur-radio/skywarn/" class="dd-item
+         
+          ">
+            <a href="/radio/amateur-radio/skywarn/">
+            <span>Skywarn</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/amateur-radio/w8um/" class="dd-item
+         
+          ">
+            <a href="/radio/amateur-radio/w8um/">
+            <span>W8UM (University of Michigan Amateur Radio Club)</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/radio/aviation/" class="dd-item 
+
+
+
+">
+  <a href="/radio/aviation/">
+    <span>Aviation</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/radio/aviation/flightaware/" class="dd-item
+         
+          ">
+            <a href="/radio/aviation/flightaware/">
+            <span>Flightaware</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/aviation/karb/" class="dd-item
+         
+          ">
+            <a href="/radio/aviation/karb/">
+            <span>KARB - Ann Arbor Municipal</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/aviation/kdtw/" class="dd-item
+         
+          ">
+            <a href="/radio/aviation/kdtw/">
+            <span>KDTW - Detroit Metro Airport</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/aviation/kyip/" class="dd-item
+         
+          ">
+            <a href="/radio/aviation/kyip/">
+            <span>KYIP - Ypsilanti Willow Run</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/aviation/liveatc/" class="dd-item
+         
+          ">
+            <a href="/radio/aviation/liveatc/">
+            <span>LiveATC</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/aviation/piaware/" class="dd-item
+         
+          ">
+            <a href="/radio/aviation/piaware/">
+            <span>PiAware</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/aviation/dump1090/" class="dd-item
+         
+          ">
+            <a href="/radio/aviation/dump1090/">
+            <span>dump1090</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/aviation/jared-mauch/" class="dd-item
+         
+          ">
+            <a href="/radio/aviation/jared-mauch/">
+            <span>dump1090 - Jared Mauch</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/radio/fm-broadcast/" class="dd-item 
+
+
+
+">
+  <a href="/radio/fm-broadcast/">
+    <span>FM Broadcast stations</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/radio/fm-broadcast/wcbn/" class="dd-item
+         
+          ">
+            <a href="/radio/fm-broadcast/wcbn/">
+            <span>WCBN 88.3 Ann Arbor</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/fm-broadcast/wemu/" class="dd-item
+         
+          ">
+            <a href="/radio/fm-broadcast/wemu/">
+            <span>WEMU 89.1 Ypsilanti</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/fm-broadcast/wwoz/" class="dd-item
+         
+          ">
+            <a href="/radio/fm-broadcast/wwoz/">
+            <span>WWOZ 90.7 New Orleans</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/fm-broadcast/wxyt/" class="dd-item
+         
+          ">
+            <a href="/radio/fm-broadcast/wxyt/">
+            <span>WXYT 97.1 Detroit</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/fm-broadcast/globaltuners/" class="dd-item
+         
+          ">
+            <a href="/radio/fm-broadcast/globaltuners/">
+            <span>Global Tuners</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/radio/scanner/" class="dd-item 
+
+
+
+">
+  <a href="/radio/scanner/">
+    <span>Scanners</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/radio/scanner/broadcastify/" class="dd-item
+         
+          ">
+            <a href="/radio/scanner/broadcastify/">
+            <span>Broadcastify</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/radio/shortwave/" class="dd-item 
+
+
+
+">
+  <a href="/radio/shortwave/">
+    <span>Shortwave Listening</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/radio/shortwave/kiwisdr/" class="dd-item
+         
+          ">
+            <a href="/radio/shortwave/kiwisdr/">
+            <span>KiwiSDR</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/shortwave/london-shortwave/" class="dd-item
+         
+          ">
+            <a href="/radio/shortwave/london-shortwave/">
+            <span>London Shortwave weblog</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/shortwave/radio-havana-cuba/" class="dd-item
+         
+          ">
+            <a href="/radio/shortwave/radio-havana-cuba/">
+            <span>Radio Havana Cuba</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/shortwave/sdr.hu/" class="dd-item
+         
+          ">
+            <a href="/radio/shortwave/sdr.hu/">
+            <span>SDR.HU</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/shortwave/websdr/" class="dd-item
+         
+          ">
+            <a href="/radio/shortwave/websdr/">
+            <span>WebSDR</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/radio/skywarn/" class="dd-item 
+
+
+
+">
+  <a href="/radio/skywarn/">
+    <span>Skywarn</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/radio/skywarn/n8duy/" class="dd-item
+         
+          ">
+            <a href="/radio/skywarn/n8duy/">
+            <span>MI - Washtenaw - N8DUY</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/radio/sdr/" class="dd-item 
+
+
+
+">
+  <a href="/radio/sdr/">
+    <span>Software defined radio</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/radio/sdr/cubicsdr/" class="dd-item
+         
+          ">
+            <a href="/radio/sdr/cubicsdr/">
+            <span>CubicSDR</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/sdr/gqrx/" class="dd-item
+         
+          ">
+            <a href="/radio/sdr/gqrx/">
+            <span>GQRX</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/sdr/rtl-sdr.com/" class="dd-item
+         
+          ">
+            <a href="/radio/sdr/rtl-sdr.com/">
+            <span>RTL-SDR.com</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/radio/sdr/dump1090/" class="dd-item
+         
+          ">
+            <a href="/radio/sdr/dump1090/">
+            <span>dump1090</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/works-on-arm/" class="dd-item 
+parent
+
+
+">
+  <a href="/works-on-arm/">
+    <span>Works on ARM News</span>
+
+    
+    <i class="fa fa-angle-down fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+        
+
+
+
+
+<li data-nav-id="/works-on-arm/issues/" class="dd-item 
+
+
+
+">
+  <a href="/works-on-arm/issues/">
+    <span>Issues</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w27/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w27/">
+            <span>WOA 11, July 7, 2017 (W27)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w26/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w26/">
+            <span>WOA 10, June 30, 2017 (W26)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w25/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w25/">
+            <span>WOA 9, June 16, 2017 (W25)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w24/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w24/">
+            <span>WOA 8, June 16, 2017 (W24)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w23/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w23/">
+            <span>WOA 7, June 9, 2017 (W23)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w22/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w22/">
+            <span>WOA 6, June 2, 2017 (W22)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w21/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w21/">
+            <span>WOA 5, May 26, 2017 (W21)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w20/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w20/">
+            <span>WOA 4, May 19, 2017 (W20)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w19/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w19/">
+            <span>WOA 3, May 12, 2017 (W19)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w18/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w18/">
+            <span>WOA 2, May 5, 2017 (W18)</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/issues/2017-w17/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/issues/2017-w17/">
+            <span>WOA 1, April 28, 2017 (W17)</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/works-on-arm/articles/" class="dd-item 
+parent
+
+
+">
+  <a href="/works-on-arm/articles/">
+    <span>articles</span>
+
+    
+    <i class="fa fa-angle-down fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/works-on-arm/articles/issue1/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/issue1/">
+            <span>Works on ARM news, Issue 1, April 28, 2017</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-cb/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-cb/">
+            <span></span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ay/" class="dd-item
+         active
+          ">
+            <a href="/works-on-arm/articles/article-ay/">
+            <span>ARM at the UEFI Forum</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/operating-system/alpine/article-ad/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/operating-system/alpine/article-ad/">
+            <span>Alpine Linux 3.6.0, 3.6.1</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ag/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-ag/">
+            <span>Ard Biesheuvel&#39;s &#34;Works of ARD&#34; weblog and &#34;Project dogfood&#34;.</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/operating-system/article-cf/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/operating-system/article-cf/">
+            <span>Armbian Linux on the ODroid C2</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-al/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-al/">
+            <span>Automotive Grade Linux</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ai/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-ai/">
+            <span>Colophon</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-aq/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-aq/">
+            <span>Colophon</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-az/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-az/">
+            <span>Colophon</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-as/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-as/">
+            <span>Go 1.9 Beta 1 with ARM64 binaries</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-au/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-au/">
+            <span>Intel, Qualcomm patents</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-cd/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-cd/">
+            <span>Kubernetes 1.7 release</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-aw/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-aw/">
+            <span>MACCHIATObin cluster</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-av/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-av/">
+            <span>MACCHIATObin dev board</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ao/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-ao/">
+            <span>Minio on Go speedups from FOSDEM</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-cc/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-cc/">
+            <span>Momentum is Building for ARM in HPC</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ae/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-ae/">
+            <span>New Docker container directory for &#34;arm64v8&#34;</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-af/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-af/">
+            <span>OpenSUSE on ARM hardware</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-an/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-an/">
+            <span>Qualcomm Snapdragon 835 &#43; Microsoft Windows 10</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ax/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-ax/">
+            <span>Snapdragon 835 development board from Intrinsyc</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-aj/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-aj/">
+            <span>Subscription information</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ar/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-ar/">
+            <span>Subscription information</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ca/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-ca/">
+            <span>Subscription information</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-am/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-am/">
+            <span>ThunderX2 presentations at HPC conference</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ap/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-ap/">
+            <span>Wireguard VPN with ARM speedups</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ce/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-ce/">
+            <span>Xen 4.9 release</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-at/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-at/">
+            <span>iPad Pro &#34;fastest yet&#34;</span> 
+            
+
+            </a></li>
+         
+        
+         
+          <li data-nav-id="/works-on-arm/articles/article-ah/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/article-ah/">
+            <span>pigz, a fast parallel version of gzip</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+<li data-nav-id="/works-on-arm/articles/container/" class="dd-item 
+
+
+
+">
+  <a href="/works-on-arm/articles/container/">
+    <span>Containers</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/works-on-arm/articles/container/linuxkit/article-bw/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/container/linuxkit/article-bw/">
+            <span>Linuxkit on ARM</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+<li data-nav-id="/works-on-arm/articles/hardware/" class="dd-item 
+
+
+
+">
+  <a href="/works-on-arm/articles/hardware/">
+    <span>Hardwares</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/works-on-arm/articles/hardware/gigabyte/article-ac/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/hardware/gigabyte/article-ac/">
+            <span>Gigabyte announces Cavium ThunderX2 support</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+<li data-nav-id="/works-on-arm/articles/hardware/socionext/" class="dd-item 
+
+
+
+">
+  <a href="/works-on-arm/articles/hardware/socionext/">
+    <span>Socionext</span>
+
+    
+    <i class="fa fa-angle-right fa-lg category-icon"></i>
+    
+    
+    
+  </a>
+    <ul>
+        
+         
+          <li data-nav-id="/works-on-arm/articles/hardware/socionext/article-bt/" class="dd-item
+         
+          ">
+            <a href="/works-on-arm/articles/hardware/socionext/article-bt/">
+            <span>24-core Socionext server</span> 
+            
+
+            </a></li>
+         
+        
+        
+
+
+
+
+    </ul>
+</li>
+
+
+    </ul>
+</li>
+
+
+    </ul>
+</li>
+
+
+    </ul>
+</li>
+
+
+
+        
+    </ul>
+    
+     
+    <section id="footer">
+      
+    </section>
+  </div>
+</nav>
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+        
+          <div id="top-bar">
+            
+
+            <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                <span id="sidebar-toggle-span">
+                  <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                    <i class="fa fa-bars"></i>
+                  </a>
+                </span>
+                <span id="toc-menu"><i class="fa fa-list-alt"></i></span>
+                <span class="links">
+                
+
+
+
+
+
+
+
+
+
+
+ <a href='/'></a> > <a href='/works-on-arm/'>Works on ARM News</a> > <a href='/works-on-arm/articles/'>articles</a> > ARM at the UEFI Forum
+
+ 
+
+ 
+
+ 
+
+   
+                </span>
+            </div>
+            <div class="progress">
+    <div class="wrapper">
+
+    </div>
+</div>
+
+          </div>
+        
+        
+        <div id="body-inner">
+          
+            <h1>ARM at the UEFI Forum</h1>
+          
+
+
+
+
+<p><img src="http://www.uefi.org/sites/default/files/uefi_logo_red_web.jpg" alt="UEFI logo" /></p>
+
+<p>The <a href="http://www.businesswire.com/news/home/20170606005502/en/UEFI-Forum-Appoints-ARM-Board-Directors-Fortifying">UEFI Forum board appointed Dong Wei</a>, senior director of lead
+architect platforms at ARM, as vice president of this industry
+group which promotes firmware innovation and standardization.</p>
+
+<p><a href="http://www.uefi.org/sites/default/files/resources/Dong%20Wei%20-%20UEFI_What%20is%20it.pdf">UEFI - What is it</a>? is a presentation given by Dong Wei at the
+spring 2017 UEFI Plugfest. It provides a good overview of the
+Unified Extensible Firmware Interface (UEFI) and the
+Advanced Configuration and Power Interface (ACPI) that are
+used to standardize the boot process across ARM and x86 platforms.</p>
+
+
+<footer class=" footline" >
+	
+</footer>
+
+
+
+      </div>
+    </div>
+
+    
+ 
+    
+
+    <div id="navigation">
+        
+        
+        
+        
+            
+            
+                
+                    
+                    
+                
+                
+                
+                    
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                    
+                
+                
+                
+                    
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                    
+                
+                
+                
+                    
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+                    
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+                
+            
+        
+                    
+                
+            
+        
+                    
+                
+            
+        
+        
+        
+
+
+        
+            <a class="nav nav-prev" href="/works-on-arm/articles/article-cb/" title=""> <i class="fa fa-chevron-left"></i></a>
+        
+        
+            <a class="nav nav-next" href="/works-on-arm/articles/operating-system/alpine/article-ad/" title="Alpine Linux 3.6.0, 3.6.1" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+        
+    </div>
+
+    </section>
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/js/clipboard.min.js"></script>
+    <script src="/js/featherlight.min.js"></script>
+    <script src="/js/html5shiv-printshiv.min.js"></script>
+    <script src="/js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/js/modernizr.custom.71422.js"></script>
+    <script src="/js/learn.js"></script>
+    <script src="/js/hugo-learn.js"></script>
+
+    
+    <link href="/mermaid/mermaid.css" type="text/css" rel="stylesheet"/>
+    <script src="/mermaid/mermaid.js"></script>
+    <script>mermaid.initialize({startOnLoad:true});</script>
+    
+
+    
+
+  </body>
+</html>
+
