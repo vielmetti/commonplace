@@ -7,7 +7,7 @@ It is a Cumulus station.
 
 http://www.knbr.com
 
-Listen via N3LGA's KiwiSDR: http://sdr.n3lga.com:8073/
+Listen via N3LGA's KiwiSDR: http://sdr.n3lga.com:8073/?f=680.00amz4
 
 San Francisco Giants radio network:
 
