@@ -35,47 +35,47 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w27/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w27/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w26/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w26/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w25/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w25/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w24/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w24/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w23/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w23/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w22/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w22/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w21/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w21/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w20/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w20/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w19/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w19/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w18/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w18/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w17/</loc>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w17/</loc>
     <lastmod>2017-04-28T12:00:00-04:00</lastmod>
   </url>
   
@@ -117,6 +117,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/alpine/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/</loc>
   </url>
   
@@ -126,6 +130,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coworking/ann-arbor-software-coworkers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/armbian/</loc>
   </url>
   
   <url>
@@ -158,6 +166,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/centos/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/chirp/</loc>
   </url>
   
@@ -166,11 +178,23 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/coreos/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coworking/</loc>
   </url>
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/sdr/cubicsdr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/debian/</loc>
   </url>
   
   <url>
@@ -186,6 +210,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/fedora/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/writing/fill-the-input-box/</loc>
   </url>
   
@@ -195,6 +223,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/aviation/flightaware/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/freebsd/</loc>
   </url>
   
   <url>
@@ -211,11 +243,6 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/skywarn/w9ice/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/issues/</loc>
-    <lastmod>2017-04-28T12:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -259,7 +286,19 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/nixos/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/opensuse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/</loc>
   </url>
   
   <url>
@@ -284,6 +323,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/shortwave/sdr.hu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/suse/</loc>
   </url>
   
   <url>
@@ -328,11 +371,20 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/ubuntu/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/w8um/</loc>
   </url>
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/shortwave/websdr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/</loc>
+    <lastmod>2017-04-28T12:00:00-04:00</lastmod>
   </url>
   
   <url>

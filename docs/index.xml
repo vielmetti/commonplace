@@ -101,29 +101,29 @@ I can pick up 97.1 FM on my home SDR setup, but there is not any current FM list
     
     <item>
       <title>WOA 11, July 7, 2017 (W27)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w27/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w27/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w27/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w27/</guid>
       <description>Works on ARM news, Issue 11, Friday July 7, 2017 (Week 27) In this issue  &amp;ldquo;Momentum is Building for ARM in HPC&amp;rdquo; Kubernetes 1.7 release Xen 4.9 release Armbian Linux on the ODroid C2  Momentum is Building for ARM in HPC &amp;ldquo;Momentum is Building for ARM in HPC&amp;rdquo; is an article in The Next Platform by Jonathan Beard and Roxana Rusitoru of ARM Holdings chronicling the GoingARM workshop at the recent ISC conference on high-performance computing in Frankfurt, Germany.</description>
     </item>
     
     <item>
       <title>WOA 10, June 30, 2017 (W26)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w26/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w26/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w26/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w26/</guid>
       <description>Works on ARM news, Issue 10, Friday June 30, 2017 (Week 26) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github and Gitbook. Subscription details are at the bottom of this issue.
 In this issue  Interview: Jim Perrin on CentOS on ARM ARM HPC Users Group Ask Ubuntu: Running 32-bit ARM on 64-bit systems SUSE Linux (SLES) on ARM 24-core Socionext server EFI and U-Boot on Dragonboard 410c Gitlab Omnibus edition via elraro, ready for testing Linuxkit on ARM Ubuntu on Raspberry Pi 3 compute module Go 1.</description>
     </item>
     
     <item>
       <title>WOA 9, June 16, 2017 (W25)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w25/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w25/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w25/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w25/</guid>
       <description>Works on ARM news, Issue 9, Friday June 16, 2017 (Week 25) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.
 In this issue:
 Elasticsearch port to ARM, Test Go 1.9 beta 1, Test Rust 1.18, Cavium ThunderX2 launch partners, Qualcomm Centriq 2400 at AnsibleFest, Frankfurt HPC conference, Fedora 26 Beta, Debian 9 LTS, Alpine 3.</description>
@@ -131,10 +131,10 @@ Elasticsearch port to ARM, Test Go 1.9 beta 1, Test Rust 1.18, Cavium ThunderX2 
     
     <item>
       <title>WOA 8, June 16, 2017 (W24)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w24/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w24/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w24/</guid>
       <description>Works on ARM news, Issue 8, Friday June 16, 2017 (Week 24) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.
 In this issue:
 Go 1.9 Beta 1 with ARM64 binaries; iPad Pro &amp;ldquo;fastest yet&amp;rdquo;; Intel, Qualcomm patents; MACCHIATObin development board and cluster; Snapdragon 835 development board; ARM at the UEFI Forum.</description>
@@ -142,10 +142,10 @@ Go 1.9 Beta 1 with ARM64 binaries; iPad Pro &amp;ldquo;fastest yet&amp;rdquo;; I
     
     <item>
       <title>WOA 7, June 9, 2017 (W23)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w23/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w23/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w23/</guid>
       <description>Works on ARM news, Issue 7, Friday June 9, 2017 (Week 23) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.
 In this issue:
 98 open spec hacker friendly single board computers, Automotive Grade Linux, ThunderX2 presentations at HPC conference, Qualcomm Snapdragon 835 + Microsoft Windows 10, Minio on Go speedups from FOSDEM, and Wireguard VPN with ARM speedups.</description>
@@ -153,10 +153,10 @@ In this issue:
     
     <item>
       <title>WOA 6, June 2, 2017 (W22)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w22/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w22/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w22/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w22/</guid>
       <description>Works on ARM news, Issue 6, Friday June 2, 2017 (Week 22) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.
 In this issue:
 Gigabyte announces Cavium ThunderX2 support; Alpine Linux 3.6.0, 3.6.1; New Docker container directory for &amp;ldquo;arm64v8&amp;rdquo;; OpenSUSE on ARM hardware; Ard Biesheuvel&amp;rsquo;s &amp;ldquo;Works of ARD&amp;rdquo; weblog and &amp;ldquo;Project dogfood&amp;rdquo;; and pigz, a fast parallel version of gzip.</description>
@@ -164,50 +164,50 @@ Gigabyte announces Cavium ThunderX2 support; Alpine Linux 3.6.0, 3.6.1; New Dock
     
     <item>
       <title>WOA 5, May 26, 2017 (W21)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w21/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w21/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w21/</guid>
       <description>Works on ARM news, Issue 5, Friday May 26, 2017 (Week 21) This is the fifth edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
 In this issue: Apache Cassandra performance report from MityLytics; Go 1.8.3 release; Elixir and Erlang; HHVM, a virtual machine for running PHP and Hack; GNU Parallel, FFmpeg, a video transcoder; and Firefly&amp;rsquo;s ARMv8 Kickstarter.</description>
     </item>
     
     <item>
       <title>WOA 4, May 19, 2017 (W20)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w20/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w20/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w20/</guid>
       <description>Works on ARM news, Issue 4, Friday May 19, 2017 (Week 20) This is the fourth edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
 In this issue: developer resources from ARM, HPE&amp;rsquo;s &amp;ldquo;The Machine&amp;rdquo;, a NAS Kickstarter from Helios, the controversy over systemd that launched Devuan, OpenJDK builds from AdoptOpenJDK, Go 1.</description>
     </item>
     
     <item>
       <title>WOA 3, May 12, 2017 (W19)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w19/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w19/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w19/</guid>
       <description>Works on ARM news, Issue 3, Friday May 12, 2017 (Week 19) This is the third edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
 This issue has Resin&amp;rsquo;s 144-node ARM-based &amp;ldquo;Beast&amp;rdquo; cluster, a conference report from Red Hat Summit in Boston, video from DockerCon in Austin, an OpenBSD 6.</description>
     </item>
     
     <item>
       <title>WOA 2, May 5, 2017 (W18)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w18/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w18/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w18/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w18/</guid>
       <description>Works on ARM news, Issue 2, Friday May 5, 2017 This is the second edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
 If you have any questions, comments, or suggestions for Issue 2, please send them to ed@packet.net or contact me on the Packet community Slack channel as &amp;ldquo;ed.</description>
     </item>
     
     <item>
       <title>WOA 1, April 28, 2017 (W17)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w17/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w17/</link>
       <pubDate>Fri, 28 Apr 2017 12:00:00 -0400</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/issues/2017-w17/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w17/</guid>
       <description>Works on ARM news, Issue 1, April 28, 2017 This is the first edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
 If you have any questions, comments, or suggestions for Issue 2, please send them to ed@packet.net or contact me on the Packet community Slack channel as &amp;ldquo;ed.packet&amp;rdquo;.</description>
     </item>
@@ -286,6 +286,17 @@ https://w8rp.org/</description>
     </item>
     
     <item>
+      <title>Alpine Linux</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/alpine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/alpine/</guid>
+      <description>Alpine Linux is officially supported on ARM. It is known for its small size and its use of musl instead of glibc as a C library.
+https://www.alpinelinux.org/
+Alpine 3.6.2 was released on June 17, 2017.</description>
+    </item>
+    
+    <item>
       <title>Ann Arbor Software Co-Workers</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/coworking/ann-arbor-software-coworkers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -293,6 +304,17 @@ https://w8rp.org/</description>
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coworking/ann-arbor-software-coworkers/</guid>
       <description>Ann Arbor Software Co-Workers is a meetup group that organizes for coworking, weekly on Friday mornings. The current location is the Main St branch of Espresso Royale.
 https://www.meetup.com/Ann-Arbor-Software-Co-Workers/</description>
+    </item>
+    
+    <item>
+      <title>Armbian</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/armbian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/armbian/</guid>
+      <description>Armbian is an operating system based on Debian designed to support ARM development boards.
+https://www.armbian.com/
+Release 5.32 is a bug fix release as of June 23, 2017.</description>
     </item>
     
     <item>
@@ -344,6 +366,17 @@ http://www.broadcastify.com/listen/top</description>
     </item>
     
     <item>
+      <title>CentOS</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/centos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/centos/</guid>
+      <description>CentOS is the “Community ENTerprise Operating System”. It is a free rebuild of source packages from the Red Hat Enterprise Linux. CentOS uses the “yum” package manager.
+https://www.centos.org
+CentOS 7 is the current release, with ARM support.</description>
+    </item>
+    
+    <item>
       <title>Chirp</title>
       <link>https://vielmetti.github.io/commonplace/radio/amateur-radio/chirp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -354,6 +387,17 @@ http://chirp.danplanet.com/</description>
     </item>
     
     <item>
+      <title>Container Linux</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/coreos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/coreos/</guid>
+      <description>Container Linux (formerly CoreOS) is a container-focused operating system designed for large clusters.
+https://coreos.com/products/container-linux-subscription/
+There is active development for ARM64 for several of the core components of CoreOS, including rkt, the CoreOS container runtime.</description>
+    </item>
+    
+    <item>
       <title>CubicSDR</title>
       <link>https://vielmetti.github.io/commonplace/radio/sdr/cubicsdr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -361,6 +405,15 @@ http://chirp.danplanet.com/</description>
       <guid>https://vielmetti.github.io/commonplace/radio/sdr/cubicsdr/</guid>
       <description>CubicSDR is a cross-platform SDR client which drives a wide variety of SDR hardware.
 http://cubicsdr.com/</description>
+    </item>
+    
+    <item>
+      <title>Debian</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/debian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/debian/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -384,6 +437,17 @@ http://echomac.sourceforge.net/</description>
       <description>Order Ed&amp;rsquo;s blend if Ed is working, or Jimmy&amp;rsquo;s Blend if Jimmy is working. One store on Maynard Street, used to be two but they let out the Liberty Street store to John Roos.
 Ed coaches soccer and is a St Louis Cardinals fan.
 Jimmy doesn&amp;rsquo;t like to work mornings.</description>
+    </item>
+    
+    <item>
+      <title>Fedora</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/fedora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/fedora/</guid>
+      <description>Fedora is a Linux distribution sponsored by Red Hat. The Fedora on ARM project brings Fedora to ARM processors.
+https://arm.fedoraproject.org/
+Fedora 26 Beta is pre-release software.</description>
     </item>
     
     <item>
@@ -413,6 +477,15 @@ If your email client gives you ten lines to type your message, type ten (and not
       <guid>https://vielmetti.github.io/commonplace/radio/aviation/flightaware/</guid>
       <description>Flightaware runs an international network of ADS-B receivers to plot airline locations.
 http://flightaware.com/adsb/</description>
+    </item>
+    
+    <item>
+      <title>FreeBSD</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/freebsd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/freebsd/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -555,6 +628,15 @@ http://www.broadcastify.com/listen/feed/3913</description>
     </item>
     
     <item>
+      <title>NixOS</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/nixos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/nixos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nooelec</title>
       <link>https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -562,6 +644,15 @@ http://www.broadcastify.com/listen/feed/3913</description>
       <guid>https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/</guid>
       <description>Nooelec sells SDRs at a reasonable price with better specifications than the cheapest generic RTL-SDR units you can find.
 http://www.nooelec.com</description>
+    </item>
+    
+    <item>
+      <title>OpenSUSE</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/opensuse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/opensuse/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -614,6 +705,15 @@ http://sdr.hu</description>
     </item>
     
     <item>
+      <title>SUSE</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/suse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/suse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Skywarn</title>
       <link>https://vielmetti.github.io/commonplace/radio/amateur-radio/skywarn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -659,6 +759,15 @@ A weblog is an augmented memory for those fleeting moments of life where you rea
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/tuscan-cafe/</guid>
       <description>Not a bad destination stop for a drive from Ann Arbor with Saul. Zingerman&amp;rsquo;s pastries.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/ubuntu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/ubuntu/</guid>
+      <description></description>
     </item>
     
     <item>
