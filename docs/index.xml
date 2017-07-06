@@ -287,10 +287,10 @@ https://w8rp.org/</description>
     
     <item>
       <title>Alpine Linux</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/alpine/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/alpine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/alpine/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/alpine/</guid>
       <description>Alpine Linux is officially supported on ARM. It is known for its small size and its use of musl instead of glibc as a C library.
 https://www.alpinelinux.org/
 Alpine 3.6.2 was released on June 17, 2017.</description>
@@ -308,10 +308,10 @@ https://www.meetup.com/Ann-Arbor-Software-Co-Workers/</description>
     
     <item>
       <title>Armbian</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/armbian/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/armbian/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/</guid>
       <description>Armbian is an operating system based on Debian designed to support ARM development boards.
 https://www.armbian.com/
 Release 5.32 is a bug fix release as of June 23, 2017.</description>
@@ -367,10 +367,10 @@ http://www.broadcastify.com/listen/top</description>
     
     <item>
       <title>CentOS</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/centos/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/centos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/centos/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/centos/</guid>
       <description>CentOS is the “Community ENTerprise Operating System”. It is a free rebuild of source packages from the Red Hat Enterprise Linux. CentOS uses the “yum” package manager.
 https://www.centos.org
 CentOS 7 is the current release, with ARM support.</description>
@@ -388,10 +388,10 @@ http://chirp.danplanet.com/</description>
     
     <item>
       <title>Container Linux</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/coreos/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/coreos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/coreos/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/coreos/</guid>
       <description>Container Linux (formerly CoreOS) is a container-focused operating system designed for large clusters.
 https://coreos.com/products/container-linux-subscription/
 There is active development for ARM64 for several of the core components of CoreOS, including rkt, the CoreOS container runtime.</description>
@@ -409,10 +409,10 @@ http://cubicsdr.com/</description>
     
     <item>
       <title>Debian</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/debian/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/debian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/debian/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/debian/</guid>
       <description></description>
     </item>
     
@@ -441,10 +441,10 @@ Jimmy doesn&amp;rsquo;t like to work mornings.</description>
     
     <item>
       <title>Fedora</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/fedora/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/fedora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/fedora/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/fedora/</guid>
       <description>Fedora is a Linux distribution sponsored by Red Hat. The Fedora on ARM project brings Fedora to ARM processors.
 https://arm.fedoraproject.org/
 Fedora 26 Beta is pre-release software.</description>
@@ -481,10 +481,10 @@ http://flightaware.com/adsb/</description>
     
     <item>
       <title>FreeBSD</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/freebsd/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/freebsd/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/</guid>
       <description></description>
     </item>
     
@@ -629,10 +629,10 @@ http://www.broadcastify.com/listen/feed/3913</description>
     
     <item>
       <title>NixOS</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/nixos/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/nixos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/nixos/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/nixos/</guid>
       <description></description>
     </item>
     
@@ -648,10 +648,10 @@ http://www.nooelec.com</description>
     
     <item>
       <title>OpenSUSE</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/opensuse/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/opensuse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/opensuse/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/opensuse/</guid>
       <description></description>
     </item>
     
@@ -706,10 +706,10 @@ http://sdr.hu</description>
     
     <item>
       <title>SUSE</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/suse/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/suse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/suse/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/suse/</guid>
       <description></description>
     </item>
     
@@ -763,10 +763,10 @@ A weblog is an augmented memory for those fleeting moments of life where you rea
     
     <item>
       <title>Ubuntu</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/ubuntu/</link>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/ubuntu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/ubuntu/</guid>
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/ubuntu/</guid>
       <description></description>
     </item>
     

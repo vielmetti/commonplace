@@ -7,6 +7,13 @@
 	"content": "Wasthenaw County Michigan SKYWARN is on the N8DUY repeater, 145.15 Mhz.\nhttp://www.broadcastify.com/listen/feed/19998\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/",
+	"title": "Weekly issues",
+	"tags": [],
+	"description": "",
+	"content": "Issues of the Works on ARM Newsletter, published weekly.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wfan/",
 	"title": "WFAN 660 New York City",
 	"tags": [],
@@ -196,7 +203,7 @@
 	"content": "ARROW is the local amateur radio club for Ann Arbor and Washtenaw County. Meetings are monthly on the second Wednesday of the month at the Space Research Building, 2455 Hayward St. on the U of Michigan North Campus.\nhttps://w8rp.org/\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/alpine/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/alpine/",
 	"title": "Alpine Linux",
 	"tags": [],
 	"description": "",
@@ -224,7 +231,7 @@
 	"content": "Ann Arbor Software Co-Workers is a meetup group that organizes for coworking, weekly on Friday mornings. The current location is the Main St branch of Espresso Royale.\nhttps://www.meetup.com/Ann-Arbor-Software-Co-Workers/\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/armbian/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/",
 	"title": "Armbian",
 	"tags": [],
 	"description": "",
@@ -280,7 +287,7 @@
 	"content": ""
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/centos/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/centos/",
 	"title": "CentOS",
 	"tags": [],
 	"description": "",
@@ -301,7 +308,7 @@
 	"content": "Notes on cafes in and around Ann Arbor, MI.\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/coreos/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/coreos/",
 	"title": "Container Linux",
 	"tags": [],
 	"description": "",
@@ -322,14 +329,7 @@
 	"content": "CubicSDR is a cross-platform SDR client which drives a wide variety of SDR hardware.\nhttp://cubicsdr.com/\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/",
-	"title": "Database",
-	"tags": [],
-	"description": "",
-	"content": "A collection of news and information about what works on ARM, as input for the official website http://worksonarm.com but organized a little differently.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/debian/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/debian/",
 	"title": "Debian",
 	"tags": [],
 	"description": "",
@@ -357,7 +357,7 @@
 	"content": "A good selection of FM broadcast stations that are interesting to listen to, locally and from afar.\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/fedora/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/fedora/",
 	"title": "Fedora",
 	"tags": [],
 	"description": "",
@@ -385,7 +385,7 @@
 	"content": "Flightaware runs an international network of ADS-B receivers to plot airline locations.\nhttp://flightaware.com/adsb/\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/freebsd/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/",
 	"title": "FreeBSD",
 	"tags": [],
 	"description": "",
@@ -490,7 +490,7 @@
 	"content": "Morgan and York is the neighborhood deli. Good for a bit of salami on your bagel. No power outlets in front.\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/nixos/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/nixos/",
 	"title": "NixOS",
 	"tags": [],
 	"description": "",
@@ -504,14 +504,14 @@
 	"content": "Nooelec sells SDRs at a reasonable price with better specifications than the cheapest generic RTL-SDR units you can find.\nhttp://www.nooelec.com\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/opensuse/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/opensuse/",
 	"title": "OpenSUSE",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/",
 	"title": "Operating systems",
 	"tags": [],
 	"description": "",
@@ -560,7 +560,7 @@
 	"content": "SDR.HU is an international network of software-defined radio receivers, each of which can be tuned by several (generally four) people across a wide band of spectrum. Many of the SDR.HU sites are running KiwiSDR.\nhttp://sdr.hu\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/suse/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/suse/",
 	"title": "SUSE",
 	"tags": [],
 	"description": "",
@@ -637,7 +637,7 @@
 	"content": "Not a bad destination stop for a drive from Ann Arbor with Saul. Zingerman\u0026rsquo;s pastries.\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/database/operating-system/ubuntu/",
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/ubuntu/",
 	"title": "Ubuntu",
 	"tags": [],
 	"description": "",
@@ -656,13 +656,6 @@
 	"tags": [],
 	"description": "",
 	"content": "WebSDR is a wideband network-ready software defined radio.\nhttp://websdr.org\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/",
-	"title": "Weekly issues",
-	"tags": [],
-	"description": "",
-	"content": "Issues of the Works on ARM Newsletter, published weekly.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coworking/workantile/",
