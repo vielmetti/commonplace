@@ -1,5 +1,5 @@
 ---
-title: Writing to remember, writing to forget
+title: To remember, to forget
 ---
 This weblog is an unpolished open notebook. It's primarily full of
 two things: things I want to remember, and things I want to forget.
