@@ -22,6 +22,16 @@ http://www.broadcastify.com/listen/feed/19998</description>
     </item>
     
     <item>
+      <title>KCSP 610 Kansas City</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kcsp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kcsp/</guid>
+      <description>KCSP 610 is the flagship station for the Kansas City Royals.
+KiwiSDR in Olathe Kansas: http://136.63.226.118:8073/?f=610amz0</description>
+    </item>
+    
+    <item>
       <title>WFAN 660 New York City</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wfan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -53,8 +63,13 @@ https://www.wikiwand.com/en/San_Francisco_Giants_Radio_Network</description>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/</guid>
       <description>KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.
-Listen at the KiwiSDR at the University of Victoria, British Columbia, Canada:
-http://kiwisdr.ece.uvic.ca:8073/?f=710.00amz0</description>
+https://www.wikiwand.com/en/Seattle_Mariners_Radio_Network
+KiwiSDR KiwiSDR at WA6OUR, Sammamish, Washington
+http://24.17.196.180:8073/?f=710.00amz0
+KiwiSDR at the University of Victoria, British Columbia, Canada:
+http://kiwisdr.ece.uvic.ca:8073/?f=710.00amz0
+KiwiSDR at KA7U, Weiser, Idaho
+http://ka7u.no-ip.org:8073/?f=710.00amz0</description>
     </item>
     
     <item>

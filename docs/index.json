@@ -14,6 +14,13 @@
 	"content": "Issues of the Works on ARM Newsletter, published weekly.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kcsp/",
+	"title": "KCSP 610 Kansas City",
+	"tags": [],
+	"description": "",
+	"content": "KCSP 610 is the flagship station for the Kansas City Royals.\nKiwiSDR in Olathe Kansas: http://136.63.226.118:8073/?f=610amz0\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wfan/",
 	"title": "WFAN 660 New York City",
 	"tags": [],
@@ -32,7 +39,7 @@
 	"title": "KIRO 710 Seattle",
 	"tags": [],
 	"description": "",
-	"content": "KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\nListen at the KiwiSDR at the University of Victoria, British Columbia, Canada:\nhttp://kiwisdr.ece.uvic.ca:8073/?f=710.00amz0\n"
+	"content": " KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\nhttps://www.wikiwand.com/en/Seattle_Mariners_Radio_Network\nKiwiSDR KiwiSDR at WA6OUR, Sammamish, Washington\nhttp://24.17.196.180:8073/?f=710.00amz0\nKiwiSDR at the University of Victoria, British Columbia, Canada:\nhttp://kiwisdr.ece.uvic.ca:8073/?f=710.00amz0\nKiwiSDR at KA7U, Weiser, Idaho\nhttp://ka7u.no-ip.org:8073/?f=710.00amz0\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/wcbn/",
