@@ -47,6 +47,17 @@ https://www.wikiwand.com/en/San_Francisco_Giants_Radio_Network</description>
     </item>
     
     <item>
+      <title>KIRO 710 Seattle</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/</guid>
+      <description>KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.
+Listen at the KiwiSDR at the University of Victoria, British Columbia, Canada:
+http://kiwisdr.ece.uvic.ca:8073/?f=710.00amz0</description>
+    </item>
+    
+    <item>
       <title>WCBN 88.3 Ann Arbor</title>
       <link>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wcbn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -480,12 +491,31 @@ http://flightaware.com/adsb/</description>
     </item>
     
     <item>
+      <title>Fortran</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/fortran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/fortran/</guid>
+      <description>ARM Fortran Compiler (Beta) is now available as part of the latest ARM Compiler for HPC Package release. The package also includes ARM C/C++ Compiler and ARM Performance Libraries and is available for leading Linux distributions running on ARMv8-A based hardware.
+https://www.hpcwire.com/off-the-wire/arm-announces-beta-release-arm-fortran-compiler/</description>
+    </item>
+    
+    <item>
       <title>FreeBSD</title>
       <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>GCC</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/gcc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/gcc/</guid>
+      <description>This page intentionally left blank.</description>
     </item>
     
     <item>
@@ -506,6 +536,29 @@ http://gqrx.dk/</description>
       <guid>https://vielmetti.github.io/commonplace/radio/fm-broadcast/globaltuners/</guid>
       <description>Global Tuners provides access to remotely controlled radio stations around the world. Typically there is a single frequency that can be listened to at a time, and several people can share the audio from a single site.
 http://www.globaltuners.com/</description>
+    </item>
+    
+    <item>
+      <title>Go (golang)</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/golang/</guid>
+      <description>Go is a systems programming language that came from Google.
+http://golang.org
+Version 1.9 is the first release of Go that plans to have ARM64 support.</description>
+    </item>
+    
+    <item>
+      <title>HHVM</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/hhvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/hhvm/</guid>
+      <description>HHVM is a virtual machine for running PHP from Facebook.
+HHVM is an open-source virtual machine designed for executing programs written in Hack and PHP. HHVM uses a just-in-time (JIT) compilation approach to achieve superior performance while maintaining the development flexibility that PHP provides.
+As of March 9, 2017, HHVM has been ported to the ARM environment.
+http://groups.google.com/forum/#!forum/hhvm-arm</description>
     </item>
     
     <item>
@@ -589,6 +642,15 @@ http://kiwisdr.com/KiwiSDR/</description>
     </item>
     
     <item>
+      <title>LLVM</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/llvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/llvm/</guid>
+      <description>This page intentionally left blank.</description>
+    </item>
+    
+    <item>
       <title>LiveATC</title>
       <link>https://vielmetti.github.io/commonplace/radio/aviation/liveatc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -637,6 +699,16 @@ http://www.broadcastify.com/listen/feed/3913</description>
     </item>
     
     <item>
+      <title>Node.JS</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/nodejs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/nodejs/</guid>
+      <description>Node.JS is fully supported on ARM by NodeSource.
+https://nodejs.org/en/</description>
+    </item>
+    
+    <item>
       <title>Nooelec</title>
       <link>https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -644,6 +716,15 @@ http://www.broadcastify.com/listen/feed/3913</description>
       <guid>https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/</guid>
       <description>Nooelec sells SDRs at a reasonable price with better specifications than the cheapest generic RTL-SDR units you can find.
 http://www.nooelec.com</description>
+    </item>
+    
+    <item>
+      <title>OpenJDK</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/openjdk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/openjdk/</guid>
+      <description>This page intentionally left blank.</description>
     </item>
     
     <item>
@@ -656,6 +737,15 @@ http://www.nooelec.com</description>
     </item>
     
     <item>
+      <title>Perl</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/perl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/perl/</guid>
+      <description>This page intentionally left blank.</description>
+    </item>
+    
+    <item>
       <title>PiAware</title>
       <link>https://vielmetti.github.io/commonplace/radio/aviation/piaware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -663,6 +753,15 @@ http://www.nooelec.com</description>
       <guid>https://vielmetti.github.io/commonplace/radio/aviation/piaware/</guid>
       <description>PiAware is a ADS-B and MLAT ground station software for the Raspberry Pi from Flightaware.
 http://flightaware.com/adsb/piaware/</description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/python/</guid>
+      <description>This page intentionally left blank.</description>
     </item>
     
     <item>
@@ -692,6 +791,24 @@ http://radiohc.cu/en</description>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/roos-rosewood/</guid>
       <description>Roos on Rosewood is close by, the people are nice, and it&amp;rsquo;s always interesting to see John. It&amp;rsquo;s better there when I bring a laptop than a phone.</description>
+    </item>
+    
+    <item>
+      <title>Ruby</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/ruby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/ruby/</guid>
+      <description>This page intentionally left blank.</description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/rust/</guid>
+      <description>This page intentionally left blank.</description>
     </item>
     
     <item>

@@ -28,6 +28,13 @@
 	"content": "KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\nhttp://www.knbr.com\nListen via N3LGA\u0026rsquo;s KiwiSDR: http://sdr.n3lga.com:8073/?f=680.00amz4\nSan Francisco Giants radio network:\nhttps://www.wikiwand.com/en/San_Francisco_Giants_Radio_Network\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/",
+	"title": "KIRO 710 Seattle",
+	"tags": [],
+	"description": "",
+	"content": "KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\nListen at the KiwiSDR at the University of Victoria, British Columbia, Canada:\nhttp://kiwisdr.ece.uvic.ca:8073/?f=710.00amz0\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/wcbn/",
 	"title": "WCBN 88.3 Ann Arbor",
 	"tags": [],
@@ -385,11 +392,25 @@
 	"content": "Flightaware runs an international network of ADS-B receivers to plot airline locations.\nhttp://flightaware.com/adsb/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/fortran/",
+	"title": "Fortran",
+	"tags": [],
+	"description": "",
+	"content": "ARM Fortran Compiler (Beta) is now available as part of the latest ARM Compiler for HPC Package release. The package also includes ARM C/C++ Compiler and ARM Performance Libraries and is available for leading Linux distributions running on ARMv8-A based hardware.\nhttps://www.hpcwire.com/off-the-wire/arm-announces-beta-release-arm-fortran-compiler/\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/",
 	"title": "FreeBSD",
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/gcc/",
+	"title": "GCC",
+	"tags": [],
+	"description": "",
+	"content": "This page intentionally left blank.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/sdr/gqrx/",
@@ -404,6 +425,20 @@
 	"tags": [],
 	"description": "",
 	"content": "Global Tuners provides access to remotely controlled radio stations around the world. Typically there is a single frequency that can be listened to at a time, and several people can share the audio from a single site.\nhttp://www.globaltuners.com/\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/golang/",
+	"title": "Go (golang)",
+	"tags": [],
+	"description": "",
+	"content": "Go is a systems programming language that came from Google.\nhttp://golang.org\nVersion 1.9 is the first release of Go that plans to have ARM64 support.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/hhvm/",
+	"title": "HHVM",
+	"tags": [],
+	"description": "",
+	"content": "HHVM is a virtual machine for running PHP from Facebook.\nHHVM is an open-source virtual machine designed for executing programs written in Hack and PHP. HHVM uses a just-in-time (JIT) compilation approach to achieve superior performance while maintaining the development flexibility that PHP provides.\nAs of March 9, 2017, HHVM has been ported to the ARM environment.\nhttp://groups.google.com/forum/#!forum/hhvm-arm\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/writing/how-many-publishable-words/",
@@ -462,6 +497,13 @@
 	"content": "KiwiSDR is a software-defined radio tuner that runs as a \u0026ldquo;cape\u0026rdquo; on top of a Beaglebone single-board computer.\nhttp://kiwisdr.com/KiwiSDR/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/llvm/",
+	"title": "LLVM",
+	"tags": [],
+	"description": "",
+	"content": "This page intentionally left blank.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/aviation/liveatc/",
 	"title": "LiveATC",
 	"tags": [],
@@ -497,11 +539,25 @@
 	"content": ""
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/nodejs/",
+	"title": "Node.JS",
+	"tags": [],
+	"description": "",
+	"content": "Node.JS is fully supported on ARM by NodeSource.\nhttps://nodejs.org/en/\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/",
 	"title": "Nooelec",
 	"tags": [],
 	"description": "",
 	"content": "Nooelec sells SDRs at a reasonable price with better specifications than the cheapest generic RTL-SDR units you can find.\nhttp://www.nooelec.com\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/openjdk/",
+	"title": "OpenJDK",
+	"tags": [],
+	"description": "",
+	"content": "This page intentionally left blank.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/opensuse/",
@@ -518,11 +574,32 @@
 	"content": "Some operating systems known to run on ARM, and some hint at their current state. For deeper information see https://www.worksonarm.com/operating-system/ .\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/perl/",
+	"title": "Perl",
+	"tags": [],
+	"description": "",
+	"content": "This page intentionally left blank.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/aviation/piaware/",
 	"title": "PiAware",
 	"tags": [],
 	"description": "",
 	"content": "PiAware is a ADS-B and MLAT ground station software for the Raspberry Pi from Flightaware.\nhttp://flightaware.com/adsb/piaware/\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/",
+	"title": "Programming languages",
+	"tags": [],
+	"description": "",
+	"content": "Programming languages with support for ARM, as compilers or interpreters, with special notice when possible of language features that take advantage of ARM assembly speedups.\nhttps://www.worksonarm.com/language/ for more details.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/python/",
+	"title": "Python",
+	"tags": [],
+	"description": "",
+	"content": "This page intentionally left blank.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/sdr/rtl-sdr.com/",
@@ -551,6 +628,20 @@
 	"tags": [],
 	"description": "",
 	"content": "Roos on Rosewood is close by, the people are nice, and it\u0026rsquo;s always interesting to see John. It\u0026rsquo;s better there when I bring a laptop than a phone.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/ruby/",
+	"title": "Ruby",
+	"tags": [],
+	"description": "",
+	"content": "This page intentionally left blank.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/rust/",
+	"title": "Rust",
+	"tags": [],
+	"description": "",
+	"content": "This page intentionally left blank.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/sdr.hu/",
@@ -669,7 +760,7 @@
 	"title": "Works on ARM News",
 	"tags": [],
 	"description": "",
-	"content": "From the Works on ARM newsletter, one article at a time for the benefit of search.\n"
+	"content": "From the Works on ARM newsletter, one issue at a time for the benefit of search, and with an echo of the main Works on ARM website so that it\u0026rsquo;s easy to find pointers to more detail.\nThis is work done for Packet.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/writing/writers-block/",

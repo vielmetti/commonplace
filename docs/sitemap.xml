@@ -20,6 +20,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wcbn/</loc>
   </url>
   
@@ -227,7 +231,15 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/fortran/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/gcc/</loc>
   </url>
   
   <url>
@@ -236,6 +248,14 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/fm-broadcast/globaltuners/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/hhvm/</loc>
   </url>
   
   <url>
@@ -271,6 +291,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/llvm/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/aviation/liveatc/</loc>
   </url>
   
@@ -291,7 +315,15 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/nodejs/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/openjdk/</loc>
   </url>
   
   <url>
@@ -303,7 +335,19 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/perl/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/aviation/piaware/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/python/</loc>
   </url>
   
   <url>
@@ -320,6 +364,14 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coffee/roos-rosewood/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/ruby/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/rust/</loc>
   </url>
   
   <url>
