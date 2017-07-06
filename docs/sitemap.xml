@@ -100,21 +100,8 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/issue1/</loc>
-    <lastmod>2017-04-28T12:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/</loc>
     <lastmod>2017-04-28T12:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-cb/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/hardware/socionext/article-bt/</loc>
   </url>
   
   <url>
@@ -122,15 +109,7 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ay/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/arrow/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/operating-system/alpine/article-ad/</loc>
   </url>
   
   <url>
@@ -143,18 +122,6 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coworking/ann-arbor-software-coworkers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ag/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/operating-system/article-cf/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-al/</loc>
   </url>
   
   <url>
@@ -195,22 +162,6 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ai/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-aq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-az/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/container/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coworking/</loc>
   </url>
   
@@ -243,28 +194,11 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/hardware/gigabyte/article-ac/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/fm-broadcast/globaltuners/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-as/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/hardware/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/skywarn/w9ice/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-au/</loc>
   </url>
   
   <url>
@@ -297,14 +231,6 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-cd/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/container/linuxkit/article-bw/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/aviation/liveatc/</loc>
   </url>
   
@@ -313,27 +239,7 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-aw/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-av/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ao/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-cc/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ae/</loc>
   </url>
   
   <url>
@@ -341,15 +247,7 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-af/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/aviation/piaware/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-an/</loc>
   </url>
   
   <url>
@@ -389,14 +287,6 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ax/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/hardware/socionext/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/sdr/</loc>
   </url>
   
@@ -405,24 +295,8 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-aj/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ar/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ca/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-am/</loc>
   </url>
   
   <url>
@@ -438,24 +312,11 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ap/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coworking/workantile/</loc>
   </url>
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/works-on-arm/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ce/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/</loc>
-    <lastmod>2017-04-28T12:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -468,14 +329,6 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/aviation/jared-mauch/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-at/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ah/</loc>
   </url>
   
 </urlset>

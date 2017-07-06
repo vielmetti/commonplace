@@ -267,46 +267,6 @@ https://en.wikipedia.org/wiki/Detroit_Tigers_Radio_Network</description>
     </item>
     
     <item>
-      <title>Works on ARM news, Issue 1, April 28, 2017</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/issue1/</link>
-      <pubDate>Fri, 28 Apr 2017 12:00:00 -0400</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/issue1/</guid>
-      <description>Works on ARM news, Issue 1, April 28, 2017 This is the first edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
-If you have any questions, comments, or suggestions for Issue 2, please send them to ed@packet.net or contact me on the Packet community Slack channel as &amp;ldquo;ed.packet&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-cb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-cb/</guid>
-      <description> In this issue  &amp;ldquo;Momentum is Building for ARM in HPC&amp;rdquo; Kubernetes 1.7 release Xen 4.9 release Armbian Linux on the ODroid C2  </description>
-    </item>
-    
-    <item>
-      <title>24-core Socionext server</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/hardware/socionext/article-bt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/hardware/socionext/article-bt/</guid>
-      <description>At the Taipei trade show Computex, Socionext shared information of their 24-core ARM SoC, the SynQuacer SC2A11. It features high efficiency A53 cores and 1 gigabit networking speeds. The show floor interview, done by Charbax (Nicolas Charbonnier) of ArmDevices.net, demonstrates a cluster running Ubuntu on a number of these systems.
-http://armdevices.net/2017/06/27/socionext-24-core-arm-server-synquacer-sc2a11-60-lower-power-than-intel-at-same-performance/
- ARMdevices.net is a blog focused on making original video and news contents about ARM Powered devices, mostly from trade shows and conferences around the world.</description>
-    </item>
-    
-    <item>
-      <title>ARM at the UEFI Forum</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ay/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ay/</guid>
-      <description>The UEFI Forum board appointed Dong Wei, senior director of lead architect platforms at ARM, as vice president of this industry group which promotes firmware innovation and standardization.
-UEFI - What is it? is a presentation given by Dong Wei at the spring 2017 UEFI Plugfest. It provides a good overview of the Unified Extensible Firmware Interface (UEFI) and the Advanced Configuration and Power Interface (ACPI) that are used to standardize the boot process across ARM and x86 platforms.</description>
-    </item>
-    
-    <item>
       <title>ARROW</title>
       <link>https://vielmetti.github.io/commonplace/radio/amateur-radio/arrow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -317,17 +277,6 @@ https://w8rp.org/</description>
     </item>
     
     <item>
-      <title>Alpine Linux 3.6.0, 3.6.1</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/operating-system/alpine/article-ad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/operating-system/alpine/article-ad/</guid>
-      <description>Alpine Linux announced a new release, Alpine Linux 3.6.0, the first in the 3.6 stable series. This release continues ARM support, and adds support for IBM z and Power processors.
-There has been a significant refresh for a number of development packages, including Rust 1.17.0, Cargo 0.18.0, PHP 7.1, LLVM 4.0, Go 1.8, Python 3.6, nginx 1.12 and Ruby 2.4. The kernel provided is the LTS Linux 4.9.29 kernel.
-This release was followed on June 1, 2017 with a bug fix release, Alpine Linux 3.</description>
-    </item>
-    
-    <item>
       <title>Ann Arbor Software Co-Workers</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/coworking/ann-arbor-software-coworkers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -335,38 +284,6 @@ This release was followed on June 1, 2017 with a bug fix release, Alpine Linux 3
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coworking/ann-arbor-software-coworkers/</guid>
       <description>Ann Arbor Software Co-Workers is a meetup group that organizes for coworking, weekly on Friday mornings. The current location is the Main St branch of Espresso Royale.
 https://www.meetup.com/Ann-Arbor-Software-Co-Workers/</description>
-    </item>
-    
-    <item>
-      <title>Ard Biesheuvel&#39;s &#34;Works of ARD&#34; weblog and &#34;Project dogfood&#34;.</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ag/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ag/</guid>
-      <description>Ard Biesheuvel is a developer for Linaro, working on the ARM open source ecosystem. He writes in March 2017 about Project dogfood: my arm64 desktop, an effort to bring a full 64-bit ARM environment to the desktop using an AMD Overdrive B1 development board in an ATX form factor.
-Ard writes:
- So what would I need to turn this into a desktop system that is good enough for my day to day work?</description>
-    </item>
-    
-    <item>
-      <title>Armbian Linux on the ODroid C2</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/operating-system/article-cf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/operating-system/article-cf/</guid>
-      <description>Armbian Linux is a Debian derivative with support for a number of ARM based development boards.
-The ODroid C2 is
-https://www.armbian.com/odroid-c2/ title: Works on ARM News Weekly news from the ARM ecosystem, written by Ed Vielmetti at Packet.
-Submissions and subscriptions to ed@packet.net.</description>
-    </item>
-    
-    <item>
-      <title>Automotive Grade Linux</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-al/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-al/</guid>
-      <description>Automotive Grade Linux is a Linux-based in-vehicle infotainment (IVI) platform aimed at OEMs who are looking for an open software stack for the connected car. AGL is a complete software stack including a Yocto-based board support package, automotive specific middleware for audio management, connection management, graphics, and a full application framework with App APIs and SDK. AGL also includes extensions to support the automotive CAN and MOST bus and a full security framework to make it reliable enough to put in vehicles.</description>
     </item>
     
     <item>
@@ -425,33 +342,6 @@ http://www.broadcastify.com/listen/top</description>
       <guid>https://vielmetti.github.io/commonplace/radio/amateur-radio/chirp/</guid>
       <description>Chirp is software to program your radio; I&amp;rsquo;ve successfully gotten it to work with the Baofeng units.
 http://chirp.danplanet.com/</description>
-    </item>
-    
-    <item>
-      <title>Colophon</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ai/</guid>
-      <description>Written with vim on a MacBook Air, and examples tested on a 96-core Cavium based ARM server on Packet.</description>
-    </item>
-    
-    <item>
-      <title>Colophon</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-aq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-aq/</guid>
-      <description>Written with vim on a MacBook Air, with coffee from Morgan and York in Ann Arbor.</description>
-    </item>
-    
-    <item>
-      <title>Colophon</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-az/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-az/</guid>
-      <description>Written with vim on a MacBook Air, on a cool quiet night at Workantile coworking in Ann Arbor.</description>
     </item>
     
     <item>
@@ -517,16 +407,6 @@ http://gqrx.dk/</description>
     </item>
     
     <item>
-      <title>Gigabyte announces Cavium ThunderX2 support</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/hardware/gigabyte/article-ac/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/hardware/gigabyte/article-ac/</guid>
-      <description>TAIPEI, Taiwan, May 29 2017 – GIGABYTE Technology, a leading producer of high performance server hardware, and Cavium, Inc. (NASDAQ: CAVM), a leading provider of semiconductor products that enable intelligent processing for enterprise, data center, cloud, wired and wireless networking - today announced availability of high performance ARM server platforms based on Cavium&amp;rsquo;s second generation 64-bit ARMv8 ThunderX2 product family.
-More details can be found in the GIGABYTE press release, which quotes Rishi Chugh, Director Product Marketing for Cavium&amp;rsquo;s Data Center Processor Group and Etay Lee, General Manager of GIGABYTE.</description>
-    </item>
-    
-    <item>
       <title>Global Tuners</title>
       <link>https://vielmetti.github.io/commonplace/radio/fm-broadcast/globaltuners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -534,16 +414,6 @@ More details can be found in the GIGABYTE press release, which quotes Rishi Chug
       <guid>https://vielmetti.github.io/commonplace/radio/fm-broadcast/globaltuners/</guid>
       <description>Global Tuners provides access to remotely controlled radio stations around the world. Typically there is a single frequency that can be listened to at a time, and several people can share the audio from a single site.
 http://www.globaltuners.com/</description>
-    </item>
-    
-    <item>
-      <title>Go 1.9 Beta 1 with ARM64 binaries</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-as/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-as/</guid>
-      <description>Go 1.9 Beta 1 is the latest test release of the Go systems programming language. It&amp;rsquo;s an early unstable release for Go 1.9, which is scheduled to emerge from beta at the end of July 2017. Consider this release if you are doing software development and want to test compatibility and performance of Go 1.9 on code that you currently have working on an earlier release.
-This release is the first from Go to have an ARM64 binary distribution.</description>
     </item>
     
     <item>
@@ -555,15 +425,6 @@ This release is the first from Go to have an ARM64 binary distribution.</descrip
       <description>Central Indiana Skywarn is out of Indianapolis with a repeater network that covers 39 counties.
 Web: http://www.w9nws.org/
 Via Broadcastify: http://www.broadcastify.com/listen/feed/6063</description>
-    </item>
-    
-    <item>
-      <title>Intel, Qualcomm patents</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-au/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-au/</guid>
-      <description>Intel used the 40th anniversary of its x86 design to reaffirm its intention to protect its patent rights to the ISA instruction set used in its computer chips. This was widely interpreted by the tech press as a challenge to Qualcomm, whose parternship with Microsoft includes a just-in-time compiler for x86 capable of running Intel-based Microsoft Windows user code at full speed. The roundup at Techmeme is a good reference.</description>
     </item>
     
     <item>
@@ -627,26 +488,6 @@ http://kiwisdr.com/KiwiSDR/</description>
     </item>
     
     <item>
-      <title>Kubernetes 1.7 release</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-cd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-cd/</guid>
-      <description>Kubernetes announced a 1.7 release on Thursday, June 29, 2017.
-http://blog.kubernetes.io/2017/06/kubernetes-1.7-security-hardening-stateful-application-extensibility-updates.html</description>
-    </item>
-    
-    <item>
-      <title>Linuxkit on ARM</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/container/linuxkit/article-bw/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/container/linuxkit/article-bw/</guid>
-      <description>Linuxkit is a unikernel style operating system construction kit that came out of work on Docker to rearchitect their system to make it more flexible and component driven. Richard Mortier has done the first step to port Linuxkit to ARMv8, running on bare metal Packet hardware.
-http://mort.io/blog/2017/06/02/arming-linuxkit/</description>
-    </item>
-    
-    <item>
       <title>LiveATC</title>
       <link>https://vielmetti.github.io/commonplace/radio/aviation/liveatc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -667,63 +508,12 @@ http://blog.londonshortwave.com/</description>
     </item>
     
     <item>
-      <title>MACCHIATObin cluster</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-aw/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-aw/</guid>
-      <description>A case and network fabric suitable for building a computing cluster out of these MACCHIATObin boards was announced at launch time by PicoCluster, which also makes cluster cases for Raspberry Pi. The enclosure, which features space for six of these compute boards, is sold in a variety of configurations depending if you need just the case or if you are also buying the compute boards and network gear.
-&amp;ldquo;Shipping is expected to occur by the end of September 2017 subject to board and switch availability.</description>
-    </item>
-    
-    <item>
-      <title>MACCHIATObin dev board</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-av/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-av/</guid>
-      <description>Marvell has announced its MACCHIATObin community development board. This device, in a convenient mini-ITX form factor, features a Marvell ARMADA 8040 SoC with four Cortex-A72 ARMv8 processors. It sports an impressive array of I/O channels including two 10G Ethernet interfaces, three SATA 3.0 interfaces, and up to 16G of memory. This ships at prices starting at $349. Solid Run is the manufacturer.
-CNXSoft has an active discussion about this board, including reports from someone who had their device shipped in May 2017.</description>
-    </item>
-    
-    <item>
-      <title>Minio on Go speedups from FOSDEM</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ao/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ao/</guid>
-      <description>Minio is a distributed storage system that provides a familiar Amazon S3 based programming interface but that runs on your own systems. The folks at Minio have spent considerable effort working on performance by embedding Intel and ARM assembly language routines to take advantage of vector and matrix operations on both platforms.
-Frank Wessels from Minio presented a talk on High performance scaling techniques in Golang using Go Assembly, at the FOSDEM 17 conference in Brussels in February 2017.</description>
-    </item>
-    
-    <item>
-      <title>Momentum is Building for ARM in HPC</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-cc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-cc/</guid>
-      <description>&amp;ldquo;Momentum is Building for ARM in HPC&amp;rdquo; is an article in The Next Platform by Jonathan Beard and Roxana Rusitoru of ARM Holdings chronicling the GoingARM workshop at the recent ISC conference on high-performance computing in Frankfurt, Germany.
-https://www.nextplatform.com/2017/06/30/momentum-building-arm-hpc/
- From looking around the room, it was clear the workshop was significantly more popular than expected. During the entire day, there was standing room only, having throughout the day approximately 70 attendees.</description>
-    </item>
-    
-    <item>
       <title>Morgan and York</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/</guid>
       <description>Morgan and York is the neighborhood deli. Good for a bit of salami on your bagel. No power outlets in front.</description>
-    </item>
-    
-    <item>
-      <title>New Docker container directory for &#34;arm64v8&#34;</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ae/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ae/</guid>
-      <description>Alpine is a frequent choice for Docker projects because of its compact packaging which results in remarkably small Docker images. As of this writing, the new Alpine release has not yet been picked up by Docker for their popular aarch64/alpine container. This is because Docker reorganized their container support on DockerHub to use new names, making the it now arm64v8/alpine.
-The new naming scheme is unique to Docker, and allows them to distinguish between the various 32-bit ARM variants that have distinctly different container support, e.</description>
     </item>
     
     <item>
@@ -737,16 +527,6 @@ http://www.nooelec.com</description>
     </item>
     
     <item>
-      <title>OpenSUSE on ARM hardware</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-af/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-af/</guid>
-      <description>Andreas Färber has an hour-long presentation on OpenSUSE on ARM hardware, in which he details the state of OpenSUSE on a whole series of ARM development boards. The talk was presented at the openSUSE Conference 2017 and published on May 27, 2017. Andreas notes that this is &amp;ldquo;not a hardware selection guide&amp;rdquo;, and recommends that if you want ARM hardware recommendations that you consult the opensuse-arm mailing list instead.
-Andreas&amp;rsquo;s hard work and others have resulted in OpenSUSE for a number of systems, with more in progress, tracked on their development wiki.</description>
-    </item>
-    
-    <item>
       <title>PiAware</title>
       <link>https://vielmetti.github.io/commonplace/radio/aviation/piaware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -754,16 +534,6 @@ Andreas&amp;rsquo;s hard work and others have resulted in OpenSUSE for a number 
       <guid>https://vielmetti.github.io/commonplace/radio/aviation/piaware/</guid>
       <description>PiAware is a ADS-B and MLAT ground station software for the Raspberry Pi from Flightaware.
 http://flightaware.com/adsb/piaware/</description>
-    </item>
-    
-    <item>
-      <title>Qualcomm Snapdragon 835 &#43; Microsoft Windows 10</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-an/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-an/</guid>
-      <description>Microsoft and Qualcomm have announced plans for an ARM based Windows 10 device to be powered by the Snapdragon 835. The system was demonstrated running Windows applications in an emulation mode, and the report from Tom&amp;rsquo;s Hardware of that demo talks of multiple Office documents, video, and email running with no visible delays or hiccups.
-Demos of the system have been out long out for the tech press to start to speculate about how this system will fit into the Windows ecosystem.</description>
     </item>
     
     <item>
@@ -815,65 +585,12 @@ http://sdr.hu</description>
     </item>
     
     <item>
-      <title>Snapdragon 835 development board from Intrinsyc</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ax/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ax/</guid>
-      <description>LinuxGizmos.com reports on a development board from Intrinsyc, the Open-Q 835, which features Qualcomm&amp;rsquo;s 8-core Snapdragon 835 SoC. The dev board is in a Mini-ITX form factor and it provides access to the 835&amp;rsquo;s many functions including 4K HDMI video, dual cameras, GPS, Bluetooth and BLE, and more.
-The device runs Android 7 &amp;ldquo;Nougat&amp;rdquo; with a reference to &amp;ldquo;contact sales for Windows 10&amp;rdquo; support. At a pricetag of $1,149 for the early adopter version, it is perhaps most suited to go into the hands of mobile phone engineers who are looking to incorporate the Snapdragon 835 into their designs.</description>
-    </item>
-    
-    <item>
       <title>Starbucks Arborland</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/coffee/starbucks-arborland/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/starbucks-arborland/</guid>
       <description>Iced coffee, grande, with vanilla and milk: $2.92.</description>
-    </item>
-    
-    <item>
-      <title>Subscription information</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-aj/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-aj/</guid>
-      <description>Works on ARM News is released weekly on Fridays. Follow @worksonarm on Twitter for the weekly link, or follow the worksonarm-news project on Github for notifications. Email to ed@packet.net if you&amp;rsquo;d like a direct email.
-Back and current issues are available from the Works on ARM News archive on Github.
-title: Works on ARM News 7, June 9, 2017 (Week 23) Works on ARM news, Issue 7, Friday June 9, 2017 (Week 23) Works on ARM news is written and edited by Ed Vielmetti at Packet.</description>
-    </item>
-    
-    <item>
-      <title>Subscription information</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ar/</guid>
-      <description>Works on ARM News is released weekly on Fridays. Follow @worksonarm on Twitter for the weekly link, or follow the worksonarm-news project on Github for notifications. Email to ed@packet.net if you&amp;rsquo;d like a direct email.
-Back and current issues are available from the Works on ARM News archive on Github.
-title: Works on ARM News 8, June 16, 2017 (Week 24) Works on ARM news, Issue 8, Friday June 16, 2017 (Week 24) Works on ARM news is written and edited by Ed Vielmetti at Packet.</description>
-    </item>
-    
-    <item>
-      <title>Subscription information</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ca/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ca/</guid>
-      <description> Works on ARM News is released weekly on Fridays. Follow [@worksonarm] on Twitter for the weekly link, or follow the worksonarm-news project on Github for notifications. Email to ed@packet.net if you&amp;rsquo;d like a direct email.
-Back and current issues are available from the Works on ARM News archive on Github.
-Works on ARM news, Issue 11, Friday July 7, 2017 (Week 27) </description>
-    </item>
-    
-    <item>
-      <title>ThunderX2 presentations at HPC conference</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-am/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-am/</guid>
-      <description>Cavium, maker of the high performance ThunderX and new ThunderX2 server-class ARM systems, will be presenting at the ISC High Performance conference in Frankfurt, Germany June 18-22 2017.
-On Tuesday, June 20th at 2:45 PM, Larry Wikelius, Vice President for Cavium’s Software Ecosystem and Solutions Group, will host the Birds of a Feather (BOF) Session Designing, Porting &amp;amp; Optimizing HPC Workloads for ARM Based Systems. This session will feature speakers from Oak Ridge National Lab, Sandia National Lab, The Hartree Center and HPE.</description>
     </item>
     
     <item>
@@ -907,16 +624,6 @@ http://websdr.org</description>
     </item>
     
     <item>
-      <title>Wireguard VPN with ARM speedups</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ap/</guid>
-      <description>Wireguard is virtual private network software with a novel design that puts most of the work into the Linux kernel. It makes use of familiar Unix networking primitives to control routing and filtering of packets, allowing the system manager to compose a VPN out of components that can each independently be audited for correctness.
-The most recent development snapshot of Wireguard, 0.0.20170531, includes a set of ARM assembly instructions that speed up cryptographic operations on ARM NEON capable processors.</description>
-    </item>
-    
-    <item>
       <title>Workantile, Ann Arbor</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/coworking/workantile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -924,15 +631,6 @@ The most recent development snapshot of Wireguard, 0.0.20170531, includes a set 
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coworking/workantile/</guid>
       <description>Workantile is a coworking space on Main Street in downtown Ann Arbor. I&amp;rsquo;m a member.
 http://www.workantile.com</description>
-    </item>
-    
-    <item>
-      <title>Xen 4.9 release</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ce/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ce/</guid>
-      <description>Xen is a hypervisor.</description>
     </item>
     
     <item>
@@ -964,27 +662,6 @@ https://github.com/mutability/dump1090</description>
       <description>Jared Mauch monitors aircraft using dump1090 from an excellent location with excellent equipment.
 Monitor: http://nat.nether.net:8080/
 Parts list: https://puck.nether.net/~jared/blog/?p=160</description>
-    </item>
-    
-    <item>
-      <title>iPad Pro &#34;fastest yet&#34;</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-at/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-at/</guid>
-      <description>Apple announced a new ARM-powered iPad Pro at the WWDC. The device, a 10.5&amp;rdquo; or 12.9&amp;rdquo; tablet, is powered by Apple&amp;rsquo;s own A10X chip. 9to5Mac and the BareFeats weblog ran benchmarks on graphics and CPU with the claim that and claimed that the new machine compares very favorably to the 13&amp;rdquo; Macbook Pro.
-From BareFeats, which is written by Rob Art Morgan:
- I am not implying that the iPad Pro can replace the MacBook Pro.</description>
-    </item>
-    
-    <item>
-      <title>pigz, a fast parallel version of gzip</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ah/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/articles/article-ah/</guid>
-      <description>pigz is a &amp;ldquo;parallel implementation of gzip for modern multi-processor, multi-core machines&amp;rdquo;. By breaking your compression problem into pieces and then doing each piece individually, pigz effectively uses as much of your machine as you will let it to compress data quickly.
-A sample will illustrate. On a 123 megabyte file (the source code for PostgreSQL), standard gzip took 18.4 seconds to compress a tar file on the 96-core Type 2A ARMv8 machine at Packet.</description>
     </item>
     
   </channel>
