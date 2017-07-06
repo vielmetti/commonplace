@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://vielmetti.github.io/commonplace/"
 languageCode = "en-us"
 title = "Commonplace"
 theme = "docdock"
