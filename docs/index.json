@@ -154,6 +154,13 @@
 	"content": "WTKA broadcasts Detroit Tigers baseball.\nListen via W8CMN, Fenton: http://dentonhill-sdr.moses.bz/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/knx/",
+	"title": "KNX 1070 Los Angeles",
+	"tags": [],
+	"description": "",
+	"content": "KNX 1070 is an all-news radio station for Los Angeles, California.\nListen via TuneIn: https://beta.tunein.com/radio/KNX-1070-NEWSRADIO-s34407/\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wxyt/",
 	"title": "WXYT 1270 Detroit",
 	"tags": [],

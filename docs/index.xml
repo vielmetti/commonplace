@@ -247,6 +247,16 @@ Listen via W8CMN, Fenton: http://dentonhill-sdr.moses.bz/</description>
     </item>
     
     <item>
+      <title>KNX 1070 Los Angeles</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/knx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/knx/</guid>
+      <description>KNX 1070 is an all-news radio station for Los Angeles, California.
+Listen via TuneIn: https://beta.tunein.com/radio/KNX-1070-NEWSRADIO-s34407/</description>
+    </item>
+    
+    <item>
       <title>WXYT 1270 Detroit</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wxyt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
