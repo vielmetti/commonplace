@@ -131,7 +131,8 @@ I can pick up 97.1 FM on my home SDR setup, but there is not any current FM list
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w27/</guid>
-      <description>Works on ARM news, Issue 11, Friday July 7, 2017 (Week 27) In this issue  &amp;ldquo;Momentum is Building for ARM in HPC&amp;rdquo; Kubernetes 1.7 release Xen 4.9 release Armbian Linux on the ODroid C2  Momentum is Building for ARM in HPC &amp;ldquo;Momentum is Building for ARM in HPC&amp;rdquo; is an article in The Next Platform by Jonathan Beard and Roxana Rusitoru of ARM Holdings chronicling the GoingARM workshop at the recent ISC conference on high-performance computing in Frankfurt, Germany.</description>
+      <description>Works on ARM news, Issue 11, July 7, 2017 (Week 27) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github and Gitbook. Subscription details are at the bottom of this issue.
+In this issue  &amp;ldquo;Momentum is Building for ARM in HPC&amp;rdquo;, The Next Platform Kubernetes 1.7 release Xen 4.9 release Docker for Raspbian (ARMv6) for v17.</description>
     </item>
     
     <item>
@@ -333,6 +334,26 @@ https://www.meetup.com/Ann-Arbor-Software-Co-Workers/</description>
     </item>
     
     <item>
+      <title>Apache Mesos</title>
+      <link>https://vielmetti.github.io/commonplace/works-on-arm/orchestration/apache-mesos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/works-on-arm/orchestration/apache-mesos/</guid>
+      <description>Yuqi Gu presented &amp;ldquo;Running Mesos/Marathon on ARM Servers&amp;rdquo; at MesoCon Asia in Beijing on June 22, 2017. He identified a handful of build issues in Mesos dependencies that need to be addressed to make Mesos and Marathon work on aarch64.
+http://schd.ws/hosted_files/mesosconasia2017/5f/Running%20Mesos-Marathon%20on%20ARM%20servers.pdf</description>
+    </item>
+    
+    <item>
+      <title>Argus Farm Stop</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/coffee/argus-farm-stop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/argus-farm-stop/</guid>
+      <description>Argus Farm Stop has coffee, bread, and groceries on the near Old West Side, Liberty at Second Street. Drink your coffee in their glass greenhouse.
+http://www.argusfarmstop.com/</description>
+    </item>
+    
+    <item>
       <title>Armbian</title>
       <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -341,6 +362,25 @@ https://www.meetup.com/Ann-Arbor-Software-Co-Workers/</description>
       <description>Armbian is an operating system based on Debian designed to support ARM development boards.
 https://www.armbian.com/
 Release 5.32 is a bug fix release as of June 23, 2017.</description>
+    </item>
+    
+    <item>
+      <title>Ayse&#39;s Cafe</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/ayses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/ayses/</guid>
+      <description>Ayse&amp;rsquo;s serves Turkish food on Plymouth Road by North Campus. Delicious food and excellent seating for a group.</description>
+    </item>
+    
+    <item>
+      <title>BBC World Service</title>
+      <link>https://vielmetti.github.io/commonplace/radio/shortwave/bbc-world-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/shortwave/bbc-world-service/</guid>
+      <description>The BBC World Service web site has radio archives, news, and a streaming service.
+http://www.bbc.co.uk/worldserviceradio</description>
     </item>
     
     <item>
@@ -358,9 +398,29 @@ Release 5.32 is a bug fix release as of June 23, 2017.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/black-diesel/</guid>
-      <description>The nearby cafe to the house. Not a ton of seating, and the prices are a little on the high side. But you can&amp;rsquo;t argue with the location.
+      <description>The nearby cafe to the house. Not a ton of seating, and the prices are a little on the high side. But you can&amp;rsquo;t argue with the location, at Stadium and Packard.
+http://blackdieselcoffee.com/
 There&amp;rsquo;s pricey gelato here too, and they serve an affogato.
 My biggest beef with them is that the counter sometimes forgets part of an order.</description>
+    </item>
+    
+    <item>
+      <title>Blue Nile</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/blue-nile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/blue-nile/</guid>
+      <description>Ethiopian food on Washington Street. There&amp;rsquo;s a side room with doors that close which easily seats whatever crowd we have.</description>
+    </item>
+    
+    <item>
+      <title>Boatnerd AIS</title>
+      <link>https://vielmetti.github.io/commonplace/radio/marine/boatnerd-ais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/marine/boatnerd-ais/</guid>
+      <description>Great Lakes shipping vessel locations and information available from Boatnerd.
+http://ais.boatnerd.com/</description>
     </item>
     
     <item>
@@ -379,7 +439,8 @@ http://www.broadcastify.com/listen/top</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/cafe-verde/</guid>
-      <description>Part of the People&amp;rsquo;s Food Coop. I can almost always count on seeing someone I know there. Very laid back atmosphere.</description>
+      <description>Part of the People&amp;rsquo;s Food Coop, on North Fourth Avenue. I can almost always count on seeing someone I know there. Very laid back atmosphere.
+http://peoplesfood.coop/store-cafe/</description>
     </item>
     
     <item>
@@ -424,6 +485,15 @@ There is active development for ARM64 for several of the core components of Core
     </item>
     
     <item>
+      <title>Cottage Inn</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/</guid>
+      <description>Lunch buffet at this pizza and Italian restaurant on William Street near campus.</description>
+    </item>
+    
+    <item>
       <title>CubicSDR</title>
       <link>https://vielmetti.github.io/commonplace/radio/sdr/cubicsdr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -443,6 +513,16 @@ http://cubicsdr.com/</description>
     </item>
     
     <item>
+      <title>Detroit River Marine VHF</title>
+      <link>https://vielmetti.github.io/commonplace/radio/marine/detroit-river-marine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/marine/detroit-river-marine/</guid>
+      <description>VHF marine channels from the Detroit area including Sarnia traffic control. Receiver is on the Detroit River and coverage includes Lake Erie and Lake St. Clair.
+http://www.broadcastify.com/listen/feed/11010</description>
+    </item>
+    
+    <item>
       <title>Echolink</title>
       <link>https://vielmetti.github.io/commonplace/radio/amateur-radio/echolink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -455,14 +535,32 @@ http://echomac.sourceforge.net/</description>
     </item>
     
     <item>
+      <title>El Harissa</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/el-harissa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/el-harissa/</guid>
+      <description>El Harissa serves north Africa and Mediterranean food on Maple near Miller. Very good food, convenient seating.</description>
+    </item>
+    
+    <item>
       <title>Elixir Vitae</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/coffee/elixir-vitae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/elixir-vitae/</guid>
-      <description>Order Ed&amp;rsquo;s blend if Ed is working, or Jimmy&amp;rsquo;s Blend if Jimmy is working. One store on Maynard Street, used to be two but they let out the Liberty Street store to John Roos.
-Ed coaches soccer and is a St Louis Cardinals fan.
+      <description>Order Ed&amp;rsquo;s Blend if Ed is working, or Jimmy&amp;rsquo;s Blend if Jimmy is working. One store on Maynard Street, used to be two but they let out the Liberty Street store to John Roos.
+Ed coaches soccer and is a St. Louis Cardinals fan.
 Jimmy doesn&amp;rsquo;t like to work mornings.</description>
+    </item>
+    
+    <item>
+      <title>Evergreen</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/evergreen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/evergreen/</guid>
+      <description>Evergreen has Chinese food on Plymouth Road at Nixon. Very large long tables easily seat a crowd.</description>
     </item>
     
     <item>
@@ -597,6 +695,15 @@ Via Broadcastify: http://www.broadcastify.com/listen/feed/6063</description>
     </item>
     
     <item>
+      <title>Jerusalem Garden</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/jerusalem-garden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/jerusalem-garden/</guid>
+      <description>Middle eastern food on Liberty Street.</description>
+    </item>
+    
+    <item>
       <title>KARB - Ann Arbor Municipal</title>
       <link>https://vielmetti.github.io/commonplace/radio/aviation/karb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -648,10 +755,10 @@ LiveATC: https://www.liveatc.net/search/?icao=KYIP</description>
     
     <item>
       <title>KiwiSDR</title>
-      <link>https://vielmetti.github.io/commonplace/radio/shortwave/kiwisdr/</link>
+      <link>https://vielmetti.github.io/commonplace/radio/sdr/kiwisdr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/radio/shortwave/kiwisdr/</guid>
+      <guid>https://vielmetti.github.io/commonplace/radio/sdr/kiwisdr/</guid>
       <description>KiwiSDR is a software-defined radio tuner that runs as a &amp;ldquo;cape&amp;rdquo; on top of a Beaglebone single-board computer.
 http://kiwisdr.com/KiwiSDR/</description>
     </item>
@@ -696,12 +803,67 @@ http://www.broadcastify.com/listen/feed/3913</description>
     </item>
     
     <item>
+      <title>Madras Masala</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/madras-masala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/madras-masala/</guid>
+      <description>Madras Masala serves Indian food in a buffet on Maynard St across from the Nickels Arcade.</description>
+    </item>
+    
+    <item>
+      <title>Marnee Thai</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/marnee-thai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/marnee-thai/</guid>
+      <description>Marnee Thai serves Thai food downtown on Main St south of William. The long table seats 12 comfortably but not much more than that.</description>
+    </item>
+    
+    <item>
       <title>Morgan and York</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/</guid>
       <description>Morgan and York is the neighborhood deli. Good for a bit of salami on your bagel. No power outlets in front.</description>
+    </item>
+    
+    <item>
+      <title>Morgan and York</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/morgan-and-york/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/morgan-and-york/</guid>
+      <description>Morgan and York is a deli out on Packard. Sandwiches, soups, and a full deli menu. Several sets of big tables in the back if the crowd gets big.</description>
+    </item>
+    
+    <item>
+      <title>NHK Japan</title>
+      <link>https://vielmetti.github.io/commonplace/radio/shortwave/nhk-japan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/shortwave/nhk-japan/</guid>
+      <description>NHK Japan broadcasts from Tokyo news about and from Japan.
+https://www3.nhk.or.jp/nhkworld/en/radio/</description>
+    </item>
+    
+    <item>
+      <title>Nagomi Sushi</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/nagomi-sushi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/nagomi-sushi/</guid>
+      <description>Nagomi Sushi is conveniently located across from the downtown post office.</description>
+    </item>
+    
+    <item>
+      <title>New Raja Rani</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/new-raja-rani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/new-raja-rani/</guid>
+      <description>New Raja Rani serves an Indian buffet on William Street. The a2b3 group had an enjoyable meal on the patio in the summertime. Indoors it&amp;rsquo;s a little noisy but quite servicable.</description>
     </item>
     
     <item>
@@ -843,6 +1005,15 @@ http://sdr.hu</description>
       
       <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/suse/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Saica</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/saica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/saica/</guid>
+      <description>Japanese and Korean food at this restaurant on Plymouth Road near North Campus.</description>
     </item>
     
     <item>

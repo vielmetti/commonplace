@@ -146,6 +146,14 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/orchestration/apache-mesos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/coffee/argus-farm-stop/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/</loc>
   </url>
   
@@ -154,11 +162,27 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/ayses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/shortwave/bbc-world-service/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/baofeng/</loc>
   </url>
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coffee/black-diesel/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/blue-nile/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/marine/boatnerd-ais/</loc>
   </url>
   
   <url>
@@ -195,6 +219,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coworking/</loc>
   </url>
   
@@ -207,11 +235,23 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/marine/detroit-river-marine/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/echolink/</loc>
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/el-harissa/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coffee/elixir-vitae/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/evergreen/</loc>
   </url>
   
   <url>
@@ -271,6 +311,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/jerusalem-garden/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/aviation/karb/</loc>
   </url>
   
@@ -291,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/radio/shortwave/kiwisdr/</loc>
+    <loc>https://vielmetti.github.io/commonplace/radio/sdr/kiwisdr/</loc>
   </url>
   
   <url>
@@ -307,11 +351,43 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/scanner/washtenaw/</loc>
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/madras-masala/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/marine/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/marnee-thai/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/morgan-and-york/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/shortwave/nhk-japan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/nagomi-sushi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/new-raja-rani/</loc>
   </url>
   
   <url>
@@ -336,6 +412,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/works-on-arm/orchestration/</loc>
   </url>
   
   <url>
@@ -384,6 +464,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/suse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/saica/</loc>
   </url>
   
   <url>

@@ -81,7 +81,7 @@
 	"title": "WOA 11, July 7, 2017 (W27)",
 	"tags": [],
 	"description": "",
-	"content": " Works on ARM news, Issue 11, Friday July 7, 2017 (Week 27) In this issue  \u0026ldquo;Momentum is Building for ARM in HPC\u0026rdquo; Kubernetes 1.7 release Xen 4.9 release Armbian Linux on the ODroid C2  Momentum is Building for ARM in HPC \u0026ldquo;Momentum is Building for ARM in HPC\u0026rdquo; is an article in The Next Platform by Jonathan Beard and Roxana Rusitoru of ARM Holdings chronicling the GoingARM workshop at the recent ISC conference on high-performance computing in Frankfurt, Germany.\nhttps://www.nextplatform.com/2017/06/30/momentum-building-arm-hpc/\n From looking around the room, it was clear the workshop was significantly more popular than expected. During the entire day, there was standing room only, having throughout the day approximately 70 attendees. In spite of the crowded room, the audience stuck it out to hear from early users of SVE simulators (University of Michigan), application and runtime porters (BSC, AVL), ARM library and Allinea tool designers, RIKEN, Cavium and the lead on the Isambard project (University of Bristol).\n The article was subsequently picked up by Hacker News, with a measure of interesting discussion.\nhttps://news.ycombinator.com/item?id=14673154\nKubernetes 1.7 release Kubernetes announced a 1.7 release on Thursday, June 29, 2017.\nhttp://blog.kubernetes.io/2017/06/kubernetes-1.7-security-hardening-stateful-application-extensibility-updates.html\nXen 4.9 release Xen is a hypervisor.\nArmbian Linux on the ODroid C2 Armbian Linux is a Debian derivative with support for a number of ARM based development boards.\nThe ODroid C2 is\nhttps://www.armbian.com/odroid-c2/\n"
+	"content": " Works on ARM news, Issue 11, July 7, 2017 (Week 27) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter\u0026rsquo;s @worksonarm account and via Github and Gitbook. Subscription details are at the bottom of this issue.\nIn this issue  \u0026ldquo;Momentum is Building for ARM in HPC\u0026rdquo;, The Next Platform Kubernetes 1.7 release Xen 4.9 release Docker for Raspbian (ARMv6) for v17.07 Apache Mesos on ARM Armbian Linux for development boards  Momentum is Building for ARM in HPC \u0026ldquo;Momentum is Building for ARM in HPC\u0026rdquo; is an article in The Next Platform by Jonathan Beard and Roxana Rusitoru of ARM Holdings chronicling the GoingARM workshop at the recent ISC conference on high-performance computing in Frankfurt, Germany.\nhttps://www.nextplatform.com/2017/06/30/momentum-building-arm-hpc/\n From looking around the room, it was clear the workshop was significantly more popular than expected. During the entire day, there was standing room only, having throughout the day approximately 70 attendees. In spite of the crowded room, the audience stuck it out to hear from early users of SVE simulators (University of Michigan), application and runtime porters (BSC, AVL), ARM library and Allinea tool designers, RIKEN, Cavium and the lead on the Isambard project (University of Bristol).\n The article was subsequently picked up by Hacker News, with a measure of interesting discussion.\nhttps://news.ycombinator.com/item?id=14673154\nKubernetes 1.7 release Kubernetes announced a 1.7 release on Thursday, June 29, 2017. The release notes speak of security hardening, a mechanism for handling embedded secrets, and a set of improvements related to making stateful updates.\nhttp://blog.kubernetes.io/2017/06/kubernetes-1.7-security-hardening-stateful-application-extensibility-updates.html\nKubernetes 1.7 ships with native ARM64 support for client, server, and node binaries, making 64-bit ARM a first-class platform for developers.\nXen 4.9 release Xen is a hypervisor. The project releases Xen 4.9 on 28th of June, 2017. The release notes are extensive, and include a whole set of ARM improvments. Among those include this:\n Alternative runtime patching and GICv3 support for ARM32: Alternative runtime patching which enables the hypervisor to apply workarounds for erratas affecting the processor and to apply optimizations specific to a CPU and GICv3 support was extended for 32-bit ARM platforms, bringing this functionality to embedded use-cases.\nSystem Error Detection (ARM): Xen on ARM made a step forward in reliability and serviceability with the introduction of System Error detection and reporting, a key feature for customers with highly available systems.\n https://wiki.xenproject.org/wiki/Xen_Project_4.9_Release_Notes\nDocker for Raspbian (ARMv6) for v17.07 In the Github repository docker/docker-ce-packaging issue 11, Stefan Scherer writes:\n This PR adds build steps to create DEB packages for Raspbian and for all Raspberry Pi models including the ARMv6 Pi Zero, Pi Zero W or old Raspberry Pi (1) model A/B.\nI\u0026rsquo;m now running 17.07.0-dev on my Raspberry Pi Zero W.\nI kept the names of the Dockerfiles at Dockerfile.armv7l so someone can build them on eg. Scaleway servers.\n Docker support for the smallest and oldest Raspberry Pi models requires ARMv6 support; this support had been dropped in Docker 17.06-ce, as Docker went through a series of reconfigurations with their \u0026ldquo;moby\u0026rdquo; and \u0026ldquo;Linuxkit\u0026rdquo; projects.\nhttps://github.com/docker/docker-ce-packaging/pull/11\nApache Mesos on ARM Yuqi Gu \u0026amp; Yibo Cai of ARM gave a presentation on \u0026ldquo;Running Marathon/Mesos on ARM Server\u0026rdquo; at MesosCon Asia in Beijing on June 22, 2017.\n Marathon/Mesos has been well adopted and deployed, in X86 architecture servers. How about running Marathon/Mesos in ARM server? Fortunately, we proved that only small effort is required to port Marathon/Mesos onto ARM AArch64 servers. There are a few small traps and tricks, but the overall porting is straightforward. We would like to present running Marathon/Mesos in ARM servers to manage a cluster on top of which some applications can be deployed and scaled in containers.\n The Mesos on ARM presentation slides describe the work necessary for the port at slide 6, where the authors point out the Mesos includes vendored dependencies for protobuf, Zookeeper, libev, and Leveldb, each of which has no AArch64 support in their old versions but when brought forward to current versions handle AArch64 properly. In addition there is a dependency on Google\u0026rsquo;s \u0026ldquo;glog\u0026rdquo; logging library that had to be addressed.\nThe authors report that Mesos master and slave nodes work properly once these changes have been made, and from that point forward cluster operations are as normal.\nArmbian Linux for development boards Armbian Linux is a Debian derivative with support for a number of ARM based development boards. Led by Igor Pečovnik of Ljubljana, Slovenia, this project uses an \u0026ldquo;advanced but easy to use\u0026rdquo; x86 based toolchain to make boot image from sources for a wide range of supported boards:\n Beelink X2, Orange Pi PC plus, Orange Pi Plus 2E, Orange Pi Lite, Roseapple Pi, NanoPi M1, pcDuino2, pcDuino3, Odroid C0/C1/C1+, Banana Pi M2+, Hummingboard 2, Odroid C2, Orange Pi 2, Orange Pi One, Orange Pi PC, Orange Pi Plus 1 \u0026amp; 2, Clearfog, Lemaker Guitar, Odroid XU4, Udoo Neo, Banana Pi M2, Orange Pi A31S, Cubieboard 1, Cubieboard 2, Hummingboard, Lamobo R1, Banana Pi PRO, Orange Pi mini A20, Olimex Lime A10, Olimex Micro, Olimex Lime 2, pcDuino3 nano, Banana Pi Plus A20, Udoo quad, Orange Pi A20, Olimex Lime 1, Banana Pi, Cubox-i, Cubietruck\n Recent work has focused on both legacy kernels which tend to offer more device support including video and display features, as well as mainline kernels with support primarily for headless server operations.\nColophon Written on a holiday-shortened July 4 week. The local parade featured a lawnmower brigade and a theatrical stagefighting troupe. Written with vim on a MacBook Pro.\nSubscription information Works on ARM News is released weekly on Fridays. Follow @worksonarm on Twitter for the weekly link, or follow the worksonarm-news project on Github for notifications. Email to ed@packet.net if you\u0026rsquo;d like a direct email.\nBack and current issues are available from the Works on ARM News archive on Github.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w26/",
@@ -245,6 +245,20 @@
 	"content": "Ann Arbor Software Co-Workers is a meetup group that organizes for coworking, weekly on Friday mornings. The current location is the Main St branch of Espresso Royale.\nhttps://www.meetup.com/Ann-Arbor-Software-Co-Workers/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/orchestration/apache-mesos/",
+	"title": "Apache Mesos",
+	"tags": [],
+	"description": "",
+	"content": "Yuqi Gu presented \u0026ldquo;Running Mesos/Marathon on ARM Servers\u0026rdquo; at MesoCon Asia in Beijing on June 22, 2017. He identified a handful of build issues in Mesos dependencies that need to be addressed to make Mesos and Marathon work on aarch64.\nhttp://schd.ws/hosted_files/mesosconasia2017/5f/Running%20Mesos-Marathon%20on%20ARM%20servers.pdf\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/argus-farm-stop/",
+	"title": "Argus Farm Stop",
+	"tags": [],
+	"description": "",
+	"content": "Argus Farm Stop has coffee, bread, and groceries on the near Old West Side, Liberty at Second Street. Drink your coffee in their glass greenhouse.\nhttp://www.argusfarmstop.com/\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/",
 	"title": "Armbian",
 	"tags": [],
@@ -259,6 +273,20 @@
 	"content": "Radio reception of tower communications for aviation, as well as ADS-B transponders that can be received on 1090 Mhz.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/ayses/",
+	"title": "Ayse&#39;s Cafe",
+	"tags": [],
+	"description": "",
+	"content": "Ayse\u0026rsquo;s serves Turkish food on Plymouth Road by North Campus. Delicious food and excellent seating for a group.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/bbc-world-service/",
+	"title": "BBC World Service",
+	"tags": [],
+	"description": "",
+	"content": "The BBC World Service web site has radio archives, news, and a streaming service.\nhttp://www.bbc.co.uk/worldserviceradio\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/baofeng/",
 	"title": "Baofeng",
 	"tags": [],
@@ -270,7 +298,21 @@
 	"title": "Black Diesel Coffee",
 	"tags": [],
 	"description": "",
-	"content": "The nearby cafe to the house. Not a ton of seating, and the prices are a little on the high side. But you can\u0026rsquo;t argue with the location.\nThere\u0026rsquo;s pricey gelato here too, and they serve an affogato.\nMy biggest beef with them is that the counter sometimes forgets part of an order.\n"
+	"content": "The nearby cafe to the house. Not a ton of seating, and the prices are a little on the high side. But you can\u0026rsquo;t argue with the location, at Stadium and Packard.\nhttp://blackdieselcoffee.com/\nThere\u0026rsquo;s pricey gelato here too, and they serve an affogato.\nMy biggest beef with them is that the counter sometimes forgets part of an order.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/blue-nile/",
+	"title": "Blue Nile",
+	"tags": [],
+	"description": "",
+	"content": "Ethiopian food on Washington Street. There\u0026rsquo;s a side room with doors that close which easily seats whatever crowd we have.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/marine/boatnerd-ais/",
+	"title": "Boatnerd AIS",
+	"tags": [],
+	"description": "",
+	"content": "Great Lakes shipping vessel locations and information available from Boatnerd.\nhttp://ais.boatnerd.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/scanner/broadcastify/",
@@ -284,7 +326,7 @@
 	"title": "Cafe Verde",
 	"tags": [],
 	"description": "",
-	"content": "Part of the People\u0026rsquo;s Food Coop. I can almost always count on seeing someone I know there. Very laid back atmosphere.\n"
+	"content": "Part of the People\u0026rsquo;s Food Coop, on North Fourth Avenue. I can almost always count on seeing someone I know there. Very laid back atmosphere.\nhttp://peoplesfood.coop/store-cafe/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/carrigan-cafe/",
@@ -329,6 +371,13 @@
 	"content": "Container Linux (formerly CoreOS) is a container-focused operating system designed for large clusters.\nhttps://coreos.com/products/container-linux-subscription/\nThere is active development for ARM64 for several of the core components of CoreOS, including rkt, the CoreOS container runtime.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/",
+	"title": "Cottage Inn",
+	"tags": [],
+	"description": "",
+	"content": "Lunch buffet at this pizza and Italian restaurant on William Street near campus.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coworking/",
 	"title": "Coworking",
 	"tags": [],
@@ -350,6 +399,13 @@
 	"content": ""
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/marine/detroit-river-marine/",
+	"title": "Detroit River Marine VHF",
+	"tags": [],
+	"description": "",
+	"content": "VHF marine channels from the Detroit area including Sarnia traffic control. Receiver is on the Detroit River and coverage includes Lake Erie and Lake St. Clair.\nhttp://www.broadcastify.com/listen/feed/11010\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/echolink/",
 	"title": "Echolink",
 	"tags": [],
@@ -357,11 +413,25 @@
 	"content": "The Echolink system connects cell phones and computers to 2 meter repeaters around the world.\nhttp://echolink.org/\nEchomac is a Macintosh client for Echolink.\nhttp://echomac.sourceforge.net/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/el-harissa/",
+	"title": "El Harissa",
+	"tags": [],
+	"description": "",
+	"content": "El Harissa serves north Africa and Mediterranean food on Maple near Miller. Very good food, convenient seating.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/elixir-vitae/",
 	"title": "Elixir Vitae",
 	"tags": [],
 	"description": "",
-	"content": "Order Ed\u0026rsquo;s blend if Ed is working, or Jimmy\u0026rsquo;s Blend if Jimmy is working. One store on Maynard Street, used to be two but they let out the Liberty Street store to John Roos.\nEd coaches soccer and is a St Louis Cardinals fan.\nJimmy doesn\u0026rsquo;t like to work mornings.\n"
+	"content": "Order Ed\u0026rsquo;s Blend if Ed is working, or Jimmy\u0026rsquo;s Blend if Jimmy is working. One store on Maynard Street, used to be two but they let out the Liberty Street store to John Roos.\nEd coaches soccer and is a St. Louis Cardinals fan.\nJimmy doesn\u0026rsquo;t like to work mornings.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/evergreen/",
+	"title": "Evergreen",
+	"tags": [],
+	"description": "",
+	"content": "Evergreen has Chinese food on Plymouth Road at Nixon. Very large long tables easily seat a crowd.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/",
@@ -462,6 +532,13 @@
 	"content": "Central Indiana Skywarn is out of Indianapolis with a repeater network that covers 39 counties.\nWeb: http://www.w9nws.org/\nVia Broadcastify: http://www.broadcastify.com/listen/feed/6063\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/jerusalem-garden/",
+	"title": "Jerusalem Garden",
+	"tags": [],
+	"description": "",
+	"content": "Middle eastern food on Liberty Street.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/aviation/karb/",
 	"title": "KARB - Ann Arbor Municipal",
 	"tags": [],
@@ -497,7 +574,7 @@
 	"content": "Willow Run Airport (KYIP) is a cargo airport to the east of Ypsilanti.\nLiveATC: https://www.liveatc.net/search/?icao=KYIP\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/kiwisdr/",
+	"uri": "https://vielmetti.github.io/commonplace/radio/sdr/kiwisdr/",
 	"title": "KiwiSDR",
 	"tags": [],
 	"description": "",
@@ -525,6 +602,13 @@
 	"content": "London Shortwave is a weblog with shortwave listening and spectrum capture from mostly portable SWL stations.\nhttp://blog.londonshortwave.com/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/",
+	"title": "Lunch",
+	"tags": [],
+	"description": "",
+	"content": "Restaurants that serve lunch, with a special emphasis on locations that are good to serve a group of 8-12.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/scanner/washtenaw/",
 	"title": "MI - Washtenaw - Public Safety",
 	"tags": [],
@@ -532,11 +616,60 @@
 	"content": "MPSCS feed for Washtenaw County Sheriff, Police and Fire. Dispatch only: Ann Arbor, Chelsea, Northfield Twp, Milan, Pittsfield Twp, Saline, Scio Twp, and Ypsilanti.\nhttp://www.broadcastify.com/listen/feed/3913\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/madras-masala/",
+	"title": "Madras Masala",
+	"tags": [],
+	"description": "",
+	"content": "Madras Masala serves Indian food in a buffet on Maynard St across from the Nickels Arcade.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/marine/",
+	"title": "Marine",
+	"tags": [],
+	"description": "",
+	"content": "Marine radio including automatic ship location with AIS-B.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/marnee-thai/",
+	"title": "Marnee Thai",
+	"tags": [],
+	"description": "",
+	"content": "Marnee Thai serves Thai food downtown on Main St south of William. The long table seats 12 comfortably but not much more than that.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/",
 	"title": "Morgan and York",
 	"tags": [],
 	"description": "",
 	"content": "Morgan and York is the neighborhood deli. Good for a bit of salami on your bagel. No power outlets in front.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/morgan-and-york/",
+	"title": "Morgan and York",
+	"tags": [],
+	"description": "",
+	"content": "Morgan and York is a deli out on Packard. Sandwiches, soups, and a full deli menu. Several sets of big tables in the back if the crowd gets big.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/nhk-japan/",
+	"title": "NHK Japan",
+	"tags": [],
+	"description": "",
+	"content": "NHK Japan broadcasts from Tokyo news about and from Japan.\nhttps://www3.nhk.or.jp/nhkworld/en/radio/\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/nagomi-sushi/",
+	"title": "Nagomi Sushi",
+	"tags": [],
+	"description": "",
+	"content": "Nagomi Sushi is conveniently located across from the downtown post office.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/new-raja-rani/",
+	"title": "New Raja Rani",
+	"tags": [],
+	"description": "",
+	"content": "New Raja Rani serves an Indian buffet on William Street. The a2b3 group had an enjoyable meal on the patio in the summertime. Indoors it\u0026rsquo;s a little noisy but quite servicable.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/nixos/",
@@ -579,6 +712,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Some operating systems known to run on ARM, and some hint at their current state. For deeper information see https://www.worksonarm.com/operating-system/ .\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/orchestration/",
+	"title": "Orchestration",
+	"tags": [],
+	"description": "",
+	"content": "Tools for running computing systems at scale, including containerization and other efforts.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/perl/",
@@ -663,6 +803,13 @@
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/saica/",
+	"title": "Saica",
+	"tags": [],
+	"description": "",
+	"content": "Japanese and Korean food at this restaurant on Plymouth Road near North Campus.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/scanner/",
