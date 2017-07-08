@@ -8,5 +8,5 @@ AM broadcasts locally on [WTKA] 1050 AM Ann Arbor.
 
 Tigers radio network: http://detroit.tigers.mlb.com/det/schedule/radioaffiliates.jsp
 
-[WXYT]:/radio/fm-broadcast/wxyt/
-[WTKA]:/radio/am-broadcast/wtka/
+[WXYT]:../../../radio/fm-broadcast/wxyt/
+[WTKA]:../../../radio/am-broadcast/wtka/
