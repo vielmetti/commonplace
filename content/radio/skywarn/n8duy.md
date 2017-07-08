@@ -1,6 +1,6 @@
 ---
 title: MI - Washtenaw - N8DUY
-weight: 1
+weight: 10
 ---
 Wasthenaw County Michigan SKYWARN is on the N8DUY
 repeater, 145.15 Mhz.

@@ -5,6 +5,8 @@ weight: 1010
 1010 WINS has 24 hour news coverage from New York City.
 A CBS radio station.
 
+<!--more-->
+
 http://newyork.cbslocal.com/station/1010-wins/
 
 Listen via the nycradio Global Tuners station:

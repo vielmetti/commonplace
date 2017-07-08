@@ -8,6 +8,8 @@ which varies depending on the year.
 
 A CBS radio station.
 
+<!--more-->
+
 http://detroit.cbslocal.com/station/wwj-newsradio-950/
 
 Listen via W8CMN, Fenton, MI:
