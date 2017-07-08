@@ -3,12 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/radio/skywarn/n8duy/</loc>
+    <loc>https://vielmetti.github.io/commonplace/radio/skywarn/kb4mhh/</loc>
   </url>
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/</loc>
     <lastmod>2017-04-28T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/skywarn/n8duy/</loc>
   </url>
   
   <url>
@@ -37,6 +41,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wwoz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/winz/</loc>
   </url>
   
   <url>
@@ -109,7 +117,15 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/khtk/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wxyt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wfed/</loc>
   </url>
   
   <url>
@@ -147,6 +163,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/works-on-arm/orchestration/apache-mesos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/weather/twitter/arborwx/</loc>
   </url>
   
   <url>
@@ -319,10 +339,6 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/radio/skywarn/kb4mhh/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/kb6nu/</loc>
   </url>
   
@@ -347,11 +363,19 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/meteors/livemeteors/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/shortwave/london-shortwave/</loc>
   </url>
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/skywarn/kc8kgz/</loc>
   </url>
   
   <url>
@@ -371,6 +395,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/meteors/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/</loc>
   </url>
   
@@ -384,6 +412,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/nagomi-sushi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/weather/twitter/nws/</loc>
   </url>
   
   <url>
@@ -440,6 +472,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/weather/twitter/radio/</loc>
   </url>
   
   <url>
@@ -500,6 +536,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/weather/twitter/tv/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/writing/bloggers-secret/</loc>
   </url>
   
@@ -517,6 +557,14 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/w8um/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/weather/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/weather/twitter/</loc>
   </url>
   
   <url>
@@ -549,6 +597,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/aviation/jared-mauch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/weather/twitter/miwx/</loc>
   </url>
   
 </urlset>

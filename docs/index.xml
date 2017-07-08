@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>KB4MHH Index to Skywarn</title>
+      <link>https://vielmetti.github.io/commonplace/radio/skywarn/kb4mhh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/skywarn/kb4mhh/</guid>
+      <description>Todd Sherman KB4MHH maintains an &amp;ldquo;Index to Skywarn web pages on the Internet&amp;rdquo; since 1996.
+http://afn.org/~afn09444/weather/skywarn.html</description>
+    </item>
+    
+    <item>
       <title>MI - Washtenaw - N8DUY</title>
       <link>https://vielmetti.github.io/commonplace/radio/skywarn/n8duy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,8 +37,9 @@ http://www.broadcastify.com/listen/feed/19998</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kcsp/</guid>
-      <description>KCSP 610 is the flagship station for the Kansas City Royals.
-KiwiSDR in Olathe Kansas: http://136.63.226.118:8073/?f=610amz0</description>
+      <description>&lt;p&gt;KCSP 610 is the flagship station for the Kansas City Royals.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -37,10 +48,10 @@ KiwiSDR in Olathe Kansas: http://136.63.226.118:8073/?f=610amz0</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wfan/</guid>
-      <description>WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.
-http://newyork.cbslocal.com/wfanyankeesradionetwork/
-The Yankees radio network has 52 stations in 14 states:
-https://en.wikipedia.org/wiki/New_York_Yankees_Radio_Network</description>
+      <description>&lt;p&gt;WFAN Sports Radio 66AM/101.1FM is the radio home of the
+New York Yankees.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,11 +60,10 @@ https://en.wikipedia.org/wiki/New_York_Yankees_Radio_Network</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/knbr/</guid>
-      <description>KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.
-http://www.knbr.com
-Listen via N3LGA&amp;rsquo;s KiwiSDR: http://sdr.n3lga.com:8073/?f=680.00amz4
-San Francisco Giants radio network:
-https://www.wikiwand.com/en/San_Francisco_Giants_Radio_Network</description>
+      <description>&lt;p&gt;KNBR is the flagship station of the San Francisco Giants.
+It is a Cumulus station.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -62,14 +72,10 @@ https://www.wikiwand.com/en/San_Francisco_Giants_Radio_Network</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/</guid>
-      <description>KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.
-https://www.wikiwand.com/en/Seattle_Mariners_Radio_Network
-KiwiSDR KiwiSDR at WA6OUR, Sammamish, Washington
-http://24.17.196.180:8073/?f=710.00amz0
-KiwiSDR at the University of Victoria, British Columbia, Canada:
-http://kiwisdr.ece.uvic.ca:8073/?f=710.00amz0
-KiwiSDR at KA7U, Weiser, Idaho
-http://ka7u.no-ip.org:8073/?f=710.00amz0</description>
+      <description>&lt;p&gt;KIRO-AM is 710 ESPN Seattle with sports programming.
+KIRO is the flagship station for the Seattle Mariners.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -103,16 +109,30 @@ https://www.wwoz.org/</description>
     </item>
     
     <item>
+      <title>WINZ 940 Miami</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/winz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/winz/</guid>
+      <description>&lt;p&gt;WINZ 940 is the flagship station of the Miami Marlins
+baseball radio network.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>WWJ 950 Detroit</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wwj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wwj/</guid>
-      <description>WWJ is mostly a news station, with traffic and weather together on the 8s. There&amp;rsquo;s an occasional sports feed, which varies depending on the year.
-A CBS radio station.
-http://detroit.cbslocal.com/station/wwj-newsradio-950/
-Listen via W8CMN, Fenton, MI:
-http://dentonhill-sdr.moses.bz/</description>
+      <description>&lt;p&gt;WWJ is mostly a news station, with traffic and weather
+together on the 8s. There&amp;rsquo;s an occasional sports feed,
+which varies depending on the year.&lt;/p&gt;
+
+&lt;p&gt;A CBS radio station.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -245,8 +265,10 @@ If you have any questions, comments, or suggestions for Issue 2, please send the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wmvp/</guid>
-      <description>ESPN Radio for Chicago, this station comes in clear at night to the Detroit market.
-http://www.espn.com/chicago/</description>
+      <description>&lt;p&gt;WMVP 1000 is ESPN Radio for Chicago. This station comes
+in clear at night to the Detroit market.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -255,12 +277,10 @@ http://www.espn.com/chicago/</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wins/</guid>
-      <description>1010 WINS has 24 hour news coverage from New York City. A CBS radio station.
-http://newyork.cbslocal.com/station/1010-wins/
-Listen via the nycradio Global Tuners station:
-http://www.globaltuners.com/receiver/1370-New-York-SONY-XDR-F1HD-1
-Listen via Tunein:
-http://tunein.com/radio/1010-WINS-s29616/</description>
+      <description>&lt;p&gt;1010 WINS has 24 hour news coverage from New York City.
+A CBS radio station.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -269,8 +289,9 @@ http://tunein.com/radio/1010-WINS-s29616/</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtka/</guid>
-      <description>WTKA broadcasts Detroit Tigers baseball.
-Listen via W8CMN, Fenton: http://dentonhill-sdr.moses.bz/</description>
+      <description>&lt;p&gt;WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -279,8 +300,19 @@ Listen via W8CMN, Fenton: http://dentonhill-sdr.moses.bz/</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/knx/</guid>
-      <description>KNX 1070 is an all-news radio station for Los Angeles, California.
-Listen via TuneIn: https://beta.tunein.com/radio/KNX-1070-NEWSRADIO-s34407/</description>
+      <description>&lt;p&gt;KNX 1070 is an all-news radio station for Los Angeles, California.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>KHTK 1140 Sacramento</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/khtk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/khtk/</guid>
+      <description>KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento&amp;rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey.
+http://sdr.n3lga.com:8073/?f=1140.00amz10</description>
     </item>
     
     <item>
@@ -289,8 +321,22 @@ Listen via TuneIn: https://beta.tunein.com/radio/KNX-1070-NEWSRADIO-s34407/</des
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wxyt/</guid>
-      <description>WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.
-https://en.wikipedia.org/wiki/Detroit_Tigers_Radio_Network</description>
+      <description>&lt;p&gt;WXYT 1270 AM and WXYT-FM 97.1 are the radio home of
+the Detroit Tigers.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WFED 1500 Washington DC</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wfed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wfed/</guid>
+      <description>&lt;p&gt;WFED 1500 &amp;ldquo;Federal News Radio&amp;rdquo; broadcasts Washington Nationals baseball from
+Washington, DC.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -344,6 +390,16 @@ http://schd.ws/hosted_files/mesosconasia2017/5f/Running%20Mesos-Marathon%20on%20
     </item>
     
     <item>
+      <title>ArborWX - Chris Dzombak KD8VHL</title>
+      <link>https://vielmetti.github.io/commonplace/weather/twitter/arborwx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/weather/twitter/arborwx/</guid>
+      <description>Chris Dzombak runs the @arborwx Twitter feed generally during weather events in the Ann Arbor area.
+https://twitter.com/ArborWX</description>
+    </item>
+    
+    <item>
       <title>Argus Farm Stop</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/coffee/argus-farm-stop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -370,7 +426,8 @@ Release 5.32 is a bug fix release as of June 23, 2017.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/ayses/</guid>
-      <description>Ayse&amp;rsquo;s serves Turkish food on Plymouth Road by North Campus. Delicious food and excellent seating for a group.</description>
+      <description>Ayse&amp;rsquo;s serves Turkish food on Plymouth Road by North Campus. Delicious food and excellent seating for a group.
+http://aysesturkishcafe.com/</description>
     </item>
     
     <item>
@@ -714,16 +771,6 @@ Via Broadcastify: http://www.broadcastify.com/listen/feed/6063</description>
     </item>
     
     <item>
-      <title>KB4MHH Index to Skywarn</title>
-      <link>https://vielmetti.github.io/commonplace/radio/skywarn/kb4mhh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/radio/skywarn/kb4mhh/</guid>
-      <description>Todd Sherman KB4MHH maintains an &amp;ldquo;Index to Skywarn web pages on the Internet&amp;rdquo; since 1996.
-http://afn.org/~afn09444/weather/skywarn.html</description>
-    </item>
-    
-    <item>
       <title>KB6NU (Dan Romanchik)</title>
       <link>https://vielmetti.github.io/commonplace/radio/amateur-radio/kb6nu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -783,6 +830,16 @@ https://www.liveatc.net/</description>
     </item>
     
     <item>
+      <title>LiveMeteors.com</title>
+      <link>https://vielmetti.github.io/commonplace/radio/meteors/livemeteors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/meteors/livemeteors/</guid>
+      <description>The meteor detector at LIVEMETEORS.com is located in DC Metropolitan area and is currently pointing the Yagi antenna at a TV tower in Canada broadcasting on channel 3 analog TV, around 61.260 MHz, likely located in Timmins, ON. Receiver is RTL/SDR and software is SDR#.
+http://livemeteors.com/</description>
+    </item>
+    
+    <item>
       <title>London Shortwave weblog</title>
       <link>https://vielmetti.github.io/commonplace/radio/shortwave/london-shortwave/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -790,6 +847,16 @@ https://www.liveatc.net/</description>
       <guid>https://vielmetti.github.io/commonplace/radio/shortwave/london-shortwave/</guid>
       <description>London Shortwave is a weblog with shortwave listening and spectrum capture from mostly portable SWL stations.
 http://blog.londonshortwave.com/</description>
+    </item>
+    
+    <item>
+      <title>MI - Genesee - KC8KGZ</title>
+      <link>https://vielmetti.github.io/commonplace/radio/skywarn/kc8kgz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/skywarn/kc8kgz/</guid>
+      <description>Skywarn for Flint, Michigan and Genesee County on KC8KGZ repeater 147.260. Repeater location is on top of McLaren Hospital.
+http://www.broadcastify.com/listen/feed/6076</description>
     </item>
     
     <item>
@@ -855,6 +922,16 @@ https://www3.nhk.or.jp/nhkworld/en/radio/</description>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/nagomi-sushi/</guid>
       <description>Nagomi Sushi is conveniently located across from the downtown post office.</description>
+    </item>
+    
+    <item>
+      <title>National Weather Service</title>
+      <link>https://vielmetti.github.io/commonplace/weather/twitter/nws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/weather/twitter/nws/</guid>
+      <description>Several NWS feeds are of interest
+ https://twitter.com/NWSdetroit - Detroit office https://twitter.com/NWSSPC - Storm Prediction Center https://twitter.com/NWStornado - Tornado warnings  A full set of NWS weather twitter feeds are at http://www.weather.gov/twitter</description>
     </item>
     
     <item>
@@ -952,13 +1029,25 @@ http://www.rtl-sdr.com/</description>
     </item>
     
     <item>
+      <title>Radio</title>
+      <link>https://vielmetti.github.io/commonplace/weather/twitter/radio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/weather/twitter/radio/</guid>
+      <description>Sources of weather for your radio twitter followers.
+ https://twitter.com/WWJ950 - WWJ 950  </description>
+    </item>
+    
+    <item>
       <title>Radio Havana Cuba</title>
       <link>https://vielmetti.github.io/commonplace/radio/shortwave/radio-havana-cuba/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/shortwave/radio-havana-cuba/</guid>
       <description>Radio Havana Cuba broadcasts to North America on 6000 KHz evenings with a one hour program that is repeated throughout the evening.
-http://radiohc.cu/en</description>
+http://radiohc.cu/en
+Listen on shortwave via NO2CW Hollywood (Miami) FL, 242 miles northeast of Havana.
+http://qth.ddns.net:8073/?f=6000.00amz10</description>
     </item>
     
     <item>
@@ -1013,7 +1102,8 @@ http://sdr.hu</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/saica/</guid>
-      <description>Japanese and Korean food at this restaurant on Plymouth Road near North Campus.</description>
+      <description>Japanese and Korean food at this restaurant on Plymouth Road near North Campus.
+http://saicasushi.com/</description>
     </item>
     
     <item>
@@ -1032,6 +1122,16 @@ http://sdr.hu</description>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/starbucks-arborland/</guid>
       <description>Iced coffee, grande, with vanilla and milk: $2.92.</description>
+    </item>
+    
+    <item>
+      <title>Television</title>
+      <link>https://vielmetti.github.io/commonplace/weather/twitter/tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/weather/twitter/tv/</guid>
+      <description>Detroit area TV weather forecast and news.
+ https://twitter.com/PGLocal4 - Ch 4, Paul Gross https://twitter.com/Local4Casters - Ch 4 weather team https://twitter.com/rexroth7wxyz - Ch 7, Dave Rexroth  </description>
     </item>
     
     <item>
@@ -1143,6 +1243,18 @@ https://github.com/mutability/dump1090</description>
       <description>Jared Mauch monitors aircraft using dump1090 from an excellent location with excellent equipment.
 Monitor: http://nat.nether.net:8080/
 Parts list: https://puck.nether.net/~jared/blog/?p=160</description>
+    </item>
+    
+    <item>
+      <title>miwx</title>
+      <link>https://vielmetti.github.io/commonplace/weather/twitter/miwx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/weather/twitter/miwx/</guid>
+      <description>The #miwx hashtag provides a feed of weather news from around the state of Michigan. Similar feeds are available for other states.
+https://twitter.com/hashtag/miwx
+In addition, the National Weather Service Detroit will tag as #nwsdtx per a national pattern
+https://twitter.com/hashtag/nwsdtx</description>
     </item>
     
   </channel>

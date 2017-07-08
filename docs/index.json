@@ -1,10 +1,10 @@
 [
 {
-	"uri": "https://vielmetti.github.io/commonplace/radio/skywarn/n8duy/",
-	"title": "MI - Washtenaw - N8DUY",
+	"uri": "https://vielmetti.github.io/commonplace/radio/skywarn/kb4mhh/",
+	"title": "KB4MHH Index to Skywarn",
 	"tags": [],
 	"description": "",
-	"content": "Wasthenaw County Michigan SKYWARN is on the N8DUY repeater, 145.15 Mhz.\nhttp://www.broadcastify.com/listen/feed/19998\n"
+	"content": "Todd Sherman KB4MHH maintains an \u0026ldquo;Index to Skywarn web pages on the Internet\u0026rdquo; since 1996.\nhttp://afn.org/~afn09444/weather/skywarn.html\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/",
@@ -14,32 +14,39 @@
 	"content": "Issues of the Works on ARM Newsletter, published weekly.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/skywarn/n8duy/",
+	"title": "MI - Washtenaw - N8DUY",
+	"tags": [],
+	"description": "",
+	"content": "Wasthenaw County Michigan SKYWARN is on the N8DUY repeater, 145.15 Mhz.\nhttp://www.broadcastify.com/listen/feed/19998\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kcsp/",
 	"title": "KCSP 610 Kansas City",
 	"tags": [],
 	"description": "",
-	"content": "KCSP 610 is the flagship station for the Kansas City Royals.\nKiwiSDR in Olathe Kansas: http://136.63.226.118:8073/?f=610amz0\n"
+	"content": "KCSP 610 is the flagship station for the Kansas City Royals.\n\nKiwiSDR in Olathe Kansas: http://136.63.226.118:8073/?f=610amz0\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wfan/",
 	"title": "WFAN 660 New York City",
 	"tags": [],
 	"description": "",
-	"content": "WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\nhttp://newyork.cbslocal.com/wfanyankeesradionetwork/\nThe Yankees radio network has 52 stations in 14 states:\nhttps://en.wikipedia.org/wiki/New_York_Yankees_Radio_Network\n"
+	"content": "WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\n\nhttp://newyork.cbslocal.com/wfanyankeesradionetwork/\nThe Yankees radio network has 52 stations in 14 states:\nhttps://en.wikipedia.org/wiki/New_York_Yankees_Radio_Network\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/knbr/",
 	"title": "KNBR 680 San Francisco",
 	"tags": [],
 	"description": "",
-	"content": "KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\nhttp://www.knbr.com\nListen via N3LGA\u0026rsquo;s KiwiSDR: http://sdr.n3lga.com:8073/?f=680.00amz4\nSan Francisco Giants radio network:\nhttps://www.wikiwand.com/en/San_Francisco_Giants_Radio_Network\n"
+	"content": "KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\n\nhttp://www.knbr.com\nListen via N3LGA\u0026rsquo;s KiwiSDR: http://sdr.n3lga.com:8073/?f=680.00amz4\nSan Francisco Giants radio network:\nhttps://www.wikiwand.com/en/San_Francisco_Giants_Radio_Network\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/",
 	"title": "KIRO 710 Seattle",
 	"tags": [],
 	"description": "",
-	"content": " KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\nhttps://www.wikiwand.com/en/Seattle_Mariners_Radio_Network\nKiwiSDR KiwiSDR at WA6OUR, Sammamish, Washington\nhttp://24.17.196.180:8073/?f=710.00amz0\nKiwiSDR at the University of Victoria, British Columbia, Canada:\nhttp://kiwisdr.ece.uvic.ca:8073/?f=710.00amz0\nKiwiSDR at KA7U, Weiser, Idaho\nhttp://ka7u.no-ip.org:8073/?f=710.00amz0\n"
+	"content": "KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\n\nhttps://www.wikiwand.com/en/Seattle_Mariners_Radio_Network\nKiwiSDR KiwiSDR at WA6OUR, Sammamish, Washington\nhttp://24.17.196.180:8073/?f=710.00amz0\nKiwiSDR at the University of Victoria, British Columbia, Canada:\nhttp://kiwisdr.ece.uvic.ca:8073/?f=710.00amz0\nKiwiSDR at KA7U, Weiser, Idaho\nhttp://ka7u.no-ip.org:8073/?f=710.00amz0\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/wcbn/",
@@ -63,11 +70,18 @@
 	"content": "Community radio in New Orleans, Louisiana with great jazz music.\nhttps://www.wwoz.org/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/winz/",
+	"title": "WINZ 940 Miami",
+	"tags": [],
+	"description": "",
+	"content": "WINZ 940 is the flagship station of the Miami Marlins baseball radio network.\n\nhttp://qth.ddns.net:8073/?f=940.00amz8\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wwj/",
 	"title": "WWJ 950 Detroit",
 	"tags": [],
 	"description": "",
-	"content": "WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\nhttp://detroit.cbslocal.com/station/wwj-newsradio-950/\nListen via W8CMN, Fenton, MI:\nhttp://dentonhill-sdr.moses.bz/\n"
+	"content": "WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\n\nhttp://detroit.cbslocal.com/station/wwj-newsradio-950/\nListen via W8CMN, Fenton, MI:\nhttp://dentonhill-sdr.moses.bz/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/wxyt/",
@@ -158,35 +172,49 @@
 	"title": "WMVP 1000 Chicago",
 	"tags": [],
 	"description": "",
-	"content": "ESPN Radio for Chicago, this station comes in clear at night to the Detroit market.\nhttp://www.espn.com/chicago/\n"
+	"content": "WMVP 1000 is ESPN Radio for Chicago. This station comes in clear at night to the Detroit market.\n\nhttp://www.espn.com/chicago/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wins/",
 	"title": "WINS 1010 New York City",
 	"tags": [],
 	"description": "",
-	"content": "1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\nhttp://newyork.cbslocal.com/station/1010-wins/\nListen via the nycradio Global Tuners station:\nhttp://www.globaltuners.com/receiver/1370-New-York-SONY-XDR-F1HD-1\nListen via Tunein:\nhttp://tunein.com/radio/1010-WINS-s29616/\n"
+	"content": "1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\nhttp://newyork.cbslocal.com/station/1010-wins/\nListen via the nycradio Global Tuners station:\nhttp://www.globaltuners.com/receiver/1370-New-York-SONY-XDR-F1HD-1\nListen via Tunein:\nhttp://tunein.com/radio/1010-WINS-s29616/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wtka/",
 	"title": "WTKA 1050 Ann Arbor",
 	"tags": [],
 	"description": "",
-	"content": "WTKA broadcasts Detroit Tigers baseball.\nListen via W8CMN, Fenton: http://dentonhill-sdr.moses.bz/\n"
+	"content": "WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.\n\nListen via W8CMN, Fenton: http://dentonhill-sdr.moses.bz/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/knx/",
 	"title": "KNX 1070 Los Angeles",
 	"tags": [],
 	"description": "",
-	"content": "KNX 1070 is an all-news radio station for Los Angeles, California.\nListen via TuneIn: https://beta.tunein.com/radio/KNX-1070-NEWSRADIO-s34407/\n"
+	"content": "KNX 1070 is an all-news radio station for Los Angeles, California.\n\nListen via TuneIn: https://beta.tunein.com/radio/KNX-1070-NEWSRADIO-s34407/\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/khtk/",
+	"title": "KHTK 1140 Sacramento",
+	"tags": [],
+	"description": "",
+	"content": "KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento\u0026rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey.\nhttp://sdr.n3lga.com:8073/?f=1140.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wxyt/",
 	"title": "WXYT 1270 Detroit",
 	"tags": [],
 	"description": "",
-	"content": "WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\nhttps://en.wikipedia.org/wiki/Detroit_Tigers_Radio_Network\n"
+	"content": "WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\n\nhttps://en.wikipedia.org/wiki/Detroit_Tigers_Radio_Network\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wfed/",
+	"title": "WFED 1500 Washington DC",
+	"tags": [],
+	"description": "",
+	"content": "WFED 1500 \u0026ldquo;Federal News Radio\u0026rdquo; broadcasts Washington Nationals baseball from Washington, DC.\n\nMonitor via KiwiSDR N4TVC in Burke, VA (20 miles west):\nhttp://n4tvc.zapto.org:8073/?f=1500.00amz10\nMonitor via KiwiSDR K1RA in Warrenton, VA (45 miles west):\nhttp://kiwisdr.k1ra.us:8073/?f=1500.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/_header/",
@@ -207,7 +235,7 @@
 	"title": "AM broadcast",
 	"tags": [],
 	"description": "",
-	"content": "AM broadcast stations, with notes especially on DX\u0026rsquo;ing baseball games. Generally speaking, baseball games are not broadcast for free on the Internet, so you have to do some sleuthing to find a general purpose radio receiver that can be tuned to the games.\n"
+	"content": "AM broadcast stations, with notes especially on DX\u0026rsquo;ing baseball games.\n\nGenerally speaking, baseball games are not broadcast for free on the Internet, so you have to do some sleuthing to find a general purpose radio receiver that can be tuned to the games.\n KCSP 610 Kansas City  KCSP 610 is the flagship station for the Kansas City Royals.\n\n WFAN 660 New York City  WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\n\n KNBR 680 San Francisco  KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\n\n KIRO 710 Seattle  KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\n\n WINZ 940 Miami  WINZ 940 is the flagship station of the Miami Marlins baseball radio network.\n\n WWJ 950 Detroit  WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\n\n WMVP 1000 Chicago  WMVP 1000 is ESPN Radio for Chicago. This station comes in clear at night to the Detroit market.\n\n WINS 1010 New York City  1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\n WTKA 1050 Ann Arbor  WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.\n\n KNX 1070 Los Angeles  KNX 1070 is an all-news radio station for Los Angeles, California.\n\n KHTK 1140 Sacramento  KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento\u0026rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey. http://sdr.n3lga.com:8073/?f=1140.00amz10\n WXYT 1270 Detroit  WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\n\n WFED 1500 Washington DC  WFED 1500 \u0026ldquo;Federal News Radio\u0026rdquo; broadcasts Washington Nationals baseball from Washington, DC.\n\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/arrow/",
@@ -252,6 +280,13 @@
 	"content": "Yuqi Gu presented \u0026ldquo;Running Mesos/Marathon on ARM Servers\u0026rdquo; at MesoCon Asia in Beijing on June 22, 2017. He identified a handful of build issues in Mesos dependencies that need to be addressed to make Mesos and Marathon work on aarch64.\nhttp://schd.ws/hosted_files/mesosconasia2017/5f/Running%20Mesos-Marathon%20on%20ARM%20servers.pdf\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/weather/twitter/arborwx/",
+	"title": "ArborWX - Chris Dzombak KD8VHL",
+	"tags": [],
+	"description": "",
+	"content": "Chris Dzombak runs the @arborwx Twitter feed generally during weather events in the Ann Arbor area.\nhttps://twitter.com/ArborWX\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/argus-farm-stop/",
 	"title": "Argus Farm Stop",
 	"tags": [],
@@ -277,7 +312,7 @@
 	"title": "Ayse&#39;s Cafe",
 	"tags": [],
 	"description": "",
-	"content": "Ayse\u0026rsquo;s serves Turkish food on Plymouth Road by North Campus. Delicious food and excellent seating for a group.\n"
+	"content": "Ayse\u0026rsquo;s serves Turkish food on Plymouth Road by North Campus. Delicious food and excellent seating for a group.\nhttp://aysesturkishcafe.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/bbc-world-service/",
@@ -546,13 +581,6 @@
 	"content": "KARB is Ann Arbor Municipal Airport, located just south of Ann Arbor.\n Ann Arbor Ground 121.600 Ann Arbor Tower 120.300  LiveATC: https://www.liveatc.net/search/?icao=KARB\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/radio/skywarn/kb4mhh/",
-	"title": "KB4MHH Index to Skywarn",
-	"tags": [],
-	"description": "",
-	"content": "Todd Sherman KB4MHH maintains an \u0026ldquo;Index to Skywarn web pages on the Internet\u0026rdquo; since 1996.\nhttp://afn.org/~afn09444/weather/skywarn.html\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/kb6nu/",
 	"title": "KB6NU (Dan Romanchik)",
 	"tags": [],
@@ -595,6 +623,13 @@
 	"content": "LiveATC has tower communications from aviation scanners around the world.\nhttps://www.liveatc.net/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/meteors/livemeteors/",
+	"title": "LiveMeteors.com",
+	"tags": [],
+	"description": "",
+	"content": "The meteor detector at LIVEMETEORS.com is located in DC Metropolitan area and is currently pointing the Yagi antenna at a TV tower in Canada broadcasting on channel 3 analog TV, around 61.260 MHz, likely located in Timmins, ON. Receiver is RTL/SDR and software is SDR#.\nhttp://livemeteors.com/\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/london-shortwave/",
 	"title": "London Shortwave weblog",
 	"tags": [],
@@ -607,6 +642,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Restaurants that serve lunch, with a special emphasis on locations that are good to serve a group of 8-12.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/skywarn/kc8kgz/",
+	"title": "MI - Genesee - KC8KGZ",
+	"tags": [],
+	"description": "",
+	"content": "Skywarn for Flint, Michigan and Genesee County on KC8KGZ repeater 147.260. Repeater location is on top of McLaren Hospital.\nhttp://www.broadcastify.com/listen/feed/6076\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/scanner/washtenaw/",
@@ -637,6 +679,13 @@
 	"content": "Marnee Thai serves Thai food downtown on Main St south of William. The long table seats 12 comfortably but not much more than that.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/meteors/",
+	"title": "Meteors",
+	"tags": [],
+	"description": "",
+	"content": "Meteors can be heard via radio using backscatter.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/",
 	"title": "Morgan and York",
 	"tags": [],
@@ -663,6 +712,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Nagomi Sushi is conveniently located across from the downtown post office.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/weather/twitter/nws/",
+	"title": "National Weather Service",
+	"tags": [],
+	"description": "",
+	"content": "Several NWS feeds are of interest\n https://twitter.com/NWSdetroit - Detroit office https://twitter.com/NWSSPC - Storm Prediction Center https://twitter.com/NWStornado - Tornado warnings  A full set of NWS weather twitter feeds are at http://www.weather.gov/twitter\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/new-raja-rani/",
@@ -760,14 +816,21 @@
 	"title": "Radio",
 	"tags": [],
 	"description": "",
-	"content": " Radio Some notes on radio.\n"
+	"content": " Radio Some notes on radio.\n AM broadcast  \n Amateur Radio  Operating notes for amateur radio.\n Aviation  Radio reception of tower communications for aviation, as well as ADS-B transponders that can be received on 1090 Mhz.\n FM Broadcast stations  A good selection of FM broadcast stations that are interesting to listen to, locally and from afar.\n Marine  Marine radio including automatic ship location with AIS-B.\n Meteors  Meteors can be heard via radio using backscatter.\n Scanners  Listening to remote public service and utility traffic via a variety of scanner systems.\n Shortwave Listening  Tuning in shortwave stations around the world.\n Skywarn  Various Skywarn repeaters and rebroadcast feeds.\n Software defined radio  Radio tuners implemented in software, for your listening and hacking pleasure.\n "
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/weather/twitter/radio/",
+	"title": "Radio",
+	"tags": [],
+	"description": "",
+	"content": "Sources of weather for your radio twitter followers.\n https://twitter.com/WWJ950 - WWJ 950  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/radio-havana-cuba/",
 	"title": "Radio Havana Cuba",
 	"tags": [],
 	"description": "",
-	"content": "Radio Havana Cuba broadcasts to North America on 6000 KHz evenings with a one hour program that is repeated throughout the evening.\nhttp://radiohc.cu/en\n"
+	"content": "Radio Havana Cuba broadcasts to North America on 6000 KHz evenings with a one hour program that is repeated throughout the evening.\nhttp://radiohc.cu/en\nListen on shortwave via NO2CW Hollywood (Miami) FL, 242 miles northeast of Havana.\nhttp://qth.ddns.net:8073/?f=6000.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/roos-rosewood/",
@@ -809,7 +872,7 @@
 	"title": "Saica",
 	"tags": [],
 	"description": "",
-	"content": "Japanese and Korean food at this restaurant on Plymouth Road near North Campus.\n"
+	"content": "Japanese and Korean food at this restaurant on Plymouth Road near North Campus.\nhttp://saicasushi.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/scanner/",
@@ -861,6 +924,13 @@
 	"content": ""
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/weather/twitter/tv/",
+	"title": "Television",
+	"tags": [],
+	"description": "",
+	"content": "Detroit area TV weather forecast and news.\n https://twitter.com/PGLocal4 - Ch 4, Paul Gross https://twitter.com/Local4Casters - Ch 4 weather team https://twitter.com/rexroth7wxyz - Ch 7, Dave Rexroth  "
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/writing/bloggers-secret/",
 	"title": "The Blogger&#39;s Secret",
 	"tags": [],
@@ -894,6 +964,20 @@
 	"tags": [],
 	"description": "",
 	"content": "The University of Michigan Amateur Radio club (W8UM) is operated out of the EECS building on North Campus.\nhttp://umarc.eecs.umich.edu/\nDon AC8TO is staff advisor.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/weather/",
+	"title": "Weather",
+	"tags": [],
+	"description": "",
+	"content": "Where to tune for weather info.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/weather/twitter/",
+	"title": "Weather Twitter",
+	"tags": [],
+	"description": "",
+	"content": "Real time weather observations via Twitter\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/websdr/",
@@ -950,4 +1034,11 @@
 	"tags": [],
 	"description": "",
 	"content": "Jared Mauch monitors aircraft using dump1090 from an excellent location with excellent equipment.\nMonitor: http://nat.nether.net:8080/\nParts list: https://puck.nether.net/~jared/blog/?p=160\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/weather/twitter/miwx/",
+	"title": "miwx",
+	"tags": [],
+	"description": "",
+	"content": "The #miwx hashtag provides a feed of weather news from around the state of Michigan. Similar feeds are available for other states.\nhttps://twitter.com/hashtag/miwx\nIn addition, the National Weather Service Detroit will tag as #nwsdtx per a national pattern\nhttps://twitter.com/hashtag/nwsdtx\n"
 }]
