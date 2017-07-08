@@ -109,6 +109,16 @@ https://www.wwoz.org/</description>
     </item>
     
     <item>
+      <title>KKNE 940 Honolulu</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kkne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kkne/</guid>
+      <description>KKNE &amp;ldquo;AM 940 Hawaii&amp;rdquo; broadcasts in Hawaiian with traditional Hawaiian music and talk aimed at Hawaiian speakers.
+KiwiSDR at NH6XO: http://72.235.91.131:8073/?f=940.00amz10</description>
+    </item>
+    
+    <item>
       <title>WINZ 940 Miami</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/winz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -260,6 +270,16 @@ If you have any questions, comments, or suggestions for Issue 2, please send the
     </item>
     
     <item>
+      <title>KIKI 990 Honolulu</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiki/</guid>
+      <description>Fox Sports 990 - Hawaii’s Home for Fox Sports &amp;amp; the Los Angeles Dodgers.
+http://72.235.91.131:8073/?f=990.00amz10</description>
+    </item>
+    
+    <item>
       <title>WMVP 1000 Chicago</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wmvp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -306,6 +326,15 @@ A CBS radio station.&lt;/p&gt;
     </item>
     
     <item>
+      <title>WTAM 1100 Cleveland</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtam/</guid>
+      <description>WTAM 1100 AM is a 50,000 watt Class A radio station and the AM flagship station of the Cleveland Indians baseball and Cleveland Cavaliers basketball radio networks.</description>
+    </item>
+    
+    <item>
       <title>KHTK 1140 Sacramento</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/khtk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -328,13 +357,22 @@ the Detroit Tigers.&lt;/p&gt;
     </item>
     
     <item>
+      <title>KSTP 1500 Minneapols</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kstp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kstp/</guid>
+      <description>KSTP Minneapolis is the flagship station for the Minnesota Twins baseball club.</description>
+    </item>
+    
+    <item>
       <title>WFED 1500 Washington DC</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wfed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wfed/</guid>
       <description>&lt;p&gt;WFED 1500 &amp;ldquo;Federal News Radio&amp;rdquo; broadcasts Washington Nationals baseball from
-Washington, DC.&lt;/p&gt;
+Washington, DC. It is a 50,000 watt Class A station.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -406,7 +444,8 @@ https://twitter.com/ArborWX</description>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/argus-farm-stop/</guid>
       <description>Argus Farm Stop has coffee, bread, and groceries on the near Old West Side, Liberty at Second Street. Drink your coffee in their glass greenhouse.
-http://www.argusfarmstop.com/</description>
+http://www.argusfarmstop.com/
+Argus is working on a second location to be at Packard at Dewey, where Clague&amp;rsquo;s Grocery was once upon a time.</description>
     </item>
     
     <item>
@@ -427,7 +466,9 @@ Release 5.32 is a bug fix release as of June 23, 2017.</description>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/ayses/</guid>
       <description>Ayse&amp;rsquo;s serves Turkish food on Plymouth Road by North Campus. Delicious food and excellent seating for a group.
-http://aysesturkishcafe.com/</description>
+http://aysesturkishcafe.com/
+Address: 1703 Plymouth Road, Ann Arbor MI 48105.
+Phone: 734-662-1711</description>
     </item>
     
     <item>
@@ -455,7 +496,7 @@ http://www.bbc.co.uk/worldserviceradio</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/black-diesel/</guid>
-      <description>The nearby cafe to the house. Not a ton of seating, and the prices are a little on the high side. But you can&amp;rsquo;t argue with the location, at Stadium and Packard.
+      <description>The nearby cafe to the house. Not a ton of seating, and the prices are a little on the high side. But you can&amp;rsquo;t argue with the location, at Stadium and Packard where the Food and Drug Mart used to be.
 http://blackdieselcoffee.com/
 There&amp;rsquo;s pricey gelato here too, and they serve an affogato.
 My biggest beef with them is that the counter sometimes forgets part of an order.</description>
@@ -467,7 +508,10 @@ My biggest beef with them is that the counter sometimes forgets part of an order
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/blue-nile/</guid>
-      <description>Ethiopian food on Washington Street. There&amp;rsquo;s a side room with doors that close which easily seats whatever crowd we have.</description>
+      <description>Ethiopian food on Washington Street. There&amp;rsquo;s a side room with doors that close which easily seats whatever crowd we have.
+http://www.bluenilemi.com
+221 E Washington St, Ann Arbor, MI 48104
+(734) 998-4746</description>
     </item>
     
     <item>
@@ -496,7 +540,7 @@ http://www.broadcastify.com/listen/top</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/cafe-verde/</guid>
-      <description>Part of the People&amp;rsquo;s Food Coop, on North Fourth Avenue. I can almost always count on seeing someone I know there. Very laid back atmosphere.
+      <description>Cafe Verde is part of the People&amp;rsquo;s Food Coop, on North Fourth Avenue. I can almost always count on seeing someone I know there. Very laid back atmosphere. Cafe, hot bar, and you can always buy one piece of fruit from the co-op and eat it in the cafe.
 http://peoplesfood.coop/store-cafe/</description>
     </item>
     
@@ -506,7 +550,8 @@ http://peoplesfood.coop/store-cafe/</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/carrigan-cafe/</guid>
-      <description>Carrigan Cafe is a former Sweetwaters in Saline. Brick walls, wooden floors, small town charm.</description>
+      <description>Carrigan Cafe is a former Sweetwaters in Saline. Brick walls, wooden floors, small town charm. S. Ann Arbor St near Michigan Ave.
+http://carrigancafe.com/</description>
     </item>
     
     <item>
@@ -542,15 +587,6 @@ There is active development for ARM64 for several of the core components of Core
     </item>
     
     <item>
-      <title>Cottage Inn</title>
-      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/</guid>
-      <description>Lunch buffet at this pizza and Italian restaurant on William Street near campus.</description>
-    </item>
-    
-    <item>
       <title>CubicSDR</title>
       <link>https://vielmetti.github.io/commonplace/radio/sdr/cubicsdr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -580,6 +616,17 @@ http://www.broadcastify.com/listen/feed/11010</description>
     </item>
     
     <item>
+      <title>Detroit Tigers</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/american-league/detroit-tigers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/american-league/detroit-tigers/</guid>
+      <description>The Detroit Tigers play in Comerica Park.
+FM broadcasts locally on WXYT 97.1 &amp;ldquo;The Ticket&amp;rdquo; Detroit. AM broadcasts locally on WTKA 1050 AM Ann Arbor.
+Tigers radio network: http://detroit.tigers.mlb.com/det/schedule/radioaffiliates.jsp</description>
+    </item>
+    
+    <item>
       <title>Echolink</title>
       <link>https://vielmetti.github.io/commonplace/radio/amateur-radio/echolink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -592,12 +639,13 @@ http://echomac.sourceforge.net/</description>
     </item>
     
     <item>
-      <title>El Harissa</title>
+      <title>El Harissa Market Cafe</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/el-harissa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/el-harissa/</guid>
-      <description>El Harissa serves north Africa and Mediterranean food on Maple near Miller. Very good food, convenient seating.</description>
+      <description>El Harissa serves north Africa and Mediterranean food on Maple near Miller. Very good food, convenient seating.
+http://www.elharissa.com/</description>
     </item>
     
     <item>
@@ -607,6 +655,7 @@ http://echomac.sourceforge.net/</description>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/elixir-vitae/</guid>
       <description>Order Ed&amp;rsquo;s Blend if Ed is working, or Jimmy&amp;rsquo;s Blend if Jimmy is working. One store on Maynard Street, used to be two but they let out the Liberty Street store to John Roos.
+https://www.facebook.com/ElixirVitaeCoffeeandTea
 Ed coaches soccer and is a St. Louis Cardinals fan.
 Jimmy doesn&amp;rsquo;t like to work mornings.</description>
     </item>
@@ -617,7 +666,8 @@ Jimmy doesn&amp;rsquo;t like to work mornings.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/evergreen/</guid>
-      <description>Evergreen has Chinese food on Plymouth Road at Nixon. Very large long tables easily seat a crowd.</description>
+      <description>Evergreen has Chinese food on Plymouth Road at Nixon. Very large long tables easily seat a crowd.
+http://www.evergreen-restaurant.com/</description>
     </item>
     
     <item>
@@ -647,7 +697,8 @@ If your email client gives you ten lines to type your message, type ten (and not
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/fleetwood-diner/</guid>
-      <description>I have been having the same breakfast at the Fleetwood Diner (number 5, rye toast, dry) for more than 20 years. The coffee is straight-up diner coffee, not elaborate, with refills.</description>
+      <description>I have been having the same breakfast at the Fleetwood Diner (number 5, rye toast, dry) for more than 20 years. The coffee is straight-up diner coffee, not elaborate, with refills.
+https://www.facebook.com/officialfleetwooddiner</description>
     </item>
     
     <item>
@@ -757,7 +808,8 @@ Via Broadcastify: http://www.broadcastify.com/listen/feed/6063</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/jerusalem-garden/</guid>
-      <description>Middle eastern food on Liberty Street.</description>
+      <description>Middle eastern food on Liberty Street.
+https://www.jerusalemgarden.net/</description>
     </item>
     
     <item>
@@ -875,7 +927,18 @@ http://www.broadcastify.com/listen/feed/3913</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/madras-masala/</guid>
-      <description>Madras Masala serves Indian food in a buffet on Maynard St across from the Nickels Arcade.</description>
+      <description>Madras Masala serves Indian food in a buffet on Maynard St across from the Nickels Arcade.
+http://www.madrasmasala.com/about-us.php</description>
+    </item>
+    
+    <item>
+      <title>MarineTraffic.com</title>
+      <link>https://vielmetti.github.io/commonplace/radio/marine/marinetraffic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/marine/marinetraffic/</guid>
+      <description>Marine Traffic has worldwide AIS traffic and maps.
+https://www.marinetraffic.com</description>
     </item>
     
     <item>
@@ -884,7 +947,8 @@ http://www.broadcastify.com/listen/feed/3913</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/marnee-thai/</guid>
-      <description>Marnee Thai serves Thai food downtown on Main St south of William. The long table seats 12 comfortably but not much more than that.</description>
+      <description>Marnee Thai serves Thai food downtown on Main St south of William. The long table seats 12 comfortably but not much more than that.
+http://www.marneethai-restaurant.com/</description>
     </item>
     
     <item>
@@ -893,7 +957,8 @@ http://www.broadcastify.com/listen/feed/3913</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/</guid>
-      <description>Morgan and York is the neighborhood deli. Good for a bit of salami on your bagel. No power outlets in front.</description>
+      <description>Morgan and York is the neighborhood deli. Good for a bit of salami on your bagel. No power outlets in front.
+https://www.morganandyork.co/</description>
     </item>
     
     <item>
@@ -902,7 +967,8 @@ http://www.broadcastify.com/listen/feed/3913</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/morgan-and-york/</guid>
-      <description>Morgan and York is a deli out on Packard. Sandwiches, soups, and a full deli menu. Several sets of big tables in the back if the crowd gets big.</description>
+      <description>Morgan and York is a deli out on Packard. Sandwiches, soups, and a full deli menu. Several sets of big tables in the back if the crowd gets big.
+https://www.morganandyork.co/</description>
     </item>
     
     <item>
@@ -916,12 +982,13 @@ https://www3.nhk.or.jp/nhkworld/en/radio/</description>
     </item>
     
     <item>
-      <title>Nagomi Sushi</title>
+      <title>Nagomi Sushi Downtown</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/nagomi-sushi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/nagomi-sushi/</guid>
-      <description>Nagomi Sushi is conveniently located across from the downtown post office.</description>
+      <description>Nagomi Sushi is conveniently located across from the downtown post office.
+http://www.nagomiannarbor.com/downtown</description>
     </item>
     
     <item>
@@ -991,6 +1058,17 @@ http://www.nooelec.com</description>
     </item>
     
     <item>
+      <title>Original Cottage Inn</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/</guid>
+      <description>Lunch buffet at this pizza and Italian restaurant on William Street near campus.
+http://www.originalcottageinn.com/
+512 E William St, Ann Arbor MI 48104</description>
+    </item>
+    
+    <item>
       <title>Perl</title>
       <link>https://vielmetti.github.io/commonplace/works-on-arm/language/perl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1056,7 +1134,8 @@ http://qth.ddns.net:8073/?f=6000.00amz10</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/roos-rosewood/</guid>
-      <description>Roos on Rosewood is close by, the people are nice, and it&amp;rsquo;s always interesting to see John. It&amp;rsquo;s better there when I bring a laptop than a phone.</description>
+      <description>Roos on Rosewood is close by, the people are nice, and it&amp;rsquo;s always interesting to see John. It&amp;rsquo;s better there when I bring a laptop than a phone.
+https://roosroast.com/</description>
     </item>
     
     <item>
@@ -1102,8 +1181,27 @@ http://sdr.hu</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/saica/</guid>
-      <description>Japanese and Korean food at this restaurant on Plymouth Road near North Campus.
+      <description>Saica serves Japanese and Korean food at this restaurant on Plymouth Road near North Campus.
 http://saicasushi.com/</description>
+    </item>
+    
+    <item>
+      <title>San Francisco Giants</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/national-league/san-francisco-giants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/national-league/san-francisco-giants/</guid>
+      <description>The San Francisco Giants baseball club broadcasts via a network with flagship station KNBR.</description>
+    </item>
+    
+    <item>
+      <title>Seed Coworking, Toledo</title>
+      <link>https://vielmetti.github.io/commonplace/ann-arbor/coworking/seed-toledo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/ann-arbor/coworking/seed-toledo/</guid>
+      <description>Seed Coworking in Toledo has a reciprocal visit arrangement with Workantile in Ann Arbor.
+http://www.seedcoworking.com/</description>
     </item>
     
     <item>
@@ -1121,7 +1219,7 @@ http://saicasushi.com/</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/starbucks-arborland/</guid>
-      <description>Iced coffee, grande, with vanilla and milk: $2.92.</description>
+      <description>Iced coffee, grande, with vanilla and milk: $2.92. Open late (usually until midnight). Other than that, it could be any Starbucks near any freeway anywhere in the country,</description>
     </item>
     
     <item>
@@ -1161,7 +1259,8 @@ A weblog is an augmented memory for those fleeting moments of life where you rea
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/tuscan-cafe/</guid>
-      <description>Not a bad destination stop for a drive from Ann Arbor with Saul. Zingerman&amp;rsquo;s pastries.</description>
+      <description>Tuscan Cafe is not a bad destination stop for a drive from Ann Arbor. Zingerman&amp;rsquo;s pastries at this cafe on Center St in Northville. Get there via M-14 (Sheldon Rd, then north).
+http://www.thetuscancafe.com/</description>
     </item>
     
     <item>
@@ -1182,6 +1281,15 @@ A weblog is an augmented memory for those fleeting moments of life where you rea
       <description>The University of Michigan Amateur Radio club (W8UM) is operated out of the EECS building on North Campus.
 http://umarc.eecs.umich.edu/
 Don AC8TO is staff advisor.</description>
+    </item>
+    
+    <item>
+      <title>Washington Nationals</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/national-league/washington-nationals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/national-league/washington-nationals/</guid>
+      <description>The Washington Nationals can be heard on WFED 1500.</description>
     </item>
     
     <item>

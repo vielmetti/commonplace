@@ -70,6 +70,13 @@
 	"content": "Community radio in New Orleans, Louisiana with great jazz music.\nhttps://www.wwoz.org/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kkne/",
+	"title": "KKNE 940 Honolulu",
+	"tags": [],
+	"description": "",
+	"content": "KKNE \u0026ldquo;AM 940 Hawaii\u0026rdquo; broadcasts in Hawaiian with traditional Hawaiian music and talk aimed at Hawaiian speakers.\nKiwiSDR at NH6XO: http://72.235.91.131:8073/?f=940.00amz10\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/winz/",
 	"title": "WINZ 940 Miami",
 	"tags": [],
@@ -168,6 +175,13 @@
 	"content": " Works on ARM news, Issue 1, April 28, 2017 This is the first edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.\nIf you have any questions, comments, or suggestions for Issue 2, please send them to ed@packet.net or contact me on the Packet community Slack channel as \u0026ldquo;ed.packet\u0026rdquo;.\nConference reports DevOps Gathering 2017 featured \u0026ldquo;Intel and ARM, let Kubernetes rule them all!\u0026rdquo; by Lucas Käldström, March 23 - 25, 2017 in Bochum, Germany See the Youtube video of Lucas\u0026rsquo;s talk, via Kube Weekly #80.\nDieter Reuter and Peter Rossbach\u0026rsquo;s workshop on Learning Docker on a Raspberry Pi ARM-Cluster at DevOps Gathering in March 2017. Source code from the workshop is at workshop-raspberrypi-64bit-os on Github.\nUpcoming events Packet will be at Red Hat Summit in the ARM Ecosystem Showcase on May 2-4 in Boston, MA.\nMityLytics will be at Apache Big Data 2017, May 16-18 in Miami, with Manish Singh presenting on Cassandra on ARMv8 - A Comparison with x86 and Other Processor Platforms.\nThe call for proposals deadline for ARM TechCon is May 19, for an event to be held October 24-26 in Santa Clara, CA.\nInfrastructure automation Docker\u0026rsquo;s \u0026ldquo;moby\u0026rdquo; project has support for booting LinuxKit kernels on Packet\u0026rsquo;s Intel and ARM based infrastructure.\nAnsible has released documentation for its support of Packet. This code was written by Tomáš Karásek.\nWork in progress Highlighting work in progress where a modest amount of incremental effort is likely to result in software that works on ARM. Each of these projects is available for you to contribute to.\nAlex Ellis presented FAAS, Functions as a service, at DockerCon in Austin on April 20, 2017. His twelve minute demo won best of show for \u0026ldquo;cool hacks\u0026rdquo;, demonstrating scaling up \u0026ldquo;serverless\u0026rdquo; computing using Docker Swarm. See his repo on Github for code. There\u0026rsquo;s a bit of work left to port to arm64, mostly having to do with getting Docker up and running on the box in an automated way with a minimum of fuss. Alex is interested in contributions from the community, and notes that FaaS brings portability to serverless functions.\nLanguages and compilers NodeSource on March 31, 2017. The official build for node.js for linux/arm64 is done on a Packet Type 2A 96-core server, and is released at the same time as all other binaries for supported platforms. Node.JS is a popular language for Internet development because it allows developers access to the same Javascript language that is in the browser to also power back end services.\nGo 1.8.1 was released on April 7, 2017. This is primarily a bug fix release, and it addresses a number of small issues on a variety of platforms. See the Go release history for details. Go 1.8.1 is avaiable on Ubuntu through the Go 1.X Packages PPA, and can be built from source on Ubuntu using the system Go which is 1.6.4 as a bootstrap. See worksonarm.com/golang for a full account.\nThe Adopt OpenJDK project is using infrastructure at Packet for continuous integration in building this open source Java runtime. They are working on a release for arm64, though it is not ready yet as of April 26, 2017.\nARM Assembly speedups Minio has developed sha256-simd, a package of Go code that\u0026rsquo;s a drop-in replacement for the Go system SHA256 crypto routines. Minio\u0026rsquo;s version is accelerated with assembly language code for ARM and Intel processors. These measured speed improvements range from 10x to 100x depending on the situation.\nContinuous integration Several open source projects at Packet are using Jenkins for continuous integration and remote builds. If your project currently builds on ARM - or if you\u0026rsquo;d like it to - contact ed@packet.net to discuss your build needs.\nBug fix releases Minio, a storage system that provides an S3 compatible interface to your data, sent out news on April 25 announcing a bug fix release with critical fixes that have security implications.\nPortability notes If you\u0026rsquo;re writing code for ARMv8, you\u0026rsquo;ll want to be aware of these issues that require special attention.\nWhen the Go syscall interface was frozen, ARMv8 systems did not support a dup2() system call. For portability, you\u0026rsquo;ll want to do as the CockroachDB team did and wrap those calls with conditional compiles to pick up dup3() instead. It turns out this is also necessary for Windows portability and log file handling. See PR 14441 for CockroachDB for details on implementing a portable \u0026ldquo;dupFD\u0026rdquo; interface.\nDifferent ARMv8 systems implement different system page sizes. Your code should determine the system page size at runtime, with a goal of being portable enough so that if it\u0026rsquo;s built on a system with 4K pages that it will run on a system with 64K pages. Versions of Go 1.7 and earlier have a bug in fetching the system page size, a problem that\u0026rsquo;s addressed in the Go 1.8 series. This issue is also being addressed by the .NET Core CLR team.\nThe contents of the /proc/cpuinfo file system differ between ARM and Intel systems. If you are parsing that file to determine the number of cores on the machine, you may get incorrect results if you have not made that code more portable. In particular, this Juju bug, \u0026ldquo;manual: detection of cores fails on Packet Type 2A\u0026rdquo;, resulted in Juju finding only one core on Packet\u0026rsquo;s 96-core Type 2A system. The bug was fixed by Witold Krecicki for Juju 2.2 beta 3.\nColophon Edited with Github and vim on a MacBook Air in Ann Arbor, MI.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kiki/",
+	"title": "KIKI 990 Honolulu",
+	"tags": [],
+	"description": "",
+	"content": "Fox Sports 990 - Hawaii’s Home for Fox Sports \u0026amp; the Los Angeles Dodgers.\nhttp://72.235.91.131:8073/?f=990.00amz10\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wmvp/",
 	"title": "WMVP 1000 Chicago",
 	"tags": [],
@@ -186,7 +200,7 @@
 	"title": "WTKA 1050 Ann Arbor",
 	"tags": [],
 	"description": "",
-	"content": "WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.\n\nListen via W8CMN, Fenton: http://dentonhill-sdr.moses.bz/\n"
+	"content": "WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.\n\nKiwiSDR KB8SPI, Farmington Hills: http://misdr.duckdns.org/?f=1050.00amz10\nKiwiSDR W8CMN, Fenton: http://dentonhill-sdr.moses.bz/?f=1050.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/knx/",
@@ -194,6 +208,13 @@
 	"tags": [],
 	"description": "",
 	"content": "KNX 1070 is an all-news radio station for Los Angeles, California.\n\nListen via TuneIn: https://beta.tunein.com/radio/KNX-1070-NEWSRADIO-s34407/\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wtam/",
+	"title": "WTAM 1100 Cleveland",
+	"tags": [],
+	"description": "",
+	"content": "WTAM 1100 AM is a 50,000 watt Class A radio station and the AM flagship station of the Cleveland Indians baseball and Cleveland Cavaliers basketball radio networks.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/khtk/",
@@ -210,11 +231,18 @@
 	"content": "WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\n\nhttps://en.wikipedia.org/wiki/Detroit_Tigers_Radio_Network\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kstp/",
+	"title": "KSTP 1500 Minneapols",
+	"tags": [],
+	"description": "",
+	"content": "KSTP Minneapolis is the flagship station for the Minnesota Twins baseball club.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wfed/",
 	"title": "WFED 1500 Washington DC",
 	"tags": [],
 	"description": "",
-	"content": "WFED 1500 \u0026ldquo;Federal News Radio\u0026rdquo; broadcasts Washington Nationals baseball from Washington, DC.\n\nMonitor via KiwiSDR N4TVC in Burke, VA (20 miles west):\nhttp://n4tvc.zapto.org:8073/?f=1500.00amz10\nMonitor via KiwiSDR K1RA in Warrenton, VA (45 miles west):\nhttp://kiwisdr.k1ra.us:8073/?f=1500.00amz10\n"
+	"content": "WFED 1500 \u0026ldquo;Federal News Radio\u0026rdquo; broadcasts Washington Nationals baseball from Washington, DC. It is a 50,000 watt Class A station.\n\nMonitor via KiwiSDR N4TVC in Burke, VA (20 miles west):\nhttp://n4tvc.zapto.org:8073/?f=1500.00amz10\nMonitor via KiwiSDR K1RA in Warrenton, VA (45 miles west):\nhttp://kiwisdr.k1ra.us:8073/?f=1500.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/_header/",
@@ -235,7 +263,7 @@
 	"title": "AM broadcast",
 	"tags": [],
 	"description": "",
-	"content": "AM broadcast stations, with notes especially on DX\u0026rsquo;ing baseball games.\n\nGenerally speaking, baseball games are not broadcast for free on the Internet, so you have to do some sleuthing to find a general purpose radio receiver that can be tuned to the games.\n KCSP 610 Kansas City  KCSP 610 is the flagship station for the Kansas City Royals.\n\n WFAN 660 New York City  WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\n\n KNBR 680 San Francisco  KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\n\n KIRO 710 Seattle  KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\n\n WINZ 940 Miami  WINZ 940 is the flagship station of the Miami Marlins baseball radio network.\n\n WWJ 950 Detroit  WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\n\n WMVP 1000 Chicago  WMVP 1000 is ESPN Radio for Chicago. This station comes in clear at night to the Detroit market.\n\n WINS 1010 New York City  1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\n WTKA 1050 Ann Arbor  WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.\n\n KNX 1070 Los Angeles  KNX 1070 is an all-news radio station for Los Angeles, California.\n\n KHTK 1140 Sacramento  KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento\u0026rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey. http://sdr.n3lga.com:8073/?f=1140.00amz10\n WXYT 1270 Detroit  WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\n\n WFED 1500 Washington DC  WFED 1500 \u0026ldquo;Federal News Radio\u0026rdquo; broadcasts Washington Nationals baseball from Washington, DC.\n\n"
+	"content": "AM broadcast stations, with notes especially on DX\u0026rsquo;ing baseball games.\n\nGenerally speaking, baseball games are not broadcast for free on the Internet, so you have to do some sleuthing to find a general purpose radio receiver that can be tuned to the games.\n KCSP 610 Kansas City  KCSP 610 is the flagship station for the Kansas City Royals.\n\n WFAN 660 New York City  WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\n\n KNBR 680 San Francisco  KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\n\n KIRO 710 Seattle  KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\n\n KKNE 940 Honolulu  KKNE \u0026ldquo;AM 940 Hawaii\u0026rdquo; broadcasts in Hawaiian with traditional Hawaiian music and talk aimed at Hawaiian speakers. KiwiSDR at NH6XO: http://72.235.91.131:8073/?f=940.00amz10\n WINZ 940 Miami  WINZ 940 is the flagship station of the Miami Marlins baseball radio network.\n\n WWJ 950 Detroit  WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\n\n KIKI 990 Honolulu  Fox Sports 990 - Hawaii’s Home for Fox Sports \u0026amp; the Los Angeles Dodgers. http://72.235.91.131:8073/?f=990.00amz10\n WMVP 1000 Chicago  WMVP 1000 is ESPN Radio for Chicago. This station comes in clear at night to the Detroit market.\n\n WINS 1010 New York City  1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\n WTKA 1050 Ann Arbor  WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.\n\n KNX 1070 Los Angeles  KNX 1070 is an all-news radio station for Los Angeles, California.\n\n WTAM 1100 Cleveland  WTAM 1100 AM is a 50,000 watt Class A radio station and the AM flagship station of the Cleveland Indians baseball and Cleveland Cavaliers basketball radio networks.\n KHTK 1140 Sacramento  KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento\u0026rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey. http://sdr.n3lga.com:8073/?f=1140.00amz10\n WXYT 1270 Detroit  WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\n\n KSTP 1500 Minneapols  KSTP Minneapolis is the flagship station for the Minnesota Twins baseball club.\n WFED 1500 Washington DC  WFED 1500 \u0026ldquo;Federal News Radio\u0026rdquo; broadcasts Washington Nationals baseball from Washington, DC. It is a 50,000 watt Class A station.\n\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/arrow/",
@@ -257,6 +285,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Operating notes for amateur radio.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/",
+	"title": "American League",
+	"tags": [],
+	"description": "",
+	"content": "AL teams of interest.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/",
@@ -291,7 +326,7 @@
 	"title": "Argus Farm Stop",
 	"tags": [],
 	"description": "",
-	"content": "Argus Farm Stop has coffee, bread, and groceries on the near Old West Side, Liberty at Second Street. Drink your coffee in their glass greenhouse.\nhttp://www.argusfarmstop.com/\n"
+	"content": "Argus Farm Stop has coffee, bread, and groceries on the near Old West Side, Liberty at Second Street. Drink your coffee in their glass greenhouse.\nhttp://www.argusfarmstop.com/\nArgus is working on a second location to be at Packard at Dewey, where Clague\u0026rsquo;s Grocery was once upon a time.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/",
@@ -312,7 +347,7 @@
 	"title": "Ayse&#39;s Cafe",
 	"tags": [],
 	"description": "",
-	"content": "Ayse\u0026rsquo;s serves Turkish food on Plymouth Road by North Campus. Delicious food and excellent seating for a group.\nhttp://aysesturkishcafe.com/\n"
+	"content": "Ayse\u0026rsquo;s serves Turkish food on Plymouth Road by North Campus. Delicious food and excellent seating for a group.\nhttp://aysesturkishcafe.com/\nAddress: 1703 Plymouth Road, Ann Arbor MI 48105.\nPhone: 734-662-1711\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/bbc-world-service/",
@@ -329,18 +364,25 @@
 	"content": "Inexpensive little 2 meter radios. The stock antenna is not very good. I bought mine from Amazon to take care of their good return policy, which helped as one radio received had a dead-on-arrival charger.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/baseball/",
+	"title": "Baseball",
+	"tags": [],
+	"description": "",
+	"content": "Baseball, the national pastime. Some suggestions and resources for listening to your favorite team (or any team that\u0026rsquo;s playing).\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/black-diesel/",
 	"title": "Black Diesel Coffee",
 	"tags": [],
 	"description": "",
-	"content": "The nearby cafe to the house. Not a ton of seating, and the prices are a little on the high side. But you can\u0026rsquo;t argue with the location, at Stadium and Packard.\nhttp://blackdieselcoffee.com/\nThere\u0026rsquo;s pricey gelato here too, and they serve an affogato.\nMy biggest beef with them is that the counter sometimes forgets part of an order.\n"
+	"content": "The nearby cafe to the house. Not a ton of seating, and the prices are a little on the high side. But you can\u0026rsquo;t argue with the location, at Stadium and Packard where the Food and Drug Mart used to be.\nhttp://blackdieselcoffee.com/\nThere\u0026rsquo;s pricey gelato here too, and they serve an affogato.\nMy biggest beef with them is that the counter sometimes forgets part of an order.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/blue-nile/",
 	"title": "Blue Nile",
 	"tags": [],
 	"description": "",
-	"content": "Ethiopian food on Washington Street. There\u0026rsquo;s a side room with doors that close which easily seats whatever crowd we have.\n"
+	"content": "Ethiopian food on Washington Street. There\u0026rsquo;s a side room with doors that close which easily seats whatever crowd we have.\nhttp://www.bluenilemi.com\n221 E Washington St, Ann Arbor, MI 48104\n(734) 998-4746\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/marine/boatnerd-ais/",
@@ -361,14 +403,14 @@
 	"title": "Cafe Verde",
 	"tags": [],
 	"description": "",
-	"content": "Part of the People\u0026rsquo;s Food Coop, on North Fourth Avenue. I can almost always count on seeing someone I know there. Very laid back atmosphere.\nhttp://peoplesfood.coop/store-cafe/\n"
+	"content": "Cafe Verde is part of the People\u0026rsquo;s Food Coop, on North Fourth Avenue. I can almost always count on seeing someone I know there. Very laid back atmosphere. Cafe, hot bar, and you can always buy one piece of fruit from the co-op and eat it in the cafe.\nhttp://peoplesfood.coop/store-cafe/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/carrigan-cafe/",
 	"title": "Carrigan Cafe, Saline",
 	"tags": [],
 	"description": "",
-	"content": "Carrigan Cafe is a former Sweetwaters in Saline. Brick walls, wooden floors, small town charm.\n"
+	"content": "Carrigan Cafe is a former Sweetwaters in Saline. Brick walls, wooden floors, small town charm. S. Ann Arbor St near Michigan Ave.\nhttp://carrigancafe.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/categories/",
@@ -406,13 +448,6 @@
 	"content": "Container Linux (formerly CoreOS) is a container-focused operating system designed for large clusters.\nhttps://coreos.com/products/container-linux-subscription/\nThere is active development for ARM64 for several of the core components of CoreOS, including rkt, the CoreOS container runtime.\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/",
-	"title": "Cottage Inn",
-	"tags": [],
-	"description": "",
-	"content": "Lunch buffet at this pizza and Italian restaurant on William Street near campus.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coworking/",
 	"title": "Coworking",
 	"tags": [],
@@ -441,6 +476,13 @@
 	"content": "VHF marine channels from the Detroit area including Sarnia traffic control. Receiver is on the Detroit River and coverage includes Lake Erie and Lake St. Clair.\nhttp://www.broadcastify.com/listen/feed/11010\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/detroit-tigers/",
+	"title": "Detroit Tigers",
+	"tags": [],
+	"description": "",
+	"content": "The Detroit Tigers play in Comerica Park.\nFM broadcasts locally on WXYT 97.1 \u0026ldquo;The Ticket\u0026rdquo; Detroit. AM broadcasts locally on WTKA 1050 AM Ann Arbor.\nTigers radio network: http://detroit.tigers.mlb.com/det/schedule/radioaffiliates.jsp\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/echolink/",
 	"title": "Echolink",
 	"tags": [],
@@ -449,24 +491,24 @@
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/el-harissa/",
-	"title": "El Harissa",
+	"title": "El Harissa Market Cafe",
 	"tags": [],
 	"description": "",
-	"content": "El Harissa serves north Africa and Mediterranean food on Maple near Miller. Very good food, convenient seating.\n"
+	"content": "El Harissa serves north Africa and Mediterranean food on Maple near Miller. Very good food, convenient seating.\nhttp://www.elharissa.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/elixir-vitae/",
 	"title": "Elixir Vitae",
 	"tags": [],
 	"description": "",
-	"content": "Order Ed\u0026rsquo;s Blend if Ed is working, or Jimmy\u0026rsquo;s Blend if Jimmy is working. One store on Maynard Street, used to be two but they let out the Liberty Street store to John Roos.\nEd coaches soccer and is a St. Louis Cardinals fan.\nJimmy doesn\u0026rsquo;t like to work mornings.\n"
+	"content": "Order Ed\u0026rsquo;s Blend if Ed is working, or Jimmy\u0026rsquo;s Blend if Jimmy is working. One store on Maynard Street, used to be two but they let out the Liberty Street store to John Roos.\nhttps://www.facebook.com/ElixirVitaeCoffeeandTea\nEd coaches soccer and is a St. Louis Cardinals fan.\nJimmy doesn\u0026rsquo;t like to work mornings.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/evergreen/",
 	"title": "Evergreen",
 	"tags": [],
 	"description": "",
-	"content": "Evergreen has Chinese food on Plymouth Road at Nixon. Very large long tables easily seat a crowd.\n"
+	"content": "Evergreen has Chinese food on Plymouth Road at Nixon. Very large long tables easily seat a crowd.\nhttp://www.evergreen-restaurant.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/",
@@ -494,7 +536,7 @@
 	"title": "Fleetwood Diner",
 	"tags": [],
 	"description": "",
-	"content": "I have been having the same breakfast at the Fleetwood Diner (number 5, rye toast, dry) for more than 20 years. The coffee is straight-up diner coffee, not elaborate, with refills.\n"
+	"content": "I have been having the same breakfast at the Fleetwood Diner (number 5, rye toast, dry) for more than 20 years. The coffee is straight-up diner coffee, not elaborate, with refills.\nhttps://www.facebook.com/officialfleetwooddiner\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/aviation/flightaware/",
@@ -571,7 +613,7 @@
 	"title": "Jerusalem Garden",
 	"tags": [],
 	"description": "",
-	"content": "Middle eastern food on Liberty Street.\n"
+	"content": "Middle eastern food on Liberty Street.\nhttps://www.jerusalemgarden.net/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/aviation/karb/",
@@ -662,7 +704,7 @@
 	"title": "Madras Masala",
 	"tags": [],
 	"description": "",
-	"content": "Madras Masala serves Indian food in a buffet on Maynard St across from the Nickels Arcade.\n"
+	"content": "Madras Masala serves Indian food in a buffet on Maynard St across from the Nickels Arcade.\nhttp://www.madrasmasala.com/about-us.php\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/marine/",
@@ -672,11 +714,18 @@
 	"content": "Marine radio including automatic ship location with AIS-B.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/marine/marinetraffic/",
+	"title": "MarineTraffic.com",
+	"tags": [],
+	"description": "",
+	"content": "Marine Traffic has worldwide AIS traffic and maps.\nhttps://www.marinetraffic.com\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/marnee-thai/",
 	"title": "Marnee Thai",
 	"tags": [],
 	"description": "",
-	"content": "Marnee Thai serves Thai food downtown on Main St south of William. The long table seats 12 comfortably but not much more than that.\n"
+	"content": "Marnee Thai serves Thai food downtown on Main St south of William. The long table seats 12 comfortably but not much more than that.\nhttp://www.marneethai-restaurant.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/meteors/",
@@ -690,14 +739,14 @@
 	"title": "Morgan and York",
 	"tags": [],
 	"description": "",
-	"content": "Morgan and York is the neighborhood deli. Good for a bit of salami on your bagel. No power outlets in front.\n"
+	"content": "Morgan and York is the neighborhood deli. Good for a bit of salami on your bagel. No power outlets in front.\nhttps://www.morganandyork.co/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/morgan-and-york/",
 	"title": "Morgan and York",
 	"tags": [],
 	"description": "",
-	"content": "Morgan and York is a deli out on Packard. Sandwiches, soups, and a full deli menu. Several sets of big tables in the back if the crowd gets big.\n"
+	"content": "Morgan and York is a deli out on Packard. Sandwiches, soups, and a full deli menu. Several sets of big tables in the back if the crowd gets big.\nhttps://www.morganandyork.co/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/nhk-japan/",
@@ -708,10 +757,17 @@
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/nagomi-sushi/",
-	"title": "Nagomi Sushi",
+	"title": "Nagomi Sushi Downtown",
 	"tags": [],
 	"description": "",
-	"content": "Nagomi Sushi is conveniently located across from the downtown post office.\n"
+	"content": "Nagomi Sushi is conveniently located across from the downtown post office.\nhttp://www.nagomiannarbor.com/downtown\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/baseball/national-league/",
+	"title": "National League",
+	"tags": [],
+	"description": "",
+	"content": "NL baseball clubs.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/weather/twitter/nws/",
@@ -777,6 +833,13 @@
 	"content": "Tools for running computing systems at scale, including containerization and other efforts.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/",
+	"title": "Original Cottage Inn",
+	"tags": [],
+	"description": "",
+	"content": "Lunch buffet at this pizza and Italian restaurant on William Street near campus.\nhttp://www.originalcottageinn.com/\n512 E William St, Ann Arbor MI 48104\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/perl/",
 	"title": "Perl",
 	"tags": [],
@@ -837,7 +900,7 @@
 	"title": "Roos Roast on Rosewood",
 	"tags": [],
 	"description": "",
-	"content": "Roos on Rosewood is close by, the people are nice, and it\u0026rsquo;s always interesting to see John. It\u0026rsquo;s better there when I bring a laptop than a phone.\n"
+	"content": "Roos on Rosewood is close by, the people are nice, and it\u0026rsquo;s always interesting to see John. It\u0026rsquo;s better there when I bring a laptop than a phone.\nhttps://roosroast.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/ruby/",
@@ -872,7 +935,14 @@
 	"title": "Saica",
 	"tags": [],
 	"description": "",
-	"content": "Japanese and Korean food at this restaurant on Plymouth Road near North Campus.\nhttp://saicasushi.com/\n"
+	"content": "Saica serves Japanese and Korean food at this restaurant on Plymouth Road near North Campus.\nhttp://saicasushi.com/\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/baseball/national-league/san-francisco-giants/",
+	"title": "San Francisco Giants",
+	"tags": [],
+	"description": "",
+	"content": "The San Francisco Giants baseball club broadcasts via a network with flagship station KNBR.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/scanner/",
@@ -880,6 +950,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Listening to remote public service and utility traffic via a variety of scanner systems.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coworking/seed-toledo/",
+	"title": "Seed Coworking, Toledo",
+	"tags": [],
+	"description": "",
+	"content": "Seed Coworking in Toledo has a reciprocal visit arrangement with Workantile in Ann Arbor.\nhttp://www.seedcoworking.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/",
@@ -914,7 +991,7 @@
 	"title": "Starbucks Arborland",
 	"tags": [],
 	"description": "",
-	"content": "Iced coffee, grande, with vanilla and milk: $2.92.\n"
+	"content": "Iced coffee, grande, with vanilla and milk: $2.92. Open late (usually until midnight). Other than that, it could be any Starbucks near any freeway anywhere in the country,\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/tags/",
@@ -949,7 +1026,7 @@
 	"title": "Tuscan Cafe, Northville",
 	"tags": [],
 	"description": "",
-	"content": "Not a bad destination stop for a drive from Ann Arbor with Saul. Zingerman\u0026rsquo;s pastries.\n"
+	"content": "Tuscan Cafe is not a bad destination stop for a drive from Ann Arbor. Zingerman\u0026rsquo;s pastries at this cafe on Center St in Northville. Get there via M-14 (Sheldon Rd, then north).\nhttp://www.thetuscancafe.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/ubuntu/",
@@ -964,6 +1041,13 @@
 	"tags": [],
 	"description": "",
 	"content": "The University of Michigan Amateur Radio club (W8UM) is operated out of the EECS building on North Campus.\nhttp://umarc.eecs.umich.edu/\nDon AC8TO is staff advisor.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/baseball/national-league/washington-nationals/",
+	"title": "Washington Nationals",
+	"tags": [],
+	"description": "",
+	"content": "The Washington Nationals can be heard on WFED 1500.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/weather/",
