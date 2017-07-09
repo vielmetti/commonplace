@@ -11,15 +11,8 @@ https://www.wikiwand.com/en/Seattle_Mariners_Radio_Network
 
 ### KiwiSDR
 
-KiwiSDR at WA6OUR, Sammamish, Washington
+KiwiSDR
 
-http://24.17.196.180:8073/?f=710.00amz0
-
-KiwiSDR at the University of Victoria,
-British Columbia, Canada:
-
-http://kiwisdr.ece.uvic.ca:8073/?f=710.00amz0
-
-KiwiSDR at KA7U, Weiser, Idaho
-
-http://ka7u.no-ip.org:8073/?f=710.00amz0
+* WA6OUR, Sammimish, WA: http://24.17.196.180:8073/?f=710.00amz10
+* University of Victoria, British Columbia, Canada: http://kiwisdr.ece.uvic.ca:8073/?f=710.00amz10
+* KA7U, Weiser, Idaho http://ka7u.no-ip.org:8073/?f=710.00amz10

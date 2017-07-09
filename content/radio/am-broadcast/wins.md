@@ -9,6 +9,10 @@ A CBS radio station.
 
 http://newyork.cbslocal.com/station/1010-wins/
 
+Listen via K3FEF & W3TKP WebSDR; tune to the 160 meter band.
+
+http://k3fef.com:8901/
+
 Listen via the nycradio Global Tuners station:
 
 http://www.globaltuners.com/receiver/1370-New-York-SONY-XDR-F1HD-1

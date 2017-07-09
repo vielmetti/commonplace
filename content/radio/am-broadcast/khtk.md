@@ -7,4 +7,4 @@ Sacramento Mountain Lions and UC Davis Aggies football, as well as
 Sacramento's radio home for Oakland Athletics baseball, Oakland
 Raiders football and San Jose Sharks hockey.
 
-http://sdr.n3lga.com:8073/?f=1140.00amz10
+KiwiSDR: N3LGA Sunnyvale, CA: http://sdr.n3lga.com:8073/?f=1140.00amz10

@@ -67,6 +67,17 @@ It is a Cumulus station.&lt;/p&gt;
     </item>
     
     <item>
+      <title>WLW 700 Cincinnati</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wlw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wlw/</guid>
+      <description>WLW AM 700 is the flagship station of the Cincinnati Reds radio network.
+Via KiwiSDR:
+ Elida OH: http://65.29.112.189:8073/?f=700.00amz10 Farmington Hills MI: http://misdr.duckdns.org/?f=700.00amz10 Fenton MI: http://dentonhill-sdr.moses.bz/?f=700.00amz10  </description>
+    </item>
+    
+    <item>
       <title>KIRO 710 Seattle</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -79,6 +90,16 @@ KIRO is the flagship station for the Seattle Mariners.&lt;/p&gt;
     </item>
     
     <item>
+      <title>KOA 850 Denver</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/koa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/koa/</guid>
+      <description>KOA 850 is the flagship station of the Colorado Rockies.
+Kiwisdr: http://foxgulch.net:8073/?f=850.00amz10</description>
+    </item>
+    
+    <item>
       <title>WCBN 88.3 Ann Arbor</title>
       <link>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wcbn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -86,6 +107,17 @@ KIRO is the flagship station for the Seattle Mariners.&lt;/p&gt;
       <guid>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wcbn/</guid>
       <description>WCBN is the student radio station at the University of Michigan 88.3 FM all the way to the left on your dial.
 http://www.wcbn.org</description>
+    </item>
+    
+    <item>
+      <title>WLS 890 Chicago Illinois</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wls/</guid>
+      <description>WLS 890 is the flagship station for the Chicago White Sox.
+Via KiwiSDR Farmington Hills MI: http://misdr.duckdns.org/?f=890.00amz10
+Via KiwiSDR Elida OH: http://65.29.112.189:8073/?f=890.00amz10</description>
     </item>
     
     <item>
@@ -109,6 +141,15 @@ https://www.wwoz.org/</description>
     </item>
     
     <item>
+      <title>WUOM 91.7 Ann Arbor MI</title>
+      <link>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wuom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wuom/</guid>
+      <description>Global tuners: https://www.globaltuners.com/receiver/1460/js2</description>
+    </item>
+    
+    <item>
       <title>KKNE 940 Honolulu</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kkne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -124,10 +165,10 @@ KiwiSDR at NH6XO: http://72.235.91.131:8073/?f=940.00amz10</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/winz/</guid>
-      <description>&lt;p&gt;WINZ 940 is the flagship station of the Miami Marlins
-baseball radio network.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>WINZ 940 is the flagship station of the Miami Marlins baseball radio network. &amp;ldquo;Miami&amp;rsquo;s Sports Station&amp;rdquo;.
+Via KiwiSDR NO2CW: http://qth.ddns.net:8073/?f=940.00amz8
+Home page: http://940winz.iheart.com/
+Twitter: https://twitter.com/940WINZ</description>
     </item>
     
     <item>
@@ -152,7 +193,8 @@ which varies depending on the year.&lt;/p&gt;
       
       <guid>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wxyt/</guid>
       <description>Mostly noisy sports talk radio, but when the Tigers are playing, they&amp;rsquo;re the flagship FM station.
-I can pick up 97.1 FM on my home SDR setup, but there is not any current FM listening post nearby in its range. If you are looking for Tigers baseball and don&amp;rsquo;t have a hardware radio, try WTKA 1050 Ann Arbor.</description>
+I can pick up 97.1 FM on my home SDR setup. If you are looking for Tigers baseball and don&amp;rsquo;t have a hardware radio, try WTKA 1050 Ann Arbor.
+Global Tuners in Pontiac, MI: https://www.globaltuners.com/receiver/1460/js2</description>
     </item>
     
     <item>
@@ -276,7 +318,7 @@ If you have any questions, comments, or suggestions for Issue 2, please send the
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiki/</guid>
       <description>Fox Sports 990 - Hawaii’s Home for Fox Sports &amp;amp; the Los Angeles Dodgers.
-http://72.235.91.131:8073/?f=990.00amz10</description>
+KiwiSDR: http://72.235.91.131:8073/?f=990.00amz10</description>
     </item>
     
     <item>
@@ -287,6 +329,11 @@ http://72.235.91.131:8073/?f=990.00amz10</description>
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wmvp/</guid>
       <description>&lt;p&gt;WMVP 1000 is ESPN Radio for Chicago. This station comes
 in clear at night to the Detroit market.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;via Farmington Hills, MI: &lt;a href=&#34;http://misdr.duckdns.org/?f=1000.00amz10&#34;&gt;http://misdr.duckdns.org/?f=1000.00amz10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;via Elida, OH: &lt;a href=&#34;http://65.29.112.189:8073/?f=1000.00amz10&#34;&gt;http://65.29.112.189:8073/?f=1000.00amz10&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -326,6 +373,16 @@ A CBS radio station.&lt;/p&gt;
     </item>
     
     <item>
+      <title>WBAL 1090 Baltimore</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wbal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wbal/</guid>
+      <description>WBAL 1090 Baltimore is the flagship station of the Baltimore Orioles baseball network.
+KiwiSDR N4TVC: http://n4tvc.zapto.org:8073/?f=1090.00amz10</description>
+    </item>
+    
+    <item>
       <title>WTAM 1100 Cleveland</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -335,13 +392,34 @@ A CBS radio station.&lt;/p&gt;
     </item>
     
     <item>
+      <title>KQNA 1130 Prescott Valley AZ</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kqna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kqna/</guid>
+      <description>KQNA 1130 Prescott Valley is part of the Arizona Diamondbacks radio network.
+http://no1d.duckdns.org:8073/?f=1130.00amz10
+http://www.kqna.com/</description>
+    </item>
+    
+    <item>
       <title>KHTK 1140 Sacramento</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/khtk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/khtk/</guid>
       <description>KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento&amp;rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey.
-http://sdr.n3lga.com:8073/?f=1140.00amz10</description>
+KiwiSDR: N3LGA Sunnyvale, CA: http://sdr.n3lga.com:8073/?f=1140.00amz10</description>
+    </item>
+    
+    <item>
+      <title>WIMA 1150 Lima Ohio</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wima/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wima/</guid>
+      <description>WIMA 1150 Lima Ohio is in the Cincinnati Reds radio network.
+http://65.29.112.189:8073/?f=1150.00amz10</description>
     </item>
     
     <item>
@@ -354,6 +432,17 @@ http://sdr.n3lga.com:8073/?f=1140.00amz10</description>
 the Detroit Tigers.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>KRKO 1380 Everett WAS</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/krko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/krko/</guid>
+      <description>KRKO 1380 Everett Washington carries games of the Class A Everett AquaSox baseball team.
+Via KiwiSDR U Victoria: http://kiwisdr.ece.uvic.ca:8073/?f=1380.00amz10
+Via KiwiSDR Sammamish WA: http://24.17.196.180:8073/?f=1380.00amz10</description>
     </item>
     
     <item>
@@ -449,6 +538,15 @@ Argus is working on a second location to be at Packard at Dewey, where Clague&am
     </item>
     
     <item>
+      <title>Arizona Diamondbacks</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/national-league/arizona-diamondbacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/national-league/arizona-diamondbacks/</guid>
+      <description>The Arizona Diamondbacks radio network includes KQNA 1130, Prescott Valley AZ.</description>
+    </item>
+    
+    <item>
       <title>Armbian</title>
       <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -479,6 +577,16 @@ Phone: 734-662-1711</description>
       <guid>https://vielmetti.github.io/commonplace/radio/shortwave/bbc-world-service/</guid>
       <description>The BBC World Service web site has radio archives, news, and a streaming service.
 http://www.bbc.co.uk/worldserviceradio</description>
+    </item>
+    
+    <item>
+      <title>BL - Hawaii</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/bl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/bl/</guid>
+      <description>http://www.levinecentral.com/ham/grid_square.php?Grid=BL
+ BL11: KiwiSDR at NH6XO - http://72.235.91.131:8073/  </description>
     </item>
     
     <item>
@@ -535,6 +643,25 @@ http://www.broadcastify.com/listen/top</description>
     </item>
     
     <item>
+      <title>CM - West Coast, California</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/cm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/cm/</guid>
+      <description> CM87: KiwiSDR: Sunnyvale, CA - N3LGA - http://sdr.n3lga.com:8073/ CM87: http://www.levinecentral.com/ham/grid_square.php?Grid=CM87  </description>
+    </item>
+    
+    <item>
+      <title>CN - Pacific Northwest and BC</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/cn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/cn/</guid>
+      <description>CN88
+ http://www.levinecentral.com/ham/grid_square.php?Grid=CN88 KiwiSDR VE7AB U Victoria BC - http://kiwisdr.ece.uvic.ca:8073/  </description>
+    </item>
+    
+    <item>
       <title>Cafe Verde</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/coffee/cafe-verde/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -566,6 +693,15 @@ CentOS 7 is the current release, with ARM support.</description>
     </item>
     
     <item>
+      <title>Chicago White Sox</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/american-league/chicago-white-sox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/american-league/chicago-white-sox/</guid>
+      <description>The Chicago White Sox radio network has flagship station WLS 890 Chicago.</description>
+    </item>
+    
+    <item>
       <title>Chirp</title>
       <link>https://vielmetti.github.io/commonplace/radio/amateur-radio/chirp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -573,6 +709,27 @@ CentOS 7 is the current release, with ARM support.</description>
       <guid>https://vielmetti.github.io/commonplace/radio/amateur-radio/chirp/</guid>
       <description>Chirp is software to program your radio; I&amp;rsquo;ve successfully gotten it to work with the Baofeng units.
 http://chirp.danplanet.com/</description>
+    </item>
+    
+    <item>
+      <title>Cincinnati Reds</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/national-league/cincinnati-reds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/national-league/cincinnati-reds/</guid>
+      <description>The Cincinnati Reds radio network is an extensive one, with stations throughout Ohio, Indiana, Kentucky, and West Virginia.
+Some stations:
+ WLW, the flagship, in Cincinnati WIMA Lima Ohio  A map:
+http://cincinnati.reds.mlb.com/cin/images/schedule/y2016/RadioAffiliateMap_Dec-2015_7x6.pdf</description>
+    </item>
+    
+    <item>
+      <title>Colorado Rockies</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/national-league/colorado-rockies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/national-league/colorado-rockies/</guid>
+      <description>The Colorado Rockies baseball radio network flagship station is KOA 850 Denver.</description>
     </item>
     
     <item>
@@ -594,6 +751,28 @@ There is active development for ARM64 for several of the core components of Core
       <guid>https://vielmetti.github.io/commonplace/radio/sdr/cubicsdr/</guid>
       <description>CubicSDR is a cross-platform SDR client which drives a wide variety of SDR hardware.
 http://cubicsdr.com/</description>
+    </item>
+    
+    <item>
+      <title>DM - Southwest US</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/dm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/dm/</guid>
+      <description>DM34: Arizona
+ KiwiSDR NO1D Prescott Valley http://no1d.duckdns.org:8073/  DM79 - Denver CO
+Grid DM79 is the Denver, Colorado area</description>
+    </item>
+    
+    <item>
+      <title>DN - Northwest</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/dn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/dn/</guid>
+      <description>DN14: Idaho - Oregon
+ DN14: https://www.coilgun.info/rover-id/DN14.htm DN14lf - Weiser, ID - KA7U - http://ka7u.no-ip.org:8073/  DN26: Montana - Idaho
+ http://www.levinecentral.com/ham/grid_square.php?Grid=DN26 KiwiSDR: W0AY, Stevensville, MT - http://foxgulch.net:8073/  </description>
     </item>
     
     <item>
@@ -624,6 +803,58 @@ http://www.broadcastify.com/listen/feed/11010</description>
       <description>The Detroit Tigers play in Comerica Park.
 FM broadcasts locally on WXYT 97.1 &amp;ldquo;The Ticket&amp;rdquo; Detroit. AM broadcasts locally on WTKA 1050 AM Ann Arbor.
 Tigers radio network: http://detroit.tigers.mlb.com/det/schedule/radioaffiliates.jsp</description>
+    </item>
+    
+    <item>
+      <title>EL - Florida, Gulf of Mexico</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/el/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/el/</guid>
+      <description>EL96:
+ http://www.levinecentral.com/ham/grid_square.php?Grid=EL96 http://qth.ddns.net:8073/  </description>
+    </item>
+    
+    <item>
+      <title>EM - Southern US</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/em/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/em/</guid>
+      <description>EM13 - Parker, TX north of Dallas TX
+ http://www.levinecentral.com/ham/grid_square.php?Grid=EM13 KiwiSDR - KF6VO - http://ranch-pt.no-ip.org:8073/  EM15em - Oklahoma City OK
+ http://www.levinecentral.com/ham/grid_square.php?Grid=EM15em KiwiSDR - W5TSU - http://sdr.w5tsu.net:8073/  EM28 - Kansas - Missouri Just south of Kansas City.
+ http://www.levinecentral.com/ham/grid_square.php?Grid=EM28 KiwiSDR - http://136.63.226.118:8073/  EM79 - Central Indiana
+ http://www.levinecentral.com/ham/grid_square.php?Grid=EM79 KiwiSDR - http://38.86.67.206:8073/  </description>
+    </item>
+    
+    <item>
+      <title>EN61 - Chicago IL</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/en61/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/en61/</guid>
+      <description>No SDRs in Chicago that I can find.</description>
+    </item>
+    
+    <item>
+      <title>EN70 - Central IN / OH</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/en70/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/en70/</guid>
+      <description>http://www.levinecentral.com/ham/grid_square.php?Grid=EN70
+ EN70vs, Elida, Ohio - http://65.29.112.189:8073/  </description>
+    </item>
+    
+    <item>
+      <title>EN82 - Detroit Michigan</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/en82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/en82/</guid>
+      <description>http://www.levinecentral.com/ham/grid_square.php?Grid=EN82
+ EN82de - Fenton, MI - KiwiSDR W8CMN - http://dentonhill-sdr.moses.bz/ EN82hm - Farmington Hills, MI - KiwiSDR KB8SPI - http://misdr.duckdns.org/ EN82ip - Pontiac, MI - Global Tuners - https://www.globaltuners.com/receiver/1460/js2  </description>
     </item>
     
     <item>
@@ -661,6 +892,16 @@ Jimmy doesn&amp;rsquo;t like to work mornings.</description>
     </item>
     
     <item>
+      <title>Everett AquaSox</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/minor-league/everett-aquasox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/minor-league/everett-aquasox/</guid>
+      <description>The Everett AquaSox are a Class A Northwest League affiliate of the Seattle Mariners.
+Listen on KRKO 1380 Everett WA.</description>
+    </item>
+    
+    <item>
       <title>Evergreen</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/evergreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -668,6 +909,57 @@ Jimmy doesn&amp;rsquo;t like to work mornings.</description>
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/evergreen/</guid>
       <description>Evergreen has Chinese food on Plymouth Road at Nixon. Very large long tables easily seat a crowd.
 http://www.evergreen-restaurant.com/</description>
+    </item>
+    
+    <item>
+      <title>FM08 - Virginia / West Virginia</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/fm08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/fm08/</guid>
+      <description>http://www.levinecentral.com/ham/grid_square.php?Grid=FM08
+ FM08to - Luray, VA - N4LDR KiwiSDR: http://n4ldr-sdr.ddns.net:9000/  </description>
+    </item>
+    
+    <item>
+      <title>FM18 - Washington, DC</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/fm18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/fm18/</guid>
+      <description>FM18 covers the Washington, DC area.
+http://www.levinecentral.com/ham/grid_square.php?Grid=FM18
+ FM18cr - Warrenton, VA - K1RA - KiwiSDR: http://kiwisdr.k1ra.us:8073/ FM18is - Burke, VA - N4TVC KiwiSDR: http://n4tvc.zapto.org:8073/  </description>
+    </item>
+    
+    <item>
+      <title>FN20 - NY - NJ - PA</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/fn20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/fn20/</guid>
+      <description>http://www.levinecentral.com/ham/grid_square.php?Grid=FN20
+ FN20 - K2SDR - http://k2sdr.homelinux.com:8073/ FN20wj - http://jerseyshoresdr.hopto.org:8073/  </description>
+    </item>
+    
+    <item>
+      <title>FN41 - Cape Cod / Rhode Island</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/fn41/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/fn41/</guid>
+      <description>http://www.levinecentral.com/ham/grid_square.php?Grid=FN41
+ FN41wq - South Dennis, MA - http://rosslloyd.asuscomm.com:8073/  </description>
+    </item>
+    
+    <item>
+      <title>FN43 - New Hampshire / Maine</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/fn43/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/fn43/</guid>
+      <description>http://www.levinecentral.com/ham/grid_square.php?Grid=FN43
+ FN43fe - Concord, NH - http://kiwisdr.surriel.com/  </description>
     </item>
     
     <item>
@@ -853,6 +1145,16 @@ LiveATC: https://www.liveatc.net/search/?icao=KYIP</description>
     </item>
     
     <item>
+      <title>Kansas City Royals</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/american-league/kansas-city-royals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/american-league/kansas-city-royals/</guid>
+      <description>The Kansas City Royals play in Kauffman Stadium.
+AM broadcasts locally on KCSP 610.</description>
+    </item>
+    
+    <item>
       <title>KiwiSDR</title>
       <link>https://vielmetti.github.io/commonplace/radio/sdr/kiwisdr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -902,13 +1204,23 @@ http://blog.londonshortwave.com/</description>
     </item>
     
     <item>
+      <title>Los Angeles Dodgers</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/national-league/los-angeles-dodgers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/national-league/los-angeles-dodgers/</guid>
+      <description>The Los Angeles Dodgers radio network extends as far as Hawaii, with KIKI 990 carrying the games.</description>
+    </item>
+    
+    <item>
       <title>MI - Genesee - KC8KGZ</title>
       <link>https://vielmetti.github.io/commonplace/radio/skywarn/kc8kgz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/skywarn/kc8kgz/</guid>
       <description>Skywarn for Flint, Michigan and Genesee County on KC8KGZ repeater 147.260. Repeater location is on top of McLaren Hospital.
-http://www.broadcastify.com/listen/feed/6076</description>
+http://www.broadcastify.com/listen/feed/6076
+Global Tuners via Pontiac, MI: https://www.globaltuners.com/receiver/1460/js2</description>
     </item>
     
     <item>
@@ -949,6 +1261,15 @@ https://www.marinetraffic.com</description>
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/lunch/marnee-thai/</guid>
       <description>Marnee Thai serves Thai food downtown on Main St south of William. The long table seats 12 comfortably but not much more than that.
 http://www.marneethai-restaurant.com/</description>
+    </item>
+    
+    <item>
+      <title>Miami Marlins</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/national-league/miami-marlins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/national-league/miami-marlins/</guid>
+      <description>WINZ 940 is the flagship station of the Miami Marlins baseball radio network.</description>
     </item>
     
     <item>
@@ -1037,6 +1358,15 @@ https://nodejs.org/en/</description>
       <guid>https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/</guid>
       <description>Nooelec sells SDRs at a reasonable price with better specifications than the cheapest generic RTL-SDR units you can find.
 http://www.nooelec.com</description>
+    </item>
+    
+    <item>
+      <title>Oakland Athletics</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/american-league/oakland-athletics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/american-league/oakland-athletics/</guid>
+      <description>Oakland Atheltics baseball can be monitored via KHTK 1140 Sacramento.</description>
     </item>
     
     <item>
@@ -1191,7 +1521,16 @@ http://saicasushi.com/</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/baseball/national-league/san-francisco-giants/</guid>
-      <description>The San Francisco Giants baseball club broadcasts via a network with flagship station KNBR.</description>
+      <description>The San Francisco Giants baseball club broadcasts via a network with flagship station KNBR 680.</description>
+    </item>
+    
+    <item>
+      <title>Seattle Mariners</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/american-league/seattle-mariners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/american-league/seattle-mariners/</guid>
+      <description>The flagship station of the Seattle Mariners is KIRO 710.</description>
     </item>
     
     <item>
@@ -1230,6 +1569,15 @@ http://www.seedcoworking.com/</description>
       <guid>https://vielmetti.github.io/commonplace/weather/twitter/tv/</guid>
       <description>Detroit area TV weather forecast and news.
  https://twitter.com/PGLocal4 - Ch 4, Paul Gross https://twitter.com/Local4Casters - Ch 4 weather team https://twitter.com/rexroth7wxyz - Ch 7, Dave Rexroth  </description>
+    </item>
+    
+    <item>
+      <title>Texas Rangers</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/american-league/texas-rangers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/american-league/texas-rangers/</guid>
+      <description>Radio network: PDF</description>
     </item>
     
     <item>
