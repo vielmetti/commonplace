@@ -42,6 +42,13 @@
 	"content": "Lots of stations here and not much in the way of centralized news, so this is a hodge-podge.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/cjcl/",
+	"title": "CJCL 590 Toronto",
+	"tags": [],
+	"description": "",
+	"content": "CJCL 590 Toronto can be heard in Rochester, NY.\nhttp://rx.jimlill.com:8073/?f=590.00amz10\nIt is the radio home of the Toronto Blue Jays.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kcsp/",
 	"title": "KCSP 610 Kansas City",
 	"tags": [],
@@ -49,11 +56,32 @@
 	"content": "KCSP 610 is the flagship station for the Kansas City Royals.\n\nKiwiSDR: in Olathe Kansas: http://136.63.226.118:8073/?f=610amz10\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kdal/",
+	"title": "KDAL 610 Duluth MN",
+	"tags": [],
+	"description": "",
+	"content": "KDAL Duluth 610 is a member of the Minnesota Twins \u0026ldquo;Treasure Island\u0026rdquo; radio baseball network.\nTune via Global Tuners: https://www.globaltuners.com/receiver/1858-Duluth-MN-1\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wtmj/",
+	"title": "WTMJ 620 Milwaukee",
+	"tags": [],
+	"description": "",
+	"content": "WTMJ is the flagship station of the Milwaukee Brewers radio network.\n50000 watts daytime, 10000 watts night time.\nhttp://www.wtmj.com/\nListen via KiwiSDR:\n Farmington Hills: http://misdr.duckdns.org/?f=620.00lsbz10 (LSB to avoid interference from 630 AM CFCO Chatham Ontario).  "
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wfan/",
 	"title": "WFAN 660 New York City",
 	"tags": [],
 	"description": "",
 	"content": "WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\n\nKiwiSDR Jersey shore: http://jerseyshoresdr.hopto.org:8073/?f=660.00amz10\nhttp://newyork.cbslocal.com/wfanyankeesradionetwork/\nThe Yankees radio network has 52 stations in 14 states:\nhttps://en.wikipedia.org/wiki/New_York_Yankees_Radio_Network\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wscr/",
+	"title": "WSCR 670 Chicago",
+	"tags": [],
+	"description": "",
+	"content": "WSCR 670 \u0026ldquo;The Score\u0026rdquo; broadcasts Chicago Cubs games.\nListen via KiwiSDR:\n KH6ILT Elida OH: http://65.29.112.189:8073/?f=670.00amz10  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/knbr/",
@@ -75,6 +103,13 @@
 	"tags": [],
 	"description": "",
 	"content": "KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\n\nhttps://www.wikiwand.com/en/Seattle_Mariners_Radio_Network\nKiwiSDR KiwiSDR\n WA6OUR, Sammimish, WA: http://24.17.196.180:8073/?f=710.00amz10 University of Victoria, British Columbia, Canada: http://kiwisdr.ece.uvic.ca:8073/?f=710.00amz10 KA7U, Weiser, Idaho http://ka7u.no-ip.org:8073/?f=710.00amz10 "
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/ktkr/",
+	"title": "KTKR 760 San Antonio TX",
+	"tags": [],
+	"description": "",
+	"content": "KTKR 760 San Antonio broadcasts Houston Astros games.\nTune via Global Tuners: https://www.globaltuners.com/receiver/1155/js2\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/koa/",
@@ -105,6 +140,13 @@
 	"content": "News, jazz, and blues from this NPR station affiliated with Eastern Michigan University.\nhttp://wemu.org\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/cbe/",
+	"title": "CBE 89.9 Windsor ON",
+	"tags": [],
+	"description": "",
+	"content": "CBC Radio 2 Windsor.\nTune via Global Tuners: https://www.globaltuners.com/receiver/1460/js2\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/wwoz/",
 	"title": "WWOZ 90.7 New Orleans",
 	"tags": [],
@@ -131,6 +173,13 @@
 	"tags": [],
 	"description": "",
 	"content": "WINZ 940 is the flagship station of the Miami Marlins baseball radio network. \u0026ldquo;Miami\u0026rsquo;s Sports Station\u0026rdquo;.\nVia KiwiSDR NO2CW: http://qth.ddns.net:8073/?f=940.00amz8\nHome page: http://940winz.iheart.com/\nTwitter: https://twitter.com/940WINZ\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wroc/",
+	"title": "WROC 950 Rochester NY",
+	"tags": [],
+	"description": "",
+	"content": "http://rx.jimlill.com:8073/?f=950.00amz10\nSports Radio 950, home to coverage of the Buffalo Sabres, Rochester Knighthawks, and Rochester Rattlers.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wwj/",
@@ -242,7 +291,7 @@
 	"title": "WINS 1010 New York City",
 	"tags": [],
 	"description": "",
-	"content": "1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\nhttp://newyork.cbslocal.com/station/1010-wins/\nListen via K3FEF \u0026amp; W3TKP WebSDR; tune to the 160 meter band.\nhttp://k3fef.com:8901/\nListen via the nycradio Global Tuners station:\nhttp://www.globaltuners.com/receiver/1370-New-York-SONY-XDR-F1HD-1\nListen via Tunein:\nhttp://tunein.com/radio/1010-WINS-s29616/\n"
+	"content": "1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\nListen:\n http://newyork.cbslocal.com/station/1010-wins/ via K3FEF \u0026amp; W3TKP WebSDR; 160 meter band. http://k3fef.com:8901/ via nycradio Global Tuners: http://www.globaltuners.com/receiver/1370-New-York-SONY-XDR-F1HD-1 via Tunein: http://tunein.com/radio/1010-WINS-s29616/ via Staten Island Global Tuners: https://www.globaltuners.com/receiver/1841/js2 "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wtka/",
@@ -273,6 +322,13 @@
 	"content": "WTAM 1100 AM is a 50,000 watt Class A radio station and the AM flagship station of the Cleveland Indians baseball and Cleveland Cavaliers basketball radio networks.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kmox/",
+	"title": "KMOX 1120 St Louis MO",
+	"tags": [],
+	"description": "",
+	"content": "KMOX 1120 St Louis is the flagship station of the St Louis Cardinals baseball team.\nKMOX broadcasts with 50,000 watts clear channel.\nKiwiSDR:\n Central Indiana: http://38.86.67.206:8073/?f=1120.00amz10  "
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kqna/",
 	"title": "KQNA 1130 Prescott Valley AZ",
 	"tags": [],
@@ -294,6 +350,20 @@
 	"content": "WIMA 1150 Lima Ohio is in the Cincinnati Reds radio network.\nhttp://65.29.112.189:8073/?f=1150.00amz10\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/cfgo/",
+	"title": "CFGO 1200 Ottawa Ontario",
+	"tags": [],
+	"description": "",
+	"content": "CFGO 1200 is \u0026ldquo;TSN Radio 1200\u0026rdquo; Ottawa Ontario.\nSports coverage:\nOttawa Senators (NHL hockey) Ottawa 67\u0026rsquo;s (OHL hockey) Ottawa Redblacks (CFL football) Ottawa Fury FC (USL soccer)\nListen via KiwiSDR. http://www.ma-ku.com:8073/?f=1200.00amz10\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wcbc/",
+	"title": "WCBC 1270 Cumberland MD",
+	"tags": [],
+	"description": "",
+	"content": "Local station WCBC-AM Cumberland MD broadcasts Pittsburgh Pirates games.\nhttp://n4ldr-sdr.ddns.net:9000/?f=1270.00amz10\nhttps://www.wcbcradio.com/\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wxyt/",
 	"title": "WXYT 1270 Detroit",
 	"tags": [],
@@ -306,6 +376,13 @@
 	"tags": [],
 	"description": "",
 	"content": "KRKO 1380 Everett Washington carries games of the Class A Everett AquaSox baseball team.\nVia KiwiSDR U Victoria: http://kiwisdr.ece.uvic.ca:8073/?f=1380.00amz10\nVia KiwiSDR Sammamish WA: http://24.17.196.180:8073/?f=1380.00amz10\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kref/",
+	"title": "KREF 1400 Norman OK",
+	"tags": [],
+	"description": "",
+	"content": "KREF 1400 in Norman Oklahoma is an affiliate of the St Louis Cardinals radio network.\nSt. Louis Cardinals (MLB) \u0026amp; St. Louis Rams (NFL) games, Oklahoma University sports.\nKiwiSDR:\n W5TSU Norman OK: http://sdr.w5tsu.net:8073/?f=1400.00amz10  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kstp/",
@@ -340,7 +417,7 @@
 	"title": "AM broadcast",
 	"tags": [],
 	"description": "",
-	"content": "AM broadcast stations, with notes especially on DX\u0026rsquo;ing baseball games.\n\nGenerally speaking, baseball games are not broadcast for free on the Internet, so you have to do some sleuthing to find a general purpose radio receiver that can be tuned to the games.\n KCSP 610 Kansas City  KCSP 610 is the flagship station for the Kansas City Royals.\n\n WFAN 660 New York City  WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\n\n KNBR 680 San Francisco  KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\n\n WLW 700 Cincinnati  WLW AM 700 is the flagship station of the Cincinnati Reds radio network. Via KiwiSDR: Elida OH: http://65.29.112.189:8073/?f=700.00amz10 Farmington Hills MI: http://misdr.duckdns.org/?f=700.00amz10 Fenton MI: http://dentonhill-sdr.moses.bz/?f=700.00amz10  KIRO 710 Seattle  KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\n\n KOA 850 Denver  KOA 850 is the flagship station of the Colorado Rockies. Kiwisdr: http://foxgulch.net:8073/?f=850.00amz10\n WLS 890 Chicago Illinois  WLS 890 is the flagship station for the Chicago White Sox. Via KiwiSDR Farmington Hills MI: http://misdr.duckdns.org/?f=890.00amz10 Via KiwiSDR Elida OH: http://65.29.112.189:8073/?f=890.00amz10\n KKNE 940 Honolulu  KKNE \u0026ldquo;AM 940 Hawaii\u0026rdquo; broadcasts in Hawaiian with traditional Hawaiian music and talk aimed at Hawaiian speakers. KiwiSDR at NH6XO: http://72.235.91.131:8073/?f=940.00amz10\n WINZ 940 Miami  WINZ 940 is the flagship station of the Miami Marlins baseball radio network. \u0026ldquo;Miami\u0026rsquo;s Sports Station\u0026rdquo;. Via KiwiSDR NO2CW: http://qth.ddns.net:8073/?f=940.00amz8 Home page: http://940winz.iheart.com/ Twitter: https://twitter.com/940WINZ\n WWJ 950 Detroit  WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\n\n KIKI 990 Honolulu  Fox Sports 990 - Hawaii’s Home for Fox Sports \u0026amp; the Los Angeles Dodgers. KiwiSDR: http://72.235.91.131:8073/?f=990.00amz10\n WMVP 1000 Chicago  WMVP 1000 is ESPN Radio for Chicago. This station comes in clear at night to the Detroit market.\n via Farmington Hills, MI: http://misdr.duckdns.org/?f=1000.00amz10 via Elida, OH: http://65.29.112.189:8073/?f=1000.00amz10  \n WINS 1010 New York City  1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\n WTKA 1050 Ann Arbor  WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.\n\n KNX 1070 Los Angeles  KNX 1070 is an all-news radio station for Los Angeles, California.\n\n WBAL 1090 Baltimore  WBAL 1090 Baltimore is the flagship station of the Baltimore Orioles baseball network. KiwiSDR N4TVC: http://n4tvc.zapto.org:8073/?f=1090.00amz10\n WTAM 1100 Cleveland  WTAM 1100 AM is a 50,000 watt Class A radio station and the AM flagship station of the Cleveland Indians baseball and Cleveland Cavaliers basketball radio networks.\n KQNA 1130 Prescott Valley AZ  KQNA 1130 Prescott Valley is part of the Arizona Diamondbacks radio network. http://no1d.duckdns.org:8073/?f=1130.00amz10 http://www.kqna.com/\n KHTK 1140 Sacramento  KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento\u0026rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey. KiwiSDR: N3LGA Sunnyvale, CA: http://sdr.n3lga.com:8073/?f=1140.00amz10\n WIMA 1150 Lima Ohio  WIMA 1150 Lima Ohio is in the Cincinnati Reds radio network. http://65.29.112.189:8073/?f=1150.00amz10\n WXYT 1270 Detroit  WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\n\n KRKO 1380 Everett WAS  KRKO 1380 Everett Washington carries games of the Class A Everett AquaSox baseball team. Via KiwiSDR U Victoria: http://kiwisdr.ece.uvic.ca:8073/?f=1380.00amz10 Via KiwiSDR Sammamish WA: http://24.17.196.180:8073/?f=1380.00amz10\n KSTP 1500 Minneapols  KSTP Minneapolis is the flagship station for the Minnesota Twins baseball club.\n WFED 1500 Washington DC  WFED 1500 \u0026ldquo;Federal News Radio\u0026rdquo; broadcasts Washington Nationals baseball from Washington, DC. It is a 50,000 watt Class A station.\n\n"
+	"content": "AM broadcast stations, with notes especially on DX\u0026rsquo;ing baseball games.\n\nGenerally speaking, baseball games are not broadcast for free on the Internet, so you have to do some sleuthing to find a general purpose radio receiver that can be tuned to the games.\n CJCL 590 Toronto  CJCL 590 Toronto can be heard in Rochester, NY. http://rx.jimlill.com:8073/?f=590.00amz10 It is the radio home of the Toronto Blue Jays.\n KCSP 610 Kansas City  KCSP 610 is the flagship station for the Kansas City Royals.\n\n KDAL 610 Duluth MN  KDAL Duluth 610 is a member of the Minnesota Twins \u0026ldquo;Treasure Island\u0026rdquo; radio baseball network. Tune via Global Tuners: https://www.globaltuners.com/receiver/1858-Duluth-MN-1\n WTMJ 620 Milwaukee  WTMJ is the flagship station of the Milwaukee Brewers radio network. 50000 watts daytime, 10000 watts night time. http://www.wtmj.com/ Listen via KiwiSDR: Farmington Hills: http://misdr.duckdns.org/?f=620.00lsbz10 (LSB to avoid interference from 630 AM CFCO Chatham Ontario).  WFAN 660 New York City  WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\n\n WSCR 670 Chicago  WSCR 670 \u0026ldquo;The Score\u0026rdquo; broadcasts Chicago Cubs games. Listen via KiwiSDR: KH6ILT Elida OH: http://65.29.112.189:8073/?f=670.00amz10  KNBR 680 San Francisco  KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\n\n WLW 700 Cincinnati  WLW AM 700 is the flagship station of the Cincinnati Reds radio network. Via KiwiSDR: Elida OH: http://65.29.112.189:8073/?f=700.00amz10 Farmington Hills MI: http://misdr.duckdns.org/?f=700.00amz10 Fenton MI: http://dentonhill-sdr.moses.bz/?f=700.00amz10  KIRO 710 Seattle  KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\n\n KTKR 760 San Antonio TX  KTKR 760 San Antonio broadcasts Houston Astros games. Tune via Global Tuners: https://www.globaltuners.com/receiver/1155/js2\n KOA 850 Denver  KOA 850 is the flagship station of the Colorado Rockies. Kiwisdr: http://foxgulch.net:8073/?f=850.00amz10\n WLS 890 Chicago Illinois  WLS 890 is the flagship station for the Chicago White Sox. Via KiwiSDR Farmington Hills MI: http://misdr.duckdns.org/?f=890.00amz10 Via KiwiSDR Elida OH: http://65.29.112.189:8073/?f=890.00amz10\n KKNE 940 Honolulu  KKNE \u0026ldquo;AM 940 Hawaii\u0026rdquo; broadcasts in Hawaiian with traditional Hawaiian music and talk aimed at Hawaiian speakers. KiwiSDR at NH6XO: http://72.235.91.131:8073/?f=940.00amz10\n WINZ 940 Miami  WINZ 940 is the flagship station of the Miami Marlins baseball radio network. \u0026ldquo;Miami\u0026rsquo;s Sports Station\u0026rdquo;. Via KiwiSDR NO2CW: http://qth.ddns.net:8073/?f=940.00amz8 Home page: http://940winz.iheart.com/ Twitter: https://twitter.com/940WINZ\n WROC 950 Rochester NY  http://rx.jimlill.com:8073/?f=950.00amz10 Sports Radio 950, home to coverage of the Buffalo Sabres, Rochester Knighthawks, and Rochester Rattlers.\n WWJ 950 Detroit  WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\n\n KIKI 990 Honolulu  Fox Sports 990 - Hawaii’s Home for Fox Sports \u0026amp; the Los Angeles Dodgers. KiwiSDR: http://72.235.91.131:8073/?f=990.00amz10\n WMVP 1000 Chicago  WMVP 1000 is ESPN Radio for Chicago. This station comes in clear at night to the Detroit market.\n via Farmington Hills, MI: http://misdr.duckdns.org/?f=1000.00amz10 via Elida, OH: http://65.29.112.189:8073/?f=1000.00amz10  \n WINS 1010 New York City  1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\n WTKA 1050 Ann Arbor  WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.\n\n KNX 1070 Los Angeles  KNX 1070 is an all-news radio station for Los Angeles, California.\n\n WBAL 1090 Baltimore  WBAL 1090 Baltimore is the flagship station of the Baltimore Orioles baseball network. KiwiSDR N4TVC: http://n4tvc.zapto.org:8073/?f=1090.00amz10\n WTAM 1100 Cleveland  WTAM 1100 AM is a 50,000 watt Class A radio station and the AM flagship station of the Cleveland Indians baseball and Cleveland Cavaliers basketball radio networks.\n KMOX 1120 St Louis MO  KMOX 1120 St Louis is the flagship station of the St Louis Cardinals baseball team. KMOX broadcasts with 50,000 watts clear channel. KiwiSDR: Central Indiana: http://38.86.67.206:8073/?f=1120.00amz10  KQNA 1130 Prescott Valley AZ  KQNA 1130 Prescott Valley is part of the Arizona Diamondbacks radio network. http://no1d.duckdns.org:8073/?f=1130.00amz10 http://www.kqna.com/\n KHTK 1140 Sacramento  KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento\u0026rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey. KiwiSDR: N3LGA Sunnyvale, CA: http://sdr.n3lga.com:8073/?f=1140.00amz10\n WIMA 1150 Lima Ohio  WIMA 1150 Lima Ohio is in the Cincinnati Reds radio network. http://65.29.112.189:8073/?f=1150.00amz10\n CFGO 1200 Ottawa Ontario  CFGO 1200 is \u0026ldquo;TSN Radio 1200\u0026rdquo; Ottawa Ontario. Sports coverage: Ottawa Senators (NHL hockey) Ottawa 67\u0026rsquo;s (OHL hockey) Ottawa Redblacks (CFL football) Ottawa Fury FC (USL soccer) Listen via KiwiSDR. http://www.ma-ku.com:8073/?f=1200.00amz10\n WCBC 1270 Cumberland MD  Local station WCBC-AM Cumberland MD broadcasts Pittsburgh Pirates games. http://n4ldr-sdr.ddns.net:9000/?f=1270.00amz10 https://www.wcbcradio.com/\n WXYT 1270 Detroit  WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\n\n KRKO 1380 Everett WAS  KRKO 1380 Everett Washington carries games of the Class A Everett AquaSox baseball team. Via KiwiSDR U Victoria: http://kiwisdr.ece.uvic.ca:8073/?f=1380.00amz10 Via KiwiSDR Sammamish WA: http://24.17.196.180:8073/?f=1380.00amz10\n KREF 1400 Norman OK  KREF 1400 in Norman Oklahoma is an affiliate of the St Louis Cardinals radio network. St. Louis Cardinals (MLB) \u0026amp; St. Louis Rams (NFL) games, Oklahoma University sports. KiwiSDR: W5TSU Norman OK: http://sdr.w5tsu.net:8073/?f=1400.00amz10  KSTP 1500 Minneapols  KSTP Minneapolis is the flagship station for the Minnesota Twins baseball club.\n WFED 1500 Washington DC  WFED 1500 \u0026ldquo;Federal News Radio\u0026rdquo; broadcasts Washington Nationals baseball from Washington, DC. It is a 50,000 watt Class A station.\n\n KEBC 1560 Oklahoma City OK  KEBC 1560 Oklahoma City is an affiliate of the Texas Rangers radio network. Via W5TWU KiwiSDR: http://sdr.w5tsu.net:8073/?f=1560.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/arrow/",
@@ -525,6 +602,13 @@
 	"content": "CentOS is the “Community ENTerprise Operating System”. It is a free rebuild of source packages from the Red Hat Enterprise Linux. CentOS uses the “yum” package manager.\nhttps://www.centos.org\nCentOS 7 is the current release, with ARM support.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/baseball/national-league/chicago-cubs/",
+	"title": "Chicago Cubs",
+	"tags": [],
+	"description": "",
+	"content": "Chicago Cubs baseball comes via a radio network that includes WSCR 670 Chicago.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/chicago-white-sox/",
 	"title": "Chicago White Sox",
 	"tags": [],
@@ -585,7 +669,7 @@
 	"title": "DM - Southwest US",
 	"tags": [],
 	"description": "",
-	"content": "DM34: Arizona\n KiwiSDR NO1D Prescott Valley http://no1d.duckdns.org:8073/  DM79 - Denver CO\nGrid DM79 is the Denver, Colorado area\n"
+	"content": "DM34: Arizona\n KiwiSDR NO1D Prescott Valley http://no1d.duckdns.org:8073/  DM62oi: Las Cruces NM\n KiwiSDR W5UXH Las Cruces NM http://w5uxh-kiwi.dyndns.org:8073/  DM79 - Denver CO\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/grid/dn/",
@@ -593,6 +677,13 @@
 	"tags": [],
 	"description": "",
 	"content": "DN14: Idaho - Oregon\n DN14: https://www.coilgun.info/rover-id/DN14.htm DN14lf - Weiser, ID - KA7U - http://ka7u.no-ip.org:8073/  DN26: Montana - Idaho\n http://www.levinecentral.com/ham/grid_square.php?Grid=DN26 KiwiSDR: W0AY, Stevensville, MT - http://foxgulch.net:8073/  "
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/grid/do/",
+	"title": "DO - Western Canada",
+	"tags": [],
+	"description": "",
+	"content": "DO33: Edmonton\n KiwiSDR: VE6SLP / VE6JY, Lamont (Edmonton) Alberta: http://kiwisdr.ve6slp.ca:8173/  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/debian/",
@@ -630,25 +721,11 @@
 	"content": "EM13 - Parker, TX north of Dallas TX\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM13 KiwiSDR - KF6VO - http://ranch-pt.no-ip.org:8073/  EM15em - Oklahoma City OK\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM15em KiwiSDR - W5TSU - http://sdr.w5tsu.net:8073/  EM28 - Kansas - Missouri Just south of Kansas City.\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM28 KiwiSDR - http://136.63.226.118:8073/  EM79 - Central Indiana\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM79 KiwiSDR - http://38.86.67.206:8073/  "
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/radio/grid/en61/",
-	"title": "EN61 - Chicago IL",
+	"uri": "https://vielmetti.github.io/commonplace/radio/grid/en/",
+	"title": "EN - North Central US",
 	"tags": [],
 	"description": "",
-	"content": "No SDRs in Chicago that I can find.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/radio/grid/en70/",
-	"title": "EN70 - Central IN / OH",
-	"tags": [],
-	"description": "",
-	"content": "http://www.levinecentral.com/ham/grid_square.php?Grid=EN70\n EN70vs, Elida, Ohio - http://65.29.112.189:8073/  "
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/radio/grid/en82/",
-	"title": "EN82 - Detroit Michigan",
-	"tags": [],
-	"description": "",
-	"content": "http://www.levinecentral.com/ham/grid_square.php?Grid=EN82\n EN82de - Fenton, MI - KiwiSDR W8CMN - http://dentonhill-sdr.moses.bz/ EN82hm - Farmington Hills, MI - KiwiSDR KB8SPI - http://misdr.duckdns.org/ EN82ip - Pontiac, MI - Global Tuners - https://www.globaltuners.com/receiver/1460/js2  "
+	"content": "EN36 - Duluth MN\n EN36ws - Duluth, MN - Global Tuners - https://www.globaltuners.com/receiver/1858/js2  EN61 - Chicago IL\nNo SDRs in Chicago that I can find.\nEN70 - Central IN / OH\n http://www.levinecentral.com/ham/grid_square.php?Grid=EN70vs EN70vs - Elida, OH - KiwiSDR - http://65.29.112.189:8073/  EN82 - Detroit MI\n http://www.levinecentral.com/ham/grid_square.php?Grid=EN82 EN82de - Fenton, MI - KiwiSDR W8CMN - http://dentonhill-sdr.moses.bz/ EN82hm - Farmington Hills, MI - KiwiSDR KB8SPI - http://misdr.duckdns.org/ EN82ip - Pontiac, MI - Global Tuners - https://www.globaltuners.com/receiver/1460/js2  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/echolink/",
@@ -707,25 +784,11 @@
 	"content": "FM18 covers the Washington, DC area.\nhttp://www.levinecentral.com/ham/grid_square.php?Grid=FM18\n FM18cr - Warrenton, VA - K1RA - KiwiSDR: http://kiwisdr.k1ra.us:8073/ FM18is - Burke, VA - N4TVC KiwiSDR: http://n4tvc.zapto.org:8073/  "
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/radio/grid/fn20/",
-	"title": "FN20 - NY - NJ - PA",
+	"uri": "https://vielmetti.github.io/commonplace/radio/grid/fn/",
+	"title": "FN - Northeast",
 	"tags": [],
 	"description": "",
-	"content": "http://www.levinecentral.com/ham/grid_square.php?Grid=FN20\n FN20 - K2SDR - http://k2sdr.homelinux.com:8073/ FN20wj - http://jerseyshoresdr.hopto.org:8073/  "
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/radio/grid/fn41/",
-	"title": "FN41 - Cape Cod / Rhode Island",
-	"tags": [],
-	"description": "",
-	"content": "http://www.levinecentral.com/ham/grid_square.php?Grid=FN41\n FN41wq - South Dennis, MA - http://rosslloyd.asuscomm.com:8073/  "
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/radio/grid/fn43/",
-	"title": "FN43 - New Hampshire / Maine",
-	"tags": [],
-	"description": "",
-	"content": "http://www.levinecentral.com/ham/grid_square.php?Grid=FN43\n FN43fe - Concord, NH - http://kiwisdr.surriel.com/  "
+	"content": "FN12: Finger Lakes NY\n http://rx320.doesntexist.org:8073/  FN13: Rochester NY\n WA2ZKD http://rx.jimlill.com:8073/  FN20: New York / New Jersey\n http://www.levinecentral.com/ham/grid_square.php?Grid=FN20 FN20 - K2SDR - http://k2sdr.homelinux.com:8073/ FN20wj - http://jerseyshoresdr.hopto.org:8073/  FN25: Ottawa Ontario\n http://www.ma-ku.com:8073/  FN41 - Cape Cod / Rhode Island\n http://www.levinecentral.com/ham/grid_square.php?Grid=FN41 FN41wq - South Dennis, MA - http://rosslloyd.asuscomm.com:8073/  FN43 - New Hampshire / Maine\n http://www.levinecentral.com/ham/grid_square.php?Grid=FN43 FN43fe - Concord, NH - http://kiwisdr.surriel.com/  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/fedora/",
@@ -812,6 +875,13 @@
 	"content": "HHVM is a virtual machine for running PHP from Facebook.\nHHVM is an open-source virtual machine designed for executing programs written in Hack and PHP. HHVM uses a just-in-time (JIT) compilation approach to achieve superior performance while maintaining the development flexibility that PHP provides.\nAs of March 9, 2017, HHVM has been ported to the ARM environment.\nhttp://groups.google.com/forum/#!forum/hhvm-arm\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/houston-astros/",
+	"title": "Houston Astros",
+	"tags": [],
+	"description": "",
+	"content": "The Houston Astros radio network flagship station is [KBME] 790 Houston. They can be heard on KTKR 760 San Antonio.\nRadio network: http://houston.astros.mlb.com/hou/schedule/radio_affiliates.jsp\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/writing/how-many-publishable-words/",
 	"title": "How many words a day?",
 	"tags": [],
@@ -852,6 +922,13 @@
 	"tags": [],
 	"description": "",
 	"content": "LiveATC: https://www.liveatc.net/search/?icao=KDTW\nFlightRadar24: https://www.flightradar24.com/airport/dtw/arrivals\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kebc/",
+	"title": "KEBC 1560 Oklahoma City OK",
+	"tags": [],
+	"description": "",
+	"content": "KEBC 1560 Oklahoma City is an affiliate of the Texas Rangers radio network.\nVia W5TWU KiwiSDR: http://sdr.w5tsu.net:8073/?f=1560.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/aviation/kyip/",
@@ -973,6 +1050,20 @@
 	"content": "WINZ 940 is the flagship station of the Miami Marlins baseball radio network.\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/baseball/national-league/milwaukee-brewers/",
+	"title": "Milwaukee Brewers",
+	"tags": [],
+	"description": "",
+	"content": "The Brewers\u0026rsquo; flagship radio station is WTMJ (620 AM).\nThe radio network extends throughout Wisconsin.\nhttp://milwaukee.brewers.mlb.com/mil/schedule/radio_network.jsp\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/minnesota-twins/",
+	"title": "Minnesota Twins",
+	"tags": [],
+	"description": "",
+	"content": "Treasure Island Baseball Network map: http://minnesota.twins.mlb.com/min/schedule/tibn.jsp\nListen via [KDAL] Duluth 610.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/",
 	"title": "Morgan and York",
 	"tags": [],
@@ -1013,6 +1104,13 @@
 	"tags": [],
 	"description": "",
 	"content": "New Raja Rani serves an Indian buffet on William Street. The a2b3 group had an enjoyable meal on the patio in the summertime. Indoors it\u0026rsquo;s a little noisy but quite servicable.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/new-york-yankees/",
+	"title": "New York Yankees",
+	"tags": [],
+	"description": "",
+	"content": "The New York Yankees flagship station is WFAN-AM 660 and WFAN-FM 101.9 New York.\nRadio network: https://www.wikiwand.com/en/New_York_Yankees_Radio_Network\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/nixos/",
@@ -1092,6 +1190,13 @@
 	"content": "PiAware is a ADS-B and MLAT ground station software for the Raspberry Pi from Flightaware.\nhttp://flightaware.com/adsb/piaware/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/baseball/national-league/pittsburgh-pirates/",
+	"title": "Pittsburgh Pirates",
+	"tags": [],
+	"description": "",
+	"content": "The Pittsburgh Pirates can be heard via an affiliate, WCBC 1270 Cumberland MD.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/",
 	"title": "Programming languages",
 	"tags": [],
@@ -1117,7 +1222,7 @@
 	"title": "Radio",
 	"tags": [],
 	"description": "",
-	"content": " Radio Some notes on radio.\n AM broadcast  \n Amateur Radio  Operating notes for amateur radio.\n Aviation  Radio reception of tower communications for aviation, as well as ADS-B transponders that can be received on 1090 Mhz.\n FM Broadcast stations  A good selection of FM broadcast stations that are interesting to listen to, locally and from afar.\n Grid  Amateur radio operators use a grid square system (\u0026ldquo;Maidenhead\u0026rdquo;) to give locations of stations with some precision using very few characters. Herein is some set of grid squares with interesting stations.\n Marine  Marine radio including automatic ship location with AIS-B.\n Meteors  Meteors can be heard via radio using backscatter.\n Scanners  Listening to remote public service and utility traffic via a variety of scanner systems.\n Shortwave Listening  Tuning in shortwave stations around the world.\n Skywarn  Various Skywarn repeaters and rebroadcast feeds.\n Software defined radio  Radio tuners implemented in software, for your listening and hacking pleasure.\n "
+	"content": " Radio Some notes on radio.\n AM broadcast  AM broadcast stations, with notes especially on DX\u0026rsquo;ing baseball games.\n\n Amateur Radio  Operating notes for amateur radio.\n Aviation  Radio reception of tower communications for aviation, as well as ADS-B transponders that can be received on 1090 Mhz.\n FM Broadcast stations  A good selection of FM broadcast stations that are interesting to listen to, locally and from afar.\n Grid  Amateur radio operators use a grid square system (\u0026ldquo;Maidenhead\u0026rdquo;) to give locations of stations with some precision using very few characters. Herein is some set of grid squares with interesting stations.\n Marine  Marine radio including automatic ship location with AIS-B.\n Meteors  Meteors can be heard via radio using backscatter.\n Scanners  Listening to remote public service and utility traffic via a variety of scanner systems.\n Shortwave Listening  Tuning in shortwave stations around the world.\n Skywarn  Various Skywarn repeaters and rebroadcast feeds.\n Software defined radio  Radio tuners implemented in software, for your listening and hacking pleasure.\n "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/weather/twitter/radio/",
@@ -1257,7 +1362,7 @@
 	"title": "Texas Rangers",
 	"tags": [],
 	"description": "",
-	"content": "Radio network: PDF\n"
+	"content": "The Texas Rangers radio network includes KEBC Oklahoma City.\nRadio network: PDF\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/writing/bloggers-secret/",
@@ -1272,6 +1377,20 @@
 	"tags": [],
 	"description": "",
 	"content": "This weblog is an unpolished open notebook. It\u0026rsquo;s primarily full of two things: things I want to remember, and things I want to forget. Let me explain.\nA weblog is an augmented memory for those fleeting moments of life where you really wish you had some record of, and where you know that if you don\u0026rsquo;t write it down now it\u0026rsquo;ll be gone forever. It\u0026rsquo;s the capture place for that initial review of a piece of software you might or might not grow fond of, the record of what was talked about at a particularly interesting lunch meeting, or the color of a late spring sky (grey, with low clouds; good strawberry picking weather if the rain holds off, but not good for ripening the strawberries). When you go back to reread what\u0026rsquo;s been written down, some part of the memories come back. If you\u0026rsquo;re lucky and captured some particularly salient point, the entire memory – the entire conversation – can return and you\u0026rsquo;ll be transported back to another time and place.\nA weblog is also a place for the things that you figure out through dogged attention to some terribly inconvenient detail of something that\u0026rsquo;s not working. When you figure it out, you want to write it up so that you can repeat the process if it ever happens to you again. You\u0026rsquo;d really rather never have to go through the ordeal again but just in case someone else happens on it you\u0026rsquo;ll have that capsule of hard-won knowlege written down. You\u0026rsquo;ll write it down so that you can forget it except when you need to refer to it again, when you\u0026rsquo;ll relearn it as from new based on your old notes.\nI\u0026rsquo;ll cheat from time to time, going through old posts and updating them with new information or with recollections that match the time. Every so often I\u0026rsquo;ll unpublish a piece that sounds like it doesn\u0026rsquo;t want to be something that I want to remember and that isn\u0026rsquo;t forgotten yet, or that has such atrocious grammar that I don\u0026rsquo;t want to be remembered by it. My drafts folder has over 200 such articles, ones that neither qualified for remembering or for forgetting, but that I can\u0026rsquo;t easily bring myself to completely deleting.\nSome blog to remember, some blog to forget (apologies to the Eagles).\nThis entry was posted in Memory, Writing on June 10, 2013.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/baseball/minor-league/toledo-mudhens/",
+	"title": "Toledo Mudhens",
+	"tags": [],
+	"description": "",
+	"content": "The Toledo Mudhens broadcast on 1230 AM WCWA.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/toronto-bluejays/",
+	"title": "Toronto Bluejays",
+	"tags": [],
+	"description": "",
+	"content": "The Toronto Bluejays radio network flagship station is CJCL 590 Toronto.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/tuscan-cafe/",

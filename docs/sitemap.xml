@@ -28,11 +28,27 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/cjcl/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/kcsp/</loc>
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/kdal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtmj/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wfan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wscr/</loc>
   </url>
   
   <url>
@@ -45,6 +61,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/ktkr/</loc>
   </url>
   
   <url>
@@ -64,6 +84,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/fm-broadcast/cbe/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wwoz/</loc>
   </url>
   
@@ -77,6 +101,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/winz/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wroc/</loc>
   </url>
   
   <url>
@@ -161,6 +189,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/kmox/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/kqna/</loc>
   </url>
   
@@ -173,11 +205,23 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/cfgo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wcbc/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wxyt/</loc>
   </url>
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/krko/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/kref/</loc>
   </url>
   
   <url>
@@ -307,6 +351,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/baseball/national-league/chicago-cubs/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/baseball/american-league/chicago-white-sox/</loc>
   </url>
   
@@ -347,6 +395,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/grid/do/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/debian/</loc>
   </url>
   
@@ -367,15 +419,7 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/radio/grid/en61/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/radio/grid/en70/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/radio/grid/en82/</loc>
+    <loc>https://vielmetti.github.io/commonplace/radio/grid/en/</loc>
   </url>
   
   <url>
@@ -411,15 +455,7 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/radio/grid/fn20/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/radio/grid/fn41/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/radio/grid/fn43/</loc>
+    <loc>https://vielmetti.github.io/commonplace/radio/grid/fn/</loc>
   </url>
   
   <url>
@@ -471,6 +507,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/baseball/american-league/houston-astros/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/writing/how-many-publishable-words/</loc>
   </url>
   
@@ -492,6 +532,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/aviation/kdtw/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/kebc/</loc>
   </url>
   
   <url>
@@ -563,6 +607,14 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/baseball/national-league/milwaukee-brewers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/baseball/american-league/minnesota-twins/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coffee/morgan-and-york/</loc>
   </url>
   
@@ -584,6 +636,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/new-raja-rani/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/baseball/american-league/new-york-yankees/</loc>
   </url>
   
   <url>
@@ -628,6 +684,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/aviation/piaware/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/baseball/national-league/pittsburgh-pirates/</loc>
   </url>
   
   <url>
@@ -733,6 +793,14 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/writing/remember-or-forget/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/baseball/minor-league/toledo-mudhens/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/baseball/american-league/toronto-bluejays/</loc>
   </url>
   
   <url>
