@@ -7,7 +7,7 @@ EN36 - Duluth MN
 
 EN61 - Chicago IL
 
-No SDRs in Chicago that I can find.
+* No SDRs in Chicago that I can find.
 
 EN70 - Central IN / OH
 
@@ -20,3 +20,7 @@ EN82 - Detroit MI
 * EN82de - Fenton, MI - KiwiSDR W8CMN - http://dentonhill-sdr.moses.bz/
 * EN82hm - Farmington Hills, MI - KiwiSDR KB8SPI - http://misdr.duckdns.org/
 * EN82ip - Pontiac, MI - Global Tuners - https://www.globaltuners.com/receiver/1460/js2
+
+EN91 - Cleveland OH
+
+* No SDRs available.

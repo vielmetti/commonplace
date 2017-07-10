@@ -15,6 +15,10 @@ FN20: New York / New Jersey
 * FN20 - K2SDR - http://k2sdr.homelinux.com:8073/
 * FN20wj - http://jerseyshoresdr.hopto.org:8073/
 
+FN21: Milford, PA
+
+* http://k3fef.com:8901/
+
 FN25: Ottawa Ontario
 
 * http://www.ma-ku.com:8073/
