@@ -522,7 +522,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     width: calc(100% - 20px);
 }
 #sidebar.showVisitedLinks ul li a span {
-    width: calc(100% - 45px);
+    width: calc(100% - 8px);
 }
 #sidebar ul li > a {
     padding: 2px 0;
@@ -655,7 +655,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     font-size: 1.2rem;
 }
 #footer {
-    padding: 3rem 1rem;
+    padding: 2rem 1rem 0 ;
     color: #b3b3b3;
     font-size: 13px;
 }
@@ -1029,11 +1029,11 @@ td {
 }
 
 #footer {
-    min-height: 200px;
+    min-height: 3s0px;
 }
 
 .highlightable {
-    padding: 1rem 0 1rem;
+    padding: 0rem 0 0rem;
     overflow: auto;
     position: relative;
     height: 100%;
@@ -1237,9 +1237,14 @@ pre .copy-to-clipboard:hover {
 #sidebar ul li.visited > a .read-icon {
     color: #2053AB;
     display: block;
+    font-size: xx-small;
+    position: absolute;
+    float: left;
+    top: 12px;
+    left: -10px;
 }
 #sidebar ul li.visited.active > a .read-icon {
-    right: 40px;
+    left: 7px;
 }
 
 #sidebar ul li .category-icon {
@@ -1248,7 +1253,8 @@ pre .copy-to-clipboard:hover {
     float: right;
     position: absolute;
     right: 0px;
-    margin: 0 !important;
+    margin: 0px !important;
+    padding-left: 20px !important;
     top: 9px;
 }
 
