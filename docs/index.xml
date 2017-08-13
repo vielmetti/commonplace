@@ -6,7 +6,6 @@
     <description>Recent content on Commonplace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2017 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://vielmetti.github.io/commonplace/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,18 +31,18 @@ http://www.broadcastify.com/listen/feed/19998</description>
     </item>
     
     <item>
-      <title>CJCL 590 Toronto</title>
+      <title>CJCL 590 Toronto Ontario</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/cjcl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/cjcl/</guid>
-      <description>CJCL 590 Toronto can be heard in Rochester, NY.
+      <description>CJCL 590 Toronto can be heard in Rochester, NY. The station is the radio home of the Toronto Blue Jays.
 http://rx.jimlill.com:8073/?f=590.00amz10
-It is the radio home of the Toronto Blue Jays.</description>
+Note interference from WEZE 590 Boston.</description>
     </item>
     
     <item>
-      <title>KCSP 610 Kansas City</title>
+      <title>KCSP 610 Kansas City Missouri</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kcsp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -54,7 +53,7 @@ It is the radio home of the Toronto Blue Jays.</description>
     </item>
     
     <item>
-      <title>KDAL 610 Duluth MN</title>
+      <title>KDAL 610 Duluth Minnesota</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kdal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -64,7 +63,18 @@ Tune via Global Tuners: https://www.globaltuners.com/receiver/1858-Duluth-MN-1</
     </item>
     
     <item>
-      <title>WTMJ 620 Milwaukee</title>
+      <title>KTAR 620 Phoenix Arizona</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/ktar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/ktar/</guid>
+      <description>KTAR 620 Phoenix is the flagship station of the Arizona Diamondbacks radio baseball network.
+Via KiwiSDR Prescott Valley AZ: http://no1d.duckdns.org:8073/?f=620.00amz10
+Please note that the Prescott Valley SDR also picks up KQNA 1130, a local station with less power but much better reception.</description>
+    </item>
+    
+    <item>
+      <title>WTMJ 620 Milwaukee Wisconsin</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtmj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -77,7 +87,7 @@ Listen via KiwiSDR:
     </item>
     
     <item>
-      <title>WFAN 660 New York City</title>
+      <title>WFAN 660 New York City New York</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wfan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -89,18 +99,18 @@ New York Yankees.&lt;/p&gt;
     </item>
     
     <item>
-      <title>WSCR 670 Chicago</title>
+      <title>WSCR 670 Chicago Illinois</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wscr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wscr/</guid>
       <description>WSCR 670 &amp;ldquo;The Score&amp;rdquo; broadcasts Chicago Cubs games.
 Listen via KiwiSDR:
- KH6ILT Elida OH: http://65.29.112.189:8073/?f=670.00amz10  </description>
+ KH6ILT Elida OH: http://65.29.112.189:8073/?f=670.00amz10 Cedar Rapids IA: http://wjniemi.hopto.org:8073/?f=670.00amz6  </description>
     </item>
     
     <item>
-      <title>KNBR 680 San Francisco</title>
+      <title>KNBR 680 San Francisco California</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/knbr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -112,18 +122,18 @@ It is a Cumulus station.&lt;/p&gt;
     </item>
     
     <item>
-      <title>WLW 700 Cincinnati</title>
+      <title>WLW 700 Cincinnati Ohio</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wlw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wlw/</guid>
       <description>WLW AM 700 is the flagship station of the Cincinnati Reds radio network.
 Via KiwiSDR:
- Elida OH: http://65.29.112.189:8073/?f=700.00amz10 Farmington Hills MI: http://misdr.duckdns.org/?f=700.00amz10 Fenton MI: http://dentonhill-sdr.moses.bz/?f=700.00amz10  </description>
+ KH6ILT Elida OH: http://65.29.112.189:8073/?f=700.00amz10 Farmington Hills MI: http://misdr.duckdns.org/?f=700.00amz10 with interference from WNZK 690&amp;frasl;680 Dearborn Heights Michigan Fenton MI: http://dentonhill-sdr.moses.bz/?f=700.00amz10  </description>
     </item>
     
     <item>
-      <title>KIRO 710 Seattle</title>
+      <title>KIRO 710 Seattle Washington</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -135,7 +145,17 @@ KIRO is the flagship station for the Seattle Mariners.&lt;/p&gt;
     </item>
     
     <item>
-      <title>KTKR 760 San Antonio TX</title>
+      <title>WOR 710 New York City New York</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wor/</guid>
+      <description>WOR 710 New York is the flagship AM station of the New York Mets.
+http://k2sdr.homelinux.com:8073/?f=710.00amz10</description>
+    </item>
+    
+    <item>
+      <title>KTKR 760 San Antonio Texas</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/ktkr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -145,7 +165,17 @@ Tune via Global Tuners: https://www.globaltuners.com/receiver/1155/js2</descript
     </item>
     
     <item>
-      <title>KOA 850 Denver</title>
+      <title>KXIC 800 Iowa City Iowa</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kxic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/kxic/</guid>
+      <description>KXIC 800 Iowa City is part of the Chicago Cubs broadcast network, and the home of Iowa Hawkeyes sports.
+http://wjniemi.hopto.org:8073/?f=800.00amz6</description>
+    </item>
+    
+    <item>
+      <title>KOA 850 Denver Colorado</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/koa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -172,7 +202,7 @@ http://www.wcbn.org</description>
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wls/</guid>
       <description>WLS 890 is the flagship station for the Chicago White Sox.
 Via KiwiSDR Farmington Hills MI: http://misdr.duckdns.org/?f=890.00amz10
-Via KiwiSDR Elida OH: http://65.29.112.189:8073/?f=890.00amz10</description>
+Via KiwiSDR KH6ILT Elida OH: http://65.29.112.189:8073/?f=890.00amz10</description>
     </item>
     
     <item>
@@ -206,6 +236,18 @@ https://www.wwoz.org/</description>
     </item>
     
     <item>
+      <title>WSUI 910 Iowa City Iowa</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wsui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wsui/</guid>
+      <description>WSUI 910 is public radio from Iowa Public Radio.
+BBC World Service overnight.
+Via KiwiSDR Euphonic Studio: http://wjniemi.hopto.org:8073/?f=910.00amz6
+http://iowapublicradio.org/#stream/0</description>
+    </item>
+    
+    <item>
       <title>WUOM 91.7 Ann Arbor MI</title>
       <link>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wuom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -215,7 +257,7 @@ https://www.wwoz.org/</description>
     </item>
     
     <item>
-      <title>KKNE 940 Honolulu</title>
+      <title>KKNE 940 Honolulu Hawaii</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kkne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -225,7 +267,7 @@ KiwiSDR at NH6XO: http://72.235.91.131:8073/?f=940.00amz10</description>
     </item>
     
     <item>
-      <title>WINZ 940 Miami</title>
+      <title>WINZ 940 Miami Florida</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/winz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -237,7 +279,7 @@ Twitter: https://twitter.com/940WINZ</description>
     </item>
     
     <item>
-      <title>WROC 950 Rochester NY</title>
+      <title>WROC 950 Rochester New York</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wroc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -247,7 +289,7 @@ Sports Radio 950, home to coverage of the Buffalo Sabres, Rochester Knighthawks,
     </item>
     
     <item>
-      <title>WWJ 950 Detroit</title>
+      <title>WWJ 950 Detroit Michigan</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wwj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -257,6 +299,8 @@ together on the 8s. There&amp;rsquo;s an occasional sports feed,
 which varies depending on the year.&lt;/p&gt;
 
 &lt;p&gt;A CBS radio station.&lt;/p&gt;
+
+&lt;p&gt;Part of the University of Michigan Wolverines Football radio network.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -273,90 +317,6 @@ Global Tuners in Pontiac, MI: https://www.globaltuners.com/receiver/1460/js2</de
     </item>
     
     <item>
-      <title>WOA 11, July 7, 2017 (W27)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w27/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w27/</guid>
-      <description>Works on ARM news, Issue 11, July 7, 2017 (Week 27) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github and Gitbook. Subscription details are at the bottom of this issue.
-In this issue  &amp;ldquo;Momentum is Building for ARM in HPC&amp;rdquo;, The Next Platform Kubernetes 1.7 release Xen 4.9 release Docker for Raspbian (ARMv6) for v17.</description>
-    </item>
-    
-    <item>
-      <title>WOA 10, June 30, 2017 (W26)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w26/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w26/</guid>
-      <description>Works on ARM news, Issue 10, Friday June 30, 2017 (Week 26) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github and Gitbook. Subscription details are at the bottom of this issue.
-In this issue  Interview: Jim Perrin on CentOS on ARM ARM HPC Users Group Ask Ubuntu: Running 32-bit ARM on 64-bit systems SUSE Linux (SLES) on ARM 24-core Socionext server EFI and U-Boot on Dragonboard 410c Gitlab Omnibus edition via elraro, ready for testing Linuxkit on ARM Ubuntu on Raspberry Pi 3 compute module Go 1.</description>
-    </item>
-    
-    <item>
-      <title>WOA 9, June 16, 2017 (W25)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w25/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w25/</guid>
-      <description>Works on ARM news, Issue 9, Friday June 16, 2017 (Week 25) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.
-In this issue:
-Elasticsearch port to ARM, Test Go 1.9 beta 1, Test Rust 1.18, Cavium ThunderX2 launch partners, Qualcomm Centriq 2400 at AnsibleFest, Frankfurt HPC conference, Fedora 26 Beta, Debian 9 LTS, Alpine 3.</description>
-    </item>
-    
-    <item>
-      <title>WOA 8, June 16, 2017 (W24)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w24/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w24/</guid>
-      <description>Works on ARM news, Issue 8, Friday June 16, 2017 (Week 24) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.
-In this issue:
-Go 1.9 Beta 1 with ARM64 binaries; iPad Pro &amp;ldquo;fastest yet&amp;rdquo;; Intel, Qualcomm patents; MACCHIATObin development board and cluster; Snapdragon 835 development board; ARM at the UEFI Forum.</description>
-    </item>
-    
-    <item>
-      <title>WOA 7, June 9, 2017 (W23)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w23/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w23/</guid>
-      <description>Works on ARM news, Issue 7, Friday June 9, 2017 (Week 23) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.
-In this issue:
-98 open spec hacker friendly single board computers, Automotive Grade Linux, ThunderX2 presentations at HPC conference, Qualcomm Snapdragon 835 + Microsoft Windows 10, Minio on Go speedups from FOSDEM, and Wireguard VPN with ARM speedups.</description>
-    </item>
-    
-    <item>
-      <title>WOA 6, June 2, 2017 (W22)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w22/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w22/</guid>
-      <description>Works on ARM news, Issue 6, Friday June 2, 2017 (Week 22) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter&amp;rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.
-In this issue:
-Gigabyte announces Cavium ThunderX2 support; Alpine Linux 3.6.0, 3.6.1; New Docker container directory for &amp;ldquo;arm64v8&amp;rdquo;; OpenSUSE on ARM hardware; Ard Biesheuvel&amp;rsquo;s &amp;ldquo;Works of ARD&amp;rdquo; weblog and &amp;ldquo;Project dogfood&amp;rdquo;; and pigz, a fast parallel version of gzip.</description>
-    </item>
-    
-    <item>
-      <title>WOA 5, May 26, 2017 (W21)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w21/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w21/</guid>
-      <description>Works on ARM news, Issue 5, Friday May 26, 2017 (Week 21) This is the fifth edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
-In this issue: Apache Cassandra performance report from MityLytics; Go 1.8.3 release; Elixir and Erlang; HHVM, a virtual machine for running PHP and Hack; GNU Parallel, FFmpeg, a video transcoder; and Firefly&amp;rsquo;s ARMv8 Kickstarter.</description>
-    </item>
-    
-    <item>
-      <title>WOA 4, May 19, 2017 (W20)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w20/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w20/</guid>
-      <description>Works on ARM news, Issue 4, Friday May 19, 2017 (Week 20) This is the fourth edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
-In this issue: developer resources from ARM, HPE&amp;rsquo;s &amp;ldquo;The Machine&amp;rdquo;, a NAS Kickstarter from Helios, the controversy over systemd that launched Devuan, OpenJDK builds from AdoptOpenJDK, Go 1.</description>
-    </item>
-    
-    <item>
       <title>WTEM 980 Washington DC</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -367,37 +327,7 @@ KiwiSDR via N4TVC: http://n4tvc.zapto.org:8073/?f=980.00amz10</description>
     </item>
     
     <item>
-      <title>WOA 3, May 12, 2017 (W19)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w19/</guid>
-      <description>Works on ARM news, Issue 3, Friday May 12, 2017 (Week 19) This is the third edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
-This issue has Resin&amp;rsquo;s 144-node ARM-based &amp;ldquo;Beast&amp;rdquo; cluster, a conference report from Red Hat Summit in Boston, video from DockerCon in Austin, an OpenBSD 6.</description>
-    </item>
-    
-    <item>
-      <title>WOA 2, May 5, 2017 (W18)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w18/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w18/</guid>
-      <description>Works on ARM news, Issue 2, Friday May 5, 2017 This is the second edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
-If you have any questions, comments, or suggestions for Issue 2, please send them to ed@packet.net or contact me on the Packet community Slack channel as &amp;ldquo;ed.</description>
-    </item>
-    
-    <item>
-      <title>WOA 1, April 28, 2017 (W17)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w17/</link>
-      <pubDate>Fri, 28 Apr 2017 12:00:00 -0400</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w17/</guid>
-      <description>Works on ARM news, Issue 1, April 28, 2017 This is the first edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.
-If you have any questions, comments, or suggestions for Issue 2, please send them to ed@packet.net or contact me on the Packet community Slack channel as &amp;ldquo;ed.packet&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>KIKI 990 Honolulu</title>
+      <title>KIKI 990 Honolulu Hawaii</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kiki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -407,7 +337,7 @@ KiwiSDR: http://72.235.91.131:8073/?f=990.00amz10</description>
     </item>
     
     <item>
-      <title>WMVP 1000 Chicago</title>
+      <title>WMVP 1000 Chicago Illinois</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wmvp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -416,15 +346,15 @@ KiwiSDR: http://72.235.91.131:8073/?f=990.00amz10</description>
 in clear at night to the Detroit market.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;via Farmington Hills, MI: &lt;a href=&#34;http://misdr.duckdns.org/?f=1000.00amz10&#34;&gt;http://misdr.duckdns.org/?f=1000.00amz10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;via Elida, OH: &lt;a href=&#34;http://65.29.112.189:8073/?f=1000.00amz10&#34;&gt;http://65.29.112.189:8073/?f=1000.00amz10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;via Farmington Hills, MI: &lt;a href=&#34;http://misdr.duckdns.org/?f=1000.00amz10&#34; target=&#34;_blank&#34;&gt;http://misdr.duckdns.org/?f=1000.00amz10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;via KH6ILT Elida, OH: &lt;a href=&#34;http://65.29.112.189:8073/?f=1000.00amz10&#34; target=&#34;_blank&#34;&gt;http://65.29.112.189:8073/?f=1000.00amz10&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>WINS 1010 New York City</title>
+      <title>WINS 1010 New York City New York</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -436,18 +366,19 @@ A CBS radio station.&lt;/p&gt;
     </item>
     
     <item>
-      <title>WTKA 1050 Ann Arbor</title>
+      <title>WTKA 1050 Ann Arbor Michigan</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtka/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtka/</guid>
-      <description>&lt;p&gt;WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.&lt;/p&gt;
+      <description>&lt;p&gt;WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball
+and Michigan Wolverines football.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>KNX 1070 Los Angeles</title>
+      <title>KNX 1070 Los Angeles Californai</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/knx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -458,7 +389,18 @@ A CBS radio station.&lt;/p&gt;
     </item>
     
     <item>
-      <title>WBAL 1090 Baltimore</title>
+      <title>WTIC 1080 Hartford Connecticut</title>
+      <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtic/</guid>
+      <description>WTIC 1080 Hartford Connecticut is a 50,000 watt station on the Boston Red Sox radio network.
+Via KiwiSDR:
+ Luray, VA http://n4ldr-sdr.ddns.net:9000/?f=1080.00amz10 Burke, VA http://n4tvc.zapto.org:8073/?f=1080.00amz10 New Jersey http://jerseyshoresdr.hopto.org:8073/?f=1080.00amz10 Rochester, NY http://rx.jimlill.com:8073/?f=1080.00amz10  </description>
+    </item>
+    
+    <item>
+      <title>WBAL 1090 Baltimore Maryland</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wbal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -468,7 +410,7 @@ KiwiSDR N4TVC: http://n4tvc.zapto.org:8073/?f=1090.00amz10</description>
     </item>
     
     <item>
-      <title>WTAM 1100 Cleveland</title>
+      <title>WTAM 1100 Cleveland Ohio</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -479,7 +421,7 @@ Via KiwiSDR
     </item>
     
     <item>
-      <title>KMOX 1120 St Louis MO</title>
+      <title>KMOX 1120 St Louis Missouri</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kmox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -491,7 +433,7 @@ KiwiSDR:
     </item>
     
     <item>
-      <title>KQNA 1130 Prescott Valley AZ</title>
+      <title>KQNA 1130 Prescott Valley Arizona</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kqna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -502,7 +444,7 @@ http://www.kqna.com/</description>
     </item>
     
     <item>
-      <title>KHTK 1140 Sacramento</title>
+      <title>KHTK 1140 Sacramento California</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/khtk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -517,8 +459,8 @@ KiwiSDR: N3LGA Sunnyvale, CA: http://sdr.n3lga.com:8073/?f=1140.00amz10</descrip
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wima/</guid>
-      <description>WIMA 1150 Lima Ohio is in the Cincinnati Reds radio network.
-http://65.29.112.189:8073/?f=1150.00amz10</description>
+      <description>WIMA 1150 Lima Ohio is in the Cincinnati Reds radio network and the Ohio State Buckeyes football radio network.
+Via KiwiSDR KH6ILT Elida OH: http://65.29.112.189:8073/?f=1150.00amz10</description>
     </item>
     
     <item>
@@ -534,18 +476,17 @@ Listen via KiwiSDR. http://www.ma-ku.com:8073/?f=1200.00amz10</description>
     </item>
     
     <item>
-      <title>WCBC 1270 Cumberland MD</title>
+      <title>WCBC 1270 Cumberland Maryland</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wcbc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/am-broadcast/wcbc/</guid>
       <description>Local station WCBC-AM Cumberland MD broadcasts Pittsburgh Pirates games.
-http://n4ldr-sdr.ddns.net:9000/?f=1270.00amz10
-https://www.wcbcradio.com/</description>
+ Luray, VA N4SDR KiwiSDR http://n4ldr-sdr.ddns.net:9000/?f=1270.00amz10  https://www.wcbcradio.com/</description>
     </item>
     
     <item>
-      <title>WXYT 1270 Detroit</title>
+      <title>WXYT 1270 Detroit Michigan</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/wxyt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -557,7 +498,7 @@ the Detroit Tigers.&lt;/p&gt;
     </item>
     
     <item>
-      <title>KRKO 1380 Everett WAS</title>
+      <title>KRKO 1380 Everett Washington</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/krko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -568,7 +509,7 @@ Via KiwiSDR Sammamish WA: http://24.17.196.180:8073/?f=1380.00amz10</description
     </item>
     
     <item>
-      <title>KREF 1400 Norman OK</title>
+      <title>KREF 1400 Norman Oklahoma</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kref/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -580,7 +521,7 @@ KiwiSDR:
     </item>
     
     <item>
-      <title>KSTP 1500 Minneapols</title>
+      <title>KSTP 1500 Minneapols Minnesota</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kstp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -620,14 +561,13 @@ https://w8rp.org/</description>
     </item>
     
     <item>
-      <title>Alpine Linux</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/alpine/</link>
+      <title>Amtrak frequencies from On Track On Line</title>
+      <link>https://vielmetti.github.io/commonplace/radio/railroad/otol-amtrak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/alpine/</guid>
-      <description>Alpine Linux is officially supported on ARM. It is known for its small size and its use of musl instead of glibc as a C library.
-https://www.alpinelinux.org/
-Alpine 3.6.2 was released on June 17, 2017.</description>
+      <guid>https://vielmetti.github.io/commonplace/radio/railroad/otol-amtrak/</guid>
+      <description>VHF frequencies for Amtrak rail segments.
+http://www.on-track-on-line.com/amtrak-freqs.shtml</description>
     </item>
     
     <item>
@@ -638,16 +578,6 @@ Alpine 3.6.2 was released on June 17, 2017.</description>
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coworking/ann-arbor-software-coworkers/</guid>
       <description>Ann Arbor Software Co-Workers is a meetup group that organizes for coworking, weekly on Friday mornings. The current location is the Main St branch of Espresso Royale.
 https://www.meetup.com/Ann-Arbor-Software-Co-Workers/</description>
-    </item>
-    
-    <item>
-      <title>Apache Mesos</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/orchestration/apache-mesos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/orchestration/apache-mesos/</guid>
-      <description>Yuqi Gu presented &amp;ldquo;Running Mesos/Marathon on ARM Servers&amp;rdquo; at MesoCon Asia in Beijing on June 22, 2017. He identified a handful of build issues in Mesos dependencies that need to be addressed to make Mesos and Marathon work on aarch64.
-http://schd.ws/hosted_files/mesosconasia2017/5f/Running%20Mesos-Marathon%20on%20ARM%20servers.pdf</description>
     </item>
     
     <item>
@@ -677,18 +607,8 @@ Argus is working on a second location to be at Packard at Dewey, where Clague&am
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/baseball/national-league/arizona-diamondbacks/</guid>
-      <description>The Arizona Diamondbacks radio network includes KQNA 1130, Prescott Valley AZ.</description>
-    </item>
-    
-    <item>
-      <title>Armbian</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/</guid>
-      <description>Armbian is an operating system based on Debian designed to support ARM development boards.
-https://www.armbian.com/
-Release 5.32 is a bug fix release as of June 23, 2017.</description>
+      <description>The Arizona Diamondbacks radio network includes KQNA 1130, Prescott Valley AZ. The flagship station is KTAR 620 Phoenix AZ.
+http://arizona.diamondbacks.mlb.com/ari/schedule/affiliates.jsp</description>
     </item>
     
     <item>
@@ -767,6 +687,15 @@ http://ais.boatnerd.com/</description>
     </item>
     
     <item>
+      <title>Boston Red Sox</title>
+      <link>https://vielmetti.github.io/commonplace/baseball/american-league/boston-red-sox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/baseball/american-league/boston-red-sox/</guid>
+      <description>The Boston Red Sox radio broadcast flagship station is WEEI, and the easiest station to pick up is 50,000 watt WTIC in Hartford, Connecticut.</description>
+    </item>
+    
+    <item>
       <title>Broadcastify</title>
       <link>https://vielmetti.github.io/commonplace/radio/scanner/broadcastify/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -782,7 +711,8 @@ http://www.broadcastify.com/listen/top</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/radio/grid/cm/</guid>
-      <description> CM87: KiwiSDR: Sunnyvale, CA - N3LGA - http://sdr.n3lga.com:8073/ CM87: http://www.levinecentral.com/ham/grid_square.php?Grid=CM87  </description>
+      <description>CM87: http://www.levinecentral.com/ham/grid_square.php?Grid=CM87
+ CM87: KiwiSDR: Sunnyvale, CA - N3LGA - http://sdr.n3lga.com:8073/ CM87tj: KFS WedSDR, Half Moon Bay - W6DRZ - http://69.27.184.62:8901/  </description>
     </item>
     
     <item>
@@ -816,23 +746,12 @@ http://carrigancafe.com/</description>
     </item>
     
     <item>
-      <title>CentOS</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/centos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/centos/</guid>
-      <description>CentOS is the “Community ENTerprise Operating System”. It is a free rebuild of source packages from the Red Hat Enterprise Linux. CentOS uses the “yum” package manager.
-https://www.centos.org
-CentOS 7 is the current release, with ARM support.</description>
-    </item>
-    
-    <item>
       <title>Chicago Cubs</title>
       <link>https://vielmetti.github.io/commonplace/baseball/national-league/chicago-cubs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/baseball/national-league/chicago-cubs/</guid>
-      <description>Chicago Cubs baseball comes via a radio network that includes WSCR 670 Chicago.</description>
+      <description>Chicago Cubs baseball comes via a radio network that includes WSCR 670 Chicago and KXIC 800 Iowa City</description>
     </item>
     
     <item>
@@ -860,7 +779,7 @@ http://chirp.danplanet.com/</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vielmetti.github.io/commonplace/baseball/national-league/cincinnati-reds/</guid>
-      <description>The Cincinnati Reds radio network is an extensive one, with stations throughout Ohio, Indiana, Kentucky, and West Virginia.
+      <description>The &amp;ldquo;Cincinnati Bell Reds Radio Network&amp;rdquo; is an extensive one, with stations throughout Ohio, Indiana, Kentucky, and West Virginia.
 Some stations:
  WLW, the flagship, in Cincinnati WIMA Lima Ohio  A map:
 http://cincinnati.reds.mlb.com/cin/images/schedule/y2016/RadioAffiliateMap_Dec-2015_7x6.pdf</description>
@@ -886,17 +805,6 @@ Listen to the Indians on [WTAM] 1100 Cleveland.</description>
     </item>
     
     <item>
-      <title>Container Linux</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/coreos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/coreos/</guid>
-      <description>Container Linux (formerly CoreOS) is a container-focused operating system designed for large clusters.
-https://coreos.com/products/container-linux-subscription/
-There is active development for ARM64 for several of the core components of CoreOS, including rkt, the CoreOS container runtime.</description>
-    </item>
-    
-    <item>
       <title>CubicSDR</title>
       <link>https://vielmetti.github.io/commonplace/radio/sdr/cubicsdr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -913,7 +821,8 @@ http://cubicsdr.com/</description>
       
       <guid>https://vielmetti.github.io/commonplace/radio/grid/dm/</guid>
       <description>DM34: Arizona
- KiwiSDR NO1D Prescott Valley http://no1d.duckdns.org:8073/  DM62oi: Las Cruces NM
+ KiwiSDR NO1D Prescott Valley http://no1d.duckdns.org:8073/  DM44cu: Sedona, AZ
+ KiwiSDR W7RNA: http://w7rna.dyndns-remote.com:18073/ WebSDR W7RNA: http://w7rna.dyndns-remote.com:18901/  DM62oi: Las Cruces NM
  KiwiSDR W5UXH Las Cruces NM http://w5uxh-kiwi.dyndns.org:8073/  DM79 - Denver CO</description>
     </item>
     
@@ -936,15 +845,6 @@ http://cubicsdr.com/</description>
       <guid>https://vielmetti.github.io/commonplace/radio/grid/do/</guid>
       <description>DO33: Edmonton
  KiwiSDR: VE6SLP / VE6JY, Lamont (Edmonton) Alberta: http://kiwisdr.ve6slp.ca:8173/  </description>
-    </item>
-    
-    <item>
-      <title>Debian</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/debian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/debian/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -987,7 +887,8 @@ Tigers radio network: http://detroit.tigers.mlb.com/det/schedule/radioaffiliates
       <description>EM13 - Parker, TX north of Dallas TX
  http://www.levinecentral.com/ham/grid_square.php?Grid=EM13 KiwiSDR - KF6VO - http://ranch-pt.no-ip.org:8073/  EM15em - Oklahoma City OK
  http://www.levinecentral.com/ham/grid_square.php?Grid=EM15em KiwiSDR - W5TSU - http://sdr.w5tsu.net:8073/  EM28 - Kansas - Missouri Just south of Kansas City.
- http://www.levinecentral.com/ham/grid_square.php?Grid=EM28 KiwiSDR - http://136.63.226.118:8073/  EM79 - Central Indiana
+ http://www.levinecentral.com/ham/grid_square.php?Grid=EM28 KiwiSDR - http://136.63.226.118:8073/  EM63pj - Birmingham, Alabama - 2 meter WebSDR * http://n4dkd.asuscomm.com:8901/
+EM79 - Central Indiana
  http://www.levinecentral.com/ham/grid_square.php?Grid=EM79 KiwiSDR - http://38.86.67.206:8073/  </description>
     </item>
     
@@ -998,7 +899,8 @@ Tigers radio network: http://detroit.tigers.mlb.com/det/schedule/radioaffiliates
       
       <guid>https://vielmetti.github.io/commonplace/radio/grid/en/</guid>
       <description>EN36 - Duluth MN
- EN36ws - Duluth, MN - Global Tuners - https://www.globaltuners.com/receiver/1858/js2  EN61 - Chicago IL
+ EN36ws - Duluth, MN - Global Tuners - https://www.globaltuners.com/receiver/1858/js2  EN41gw - Iowa
+ http://wjniemi.hopto.org:8073/  EN61 - Chicago IL
  No SDRs in Chicago that I can find.  EN70 - Central IN / OH
  http://www.levinecentral.com/ham/grid_square.php?Grid=EN70vs EN70vs - Elida, OH - KiwiSDR - http://65.29.112.189:8073/  EN82 - Detroit MI
  http://www.levinecentral.com/ham/grid_square.php?Grid=EN82 EN82de - Fenton, MI - KiwiSDR W8CMN - http://dentonhill-sdr.moses.bz/ EN82hm - Farmington Hills, MI - KiwiSDR KB8SPI - http://misdr.</description>
@@ -1096,17 +998,6 @@ http://www.levinecentral.com/ham/grid_square.php?Grid=FM18
     </item>
     
     <item>
-      <title>Fedora</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/fedora/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/fedora/</guid>
-      <description>Fedora is a Linux distribution sponsored by Red Hat. The Fedora on ARM project brings Fedora to ARM processors.
-https://arm.fedoraproject.org/
-Fedora 26 Beta is pre-release software.</description>
-    </item>
-    
-    <item>
       <title>Fill the input box</title>
       <link>https://vielmetti.github.io/commonplace/writing/fill-the-input-box/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1137,34 +1028,6 @@ http://flightaware.com/adsb/</description>
     </item>
     
     <item>
-      <title>Fortran</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/fortran/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/fortran/</guid>
-      <description>ARM Fortran Compiler (Beta) is now available as part of the latest ARM Compiler for HPC Package release. The package also includes ARM C/C++ Compiler and ARM Performance Libraries and is available for leading Linux distributions running on ARMv8-A based hardware.
-https://www.hpcwire.com/off-the-wire/arm-announces-beta-release-arm-fortran-compiler/</description>
-    </item>
-    
-    <item>
-      <title>FreeBSD</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GCC</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/gcc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/gcc/</guid>
-      <description>This page intentionally left blank.</description>
-    </item>
-    
-    <item>
       <title>GQRX</title>
       <link>https://vielmetti.github.io/commonplace/radio/sdr/gqrx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1182,29 +1045,6 @@ http://gqrx.dk/</description>
       <guid>https://vielmetti.github.io/commonplace/radio/fm-broadcast/globaltuners/</guid>
       <description>Global Tuners provides access to remotely controlled radio stations around the world. Typically there is a single frequency that can be listened to at a time, and several people can share the audio from a single site.
 http://www.globaltuners.com/</description>
-    </item>
-    
-    <item>
-      <title>Go (golang)</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/golang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/golang/</guid>
-      <description>Go is a systems programming language that came from Google.
-http://golang.org
-Version 1.9 is the first release of Go that plans to have ARM64 support.</description>
-    </item>
-    
-    <item>
-      <title>HHVM</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/hhvm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/hhvm/</guid>
-      <description>HHVM is a virtual machine for running PHP from Facebook.
-HHVM is an open-source virtual machine designed for executing programs written in Hack and PHP. HHVM uses a just-in-time (JIT) compilation approach to achieve superior performance while maintaining the development flexibility that PHP provides.
-As of March 9, 2017, HHVM has been ported to the ARM environment.
-http://groups.google.com/forum/#!forum/hhvm-arm</description>
     </item>
     
     <item>
@@ -1235,6 +1075,27 @@ Radio network: http://houston.astros.mlb.com/hou/schedule/radio_affiliates.jsp</
       <description>Central Indiana Skywarn is out of Indianapolis with a repeater network that covers 39 counties.
 Web: http://www.w9nws.org/
 Via Broadcastify: http://www.broadcastify.com/listen/feed/6063</description>
+    </item>
+    
+    <item>
+      <title>IO - England</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/io/</guid>
+      <description>IO83ra * http://hackgreensdr.org:8901/
+IO91of * http://websdr.suws.org.uk/</description>
+    </item>
+    
+    <item>
+      <title>JO - Northern Europe</title>
+      <link>https://vielmetti.github.io/commonplace/radio/grid/jo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/grid/jo/</guid>
+      <description>JO32kf - Netherlands
+ http://websdr.ewi.utwente.nl:8901/  JO44pn - Germany
+ http://dj3le.spdns.de:8901/  </description>
     </item>
     
     <item>
@@ -1278,7 +1139,7 @@ FlightRadar24: https://www.flightradar24.com/airport/dtw/arrivals</description>
     </item>
     
     <item>
-      <title>KEBC 1560 Oklahoma City OK</title>
+      <title>KEBC 1560 Oklahoma City Oklahoma</title>
       <link>https://vielmetti.github.io/commonplace/radio/am-broadcast/kebc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1315,15 +1176,6 @@ AM broadcasts locally on KCSP 610.</description>
       <guid>https://vielmetti.github.io/commonplace/radio/sdr/kiwisdr/</guid>
       <description>KiwiSDR is a software-defined radio tuner that runs as a &amp;ldquo;cape&amp;rdquo; on top of a Beaglebone single-board computer.
 http://kiwisdr.com/KiwiSDR/</description>
-    </item>
-    
-    <item>
-      <title>LLVM</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/llvm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/llvm/</guid>
-      <description>This page intentionally left blank.</description>
     </item>
     
     <item>
@@ -1516,25 +1368,6 @@ Radio network: https://www.wikiwand.com/en/New_York_Yankees_Radio_Network</descr
     </item>
     
     <item>
-      <title>NixOS</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/nixos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/nixos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Node.JS</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/nodejs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/nodejs/</guid>
-      <description>Node.JS is fully supported on ARM by NodeSource.
-https://nodejs.org/en/</description>
-    </item>
-    
-    <item>
       <title>Nooelec</title>
       <link>https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1554,24 +1387,6 @@ http://www.nooelec.com</description>
     </item>
     
     <item>
-      <title>OpenJDK</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/openjdk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/openjdk/</guid>
-      <description>This page intentionally left blank.</description>
-    </item>
-    
-    <item>
-      <title>OpenSUSE</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/opensuse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/opensuse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Original Cottage Inn</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1580,15 +1395,6 @@ http://www.nooelec.com</description>
       <description>Lunch buffet at this pizza and Italian restaurant on William Street near campus.
 http://www.originalcottageinn.com/
 512 E William St, Ann Arbor MI 48104</description>
-    </item>
-    
-    <item>
-      <title>Perl</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/perl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/perl/</guid>
-      <description>This page intentionally left blank.</description>
     </item>
     
     <item>
@@ -1608,15 +1414,6 @@ http://flightaware.com/adsb/piaware/</description>
       
       <guid>https://vielmetti.github.io/commonplace/baseball/national-league/pittsburgh-pirates/</guid>
       <description>The Pittsburgh Pirates can be heard via an affiliate, WCBC 1270 Cumberland MD.</description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/python/</guid>
-      <description>This page intentionally left blank.</description>
     </item>
     
     <item>
@@ -1652,6 +1449,16 @@ http://qth.ddns.net:8073/?f=6000.00amz10</description>
     </item>
     
     <item>
+      <title>RailroadRadio.net</title>
+      <link>https://vielmetti.github.io/commonplace/radio/railroad/railroadradio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vielmetti.github.io/commonplace/radio/railroad/railroadradio/</guid>
+      <description>http://www.railroadradio.net
+Streams from the USA and Canada of railroad activity.</description>
+    </item>
+    
+    <item>
       <title>Roos Roast on Rosewood</title>
       <link>https://vielmetti.github.io/commonplace/ann-arbor/coffee/roos-rosewood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1662,24 +1469,6 @@ https://roosroast.com/</description>
     </item>
     
     <item>
-      <title>Ruby</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/ruby/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/ruby/</guid>
-      <description>This page intentionally left blank.</description>
-    </item>
-    
-    <item>
-      <title>Rust</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/language/rust/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/language/rust/</guid>
-      <description>This page intentionally left blank.</description>
-    </item>
-    
-    <item>
       <title>SDR.HU</title>
       <link>https://vielmetti.github.io/commonplace/radio/shortwave/sdr.hu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1687,15 +1476,6 @@ https://roosroast.com/</description>
       <guid>https://vielmetti.github.io/commonplace/radio/shortwave/sdr.hu/</guid>
       <description>SDR.HU is an international network of software-defined radio receivers, each of which can be tuned by several (generally four) people across a wide band of spectrum. Many of the SDR.HU sites are running KiwiSDR.
 http://sdr.hu</description>
-    </item>
-    
-    <item>
-      <title>SUSE</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/suse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/suse/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -1821,15 +1601,6 @@ A weblog is an augmented memory for those fleeting moments of life where you rea
       <guid>https://vielmetti.github.io/commonplace/ann-arbor/coffee/tuscan-cafe/</guid>
       <description>Tuscan Cafe is not a bad destination stop for a drive from Ann Arbor. Zingerman&amp;rsquo;s pastries at this cafe on Center St in Northville. Get there via M-14 (Sheldon Rd, then north).
 http://www.thetuscancafe.com/</description>
-    </item>
-    
-    <item>
-      <title>Ubuntu</title>
-      <link>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/ubuntu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/ubuntu/</guid>
-      <description></description>
     </item>
     
     <item>

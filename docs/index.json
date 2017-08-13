@@ -14,13 +14,6 @@
 	"content": "Todd Sherman KB4MHH maintains an \u0026ldquo;Index to Skywarn web pages on the Internet\u0026rdquo; since 1996.\nhttp://afn.org/~afn09444/weather/skywarn.html\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/",
-	"title": "Weekly issues",
-	"tags": [],
-	"description": "",
-	"content": "Issues of the Works on ARM Newsletter, published weekly.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/baseball/national-league/",
 	"title": "National League",
 	"tags": [],
@@ -43,77 +36,98 @@
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/cjcl/",
-	"title": "CJCL 590 Toronto",
+	"title": "CJCL 590 Toronto Ontario",
 	"tags": [],
 	"description": "",
-	"content": "CJCL 590 Toronto can be heard in Rochester, NY.\nhttp://rx.jimlill.com:8073/?f=590.00amz10\nIt is the radio home of the Toronto Blue Jays.\n"
+	"content": "CJCL 590 Toronto can be heard in Rochester, NY. The station is the radio home of the Toronto Blue Jays.\nhttp://rx.jimlill.com:8073/?f=590.00amz10\nNote interference from WEZE 590 Boston.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kcsp/",
-	"title": "KCSP 610 Kansas City",
+	"title": "KCSP 610 Kansas City Missouri",
 	"tags": [],
 	"description": "",
 	"content": "KCSP 610 is the flagship station for the Kansas City Royals.\n\nKiwiSDR: in Olathe Kansas: http://136.63.226.118:8073/?f=610amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kdal/",
-	"title": "KDAL 610 Duluth MN",
+	"title": "KDAL 610 Duluth Minnesota",
 	"tags": [],
 	"description": "",
 	"content": "KDAL Duluth 610 is a member of the Minnesota Twins \u0026ldquo;Treasure Island\u0026rdquo; radio baseball network.\nTune via Global Tuners: https://www.globaltuners.com/receiver/1858-Duluth-MN-1\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/ktar/",
+	"title": "KTAR 620 Phoenix Arizona",
+	"tags": [],
+	"description": "",
+	"content": "KTAR 620 Phoenix is the flagship station of the Arizona Diamondbacks radio baseball network.\nVia KiwiSDR Prescott Valley AZ: http://no1d.duckdns.org:8073/?f=620.00amz10\nPlease note that the Prescott Valley SDR also picks up KQNA 1130, a local station with less power but much better reception.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wtmj/",
-	"title": "WTMJ 620 Milwaukee",
+	"title": "WTMJ 620 Milwaukee Wisconsin",
 	"tags": [],
 	"description": "",
 	"content": "WTMJ is the flagship station of the Milwaukee Brewers radio network.\n50000 watts daytime, 10000 watts night time.\nhttp://www.wtmj.com/\nListen via KiwiSDR:\n Farmington Hills: http://misdr.duckdns.org/?f=620.00lsbz10 (LSB to avoid interference from 630 AM CFCO Chatham Ontario).  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wfan/",
-	"title": "WFAN 660 New York City",
+	"title": "WFAN 660 New York City New York",
 	"tags": [],
 	"description": "",
 	"content": "WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\n\nKiwiSDR Jersey shore: http://jerseyshoresdr.hopto.org:8073/?f=660.00amz10\nhttp://newyork.cbslocal.com/wfanyankeesradionetwork/\nThe Yankees radio network has 52 stations in 14 states:\nhttps://en.wikipedia.org/wiki/New_York_Yankees_Radio_Network\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wscr/",
-	"title": "WSCR 670 Chicago",
+	"title": "WSCR 670 Chicago Illinois",
 	"tags": [],
 	"description": "",
-	"content": "WSCR 670 \u0026ldquo;The Score\u0026rdquo; broadcasts Chicago Cubs games.\nListen via KiwiSDR:\n KH6ILT Elida OH: http://65.29.112.189:8073/?f=670.00amz10  "
+	"content": "WSCR 670 \u0026ldquo;The Score\u0026rdquo; broadcasts Chicago Cubs games.\nListen via KiwiSDR:\n KH6ILT Elida OH: http://65.29.112.189:8073/?f=670.00amz10 Cedar Rapids IA: http://wjniemi.hopto.org:8073/?f=670.00amz6  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/knbr/",
-	"title": "KNBR 680 San Francisco",
+	"title": "KNBR 680 San Francisco California",
 	"tags": [],
 	"description": "",
 	"content": "KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\n\nhttp://www.knbr.com\nListen via N3LGA\u0026rsquo;s KiwiSDR: http://sdr.n3lga.com:8073/?f=680.00amz4\nSan Francisco Giants radio network:\nhttps://www.wikiwand.com/en/San_Francisco_Giants_Radio_Network\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wlw/",
-	"title": "WLW 700 Cincinnati",
+	"title": "WLW 700 Cincinnati Ohio",
 	"tags": [],
 	"description": "",
-	"content": "WLW AM 700 is the flagship station of the Cincinnati Reds radio network.\nVia KiwiSDR:\n Elida OH: http://65.29.112.189:8073/?f=700.00amz10 Farmington Hills MI: http://misdr.duckdns.org/?f=700.00amz10 Fenton MI: http://dentonhill-sdr.moses.bz/?f=700.00amz10  "
+	"content": "WLW AM 700 is the flagship station of the Cincinnati Reds radio network.\nVia KiwiSDR:\n KH6ILT Elida OH: http://65.29.112.189:8073/?f=700.00amz10 Farmington Hills MI: http://misdr.duckdns.org/?f=700.00amz10 with interference from WNZK 690\u0026frasl;680 Dearborn Heights Michigan Fenton MI: http://dentonhill-sdr.moses.bz/?f=700.00amz10  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kiro/",
-	"title": "KIRO 710 Seattle",
+	"title": "KIRO 710 Seattle Washington",
 	"tags": [],
 	"description": "",
 	"content": "KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\n\nhttps://www.wikiwand.com/en/Seattle_Mariners_Radio_Network\nKiwiSDR KiwiSDR\n WA6OUR, Sammimish, WA: http://24.17.196.180:8073/?f=710.00amz10 University of Victoria, British Columbia, Canada: http://kiwisdr.ece.uvic.ca:8073/?f=710.00amz10 KA7U, Weiser, Idaho http://ka7u.no-ip.org:8073/?f=710.00amz10 "
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wor/",
+	"title": "WOR 710 New York City New York",
+	"tags": [],
+	"description": "",
+	"content": "WOR 710 New York is the flagship AM station of the New York Mets.\nhttp://k2sdr.homelinux.com:8073/?f=710.00amz10\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/ktkr/",
-	"title": "KTKR 760 San Antonio TX",
+	"title": "KTKR 760 San Antonio Texas",
 	"tags": [],
 	"description": "",
 	"content": "KTKR 760 San Antonio broadcasts Houston Astros games.\nTune via Global Tuners: https://www.globaltuners.com/receiver/1155/js2\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kxic/",
+	"title": "KXIC 800 Iowa City Iowa",
+	"tags": [],
+	"description": "",
+	"content": "KXIC 800 Iowa City is part of the Chicago Cubs broadcast network, and the home of Iowa Hawkeyes sports.\nhttp://wjniemi.hopto.org:8073/?f=800.00amz6\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/koa/",
-	"title": "KOA 850 Denver",
+	"title": "KOA 850 Denver Colorado",
 	"tags": [],
 	"description": "",
 	"content": "KOA 850 is the flagship station of the Colorado Rockies.\nKiwisdr: http://foxgulch.net:8073/?f=850.00amz10\n"
@@ -130,7 +144,7 @@
 	"title": "WLS 890 Chicago Illinois",
 	"tags": [],
 	"description": "",
-	"content": "WLS 890 is the flagship station for the Chicago White Sox.\nVia KiwiSDR Farmington Hills MI: http://misdr.duckdns.org/?f=890.00amz10\nVia KiwiSDR Elida OH: http://65.29.112.189:8073/?f=890.00amz10\n"
+	"content": "WLS 890 is the flagship station for the Chicago White Sox.\nVia KiwiSDR Farmington Hills MI: http://misdr.duckdns.org/?f=890.00amz10\nVia KiwiSDR KH6ILT Elida OH: http://65.29.112.189:8073/?f=890.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/wemu/",
@@ -154,6 +168,13 @@
 	"content": "Community radio in New Orleans, Louisiana with great jazz music.\nhttps://www.wwoz.org/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wsui/",
+	"title": "WSUI 910 Iowa City Iowa",
+	"tags": [],
+	"description": "",
+	"content": "WSUI 910 is public radio from Iowa Public Radio.\nBBC World Service overnight.\nVia KiwiSDR Euphonic Studio: http://wjniemi.hopto.org:8073/?f=910.00amz6\nhttp://iowapublicradio.org/#stream/0\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/wuom/",
 	"title": "WUOM 91.7 Ann Arbor MI",
 	"tags": [],
@@ -162,31 +183,31 @@
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kkne/",
-	"title": "KKNE 940 Honolulu",
+	"title": "KKNE 940 Honolulu Hawaii",
 	"tags": [],
 	"description": "",
 	"content": "KKNE \u0026ldquo;AM 940 Hawaii\u0026rdquo; broadcasts in Hawaiian with traditional Hawaiian music and talk aimed at Hawaiian speakers.\nKiwiSDR at NH6XO: http://72.235.91.131:8073/?f=940.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/winz/",
-	"title": "WINZ 940 Miami",
+	"title": "WINZ 940 Miami Florida",
 	"tags": [],
 	"description": "",
 	"content": "WINZ 940 is the flagship station of the Miami Marlins baseball radio network. \u0026ldquo;Miami\u0026rsquo;s Sports Station\u0026rdquo;.\nVia KiwiSDR NO2CW: http://qth.ddns.net:8073/?f=940.00amz8\nHome page: http://940winz.iheart.com/\nTwitter: https://twitter.com/940WINZ\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wroc/",
-	"title": "WROC 950 Rochester NY",
+	"title": "WROC 950 Rochester New York",
 	"tags": [],
 	"description": "",
 	"content": "http://rx.jimlill.com:8073/?f=950.00amz10\nSports Radio 950, home to coverage of the Buffalo Sabres, Rochester Knighthawks, and Rochester Rattlers.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wwj/",
-	"title": "WWJ 950 Detroit",
+	"title": "WWJ 950 Detroit Michigan",
 	"tags": [],
 	"description": "",
-	"content": "WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\n\nhttp://detroit.cbslocal.com/station/wwj-newsradio-950/\nListen via W8CMN, Fenton, MI:\nhttp://dentonhill-sdr.moses.bz/\n"
+	"content": "WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\nPart of the University of Michigan Wolverines Football radio network.\n\nhttp://detroit.cbslocal.com/station/wwj-newsradio-950/\nListen via W8CMN, Fenton, MI:\nhttp://dentonhill-sdr.moses.bz/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/fm-broadcast/wxyt/",
@@ -196,62 +217,6 @@
 	"content": "Mostly noisy sports talk radio, but when the Tigers are playing, they\u0026rsquo;re the flagship FM station.\nI can pick up 97.1 FM on my home SDR setup. If you are looking for Tigers baseball and don\u0026rsquo;t have a hardware radio, try WTKA 1050 Ann Arbor.\nGlobal Tuners in Pontiac, MI: https://www.globaltuners.com/receiver/1460/js2\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w27/",
-	"title": "WOA 11, July 7, 2017 (W27)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 11, July 7, 2017 (Week 27) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter\u0026rsquo;s @worksonarm account and via Github and Gitbook. Subscription details are at the bottom of this issue.\nIn this issue  \u0026ldquo;Momentum is Building for ARM in HPC\u0026rdquo;, The Next Platform Kubernetes 1.7 release Xen 4.9 release Docker for Raspbian (ARMv6) for v17.07 Apache Mesos on ARM Armbian Linux for development boards  Momentum is Building for ARM in HPC \u0026ldquo;Momentum is Building for ARM in HPC\u0026rdquo; is an article in The Next Platform by Jonathan Beard and Roxana Rusitoru of ARM Holdings chronicling the GoingARM workshop at the recent ISC conference on high-performance computing in Frankfurt, Germany.\nhttps://www.nextplatform.com/2017/06/30/momentum-building-arm-hpc/\n From looking around the room, it was clear the workshop was significantly more popular than expected. During the entire day, there was standing room only, having throughout the day approximately 70 attendees. In spite of the crowded room, the audience stuck it out to hear from early users of SVE simulators (University of Michigan), application and runtime porters (BSC, AVL), ARM library and Allinea tool designers, RIKEN, Cavium and the lead on the Isambard project (University of Bristol).\n The article was subsequently picked up by Hacker News, with a measure of interesting discussion.\nhttps://news.ycombinator.com/item?id=14673154\nKubernetes 1.7 release Kubernetes announced a 1.7 release on Thursday, June 29, 2017. The release notes speak of security hardening, a mechanism for handling embedded secrets, and a set of improvements related to making stateful updates.\nhttp://blog.kubernetes.io/2017/06/kubernetes-1.7-security-hardening-stateful-application-extensibility-updates.html\nKubernetes 1.7 ships with native ARM64 support for client, server, and node binaries, making 64-bit ARM a first-class platform for developers.\nXen 4.9 release Xen is a hypervisor. The project releases Xen 4.9 on 28th of June, 2017. The release notes are extensive, and include a whole set of ARM improvments. Among those include this:\n Alternative runtime patching and GICv3 support for ARM32: Alternative runtime patching which enables the hypervisor to apply workarounds for erratas affecting the processor and to apply optimizations specific to a CPU and GICv3 support was extended for 32-bit ARM platforms, bringing this functionality to embedded use-cases.\nSystem Error Detection (ARM): Xen on ARM made a step forward in reliability and serviceability with the introduction of System Error detection and reporting, a key feature for customers with highly available systems.\n https://wiki.xenproject.org/wiki/Xen_Project_4.9_Release_Notes\nDocker for Raspbian (ARMv6) for v17.07 In the Github repository docker/docker-ce-packaging issue 11, Stefan Scherer writes:\n This PR adds build steps to create DEB packages for Raspbian and for all Raspberry Pi models including the ARMv6 Pi Zero, Pi Zero W or old Raspberry Pi (1) model A/B.\nI\u0026rsquo;m now running 17.07.0-dev on my Raspberry Pi Zero W.\nI kept the names of the Dockerfiles at Dockerfile.armv7l so someone can build them on eg. Scaleway servers.\n Docker support for the smallest and oldest Raspberry Pi models requires ARMv6 support; this support had been dropped in Docker 17.06-ce, as Docker went through a series of reconfigurations with their \u0026ldquo;moby\u0026rdquo; and \u0026ldquo;Linuxkit\u0026rdquo; projects.\nhttps://github.com/docker/docker-ce-packaging/pull/11\nApache Mesos on ARM Yuqi Gu \u0026amp; Yibo Cai of ARM gave a presentation on \u0026ldquo;Running Marathon/Mesos on ARM Server\u0026rdquo; at MesosCon Asia in Beijing on June 22, 2017.\n Marathon/Mesos has been well adopted and deployed, in X86 architecture servers. How about running Marathon/Mesos in ARM server? Fortunately, we proved that only small effort is required to port Marathon/Mesos onto ARM AArch64 servers. There are a few small traps and tricks, but the overall porting is straightforward. We would like to present running Marathon/Mesos in ARM servers to manage a cluster on top of which some applications can be deployed and scaled in containers.\n The Mesos on ARM presentation slides describe the work necessary for the port at slide 6, where the authors point out the Mesos includes vendored dependencies for protobuf, Zookeeper, libev, and Leveldb, each of which has no AArch64 support in their old versions but when brought forward to current versions handle AArch64 properly. In addition there is a dependency on Google\u0026rsquo;s \u0026ldquo;glog\u0026rdquo; logging library that had to be addressed.\nThe authors report that Mesos master and slave nodes work properly once these changes have been made, and from that point forward cluster operations are as normal.\nArmbian Linux for development boards Armbian Linux is a Debian derivative with support for a number of ARM based development boards. Led by Igor Pečovnik of Ljubljana, Slovenia, this project uses an \u0026ldquo;advanced but easy to use\u0026rdquo; x86 based toolchain to make boot image from sources for a wide range of supported boards:\n Beelink X2, Orange Pi PC plus, Orange Pi Plus 2E, Orange Pi Lite, Roseapple Pi, NanoPi M1, pcDuino2, pcDuino3, Odroid C0/C1/C1+, Banana Pi M2+, Hummingboard 2, Odroid C2, Orange Pi 2, Orange Pi One, Orange Pi PC, Orange Pi Plus 1 \u0026amp; 2, Clearfog, Lemaker Guitar, Odroid XU4, Udoo Neo, Banana Pi M2, Orange Pi A31S, Cubieboard 1, Cubieboard 2, Hummingboard, Lamobo R1, Banana Pi PRO, Orange Pi mini A20, Olimex Lime A10, Olimex Micro, Olimex Lime 2, pcDuino3 nano, Banana Pi Plus A20, Udoo quad, Orange Pi A20, Olimex Lime 1, Banana Pi, Cubox-i, Cubietruck\n Recent work has focused on both legacy kernels which tend to offer more device support including video and display features, as well as mainline kernels with support primarily for headless server operations.\nColophon Written on a holiday-shortened July 4 week. The local parade featured a lawnmower brigade and a theatrical stagefighting troupe. Written with vim on a MacBook Pro.\nSubscription information Works on ARM News is released weekly on Fridays. Follow @worksonarm on Twitter for the weekly link, or follow the worksonarm-news project on Github for notifications. Email to ed@packet.net if you\u0026rsquo;d like a direct email.\nBack and current issues are available from the Works on ARM News archive on Github.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w26/",
-	"title": "WOA 10, June 30, 2017 (W26)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 10, Friday June 30, 2017 (Week 26) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter\u0026rsquo;s @worksonarm account and via Github and Gitbook. Subscription details are at the bottom of this issue.\nIn this issue  Interview: Jim Perrin on CentOS on ARM ARM HPC Users Group Ask Ubuntu: Running 32-bit ARM on 64-bit systems SUSE Linux (SLES) on ARM 24-core Socionext server EFI and U-Boot on Dragonboard 410c Gitlab Omnibus edition via elraro, ready for testing Linuxkit on ARM Ubuntu on Raspberry Pi 3 compute module Go 1.9 Beta 2 Colophon  Interview: Jim Perrin on CentOS on ARM Jim Perrin is interviewed by Jake Edge for LWN.net.\n Perrin is currently with Red Hat and is the maintainer of the CentOS 64-bit ARM (aarch64) build. CentOS is his full-time job; he works on building the community around CentOS as well as on some of the engineering that goes into it.\n The interview goes into detail of the history of CentOS on ARM, starting with 32-bit ARMv6 and ARMv7 builds on embedded systems and continuing to this on high performance computing gear.\nhttps://lwn.net/SubscriberLink/726441/c186b1566dc5d794/\nFollow Jim on Twitter as @bitintegrity or read his occasional weblog at http://www.bit-integrity.com/ .\nARM HPC Users Group The ARM HPC Users Group is providing \u0026ldquo;resources for end-users and developers deploying on ARM hardware\u0026rdquo; for high performance computing. It was organized from a successful workshop at the ISC conference in Frankfurt in June 2017. There is an ARM HPC Gitlab system set up for collaboration, an ARM HPC mailing list and Slack channel available.\nPresentations given in Frankfurt are available at the GoingARM.com web site.\nAsk Ubuntu: Running 32-bit ARM on 64-bit systems Ask Ubuntu has a question on running 32-bit ARM codes on 64-bit systems. While most cell phone derived ARM SoCs support a mix of 32-bit and 64-bit operations, the data center grade platform based on Cavium\u0026rsquo;s ThunderX available at Packet and Scaleway is a 64-bit only system.\nhttps://askubuntu.com/questions/928249/how-to-run-armhf-executables-on-an-arm64-system\nSUSE Linux (SLES) on ARM Jay Kruemcke is product manager for SUSE Linux Enterprise System (SLES) on ARM. He writes to share that he has a blog, https://kruemcke.com , which has news which includes SUSE on ARM information. Follow Jay on on Twitter: @mr_sles.\nThe Works on ARM website that I edit has updated its information about SUSE Linux on ARM, and you\u0026rsquo;ll find those details at http://worksonarm.com/suse .\n24-core Socionext server At the Taipei trade show Computex, Socionext shared information of their 24-core ARM SoC, the SynQuacer SC2A11. It features high efficiency A53 cores and 1 gigabit networking speeds. The show floor interview, done by Charbax (Nicolas Charbonnier) of ArmDevices.net, demonstrates a cluster running Ubuntu on a number of these systems.\nhttp://armdevices.net/2017/06/27/socionext-24-core-arm-server-synquacer-sc2a11-60-lower-power-than-intel-at-same-performance/\n ARMdevices.net is a blog focused on making original video and news contents about ARM Powered devices, mostly from trade shows and conferences around the world. Nicolas Charbonnier, also known as Charbax, has posted all the videos on this site.\n EFI and U-Boot on Dragonboard 410c After some firmware hacking, Rob Clark of Red Hat has gotten EFI and U-Boot to work on the Dragonboard 410c, a development board based on the Qualcomm Snapdragon 410E processor. He refers to the sometimes sorry state of ARM firmware on development boards - where every device needs a new boot loader\n Anyone who has dealt with arm (non-server) devices, should be familiar with the silly-embedded-nonsense-hacks world. In particular the non-standard boot-chain which makes it difficult for distro\u0026rsquo;s to support the plethora of arm boards (let alone phones/tablets/etc) out there without per-board support. Which was fine in the early days, but N boards times M distro\u0026rsquo;s, it really doesn\u0026rsquo;t scale.\n http://bloggingthemonkey.blogspot.fi/2017/06/long-overdue-update.html\nGitlab Omnibus edition via elraro, ready for testing As mentioned in WOA 9, Gitlab is a source code hosting tool available in open source form to be self-hosted. elraro has done the work to port the Gitlab Omnibus Edition to ARMv8 and has produced a build script and binary release based on Gitlab 9.3-stable. The major compatibility issue identified is the need to run a current ncurses 6.0 as the older 5.9 release has some issues with ARM support.\nhttps://github.com/elraro/gitlab-ce-omnibus-armv8\nLinuxkit on ARM Linuxkit is a unikernel style operating system construction kit that came out of work on Docker to rearchitect their system to make it more flexible and component driven. Richard Mortier has done the first step to port Linuxkit to ARMv8, running on bare metal Packet hardware.\nhttp://mort.io/blog/2017/06/02/arming-linuxkit/\nUbuntu Core on Raspberry Pi 3 compute module Canonical has announced that Ubuntu Core is now available for the Raspberry Pi 3 compute module. This compact computer is the size of an SO-DIMM memory module, and is designed to be used in embedded systems.\nhttps://insights.ubuntu.com/2017/06/27/canonical-supports-ubuntu-core-on-the-raspberry-pi-compute-module\nGo 1.9 Beta 2 Following close on the heels of last week\u0026rsquo;s Go 1.9 announcement is an update that Go 1.9 Beta 2 is available.\nhttps://twitter.com/golang/status/879462496372785157\nAs always, your bug reports and success reports with this beta test are particularly welcome.\nColophon Written with vim on a MacBook Pro. Produced with Github, and new this week also available on Gitbook. Original formatting in Markdown. Coffee by Roos Roast in Ann Arbor, MI.\nAs an aside, Gitbook has a nice presentation of these files, and was easy to set up and sync up. It has a Markdown visual split screen editor that speeds up correction of formatting issues. The Gitbook authors have said that they are hard at work on a 2.0 edition, which I\u0026rsquo;m looking forward to.\nSubscription information Works on ARM News is released weekly on Fridays. Follow @worksonarm on Twitter for the weekly link, or follow the worksonarm-news project on Github for notifications. Email to ed@packet.net if you\u0026rsquo;d like a direct email.\nBack and current issues are available from the Works on ARM News archive on Github.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w25/",
-	"title": "WOA 9, June 16, 2017 (W25)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 9, Friday June 16, 2017 (Week 25) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter\u0026rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.\nIn this issue:\nElasticsearch port to ARM, Test Go 1.9 beta 1, Test Rust 1.18, Cavium ThunderX2 launch partners, Qualcomm Centriq 2400 at AnsibleFest, Frankfurt HPC conference, Fedora 26 Beta, Debian 9 LTS, Alpine 3.6.2, Gitlab Omnibus CI for ARM work in progress, QCloud hosted ARM in China\nPhoto: Ilya Dmitrichenko from WeaveWorks is left in the photo with the Packet banner along with Rajendra Alapaty from Striped Giraffe Innovation \u0026amp; Strategy GMBH at AnsibleFest London, showing the Qualcomm Centriq 2400.\nPort: Elasticsearch to ARM Elastic is working on a port of Elasticsearch to ARM. Elasticsearch is a search and analytics engine with a REST API. Drew Raines is leading up the effort, which is nearing the point where the test suite completes without error. Drew writes:\n These commits produce a working Elasticsearch binary and get the full test suite to pass. It has not been tested in any production capacity.\n https://github.com/elastic/elasticsearch/pull/25318\nCall to action: Test Go 1.9 Beta 1; Go floating point. Go 1.9 Beta 1 is in a test phase. If your project requires Go, please put together a simple test plan that includes the Go 1.9 Beta 1 binary release. Feedback of any sort, including benchmarks, build tests, or especially documentation, are all welcomed.\nhttps://github.com/golang/go/issues/19082\nOne open issue that will not be addressed in Go 1.9, however, is discrepancies in the math libraries that result in exp(1) giving different results depending on what hardware you are using. In issue golang/go 20319 the analysis is that some platforms use assembly language and others use Go do to floating point. \u0026ldquo;amd64 and s390x have assembly implementations, all the others architectures use a pure go routine and they implement different algorithms, so last-bit-mismatches are not unexpected.\u0026rdquo;\nhttps://github.com/golang/go/issues/20319\nThe Go (golang) page on Works on ARM has been updated with the latest information; see http://worksonarm.com/golang for more details.\nCall to action: Test Rust 1.18 on ARM! \u0026ldquo;Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.\u0026rdquo;\nRust 1.18 has been released; the release notes suggest performance improvements in the compiler.\nhttps://blog.rust-lang.org/2017/06/08/Rust-1.18.html\nSee http://worksonarm.com/rust for more details.\nHardware: Cavium ThunderX2 Cavium has a series of announcements about their new ThunderX2 hardware. The Cavium news release gives brief details of partnerships with Altair (graphics rendering with Thea Render), AMI (UEFI), ARM, Bright Computing, Bull, Canonical (Ubuntu), Linaro (development cloud), Numerical Algorithms Group, Red Hat, Rogue Wave (debugging), and SUSE, plus mention of hosted options at Packet and Scaleway.\nhttps://www.hpcwire.com/off-the-wire/cavium-expands-thunderx2-server-ecosystem-cloud-hpc/\nHardware: Qualcomm Centriq 2400 Packet is showcasing Qualcomm\u0026rsquo;s new Centriq 2400 at developer conferences and providing attendees access to a number of demos that use open source tools such as Ansible, Terraform, Docker and Kubernetes. These demos of Qualcomm Datacenter Technologies’ ARM architecture-based servers are at Red Hat’s AnsibleFest conference in London, and also be present at Hashiconf in Austin, the Open Source Summit North America in Los Angeles, and AnsibleFest in San Francisco.\nhttps://www.xda-developers.com/qualcomm-partners-with-packet-to-introduce-its-48-core-qualcomm-centriq-2400-processor/\nEvents: Frankfurt HPC conference Frankfurt was the center of the high performance computing world this week, with ISC\u0026rsquo;s HPC conference winding up on Thursday.\nhttp://isc-hpc.com/\nThe GoingARM account live-tweeted the ARM portion of the HPC conference which featured several standing-room only sessions about ARM for HPC and a Thursday workshop.\nhttps://twitter.com/goingarm\nDistro: Fedora 26 Beta Fedora announced Fedora 26 Beta, which has support for ARM. \u0026ldquo;A Beta release is code-complete and bears a very strong resemblance to the third and final release. The final release of Fedora 26 is expected in July.\u0026rdquo;\nhttps://arm.fedoraproject.org/ https://fedoramagazine.org/announcing-the-release-of-fedora-26-beta/\nSee http://worksonarm.com/fedora for more details.\nDistro: Debian 9 LTS Debian released Debian 9 \u0026ldquo;Stretch\u0026rdquo; for ARM on June 17. This is an LTS release.\nhttps://lists.debian.org/debian-announce/2017/msg00003.html\n A total of ten architectures are supported: 64-bit PC / Intel EM64T / x86-64 (amd64), 32-bit PC / Intel IA-32 (i386), 64-bit little-endian Motorola/IBM PowerPC (ppc64el), 64-bit IBM S/390 (s390x), for ARM, armel and armhf for older and more recent 32-bit hardware, plus arm64 for the 64-bit \u0026ldquo;AArch64\u0026rdquo; architecture, and for MIPS, in addition to the two 32- bit mips (big-endian) and mipsel (little-endian), there is a new mips64el architecture for 64-bit little-endian hardware. Support for 32- bit Motorola/IBM PowerPC (powerpc) has been removed in \u0026ldquo;Stretch\u0026rdquo;.\n See http://worksonarm.com/debian for more details.\nDistro: Alpine 3.6.2 Alpine released an Alpine 3.6.2 point release on June 17, 2017. This is a bug fix release, and includes additional drivers enabled for some Mellanox ethernet cards.\nhttps://alpinelinux.org/posts/Alpine-3.6.2-released.html\nSee http://worksonarm.com/alpine-linux for more details.\nCI: Gitlab CI Omnibus for ARM An open issue in the continuous integration world is how best and easiest to run on ARM. One aspect of this is Gitlab, and there\u0026rsquo;s an open issue in the Omnibus Gitlab project for how to get your Gitlab CI completely self-hosted on ARM.\nhttps://gitlab.com/gitlab-org/omnibus-gitlab/issues/1625\nSee http://worksonarm.com/gitlab for more details.\nQCloud Hosted ARM in China New to the ARM hosting world, QCloud (Tencent Cloud) has a service 黑石 (translated here as Blackstone) for hosted ARM servers. Devices are available for monthly or yearly reservations. All of the available documentation on the service is for the China market.\nhttps://www.qcloud.com/product/arm\nA rough translation:\n Blackstone ARM Server (CPM for ARM) is a bare metal rental service for ARM servers. The Blackstone ARM example uses the ARMv8 architecture, which provides greater memory capacity and more physical cores, with more performance and more competitive TCO (total cost of ownership); and naturally compatible mobile applications, no need for Instruction set translation. If your business is high concurrent or mobile scene, Blackstone ARM server will be a very wise choice.\n Colophon Written with vim on a MacBook Pro with a hardware escape key.\nSubscription information Works on ARM News is released weekly on Fridays. Follow @worksonarm on Twitter for the weekly link, or follow the worksonarm-news project on Github for notifications. Email to ed@packet.net if you\u0026rsquo;d like a direct email.\nBack and current issues are available from the Works on ARM News archive on Github.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w24/",
-	"title": "WOA 8, June 16, 2017 (W24)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 8, Friday June 16, 2017 (Week 24) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter\u0026rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.\nIn this issue:\nGo 1.9 Beta 1 with ARM64 binaries; iPad Pro \u0026ldquo;fastest yet\u0026rdquo;; Intel, Qualcomm patents; MACCHIATObin development board and cluster; Snapdragon 835 development board; ARM at the UEFI Forum.\nGo 1.9 Beta 1 with ARM64 binaries Go 1.9 Beta 1 is the latest test release of the Go systems programming language. It\u0026rsquo;s an early unstable release for Go 1.9, which is scheduled to emerge from beta at the end of July 2017. Consider this release if you are doing software development and want to test compatibility and performance of Go 1.9 on code that you currently have working on an earlier release.\nThis release is the first from Go to have an ARM64 binary distribution. Go maintainer Brad Fitzpatrick writes: \u0026ldquo;If we don\u0026rsquo;t hear happy reports, we won\u0026rsquo;t ship it for the final release.\u0026rdquo;\nA final list of new features for Go 1.9 has not emerged yet, pending resolution of 153 open issues on the project milestone. If previous beta releases are any guide, you\u0026rsquo;ll want to get your comments in on this beta over the course of the next week or two before the next beta comes out.\nGo is an important language because of its extensive use at Google and in cloud-native applications. Docker, Kubernetes, Minio, CockroachDB, and Prometheus are only a few of the packages that depend on Go. It is to be hoped that with Go 1.9 support for ARM64 that each of these systems gets that much easier in turn to build and maintain on ARM.\nAlex Ellis has a short tutorial on running Go 1.9 beta binaries on a variety of hardware and on hosting providers including Packet and Scaleway.\niPad Pro \u0026ldquo;fastest yet\u0026rdquo; Apple announced a new ARM-powered iPad Pro at the WWDC. The device, a 10.5\u0026rdquo; or 12.9\u0026rdquo; tablet, is powered by Apple\u0026rsquo;s own A10X chip. 9to5Mac and the BareFeats weblog ran benchmarks on graphics and CPU with the claim that and claimed that the new machine compares very favorably to the 13\u0026rdquo; Macbook Pro.\nFrom BareFeats, which is written by Rob Art Morgan:\n I am not implying that the iPad Pro can replace the MacBook Pro. They are two different animals, though there is clearly some overlap in capability. It\u0026rsquo;s just encouraging to know that the iPad Pro development has brought it up to laptop level performance.\n Intel, Qualcomm patents Intel used the 40th anniversary of its x86 design to reaffirm its intention to protect its patent rights to the ISA instruction set used in its computer chips. This was widely interpreted by the tech press as a challenge to Qualcomm, whose parternship with Microsoft includes a just-in-time compiler for x86 capable of running Intel-based Microsoft Windows user code at full speed. The roundup at Techmeme is a good reference.\nNeither Intel nor Qualcomm are strangers to the patent system, with both of them measuring out year after year in the top 10 of patents issued. Intel\u0026rsquo;s patents in computing server technology are every bit as deep as Qualcomm\u0026rsquo;s patents in mobile technology.\nMACCHIATObin dev board Marvell has announced its MACCHIATObin community development board. This device, in a convenient mini-ITX form factor, features a Marvell ARMADA 8040 SoC with four Cortex-A72 ARMv8 processors. It sports an impressive array of I/O channels including two 10G Ethernet interfaces, three SATA 3.0 interfaces, and up to 16G of memory. This ships at prices starting at $349. Solid Run is the manufacturer.\nCNXSoft has an active discussion about this board, including reports from someone who had their device shipped in May 2017.\nMaen Suleiman from Marvell provided the above photo and wrote that software support for this device includes a 4.4 based kernel and out-of-the-box support for CentOS 7. The device can boot from PXE and uses UEFI.\nMACCHIATObin cluster A case and network fabric suitable for building a computing cluster out of these MACCHIATObin boards was announced at launch time by PicoCluster, which also makes cluster cases for Raspberry Pi. The enclosure, which features space for six of these compute boards, is sold in a variety of configurations depending if you need just the case or if you are also buying the compute boards and network gear.\n\u0026ldquo;Shipping is expected to occur by the end of September 2017 subject to board and switch availability.\u0026rdquo;\nARM, ENEA, Marvell and PicoCluster all cooperated to produce a the NFV Picopod version of this cluster, complete with a full software stack that runs the OPNFV Danube software release for ARM. This software and architecture is designed to be a lab-in-a-box for developers of network functions virtualization (NFV) code.\nSnapdragon 835 development board from Intrinsyc LinuxGizmos.com reports on a development board from Intrinsyc, the Open-Q 835, which features Qualcomm\u0026rsquo;s 8-core Snapdragon 835 SoC. The dev board is in a Mini-ITX form factor and it provides access to the 835\u0026rsquo;s many functions including 4K HDMI video, dual cameras, GPS, Bluetooth and BLE, and more.\nThe device runs Android 7 \u0026ldquo;Nougat\u0026rdquo; with a reference to \u0026ldquo;contact sales for Windows 10\u0026rdquo; support. At a pricetag of $1,149 for the early adopter version, it is perhaps most suited to go into the hands of mobile phone engineers who are looking to incorporate the Snapdragon 835 into their designs.\nARM at the UEFI Forum The UEFI Forum board appointed Dong Wei, senior director of lead architect platforms at ARM, as vice president of this industry group which promotes firmware innovation and standardization.\nUEFI - What is it? is a presentation given by Dong Wei at the spring 2017 UEFI Plugfest. It provides a good overview of the Unified Extensible Firmware Interface (UEFI) and the Advanced Configuration and Power Interface (ACPI) that are used to standardize the boot process across ARM and x86 platforms.\nColophon Written with vim on a MacBook Air, on a cool quiet night at Workantile coworking in Ann Arbor.\nSubscription information Works on ARM News is released weekly on Fridays. Follow @worksonarm on Twitter for the weekly link, or follow the worksonarm-news project on Github for notifications. Email to ed@packet.net if you\u0026rsquo;d like a direct email.\nBack and current issues are available from the Works on ARM News archive on Github.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w23/",
-	"title": "WOA 7, June 9, 2017 (W23)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 7, Friday June 9, 2017 (Week 23) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter\u0026rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.\nIn this issue:\n98 open spec hacker friendly single board computers, Automotive Grade Linux, ThunderX2 presentations at HPC conference, Qualcomm Snapdragon 835 + Microsoft Windows 10, Minio on Go speedups from FOSDEM, and Wireguard VPN with ARM speedups.\nLinux Gizmos: 98 open spec hacker friendly single board computers Linux Gizmos has an excellent and long inventory of single board computers that are friendly to hackers. Their tally of 98 systems gives a brief technical overview of each, plus a take on how easily the system can be booted and programmed with open source tools. Prices range from $15 to $200, and most of the boards under review (though not all) are ARM based.\nThe story of ARM-based single board computers all too often comes down to how hard it is to boot the systems and how much of a challenge it is to get a mainline kernel running. This inventory should be seen both as a snapshot of the state of the art as well as a shoppers guide to technology that might be applicable to your embedded Linux or development board selections. A convenient comparison spreadsheet published through Google Docs gives a quick summary of processor details, GPU and memory configurations, I/O ports, and storage so that you can zoom in quickly on the part you need.\nAutomotive Grade Linux Automotive Grade Linux is a Linux-based in-vehicle infotainment (IVI) platform aimed at OEMs who are looking for an open software stack for the connected car. AGL is a complete software stack including a Yocto-based board support package, automotive specific middleware for audio management, connection management, graphics, and a full application framework with App APIs and SDK. AGL also includes extensions to support the automotive CAN and MOST bus and a full security framework to make it reliable enough to put in vehicles.\nAt the May 2017 Automotive Linux Summit event held in Tokyo, Toyota announced that Automotive Grade Linux would be the basis for the vehicle infotainment system system in the 2018 Toyota Camry as well as Lexus vehicles in the future.\nThis IVI platform was designed from the start to work on ARM and Intel platforms equally well. In addition to the reference platforms from Renesas, Intel, Qualcomm, NXP, TI, the system can run under emulation with QEMU or on community supported platforms including the widely available Raspberry Pi.\nAGL is an open source project hosted by The Linux Foundation. Dan Cauchy is Executive Director of Automotive Grade Linux. The AGL platform is available to all, and anyone can participate in its development.\nA video by Walt Miner, \u0026ldquo;Linux You Can Drive My Car\u0026rdquo;, was presented at the Embedded Linux Conference in February 2017.\n\nThunderX2 presentations at HPC conference Cavium, maker of the high performance ThunderX and new ThunderX2 server-class ARM systems, will be presenting at the ISC High Performance conference in Frankfurt, Germany June 18-22 2017.\nOn Tuesday, June 20th at 2:45 PM, Larry Wikelius, Vice President for Cavium’s Software Ecosystem and Solutions Group, will host the Birds of a Feather (BOF) Session Designing, Porting \u0026amp; Optimizing HPC Workloads for ARM Based Systems. This session will feature speakers from Oak Ridge National Lab, Sandia National Lab, The Hartree Center and HPE.\nThe Going ARM workshop on the morning of Thursday 22 June 2017 features talks on ARM tools from Allinea, reports from the Barcelona and Isambard supercomputer centers, a University of Michigan presentation from Jonathan Beaumont on ARM\u0026rsquo;s SVE vector processor, and Giri Chukkapalli of Cavium speaking on the Cavium ThunderX2.\nQualcomm Snapdragon 835 + Microsoft Windows 10 Microsoft and Qualcomm have announced plans for an ARM based Windows 10 device to be powered by the Snapdragon 835. The system was demonstrated running Windows applications in an emulation mode, and the report from Tom\u0026rsquo;s Hardware of that demo talks of multiple Office documents, video, and email running with no visible delays or hiccups.\nDemos of the system have been out long out for the tech press to start to speculate about how this system will fit into the Windows ecosystem. Tom\u0026rsquo;s Hardware has a long and thoughtful but speculative piece based on reporting of the demos, calling out the features of this new system and comparing it in intended function to Google\u0026rsquo;s Chromebook design.\nMinio on Go speedups from FOSDEM Minio is a distributed storage system that provides a familiar Amazon S3 based programming interface but that runs on your own systems. The folks at Minio have spent considerable effort working on performance by embedding Intel and ARM assembly language routines to take advantage of vector and matrix operations on both platforms.\nFrank Wessels from Minio presented a talk on High performance scaling techniques in Golang using Go Assembly, at the FOSDEM 17 conference in Brussels in February 2017. From the talk preview:\n Regarding hashing we have developed Go packages for two hashing algorithms (BLAKE2 and SHA256) that take advantage of the Golang (or Plan9) assembly capabilities. These packages exploit SIMD instructions of Intel and the Cryptography Extensions for the ARM platform. The speed up range from 3 to 4 times (Intel) to 100X (on ARM). Due to the use of Golang assembly there is no need for a C-compiler in order to use these packages (when compiling from scratch).\n \nWireguard VPN with ARM speedups Wireguard is virtual private network software with a novel design that puts most of the work into the Linux kernel. It makes use of familiar Unix networking primitives to control routing and filtering of packets, allowing the system manager to compose a VPN out of components that can each independently be audited for correctness.\nThe most recent development snapshot of Wireguard, 0.0.20170531, includes a set of ARM assembly instructions that speed up cryptographic operations on ARM NEON capable processors.\nWireguard is in an early pre-production state. It is the target of the annual Google Summer of Code for 2017, which should bring about continued development. The source is available at https://git.zx2c4.com/WireGuard/ and information about the project is available at https://www.wireguard.io/ .\nColophon Written with vim on a MacBook Air, with coffee from Morgan and York in Ann Arbor.\nSubscription information Works on ARM News is released weekly on Fridays. Follow @worksonarm on Twitter for the weekly link, or follow the worksonarm-news project on Github for notifications. Email to ed@packet.net if you\u0026rsquo;d like a direct email.\nBack and current issues are available from the Works on ARM News archive on Github.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w22/",
-	"title": "WOA 6, June 2, 2017 (W22)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 6, Friday June 2, 2017 (Week 22) Works on ARM news is written and edited by Ed Vielmetti at Packet. It comes out weekly on Fridays on Twitter\u0026rsquo;s @worksonarm account and via Github. Subscription details are at the bottom of this issue.\nIn this issue:\nGigabyte announces Cavium ThunderX2 support; Alpine Linux 3.6.0, 3.6.1; New Docker container directory for \u0026ldquo;arm64v8\u0026rdquo;; OpenSUSE on ARM hardware; Ard Biesheuvel\u0026rsquo;s \u0026ldquo;Works of ARD\u0026rdquo; weblog and \u0026ldquo;Project dogfood\u0026rdquo;; and pigz, a fast parallel version of gzip.\nGigabyte announces Cavium ThunderX2 support TAIPEI, Taiwan, May 29 2017 – GIGABYTE Technology, a leading producer of high performance server hardware, and Cavium, Inc. (NASDAQ: CAVM), a leading provider of semiconductor products that enable intelligent processing for enterprise, data center, cloud, wired and wireless networking - today announced availability of high performance ARM server platforms based on Cavium\u0026rsquo;s second generation 64-bit ARMv8 ThunderX2 product family.\nMore details can be found in the GIGABYTE press release, which quotes Rishi Chugh, Director Product Marketing for Cavium\u0026rsquo;s Data Center Processor Group and Etay Lee, General Manager of GIGABYTE.\nAlpine Linux 3.6.0, 3.6.1 Alpine Linux announced a new release, Alpine Linux 3.6.0, the first in the 3.6 stable series. This release continues ARM support, and adds support for IBM z and Power processors.\nThere has been a significant refresh for a number of development packages, including Rust 1.17.0, Cargo 0.18.0, PHP 7.1, LLVM 4.0, Go 1.8, Python 3.6, nginx 1.12 and Ruby 2.4. The kernel provided is the LTS Linux 4.9.29 kernel.\nThis release was followed on June 1, 2017 with a bug fix release, Alpine Linux 3.6.1, which contains bug fixes including security updates for libtasn1, samba, libxcmcp, strongswan, openldap, and mosquitto. Kernel support is now 4.9.30.\nNew Docker container directory for \u0026ldquo;arm64v8\u0026rdquo; Alpine is a frequent choice for Docker projects because of its compact packaging which results in remarkably small Docker images. As of this writing, the new Alpine release has not yet been picked up by Docker for their popular aarch64/alpine container. This is because Docker reorganized their container support on DockerHub to use new names, making the it now arm64v8/alpine.\nThe new naming scheme is unique to Docker, and allows them to distinguish between the various 32-bit ARM variants that have distinctly different container support, e.g. \u0026lsquo;arm32v6\u0026rsquo; for the original Raspberry Pi and the Pi Zero.\nOpenSUSE on ARM hardware Andreas Färber has an hour-long presentation on OpenSUSE on ARM hardware, in which he details the state of OpenSUSE on a whole series of ARM development boards. The talk was presented at the openSUSE Conference 2017 and published on May 27, 2017. Andreas notes that this is \u0026ldquo;not a hardware selection guide\u0026rdquo;, and recommends that if you want ARM hardware recommendations that you consult the opensuse-arm mailing list instead.\nAndreas\u0026rsquo;s hard work and others have resulted in OpenSUSE for a number of systems, with more in progress, tracked on their development wiki. Among those systems where OpenSUSE has some good results include the DragonBoard 410c, Firefly-RK3399, Odroid C2, Pine64, and Raspberry Pi 3.\nOpenSUSE also supports a standard UEFI boot process, and the provided instructions would enable you to PXE boot the system.\nArd Biesheuvel\u0026rsquo;s \u0026ldquo;Works of ARD\u0026rdquo; weblog and \u0026ldquo;Project dogfood\u0026rdquo;. Ard Biesheuvel is a developer for Linaro, working on the ARM open source ecosystem. He writes in March 2017 about Project dogfood: my arm64 desktop, an effort to bring a full 64-bit ARM environment to the desktop using an AMD Overdrive B1 development board in an ATX form factor.\nArd writes:\n So what would I need to turn this into a desktop system that is good enough for my day to day work?\n Among the things he had to sort out to make this possible included getting a quieter fan, identifying a good case and power supply, USB and graphics support, and a number of kernel and firmware issues.\nThe most challenging issue identified, and the one with the most creative solution, involved finding firmware support for boards whose drivers are written only in x86 code. The workaround reads as follows:\n So when Alexander Graf (of Suse) approached me at Linaro Connect two weeks ago, to discuss the possibilities of running x86 option ROMs on an emulator inside UEFI, I was skeptical at first, but after some more thought and discussion, I decided it was worth a try. Over the past ten days, we have collaborated online, and managed to implement an X86 emulator inside UEFI, based on an old version of QEMU (which is still LGPL licensed) combined with the more recent AArch64 support (whose copyright is owned by HiSilicon)\n The successful result is documented in a video, gui boot on overdrive b1.\npigz, a fast parallel version of gzip pigz is a \u0026ldquo;parallel implementation of gzip for modern multi-processor, multi-core machines\u0026rdquo;. By breaking your compression problem into pieces and then doing each piece individually, pigz effectively uses as much of your machine as you will let it to compress data quickly.\nA sample will illustrate. On a 123 megabyte file (the source code for PostgreSQL), standard gzip took 18.4 seconds to compress a tar file on the 96-core Type 2A ARMv8 machine at Packet. With pigz, the same operation took 0.4 seconds, a 45x speedup on a 96-core machine.\npigz - pronounced \u0026ldquo;pig-zee\u0026rdquo; - is credited to Mark Adler, and is is available as a part of the Ubuntu and CentOS distributions. You can also compile it from its provided source code.\nColophon Written with vim on a MacBook Air, and examples tested on a 96-core Cavium based ARM server on Packet.\nSubscription information Works on ARM News is released weekly on Fridays. Follow @worksonarm on Twitter for the weekly link, or follow the worksonarm-news project on Github for notifications. Email to ed@packet.net if you\u0026rsquo;d like a direct email.\nBack and current issues are available from the Works on ARM News archive on Github.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w21/",
-	"title": "WOA 5, May 26, 2017 (W21)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 5, Friday May 26, 2017 (Week 21) This is the fifth edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.\nIn this issue: Apache Cassandra performance report from MityLytics; Go 1.8.3 release; Elixir and Erlang; HHVM, a virtual machine for running PHP and Hack; GNU Parallel, FFmpeg, a video transcoder; and Firefly\u0026rsquo;s ARMv8 Kickstarter.\nIf you have any questions, comments, or suggestions for Issue 6, please send them to ed@packet.net or contact me on the Packet community Slack channel as \u0026ldquo;ed.packet\u0026rdquo;. Tweets can be send to the @worksonarm account or to @vielmetti.\nApache Cassandra performance report from Mityltics I spoke with Manish Singh from MityLytics on Thursday about his talk at the Apache Big Data conference. MityLytics ran a head to head comparison between the performance of the Apache Cassandra database on ARM vs Intel using servers from Packet and from Amazon Web Services. The systems were evaluated based on performance, price, and operations under a load that reflects the cotenancy common in Cassandra installations in the real world.\nOf the servers compared, Packet\u0026rsquo;s Type 2A 96-core ARM server compared favorably on many fronts. On the plus side, the many cores allowed more headroom for more CPU-intensive cotenant loads, and the fast network allowed it to readily keep up with the test load. Manish did note that getting Cassandra to run was not a clean out-of-the-box experience, and that a few changes needed to be done from the default Apache distribution to get it to work.\nThe slides for the talk, entitled [Cassandra on Armv8 - A comparison with x86 and other platforms], are available from the Apache Big Data conference web site. For a complete report from MityLytics, contact them for a PDF of conclusions from their benchmarking efforts.\n[Cassandra on Armv8 - A comparison with x86 and other platforms]:http://events.linuxfoundation.org/sites/events/files/slides/ApacheCassandra-4.pdf\nGo 1.8.3 release Go had two releases this week. 1.8.2 shipped on Tuesday May 23, 2017 with a single bug fix in the crypto/elliptic library that affected only the x86 platform. It was followed on the next day, May 24, with the Go 1.8.3 release which reported fixes to the compiler, runtime, documentation, and the database/sql package. See the Go 1.8.3 milestone on the issue tracker for details of what was changed.\nIn the release notes for 1.8.3 there are no changes specific to ARM.\nWe\u0026rsquo;re watching Go closely in anticipation of a Go 1.9 release, which is expected to have binary support for arm64 as well as a number of performance improvements specific to ARM. Expect that in the late July 2017 timeframe.\nErlang, Elixir, and Phoenix Erlang is a functional programming language developed at Ericsson for telecom and online transaction processing applications. It is known for its ability to update complex programs without bringing the system down, and for its effective use of multiprocessor systems. Erlang\u0026rsquo;s runtime system has built-in support for concurrency, distribution and fault tolerance.\nUbuntu 16.04 LTS ships with support for Erlang 18 on the ARM platform. Erlang 20 is the latest available release.\nElixir is a language written to use Erlang\u0026rsquo;s BEAM runtime, and Phoenix uses that language to deploy a speedy, productive web framework.\nHHVM: a virtual machine for running PHP and Hack HHVM is a virtual machine and just-in-time compiler (JIT) for applications written in PHP and Hack. Developed by Facebook, it is a response to PHP performance issues at scale, and it has been responsible for 10x speedups on applications. The HHVM on ARM mailing list is for developers working on the language and its implementation.\nThe March 2017 essay How the Cyber-Elephant got its ARM by Max Wang gives a lot of detail in how HHVM was ported to ARM. HHVM had originally targeted Intel systems only, and the team rearchitected the just-in-time compiler to emit a stream of symbols that could be easily handled by not only an x86 back end but also ARM and Power systems.\nGNU Parallel GNU Parallel is designed to support parallel computation on multicore machines via the Unix command line. As a drop-in replacement for xargs, it makes it easy to execute a series of commands each on their own processor from a pipeline.\nIf your task responds to \u0026ldquo;embarrassingly easy\u0026rdquo; parallelism, GNU Parallel is a very straightforward way to keep a lot of cores running. This is a good addition to your toolkit on a system like the 96-core Packet Type 2A system where you might easily improve simple parallel tasks manyfold.\nThe GNU Parallel paper describing its motivation and operations is O. Tange (2011): GNU Parallel - The Command-Line Power Tool, ;login: The USENIX Magazine, February 2011:42-47.\nFFmpeg FFmpeg is a video processing command-line program and set of libraries. It handles a variety of video and audio formats, and has been developed since the year 2000 in fast C and assembly code, including ARM64 assembly for performance. FFmpeg is capable of applications such as transcoding from one video file format to another, extracting an audio track from a video file, adding subtitles to video, and many more video and audio transformations limited only by your imagination and ability to construct a command line suitable for expressing your task.\nffmpeg version 2.8.11-0ubuntu0.16.04.1 is provided on Ubuntu 16.04 LTS for ARM. The latest development release is 3.3.1, provided online through multiple git repositories including the FFmpeg repository on Github.\nFirefly\u0026rsquo;s ARMv8 Kickstarter project The Firefly-RK3399 is a six-core ARMv8 single-board computer that was funded by a Kickstarter campaign that launched in December 2016.\nThe project raised over $60,000 from more than 200 backers, and is now available from Firefly for a list price of $199.00.\nFeaturing a Rockchip RK3399 SoC chipset at its core, the Firefly-RK3399 advertises compatibility with Ubuntu 16.04 and Android. The six-core system has two Cortex-A72 high-performance cores and four Cortex-A53 cores. Hardware on board includes a ARM Mali-T864 GPU, with the system advertised as suitable for computer vision, machine learning, and 4K 3D rendering.\nColophon Produced in Ann Arbor, Michigan. Coffee from Roos Roast. Quiet places to work provided by the Ann Arbor District Library.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w20/",
-	"title": "WOA 4, May 19, 2017 (W20)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 4, Friday May 19, 2017 (Week 20) This is the fourth edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.\nIn this issue: developer resources from ARM, HPE\u0026rsquo;s \u0026ldquo;The Machine\u0026rdquo;, a NAS Kickstarter from Helios, the controversy over systemd that launched Devuan, OpenJDK builds from AdoptOpenJDK, Go 1.9 speedups in the queue, and more.\nIf you have any questions, comments, or suggestions for Issue 5, please send them to ed@packet.net or contact me on the Packet community Slack channel as \u0026ldquo;ed.packet\u0026rdquo;. Tweets can be send to the @worksonarm account or to @vielmetti.\nARM Infrastructure Developer Community portal The ARM Infrastructure Developer Community portal is a central showcase and global directory for developers seeking to harness the innovation available within the ARM ecosystem for next generation data center, cloud and network infrastructure deployments. Hosted by ARM, it provides a solutions library for use cases, developer resources for hardware and software needs, and an introduction to partners in the ARM ecosystem.\nA number of newsletters are available from ARM through this project; most interesting of which to me is the \u0026ldquo;Linux and Open Source Development Newsletter\u0026rdquo;. Signed up!\nHPE \u0026ldquo;The Machine\u0026rdquo; ThunderX2 based multi-terabyte main memory machine HPE has unveiled a design for a high performance, large memory system based on the Cavium ThunderX2 ARM chipset. \u0026ldquo;The Machine\u0026rdquo;, as it is dubbed, would have the ability to address 160 terabytes of memory over a 40-node cluster with 1280 Cavium ARM cores. A high speed switching fabric dubbed \u0026ldquo;Gen-Z\u0026rdquo; connects the kit together. The prototype was demoed in a lab in Fort Collins, Colorado, says Agam Shah in a story in PC World.\n\u0026ldquo;The Machine\u0026rdquo; represents the latest push from HPE that they label \u0026ldquo;Memory-Driven Computing\u0026rdquo;, looking at the set of problems that can be addressed with very large main memory systems. The challenge for the industry will be the expense of building multi-terabyte scale memory compute nodes and the knowledge necessary to program these systems effectively.\nRead more at the HPE web site and in Venturebeat.\nARM NAS Kickstarter from Helios Helios has announced a Kickstarter campaign to fund development of a \u0026ldquo;personal cloud\u0026rdquo; device. The Helios 4 would support four SATA 3.0 hard drives as well as gigabit ethernet using a Marvell Armada 388 chip at its core.\nThe device ships with Armbian as its operating system, and with NAS software from OpenMediaVault and Syncloud to fill out the home data sharing user experience.\nAs of this writing the Helios team is about a third of the way towards their fundraising goal. For about US$175 one can make a preorder for the 2 GB version of this machine, which is scheduled for availability in the September 2017 timeframe. Note that the price as delivered includes a case but not the hard drives you would need, and some assembly will be required.\nPlease also note on the Kickstarter that prices are listed in Singapore dollars.\nAdopt OpenJDK: open source Java build system Adopt OpenJDK is in the early stages of putting together a build farm for OpenJDK releases for this open source Java implementation. At the moment the project has the most complete single source for OpenJDK binaries across multiple platforms, with ARM, Power, Z series, Intel, Mac, and Windows builds in progress.\n\u0026ldquo;The AdoptOpenJDK Build Farm is still a Work In Progress. Please DO NOT use downloaded binaries for your production purposes.\u0026rdquo;\nPacket is a sponsor of Adopt OpenJDK.\nGo 1.9 speedups in CRC32 codes Speedups of up to 7x in CRC32 code when using the IEEE and Castagnoli polynomials are planned for the Go 1.9 release thanks to contributions by ARM\u0026rsquo;s Fangming Fang. This 32-bit cyclic redundancy check is widely used to detect errors in network and file systems.\nThe need for a performant CRC32 code was noted in the process of getting CockroachDB to pass all of its build tests on arm64. Very slow write performance was noted on a database function that performs acceptably on x86. Make a note to retest this function after Go 1.9 appears, likely to be in late July 2017.\nFreeBSD quarterly report The FreeBSD quarterly report is out for the first quarter of 2017, detailing progress and tasks ahead for this BSD variant.\nCavium\u0026rsquo;s ThunderX is the initial reference target platform for FreeBSD/arm64. The supported platform supports a single 48-core model in FreeBSD 11.0, but the 96-core dual chip version is not yet supported and thus not yet available at Packet.\nFinal testing and productionization of support for the Marvell Armada38x ARMv7 platform is under way. The rebase and cleanup is going well, with patches functioning on top of HEAD and ready for upstreaming.\nDevuan, a systemd free Debian distribution Devuan is a fork of the successful Debian project with a singular mission to remove all system dependencies on the \u0026ldquo;systemd\u0026rdquo; init system. Systemd replaces older BSD and Linux init systems, acting as PID 1 in a running system. The systemd project has expanded towards other essential Linux system core functions including name and time service to name only two. The Devuan maintainers (and some others) have taken up the cause of removing systemd from their world as a struggle for freedom.\nIn Devuan 1.0 RC2, Devuan has support for 29 different ARM boards including the Acer Chromebook and the Raspberry Pi model 3 in 64-bit mode.\nRead more about the Devuan project in The Register.\nCNCF News Don’t miss amazing keynotes and sessions at CloudNativeCon + KubeCon North America, December 6-8 in Austin, Texas! Early bird discounted ticket sales for the Cloud Native Computing Foundation’s flagship conference ends Friday, May 19th.\nColophon Edited with vim and Github on a MacBook Air. Coffee from Sweetwaters, Ann Arbor MI.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wtem/",
 	"title": "WTEM 980 Washington DC",
 	"tags": [],
@@ -259,92 +224,78 @@
 	"content": "WTEM 980 carries ESPN radio programming and is a Baltimore Orioles network affiliate.\nKiwiSDR via N4TVC: http://n4tvc.zapto.org:8073/?f=980.00amz10\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w19/",
-	"title": "WOA 3, May 12, 2017 (W19)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 3, Friday May 12, 2017 (Week 19) This is the third edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.\nThis issue has Resin\u0026rsquo;s 144-node ARM-based \u0026ldquo;Beast\u0026rdquo; cluster, a conference report from Red Hat Summit in Boston, video from DockerCon in Austin, an OpenBSD 6.1 release, and software from NGINX and Portainer.\nIf you have any questions, comments, or suggestions for Issue 4, please send them to ed@packet.net or contact me on the Packet community Slack channel as \u0026ldquo;ed.packet\u0026rdquo;. Tweets can be send to the @worksonarm account or to @vielmetti.\nGolang 1.9 plan for ARM64 support The Go language team (golang) has moved ARM64 binary support for Go onto their Go 1.9 release target schedule, due out at the end of July 2017. Up until now, to bootstrap Go from source, it had been necessary to cross-compile the compiler or build from a previously cross-complied version. The release target will allow downstream projects such as Docker and Kubernetes to build directly from a supported version of Go.\nBuild notes: Resin\u0026rsquo;s \u0026ldquo;Beast\u0026rdquo; The folks at resin.io have built several versions of a Raspberry Pi ARM-powered cluster for demonstrating their fleet management capabilities. This 144-node cluster features a field of displays which are driven directly by each Pi. The housing hides a modular network of switches and wires used to connect the Pi network together. Having finished Beast v2, the team is hard at work on a third generation of the effort.\nPhoto credit: resin.io Conference reports: Red Hat Summit Red Hat Summit in Boston was on May 2-4, 2017 featured the ARM Pavillion. Vendors Cavium, Qualcomm, Packet, Linaro, Phoenics Electronics and Gigabyte were in attendance alongside ARM. I was on the show floor for three days, talking to people from a variety of industries and from Red Hat.\nJon Masters, Chief ARM Architect at Red Hat, led a panel session on \u0026ldquo;ARM Servers in the Datacenter\u0026rdquo;, and Jeffrey Burt of Next Platform summarized the session by saying that Red Hat is the Gatekeeper for ARM in the Datacenter.\n If any new hardware technology is going to get traction in the datacenter, it has to have the software behind it. And as the dominant supplier of commercial Linux, Red Hat’s support of ARM-based servers gives the upstart chip makers like Applied Micro, Cavium, and Qualcomm the leverage to help pry the glasshouse doors open and get a slice of the server and storage business that is so utterly dominated by Intel’s Xeon processors today.\n Some comments from panelists captured by Next Platform:\nJeff Underhill, director of open source enablement at ARM:\n Any idea that ARM in the datacenter is a myth is a misconception\u0026hellip;. It\u0026rsquo;s a marathon, not a sprint, and we\u0026rsquo;re well on our way.\n Zachary Smith, Packet founder and CEO:\n It’s all about new workloads. I don’t care if it’s X86 or ARM. A few years from now, 90 percent of workloads will be new.\n Conference reports: OpenStack Boston This week was OpenStack Boston - awaiting word from reports from the show floor.\nConference videos: DockerCon All of the breakout session video recordings from DockerCon 2017 are now available for viewing. Of especial interest are the talks by Justin Cormack on LinuxKit, Julius Volz on Prometheus, and Christy Perez and Chris Jones from IBM on From ARM to Z: building, shipping, and running a multi-platform Docker swarm.\nUpcoming events Mityltics will be at Apache Big Data 2017, May 16-18 in Miami, with Manish Singh presenting on Cassandra on ARMv8 - A Comparison with x86 and Other Processor Platforms.\nThe call for proposals deadline for ARM TechCon is May 19, for an event to be held October 24-26 in Santa Clara, CA.\nOpenBSD 6.1 release OpenBSD 6.1 was released, with new support for the arm64 platform, on April 11, 2017. The current target platforms are the Firefly-RK3399, the Pine64, Raspberry Pi 3 and Opteron A1100 (Seattle). On the Pi 3, there is no driver yet for the SD card, so a USB drive and manual steps are needed for a boot. \u0026ldquo;Please be aware that OpenBSD support for this platform is far from complete.\u0026rdquo; Detailed instructions for OpenBSD describe the entire process from start to finish.\nPortainer – a management interface for Docker Portainer is a simple management solution for Docker which allows you to easily manage your Docker host or Swarm cluster. It provides a detailed overview of Docker and allows you to manage containers, images, networks and volumes.\nPortainer can be built from source or launched from a provided Docker container. The container provided has multiple architecture (multiarch) support and will launch a correct version for ARMv8 as well as running on Raspberry Pi, Intel Linux, Windows, and Power architectures.\nMultiarch support in Portainer is enabled by the use of the Go language (which supports straightforward cross-compilation) as well as by the use of manifest-tool from Phil Estes of IBM. This tool updates the package manifest in the Docker registry to point correctly to the right architecture for each of the supported systems that a multiarch container handles.\nWeb infrastructure Nginx is a web server, reverse proxy server, load balancer and HTTP cache. Since 2014 it has been commercially supported on ARMv8.\nTIRIAS Research has released a report on NGINX CDN using ThunderX, analyzing a comparison of total cost of ownership and performance for an Intel Xeon system compared to Cavium\u0026rsquo;s ThunderX. The ARM system compares favorably to the Intel system on performance coming in at a favorable price point. Registration is required to get the free rerport.\nContinuous integration Several open source projects at Packet are using Jenkins for continuous integration and remote builds. If your project currently builds on ARM - or if you\u0026rsquo;d like it to - contact ed@packet.net to discuss your build needs.\nColophon Produced in part at Workantile in Ann Arbor, MI. Portions of this newletter were edited with the Github visual editor, and with vim on a MacBook Air.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w18/",
-	"title": "WOA 2, May 5, 2017 (W18)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 2, Friday May 5, 2017 This is the second edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.\nIf you have any questions, comments, or suggestions for Issue 2, please send them to ed@packet.net or contact me on the Packet community Slack channel as \u0026ldquo;ed.packet\u0026rdquo;. Tweets can be send to the @worksonarm account or to @vielmetti.\nConference reports Red Hat Summit in Boston on May 2-4, 2017 featured the ARM Pavillion. Vendors Cavium, Qualcomm, Packet, Linaro, Phoenics Electronics and Gigabyte were in attendance alongside ARM. I was on the show floor for three days, talking to people from a variety of industries and from Red Hat.\nAt Kubecon, Lucas Käldström demonstrated a bare-metal multi-platform kubeadm setup with persistent storage and monitoring. See kubeadm-workshop for code on Github.\nServerless was in Austin Texas in late April 2017. This account from Adobe I/O describes some highlights from the event, including the history and evolution of computing and a description of the \u0026ldquo;toddler years\u0026rdquo; of serverless efforts.\nUpcoming events Mityltics will be at Apache Big Data 2017, May 16-18 in Miami, with Manish Singh presenting on Cassandra on ARMv8 - A Comparison with x86 and Other Processor Platforms.\nThe call for proposals deadline for ARM TechCon is May 19, for an event to be held October 24-26 in Santa Clara, CA.\nSingle board computers: the Hikey 960 The Hikey 960 is designed as a single board computer for Android development. It was developed by Huawei and can be purchased through a variety of distributors listed at the 96boards web site. US suggested retail price is $239. The system has an 8-core Huawei Kirin 960 processor, featuring 4 ARM Cortex A73 and 4 Cortex A53 cores, 3GB of DRAM, and 32G of flash.\n64 bit operating systems for the Raspberry Pi 3 Raspberry Pi 3 owners have several choices for booting an ARMv8-based 64-bit operating system on that system.\nSUSE Linux was announced for Raspberry Pi 3 systems in November 2016. The release announcement notes that it is based on the upstream kernel used for SLES for ARM and has a common code base with all architecture supported by SUSE Linux Enterprise. Based on this support, StackIQ announced a version of their Stacki data center provisioning software that works with the Raspberry Pi to let you build ARM and Intel based clusters.\nHypriot is a distribution based on Debian 8. Dieter Reuter put together a workshop on building a full arm64 distribution for the Pi 3, complete with build scripts for all aspects of the system, in his Building a 64bit Docker OS for RPi3.\nARMv8 servers by the hour from Scaleway and Packet Scaleway announced the availability of virutalized ARMv8 systems on April 27, 2017 out of their Paris data center, with availability in Amsterdam scheduled soon. Systems are available with 2, 4 or 8 cores, and cost upwards from 2.99 Euros/month.\nPacket\u0026rsquo;s Type 2A server, a 96-core Cavium based ARMv8 system, was featured at the ARM Pavillion at Red Hat Summit. Priced at $0.50/hr, it provides developers with easy access to hardware for their ARMv8 development, as well as infrastructure for workloads. (Packet is a sponsor of this newsletter).\nWork in progress Highlighting work in progress where a modest amount of incremental effort is likely to result in software that works on ARM. Each of these projects is available for you to contribute to.\nCockroachDB is a distributed database designed as an open source equivalent to Google\u0026rsquo;s Spanner database, for disaster-tolerant global infrastructure. Work is in progress to port this system to ARMv8.\nWeb infrastructure Nginx is a web server, reverse proxy server, load balancer and HTTP cache. Since 2014 it has been commercially supported on ARMv8.\nHugo is a static site generator used for weblogs and web site development, and since v0.20.3 the official release includes ARMv8 support.\nARM Assembly speedups WolfSSL has ARMv8 native instruction support to speed up SSL termination. The software is widely used in embedded systems, and also includes server support for integration with Nginx.\nContinuous integration Several open source projects at Packet are using Jenkins for continuous integration and remote builds. If your project currently builds on ARM - or if you\u0026rsquo;d like it to - contact ed@packet.net to discuss your build needs.\nIn other newsletters Cloud Native Monthly, April 2017, was produced by the Cloud Native Computing Foundation. You\u0026rsquo;ll need to subscribe to get a copy - a sample February newsletter is online.\nSysdig\u0026rsquo;s Containers News No. 5 for March and April 2017 has a good roundup of container-based computing news.\nPortability notes If you\u0026rsquo;re writing code for ARMv8, you\u0026rsquo;ll want to be aware of these issues that require special attention.\nCockroachDB discovered that the Go 1.8.1 runtime returns slightly different numeric results for floating point operations, characterized generally as different rounding behavior for the very last decimal place. Other anomalous results have been seen in PHP and in the JVM based Clojure language. Work is underway to provide minimum test cases to ARM and to language developers and to identify guidance for acceptance tests.\nColophon Produced in part on the show floor at Red Hat Summit. Portions of this newletter were edited with Github, vim on a MacBook Air.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w17/",
-	"title": "WOA 1, April 28, 2017 (W17)",
-	"tags": [],
-	"description": "",
-	"content": " Works on ARM news, Issue 1, April 28, 2017 This is the first edition of Works on ARM news, a newsletter from Ed Vielmetti, Special Projects Director at Packet that covers development of software for ARMv8 in open source and the enterprise.\nIf you have any questions, comments, or suggestions for Issue 2, please send them to ed@packet.net or contact me on the Packet community Slack channel as \u0026ldquo;ed.packet\u0026rdquo;.\nConference reports DevOps Gathering 2017 featured \u0026ldquo;Intel and ARM, let Kubernetes rule them all!\u0026rdquo; by Lucas Käldström, March 23 - 25, 2017 in Bochum, Germany See the Youtube video of Lucas\u0026rsquo;s talk, via Kube Weekly #80.\nDieter Reuter and Peter Rossbach\u0026rsquo;s workshop on Learning Docker on a Raspberry Pi ARM-Cluster at DevOps Gathering in March 2017. Source code from the workshop is at workshop-raspberrypi-64bit-os on Github.\nUpcoming events Packet will be at Red Hat Summit in the ARM Ecosystem Showcase on May 2-4 in Boston, MA.\nMityLytics will be at Apache Big Data 2017, May 16-18 in Miami, with Manish Singh presenting on Cassandra on ARMv8 - A Comparison with x86 and Other Processor Platforms.\nThe call for proposals deadline for ARM TechCon is May 19, for an event to be held October 24-26 in Santa Clara, CA.\nInfrastructure automation Docker\u0026rsquo;s \u0026ldquo;moby\u0026rdquo; project has support for booting LinuxKit kernels on Packet\u0026rsquo;s Intel and ARM based infrastructure.\nAnsible has released documentation for its support of Packet. This code was written by Tomáš Karásek.\nWork in progress Highlighting work in progress where a modest amount of incremental effort is likely to result in software that works on ARM. Each of these projects is available for you to contribute to.\nAlex Ellis presented FAAS, Functions as a service, at DockerCon in Austin on April 20, 2017. His twelve minute demo won best of show for \u0026ldquo;cool hacks\u0026rdquo;, demonstrating scaling up \u0026ldquo;serverless\u0026rdquo; computing using Docker Swarm. See his repo on Github for code. There\u0026rsquo;s a bit of work left to port to arm64, mostly having to do with getting Docker up and running on the box in an automated way with a minimum of fuss. Alex is interested in contributions from the community, and notes that FaaS brings portability to serverless functions.\nLanguages and compilers NodeSource on March 31, 2017. The official build for node.js for linux/arm64 is done on a Packet Type 2A 96-core server, and is released at the same time as all other binaries for supported platforms. Node.JS is a popular language for Internet development because it allows developers access to the same Javascript language that is in the browser to also power back end services.\nGo 1.8.1 was released on April 7, 2017. This is primarily a bug fix release, and it addresses a number of small issues on a variety of platforms. See the Go release history for details. Go 1.8.1 is avaiable on Ubuntu through the Go 1.X Packages PPA, and can be built from source on Ubuntu using the system Go which is 1.6.4 as a bootstrap. See worksonarm.com/golang for a full account.\nThe Adopt OpenJDK project is using infrastructure at Packet for continuous integration in building this open source Java runtime. They are working on a release for arm64, though it is not ready yet as of April 26, 2017.\nARM Assembly speedups Minio has developed sha256-simd, a package of Go code that\u0026rsquo;s a drop-in replacement for the Go system SHA256 crypto routines. Minio\u0026rsquo;s version is accelerated with assembly language code for ARM and Intel processors. These measured speed improvements range from 10x to 100x depending on the situation.\nContinuous integration Several open source projects at Packet are using Jenkins for continuous integration and remote builds. If your project currently builds on ARM - or if you\u0026rsquo;d like it to - contact ed@packet.net to discuss your build needs.\nBug fix releases Minio, a storage system that provides an S3 compatible interface to your data, sent out news on April 25 announcing a bug fix release with critical fixes that have security implications.\nPortability notes If you\u0026rsquo;re writing code for ARMv8, you\u0026rsquo;ll want to be aware of these issues that require special attention.\nWhen the Go syscall interface was frozen, ARMv8 systems did not support a dup2() system call. For portability, you\u0026rsquo;ll want to do as the CockroachDB team did and wrap those calls with conditional compiles to pick up dup3() instead. It turns out this is also necessary for Windows portability and log file handling. See PR 14441 for CockroachDB for details on implementing a portable \u0026ldquo;dupFD\u0026rdquo; interface.\nDifferent ARMv8 systems implement different system page sizes. Your code should determine the system page size at runtime, with a goal of being portable enough so that if it\u0026rsquo;s built on a system with 4K pages that it will run on a system with 64K pages. Versions of Go 1.7 and earlier have a bug in fetching the system page size, a problem that\u0026rsquo;s addressed in the Go 1.8 series. This issue is also being addressed by the .NET Core CLR team.\nThe contents of the /proc/cpuinfo file system differ between ARM and Intel systems. If you are parsing that file to determine the number of cores on the machine, you may get incorrect results if you have not made that code more portable. In particular, this Juju bug, \u0026ldquo;manual: detection of cores fails on Packet Type 2A\u0026rdquo;, resulted in Juju finding only one core on Packet\u0026rsquo;s 96-core Type 2A system. The bug was fixed by Witold Krecicki for Juju 2.2 beta 3.\nColophon Edited with Github and vim on a MacBook Air in Ann Arbor, MI.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kiki/",
-	"title": "KIKI 990 Honolulu",
+	"title": "KIKI 990 Honolulu Hawaii",
 	"tags": [],
 	"description": "",
 	"content": "Fox Sports 990 - Hawaii’s Home for Fox Sports \u0026amp; the Los Angeles Dodgers.\nKiwiSDR: http://72.235.91.131:8073/?f=990.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wmvp/",
-	"title": "WMVP 1000 Chicago",
+	"title": "WMVP 1000 Chicago Illinois",
 	"tags": [],
 	"description": "",
-	"content": "WMVP 1000 is ESPN Radio for Chicago. This station comes in clear at night to the Detroit market.\n via Farmington Hills, MI: http://misdr.duckdns.org/?f=1000.00amz10 via Elida, OH: http://65.29.112.189:8073/?f=1000.00amz10  \nhttp://www.espn.com/chicago/\n"
+	"content": "WMVP 1000 is ESPN Radio for Chicago. This station comes in clear at night to the Detroit market.\n via Farmington Hills, MI: http://misdr.duckdns.org/?f=1000.00amz10 via KH6ILT Elida, OH: http://65.29.112.189:8073/?f=1000.00amz10  \nhttp://www.espn.com/chicago/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wins/",
-	"title": "WINS 1010 New York City",
+	"title": "WINS 1010 New York City New York",
 	"tags": [],
 	"description": "",
 	"content": "1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\nListen:\n http://newyork.cbslocal.com/station/1010-wins/ via K3FEF \u0026amp; W3TKP WebSDR; 160 meter band. http://k3fef.com:8901/ via nycradio Global Tuners: http://www.globaltuners.com/receiver/1370-New-York-SONY-XDR-F1HD-1 via Tunein: http://tunein.com/radio/1010-WINS-s29616/ via Staten Island Global Tuners: https://www.globaltuners.com/receiver/1841/js2 "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wtka/",
-	"title": "WTKA 1050 Ann Arbor",
+	"title": "WTKA 1050 Ann Arbor Michigan",
 	"tags": [],
 	"description": "",
-	"content": "WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.\n\nKiwiSDR KB8SPI, Farmington Hills: http://misdr.duckdns.org/?f=1050.00amz10\nKiwiSDR W8CMN, Fenton: http://dentonhill-sdr.moses.bz/?f=1050.00amz10\n"
+	"content": "WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball and Michigan Wolverines football.\n\nKiwiSDR KB8SPI, Farmington Hills: http://misdr.duckdns.org/?f=1050.00amz10\nKiwiSDR W8CMN, Fenton: http://dentonhill-sdr.moses.bz/?f=1050.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/knx/",
-	"title": "KNX 1070 Los Angeles",
+	"title": "KNX 1070 Los Angeles Californai",
 	"tags": [],
 	"description": "",
 	"content": "KNX 1070 is an all-news radio station for Los Angeles, California.\n\nListen via TuneIn: https://beta.tunein.com/radio/KNX-1070-NEWSRADIO-s34407/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wtic/",
+	"title": "WTIC 1080 Hartford Connecticut",
+	"tags": [],
+	"description": "",
+	"content": "WTIC 1080 Hartford Connecticut is a 50,000 watt station on the Boston Red Sox radio network.\nVia KiwiSDR:\n Luray, VA http://n4ldr-sdr.ddns.net:9000/?f=1080.00amz10 Burke, VA http://n4tvc.zapto.org:8073/?f=1080.00amz10 New Jersey http://jerseyshoresdr.hopto.org:8073/?f=1080.00amz10 Rochester, NY http://rx.jimlill.com:8073/?f=1080.00amz10  "
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wbal/",
-	"title": "WBAL 1090 Baltimore",
+	"title": "WBAL 1090 Baltimore Maryland",
 	"tags": [],
 	"description": "",
 	"content": "WBAL 1090 Baltimore is the flagship station of the Baltimore Orioles baseball network.\nKiwiSDR N4TVC: http://n4tvc.zapto.org:8073/?f=1090.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wtam/",
-	"title": "WTAM 1100 Cleveland",
+	"title": "WTAM 1100 Cleveland Ohio",
 	"tags": [],
 	"description": "",
 	"content": "WTAM 1100 AM is a 50,000 watt Class A radio station and the AM flagship station of the Cleveland Indians baseball and Cleveland Cavaliers basketball radio networks.\nVia KiwiSDR\n Farmington Hills MI: http://misdr.duckdns.org/?f=1100.00usbz10 - USB to avoid adjacent channel interference from WCAR 1090 Livonia. KH6ILT Elida OH http://65.29.112.189:8073/?f=1100.00amz10 N4LDR Luray VA http://n4ldr-sdr.ddns.net:9000/?f=1100.00amz10 N4TVC Burke VA http://n4tvc.zapto.org:8073/?f=1100.00amz10 WA2ZKD Rochester NY http://rx.jimlill.com:8073/?f=1100.00amz10  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kmox/",
-	"title": "KMOX 1120 St Louis MO",
+	"title": "KMOX 1120 St Louis Missouri",
 	"tags": [],
 	"description": "",
 	"content": "KMOX 1120 St Louis is the flagship station of the St Louis Cardinals baseball team.\nKMOX broadcasts with 50,000 watts clear channel.\nKiwiSDR:\n Central Indiana: http://38.86.67.206:8073/?f=1120.00amz10  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kqna/",
-	"title": "KQNA 1130 Prescott Valley AZ",
+	"title": "KQNA 1130 Prescott Valley Arizona",
 	"tags": [],
 	"description": "",
 	"content": "KQNA 1130 Prescott Valley is part of the Arizona Diamondbacks radio network.\nhttp://no1d.duckdns.org:8073/?f=1130.00amz10\nhttp://www.kqna.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/khtk/",
-	"title": "KHTK 1140 Sacramento",
+	"title": "KHTK 1140 Sacramento California",
 	"tags": [],
 	"description": "",
 	"content": "KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento\u0026rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey.\nKiwiSDR: N3LGA Sunnyvale, CA: http://sdr.n3lga.com:8073/?f=1140.00amz10\n"
@@ -354,7 +305,7 @@
 	"title": "WIMA 1150 Lima Ohio",
 	"tags": [],
 	"description": "",
-	"content": "WIMA 1150 Lima Ohio is in the Cincinnati Reds radio network.\nhttp://65.29.112.189:8073/?f=1150.00amz10\n"
+	"content": "WIMA 1150 Lima Ohio is in the Cincinnati Reds radio network and the Ohio State Buckeyes football radio network.\nVia KiwiSDR KH6ILT Elida OH: http://65.29.112.189:8073/?f=1150.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/cfgo/",
@@ -365,35 +316,35 @@
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wcbc/",
-	"title": "WCBC 1270 Cumberland MD",
+	"title": "WCBC 1270 Cumberland Maryland",
 	"tags": [],
 	"description": "",
-	"content": "Local station WCBC-AM Cumberland MD broadcasts Pittsburgh Pirates games.\nhttp://n4ldr-sdr.ddns.net:9000/?f=1270.00amz10\nhttps://www.wcbcradio.com/\n"
+	"content": "Local station WCBC-AM Cumberland MD broadcasts Pittsburgh Pirates games.\n Luray, VA N4SDR KiwiSDR http://n4ldr-sdr.ddns.net:9000/?f=1270.00amz10  https://www.wcbcradio.com/\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/wxyt/",
-	"title": "WXYT 1270 Detroit",
+	"title": "WXYT 1270 Detroit Michigan",
 	"tags": [],
 	"description": "",
 	"content": "WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\n\nhttps://en.wikipedia.org/wiki/Detroit_Tigers_Radio_Network\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/krko/",
-	"title": "KRKO 1380 Everett WAS",
+	"title": "KRKO 1380 Everett Washington",
 	"tags": [],
 	"description": "",
 	"content": "KRKO 1380 Everett Washington carries games of the Class A Everett AquaSox baseball team.\nVia KiwiSDR U Victoria: http://kiwisdr.ece.uvic.ca:8073/?f=1380.00amz10\nVia KiwiSDR Sammamish WA: http://24.17.196.180:8073/?f=1380.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kref/",
-	"title": "KREF 1400 Norman OK",
+	"title": "KREF 1400 Norman Oklahoma",
 	"tags": [],
 	"description": "",
 	"content": "KREF 1400 in Norman Oklahoma is an affiliate of the St Louis Cardinals radio network.\nSt. Louis Cardinals (MLB) \u0026amp; St. Louis Rams (NFL) games, Oklahoma University sports.\nKiwiSDR:\n W5TSU Norman OK: http://sdr.w5tsu.net:8073/?f=1400.00amz10  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kstp/",
-	"title": "KSTP 1500 Minneapols",
+	"title": "KSTP 1500 Minneapols Minnesota",
 	"tags": [],
 	"description": "",
 	"content": "KSTP Minneapolis is the flagship station for the Minnesota Twins baseball club.\n"
@@ -424,7 +375,7 @@
 	"title": "AM broadcast",
 	"tags": [],
 	"description": "",
-	"content": "AM broadcast stations, with notes especially on DX\u0026rsquo;ing baseball games.\n\nGenerally speaking, baseball games are not broadcast for free on the Internet, so you have to do some sleuthing to find a general purpose radio receiver that can be tuned to the games.\n CJCL 590 Toronto  CJCL 590 Toronto can be heard in Rochester, NY. http://rx.jimlill.com:8073/?f=590.00amz10 It is the radio home of the Toronto Blue Jays.\n KCSP 610 Kansas City  KCSP 610 is the flagship station for the Kansas City Royals.\n\n KDAL 610 Duluth MN  KDAL Duluth 610 is a member of the Minnesota Twins \u0026ldquo;Treasure Island\u0026rdquo; radio baseball network. Tune via Global Tuners: https://www.globaltuners.com/receiver/1858-Duluth-MN-1\n WTMJ 620 Milwaukee  WTMJ is the flagship station of the Milwaukee Brewers radio network. 50000 watts daytime, 10000 watts night time. http://www.wtmj.com/ Listen via KiwiSDR: Farmington Hills: http://misdr.duckdns.org/?f=620.00lsbz10 (LSB to avoid interference from 630 AM CFCO Chatham Ontario).  WFAN 660 New York City  WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\n\n WSCR 670 Chicago  WSCR 670 \u0026ldquo;The Score\u0026rdquo; broadcasts Chicago Cubs games. Listen via KiwiSDR: KH6ILT Elida OH: http://65.29.112.189:8073/?f=670.00amz10  KNBR 680 San Francisco  KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\n\n WLW 700 Cincinnati  WLW AM 700 is the flagship station of the Cincinnati Reds radio network. Via KiwiSDR: Elida OH: http://65.29.112.189:8073/?f=700.00amz10 Farmington Hills MI: http://misdr.duckdns.org/?f=700.00amz10 Fenton MI: http://dentonhill-sdr.moses.bz/?f=700.00amz10  KIRO 710 Seattle  KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\n\n KTKR 760 San Antonio TX  KTKR 760 San Antonio broadcasts Houston Astros games. Tune via Global Tuners: https://www.globaltuners.com/receiver/1155/js2\n KOA 850 Denver  KOA 850 is the flagship station of the Colorado Rockies. Kiwisdr: http://foxgulch.net:8073/?f=850.00amz10\n WLS 890 Chicago Illinois  WLS 890 is the flagship station for the Chicago White Sox. Via KiwiSDR Farmington Hills MI: http://misdr.duckdns.org/?f=890.00amz10 Via KiwiSDR Elida OH: http://65.29.112.189:8073/?f=890.00amz10\n KKNE 940 Honolulu  KKNE \u0026ldquo;AM 940 Hawaii\u0026rdquo; broadcasts in Hawaiian with traditional Hawaiian music and talk aimed at Hawaiian speakers. KiwiSDR at NH6XO: http://72.235.91.131:8073/?f=940.00amz10\n WINZ 940 Miami  WINZ 940 is the flagship station of the Miami Marlins baseball radio network. \u0026ldquo;Miami\u0026rsquo;s Sports Station\u0026rdquo;. Via KiwiSDR NO2CW: http://qth.ddns.net:8073/?f=940.00amz8 Home page: http://940winz.iheart.com/ Twitter: https://twitter.com/940WINZ\n WROC 950 Rochester NY  http://rx.jimlill.com:8073/?f=950.00amz10 Sports Radio 950, home to coverage of the Buffalo Sabres, Rochester Knighthawks, and Rochester Rattlers.\n WWJ 950 Detroit  WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\n\n WTEM 980 Washington DC  WTEM 980 carries ESPN radio programming and is a Baltimore Orioles network affiliate. KiwiSDR via N4TVC: http://n4tvc.zapto.org:8073/?f=980.00amz10\n KIKI 990 Honolulu  Fox Sports 990 - Hawaii’s Home for Fox Sports \u0026amp; the Los Angeles Dodgers. KiwiSDR: http://72.235.91.131:8073/?f=990.00amz10\n WMVP 1000 Chicago  WMVP 1000 is ESPN Radio for Chicago. This station comes in clear at night to the Detroit market.\n via Farmington Hills, MI: http://misdr.duckdns.org/?f=1000.00amz10 via Elida, OH: http://65.29.112.189:8073/?f=1000.00amz10  \n WINS 1010 New York City  1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\n WTKA 1050 Ann Arbor  WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.\n\n KNX 1070 Los Angeles  KNX 1070 is an all-news radio station for Los Angeles, California.\n\n WBAL 1090 Baltimore  WBAL 1090 Baltimore is the flagship station of the Baltimore Orioles baseball network. KiwiSDR N4TVC: http://n4tvc.zapto.org:8073/?f=1090.00amz10\n WTAM 1100 Cleveland  WTAM 1100 AM is a 50,000 watt Class A radio station and the AM flagship station of the Cleveland Indians baseball and Cleveland Cavaliers basketball radio networks. Via KiwiSDR Farmington Hills MI: http://misdr.duckdns.org/?f=1100.00usbz10 - USB to avoid adjacent channel interference from WCAR 1090 Livonia. KH6ILT Elida OH http://65.29.112.189:8073/?f=1100.00amz10 N4LDR Luray VA http://n4ldr-sdr.ddns.net:9000/?f=1100.00amz10 N4TVC Burke VA http://n4tvc.zapto.org:8073/?f=1100.00amz10 WA2ZKD Rochester NY http://rx.jimlill.com:8073/?f=1100.00amz10  KMOX 1120 St Louis MO  KMOX 1120 St Louis is the flagship station of the St Louis Cardinals baseball team. KMOX broadcasts with 50,000 watts clear channel. KiwiSDR: Central Indiana: http://38.86.67.206:8073/?f=1120.00amz10  KQNA 1130 Prescott Valley AZ  KQNA 1130 Prescott Valley is part of the Arizona Diamondbacks radio network. http://no1d.duckdns.org:8073/?f=1130.00amz10 http://www.kqna.com/\n KHTK 1140 Sacramento  KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento\u0026rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey. KiwiSDR: N3LGA Sunnyvale, CA: http://sdr.n3lga.com:8073/?f=1140.00amz10\n WIMA 1150 Lima Ohio  WIMA 1150 Lima Ohio is in the Cincinnati Reds radio network. http://65.29.112.189:8073/?f=1150.00amz10\n CFGO 1200 Ottawa Ontario  CFGO 1200 is \u0026ldquo;TSN Radio 1200\u0026rdquo; Ottawa Ontario. Sports coverage: Ottawa Senators (NHL hockey) Ottawa 67\u0026rsquo;s (OHL hockey) Ottawa Redblacks (CFL football) Ottawa Fury FC (USL soccer) Listen via KiwiSDR. http://www.ma-ku.com:8073/?f=1200.00amz10\n WCBC 1270 Cumberland MD  Local station WCBC-AM Cumberland MD broadcasts Pittsburgh Pirates games. http://n4ldr-sdr.ddns.net:9000/?f=1270.00amz10 https://www.wcbcradio.com/\n WXYT 1270 Detroit  WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\n\n KRKO 1380 Everett WAS  KRKO 1380 Everett Washington carries games of the Class A Everett AquaSox baseball team. Via KiwiSDR U Victoria: http://kiwisdr.ece.uvic.ca:8073/?f=1380.00amz10 Via KiwiSDR Sammamish WA: http://24.17.196.180:8073/?f=1380.00amz10\n KREF 1400 Norman OK  KREF 1400 in Norman Oklahoma is an affiliate of the St Louis Cardinals radio network. St. Louis Cardinals (MLB) \u0026amp; St. Louis Rams (NFL) games, Oklahoma University sports. KiwiSDR: W5TSU Norman OK: http://sdr.w5tsu.net:8073/?f=1400.00amz10  KSTP 1500 Minneapols  KSTP Minneapolis is the flagship station for the Minnesota Twins baseball club.\n WFED 1500 Washington DC  WFED 1500 \u0026ldquo;Federal News Radio\u0026rdquo; broadcasts Washington Nationals baseball from Washington, DC. It is a 50,000 watt Class A station.\n\n KEBC 1560 Oklahoma City OK  KEBC 1560 Oklahoma City is an affiliate of the Texas Rangers radio network. Via W5TWU KiwiSDR: http://sdr.w5tsu.net:8073/?f=1560.00amz10\n"
+	"content": "AM broadcast stations, with notes especially on DX\u0026rsquo;ing baseball games.\n\nGenerally speaking, baseball games are not broadcast for free on the Internet, so you have to do some sleuthing to find a general purpose radio receiver that can be tuned to the games.\n CJCL 590 Toronto Ontario  CJCL 590 Toronto can be heard in Rochester, NY. The station is the radio home of the Toronto Blue Jays. http://rx.jimlill.com:8073/?f=590.00amz10 Note interference from WEZE 590 Boston.\n KCSP 610 Kansas City Missouri  KCSP 610 is the flagship station for the Kansas City Royals.\n\n KDAL 610 Duluth Minnesota  KDAL Duluth 610 is a member of the Minnesota Twins \u0026ldquo;Treasure Island\u0026rdquo; radio baseball network. Tune via Global Tuners: https://www.globaltuners.com/receiver/1858-Duluth-MN-1\n KTAR 620 Phoenix Arizona  KTAR 620 Phoenix is the flagship station of the Arizona Diamondbacks radio baseball network. Via KiwiSDR Prescott Valley AZ: http://no1d.duckdns.org:8073/?f=620.00amz10 Please note that the Prescott Valley SDR also picks up KQNA 1130, a local station with less power but much better reception.\n WTMJ 620 Milwaukee Wisconsin  WTMJ is the flagship station of the Milwaukee Brewers radio network. 50000 watts daytime, 10000 watts night time. http://www.wtmj.com/ Listen via KiwiSDR: Farmington Hills: http://misdr.duckdns.org/?f=620.00lsbz10 (LSB to avoid interference from 630 AM CFCO Chatham Ontario).  WFAN 660 New York City New York  WFAN Sports Radio 66AM/101.1FM is the radio home of the New York Yankees.\n\n WSCR 670 Chicago Illinois  WSCR 670 \u0026ldquo;The Score\u0026rdquo; broadcasts Chicago Cubs games. Listen via KiwiSDR: KH6ILT Elida OH: http://65.29.112.189:8073/?f=670.00amz10 Cedar Rapids IA: http://wjniemi.hopto.org:8073/?f=670.00amz6  KNBR 680 San Francisco California  KNBR is the flagship station of the San Francisco Giants. It is a Cumulus station.\n\n WLW 700 Cincinnati Ohio  WLW AM 700 is the flagship station of the Cincinnati Reds radio network. Via KiwiSDR: KH6ILT Elida OH: http://65.29.112.189:8073/?f=700.00amz10 Farmington Hills MI: http://misdr.duckdns.org/?f=700.00amz10 with interference from WNZK 690\u0026frasl;680 Dearborn Heights Michigan Fenton MI: http://dentonhill-sdr.moses.bz/?f=700.00amz10  KIRO 710 Seattle Washington  KIRO-AM is 710 ESPN Seattle with sports programming. KIRO is the flagship station for the Seattle Mariners.\n\n WOR 710 New York City New York  WOR 710 New York is the flagship AM station of the New York Mets. http://k2sdr.homelinux.com:8073/?f=710.00amz10\n KTKR 760 San Antonio Texas  KTKR 760 San Antonio broadcasts Houston Astros games. Tune via Global Tuners: https://www.globaltuners.com/receiver/1155/js2\n KXIC 800 Iowa City Iowa  KXIC 800 Iowa City is part of the Chicago Cubs broadcast network, and the home of Iowa Hawkeyes sports. http://wjniemi.hopto.org:8073/?f=800.00amz6\n KOA 850 Denver Colorado  KOA 850 is the flagship station of the Colorado Rockies. Kiwisdr: http://foxgulch.net:8073/?f=850.00amz10\n WLS 890 Chicago Illinois  WLS 890 is the flagship station for the Chicago White Sox. Via KiwiSDR Farmington Hills MI: http://misdr.duckdns.org/?f=890.00amz10 Via KiwiSDR KH6ILT Elida OH: http://65.29.112.189:8073/?f=890.00amz10\n WSUI 910 Iowa City Iowa  WSUI 910 is public radio from Iowa Public Radio. BBC World Service overnight. Via KiwiSDR Euphonic Studio: http://wjniemi.hopto.org:8073/?f=910.00amz6 http://iowapublicradio.org/#stream/0\n KKNE 940 Honolulu Hawaii  KKNE \u0026ldquo;AM 940 Hawaii\u0026rdquo; broadcasts in Hawaiian with traditional Hawaiian music and talk aimed at Hawaiian speakers. KiwiSDR at NH6XO: http://72.235.91.131:8073/?f=940.00amz10\n WINZ 940 Miami Florida  WINZ 940 is the flagship station of the Miami Marlins baseball radio network. \u0026ldquo;Miami\u0026rsquo;s Sports Station\u0026rdquo;. Via KiwiSDR NO2CW: http://qth.ddns.net:8073/?f=940.00amz8 Home page: http://940winz.iheart.com/ Twitter: https://twitter.com/940WINZ\n WROC 950 Rochester New York  http://rx.jimlill.com:8073/?f=950.00amz10 Sports Radio 950, home to coverage of the Buffalo Sabres, Rochester Knighthawks, and Rochester Rattlers.\n WWJ 950 Detroit Michigan  WWJ is mostly a news station, with traffic and weather together on the 8s. There\u0026rsquo;s an occasional sports feed, which varies depending on the year.\nA CBS radio station.\nPart of the University of Michigan Wolverines Football radio network.\n\n WTEM 980 Washington DC  WTEM 980 carries ESPN radio programming and is a Baltimore Orioles network affiliate. KiwiSDR via N4TVC: http://n4tvc.zapto.org:8073/?f=980.00amz10\n KIKI 990 Honolulu Hawaii  Fox Sports 990 - Hawaii’s Home for Fox Sports \u0026amp; the Los Angeles Dodgers. KiwiSDR: http://72.235.91.131:8073/?f=990.00amz10\n WMVP 1000 Chicago Illinois  WMVP 1000 is ESPN Radio for Chicago. This station comes in clear at night to the Detroit market.\n via Farmington Hills, MI: http://misdr.duckdns.org/?f=1000.00amz10 via KH6ILT Elida, OH: http://65.29.112.189:8073/?f=1000.00amz10  \n WINS 1010 New York City New York  1010 WINS has 24 hour news coverage from New York City. A CBS radio station.\n\n WTKA 1050 Ann Arbor Michigan  WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball and Michigan Wolverines football.\n\n KNX 1070 Los Angeles Californai  KNX 1070 is an all-news radio station for Los Angeles, California.\n\n WTIC 1080 Hartford Connecticut  WTIC 1080 Hartford Connecticut is a 50,000 watt station on the Boston Red Sox radio network. Via KiwiSDR: Luray, VA http://n4ldr-sdr.ddns.net:9000/?f=1080.00amz10 Burke, VA http://n4tvc.zapto.org:8073/?f=1080.00amz10 New Jersey http://jerseyshoresdr.hopto.org:8073/?f=1080.00amz10 Rochester, NY http://rx.jimlill.com:8073/?f=1080.00amz10  WBAL 1090 Baltimore Maryland  WBAL 1090 Baltimore is the flagship station of the Baltimore Orioles baseball network. KiwiSDR N4TVC: http://n4tvc.zapto.org:8073/?f=1090.00amz10\n WTAM 1100 Cleveland Ohio  WTAM 1100 AM is a 50,000 watt Class A radio station and the AM flagship station of the Cleveland Indians baseball and Cleveland Cavaliers basketball radio networks. Via KiwiSDR Farmington Hills MI: http://misdr.duckdns.org/?f=1100.00usbz10 - USB to avoid adjacent channel interference from WCAR 1090 Livonia. KH6ILT Elida OH http://65.29.112.189:8073/?f=1100.00amz10 N4LDR Luray VA http://n4ldr-sdr.ddns.net:9000/?f=1100.00amz10 N4TVC Burke VA http://n4tvc.zapto.org:8073/?f=1100.00amz10 WA2ZKD Rochester NY http://rx.jimlill.com:8073/?f=1100.00amz10  KMOX 1120 St Louis Missouri  KMOX 1120 St Louis is the flagship station of the St Louis Cardinals baseball team. KMOX broadcasts with 50,000 watts clear channel. KiwiSDR: Central Indiana: http://38.86.67.206:8073/?f=1120.00amz10  KQNA 1130 Prescott Valley Arizona  KQNA 1130 Prescott Valley is part of the Arizona Diamondbacks radio network. http://no1d.duckdns.org:8073/?f=1130.00amz10 http://www.kqna.com/\n KHTK 1140 Sacramento California  KHTK serves as flagship station for Sacramento Kings basketball and Sacramento Mountain Lions and UC Davis Aggies football, as well as Sacramento\u0026rsquo;s radio home for Oakland Athletics baseball, Oakland Raiders football and San Jose Sharks hockey. KiwiSDR: N3LGA Sunnyvale, CA: http://sdr.n3lga.com:8073/?f=1140.00amz10\n WIMA 1150 Lima Ohio  WIMA 1150 Lima Ohio is in the Cincinnati Reds radio network and the Ohio State Buckeyes football radio network. Via KiwiSDR KH6ILT Elida OH: http://65.29.112.189:8073/?f=1150.00amz10\n CFGO 1200 Ottawa Ontario  CFGO 1200 is \u0026ldquo;TSN Radio 1200\u0026rdquo; Ottawa Ontario. Sports coverage: Ottawa Senators (NHL hockey) Ottawa 67\u0026rsquo;s (OHL hockey) Ottawa Redblacks (CFL football) Ottawa Fury FC (USL soccer) Listen via KiwiSDR. http://www.ma-ku.com:8073/?f=1200.00amz10\n WCBC 1270 Cumberland Maryland  Local station WCBC-AM Cumberland MD broadcasts Pittsburgh Pirates games. Luray, VA N4SDR KiwiSDR http://n4ldr-sdr.ddns.net:9000/?f=1270.00amz10 https://www.wcbcradio.com/\n WXYT 1270 Detroit Michigan  WXYT 1270 AM and WXYT-FM 97.1 are the radio home of the Detroit Tigers.\n\n KRKO 1380 Everett Washington  KRKO 1380 Everett Washington carries games of the Class A Everett AquaSox baseball team. Via KiwiSDR U Victoria: http://kiwisdr.ece.uvic.ca:8073/?f=1380.00amz10 Via KiwiSDR Sammamish WA: http://24.17.196.180:8073/?f=1380.00amz10\n KREF 1400 Norman Oklahoma  KREF 1400 in Norman Oklahoma is an affiliate of the St Louis Cardinals radio network. St. Louis Cardinals (MLB) \u0026amp; St. Louis Rams (NFL) games, Oklahoma University sports. KiwiSDR: W5TSU Norman OK: http://sdr.w5tsu.net:8073/?f=1400.00amz10  KSTP 1500 Minneapols Minnesota  KSTP Minneapolis is the flagship station for the Minnesota Twins baseball club.\n WFED 1500 Washington DC  WFED 1500 \u0026ldquo;Federal News Radio\u0026rdquo; broadcasts Washington Nationals baseball from Washington, DC. It is a 50,000 watt Class A station.\n\n KEBC 1560 Oklahoma City Oklahoma  KEBC 1560 Oklahoma City is an affiliate of the Texas Rangers radio network. Via W5TWU KiwiSDR: http://sdr.w5tsu.net:8073/?f=1560.00amz10\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/arrow/",
@@ -434,18 +385,18 @@
 	"content": "ARROW is the local amateur radio club for Ann Arbor and Washtenaw County. Meetings are monthly on the second Wednesday of the month at the Space Research Building, 2455 Hayward St. on the U of Michigan North Campus.\nhttps://w8rp.org/\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/alpine/",
-	"title": "Alpine Linux",
-	"tags": [],
-	"description": "",
-	"content": "Alpine Linux is officially supported on ARM. It is known for its small size and its use of musl instead of glibc as a C library.\nhttps://www.alpinelinux.org/\nAlpine 3.6.2 was released on June 17, 2017.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/",
 	"title": "Amateur Radio",
 	"tags": [],
 	"description": "",
 	"content": "Operating notes for amateur radio.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/railroad/otol-amtrak/",
+	"title": "Amtrak frequencies from On Track On Line",
+	"tags": [],
+	"description": "",
+	"content": "VHF frequencies for Amtrak rail segments.\nhttp://www.on-track-on-line.com/amtrak-freqs.shtml\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/",
@@ -460,13 +411,6 @@
 	"tags": [],
 	"description": "",
 	"content": "Ann Arbor Software Co-Workers is a meetup group that organizes for coworking, weekly on Friday mornings. The current location is the Main St branch of Espresso Royale.\nhttps://www.meetup.com/Ann-Arbor-Software-Co-Workers/\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/orchestration/apache-mesos/",
-	"title": "Apache Mesos",
-	"tags": [],
-	"description": "",
-	"content": "Yuqi Gu presented \u0026ldquo;Running Mesos/Marathon on ARM Servers\u0026rdquo; at MesoCon Asia in Beijing on June 22, 2017. He identified a handful of build issues in Mesos dependencies that need to be addressed to make Mesos and Marathon work on aarch64.\nhttp://schd.ws/hosted_files/mesosconasia2017/5f/Running%20Mesos-Marathon%20on%20ARM%20servers.pdf\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/weather/twitter/arborwx/",
@@ -487,14 +431,7 @@
 	"title": "Arizona Diamondbacks",
 	"tags": [],
 	"description": "",
-	"content": "The Arizona Diamondbacks radio network includes KQNA 1130, Prescott Valley AZ.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/",
-	"title": "Armbian",
-	"tags": [],
-	"description": "",
-	"content": "Armbian is an operating system based on Debian designed to support ARM development boards.\nhttps://www.armbian.com/\nRelease 5.32 is a bug fix release as of June 23, 2017.\n"
+	"content": "The Arizona Diamondbacks radio network includes KQNA 1130, Prescott Valley AZ. The flagship station is KTAR 620 Phoenix AZ.\nhttp://arizona.diamondbacks.mlb.com/ari/schedule/affiliates.jsp\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/aviation/",
@@ -560,6 +497,13 @@
 	"content": "Great Lakes shipping vessel locations and information available from Boatnerd.\nhttp://ais.boatnerd.com/\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/boston-red-sox/",
+	"title": "Boston Red Sox",
+	"tags": [],
+	"description": "",
+	"content": "The Boston Red Sox radio broadcast flagship station is WEEI, and the easiest station to pick up is 50,000 watt WTIC in Hartford, Connecticut.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/radio/scanner/broadcastify/",
 	"title": "Broadcastify",
 	"tags": [],
@@ -571,7 +515,7 @@
 	"title": "CM - West Coast, California",
 	"tags": [],
 	"description": "",
-	"content": " CM87: KiwiSDR: Sunnyvale, CA - N3LGA - http://sdr.n3lga.com:8073/ CM87: http://www.levinecentral.com/ham/grid_square.php?Grid=CM87  "
+	"content": "CM87: http://www.levinecentral.com/ham/grid_square.php?Grid=CM87\n CM87: KiwiSDR: Sunnyvale, CA - N3LGA - http://sdr.n3lga.com:8073/ CM87tj: KFS WedSDR, Half Moon Bay - W6DRZ - http://69.27.184.62:8901/  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/grid/cn/",
@@ -602,18 +546,11 @@
 	"content": ""
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/centos/",
-	"title": "CentOS",
-	"tags": [],
-	"description": "",
-	"content": "CentOS is the “Community ENTerprise Operating System”. It is a free rebuild of source packages from the Red Hat Enterprise Linux. CentOS uses the “yum” package manager.\nhttps://www.centos.org\nCentOS 7 is the current release, with ARM support.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/baseball/national-league/chicago-cubs/",
 	"title": "Chicago Cubs",
 	"tags": [],
 	"description": "",
-	"content": "Chicago Cubs baseball comes via a radio network that includes WSCR 670 Chicago.\n"
+	"content": "Chicago Cubs baseball comes via a radio network that includes WSCR 670 Chicago and KXIC 800 Iowa City\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/chicago-white-sox/",
@@ -634,7 +571,7 @@
 	"title": "Cincinnati Reds",
 	"tags": [],
 	"description": "",
-	"content": "The Cincinnati Reds radio network is an extensive one, with stations throughout Ohio, Indiana, Kentucky, and West Virginia.\nSome stations:\n WLW, the flagship, in Cincinnati WIMA Lima Ohio  A map:\nhttp://cincinnati.reds.mlb.com/cin/images/schedule/y2016/RadioAffiliateMap_Dec-2015_7x6.pdf\n"
+	"content": "The \u0026ldquo;Cincinnati Bell Reds Radio Network\u0026rdquo; is an extensive one, with stations throughout Ohio, Indiana, Kentucky, and West Virginia.\nSome stations:\n WLW, the flagship, in Cincinnati WIMA Lima Ohio  A map:\nhttp://cincinnati.reds.mlb.com/cin/images/schedule/y2016/RadioAffiliateMap_Dec-2015_7x6.pdf\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/cleveland-indians/",
@@ -658,13 +595,6 @@
 	"content": "The Colorado Rockies baseball radio network flagship station is KOA 850 Denver.\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/coreos/",
-	"title": "Container Linux",
-	"tags": [],
-	"description": "",
-	"content": "Container Linux (formerly CoreOS) is a container-focused operating system designed for large clusters.\nhttps://coreos.com/products/container-linux-subscription/\nThere is active development for ARM64 for several of the core components of CoreOS, including rkt, the CoreOS container runtime.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coworking/",
 	"title": "Coworking",
 	"tags": [],
@@ -683,7 +613,7 @@
 	"title": "DM - Southwest US",
 	"tags": [],
 	"description": "",
-	"content": "DM34: Arizona\n KiwiSDR NO1D Prescott Valley http://no1d.duckdns.org:8073/  DM62oi: Las Cruces NM\n KiwiSDR W5UXH Las Cruces NM http://w5uxh-kiwi.dyndns.org:8073/  DM79 - Denver CO\n"
+	"content": "DM34: Arizona\n KiwiSDR NO1D Prescott Valley http://no1d.duckdns.org:8073/  DM44cu: Sedona, AZ\n KiwiSDR W7RNA: http://w7rna.dyndns-remote.com:18073/ WebSDR W7RNA: http://w7rna.dyndns-remote.com:18901/  DM62oi: Las Cruces NM\n KiwiSDR W5UXH Las Cruces NM http://w5uxh-kiwi.dyndns.org:8073/  DM79 - Denver CO\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/grid/dn/",
@@ -698,13 +628,6 @@
 	"tags": [],
 	"description": "",
 	"content": "DO33: Edmonton\n KiwiSDR: VE6SLP / VE6JY, Lamont (Edmonton) Alberta: http://kiwisdr.ve6slp.ca:8173/  "
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/debian/",
-	"title": "Debian",
-	"tags": [],
-	"description": "",
-	"content": ""
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/marine/detroit-river-marine/",
@@ -732,14 +655,14 @@
 	"title": "EM - Southern US",
 	"tags": [],
 	"description": "",
-	"content": "EM13 - Parker, TX north of Dallas TX\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM13 KiwiSDR - KF6VO - http://ranch-pt.no-ip.org:8073/  EM15em - Oklahoma City OK\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM15em KiwiSDR - W5TSU - http://sdr.w5tsu.net:8073/  EM28 - Kansas - Missouri Just south of Kansas City.\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM28 KiwiSDR - http://136.63.226.118:8073/  EM79 - Central Indiana\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM79 KiwiSDR - http://38.86.67.206:8073/  "
+	"content": "EM13 - Parker, TX north of Dallas TX\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM13 KiwiSDR - KF6VO - http://ranch-pt.no-ip.org:8073/  EM15em - Oklahoma City OK\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM15em KiwiSDR - W5TSU - http://sdr.w5tsu.net:8073/  EM28 - Kansas - Missouri Just south of Kansas City.\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM28 KiwiSDR - http://136.63.226.118:8073/  EM63pj - Birmingham, Alabama - 2 meter WebSDR * http://n4dkd.asuscomm.com:8901/\nEM79 - Central Indiana\n http://www.levinecentral.com/ham/grid_square.php?Grid=EM79 KiwiSDR - http://38.86.67.206:8073/  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/grid/en/",
 	"title": "EN - North Central US",
 	"tags": [],
 	"description": "",
-	"content": "EN36 - Duluth MN\n EN36ws - Duluth, MN - Global Tuners - https://www.globaltuners.com/receiver/1858/js2  EN61 - Chicago IL\n No SDRs in Chicago that I can find.  EN70 - Central IN / OH\n http://www.levinecentral.com/ham/grid_square.php?Grid=EN70vs EN70vs - Elida, OH - KiwiSDR - http://65.29.112.189:8073/  EN82 - Detroit MI\n http://www.levinecentral.com/ham/grid_square.php?Grid=EN82 EN82de - Fenton, MI - KiwiSDR W8CMN - http://dentonhill-sdr.moses.bz/ EN82hm - Farmington Hills, MI - KiwiSDR KB8SPI - http://misdr.duckdns.org/ EN82ip - Pontiac, MI - Global Tuners - https://www.globaltuners.com/receiver/1460/js2  EN91 - Cleveland OH\n No SDRs available.  "
+	"content": "EN36 - Duluth MN\n EN36ws - Duluth, MN - Global Tuners - https://www.globaltuners.com/receiver/1858/js2  EN41gw - Iowa\n http://wjniemi.hopto.org:8073/  EN61 - Chicago IL\n No SDRs in Chicago that I can find.  EN70 - Central IN / OH\n http://www.levinecentral.com/ham/grid_square.php?Grid=EN70vs EN70vs - Elida, OH - KiwiSDR - http://65.29.112.189:8073/  EN82 - Detroit MI\n http://www.levinecentral.com/ham/grid_square.php?Grid=EN82 EN82de - Fenton, MI - KiwiSDR W8CMN - http://dentonhill-sdr.moses.bz/ EN82hm - Farmington Hills, MI - KiwiSDR KB8SPI - http://misdr.duckdns.org/ EN82ip - Pontiac, MI - Global Tuners - https://www.globaltuners.com/receiver/1460/js2  EN91 - Cleveland OH\n No SDRs available.  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/echolink/",
@@ -805,13 +728,6 @@
 	"content": "FN12: Finger Lakes NY\n http://rx320.doesntexist.org:8073/  FN13: Rochester NY\n WA2ZKD http://rx.jimlill.com:8073/  FN20: New York / New Jersey\n http://www.levinecentral.com/ham/grid_square.php?Grid=FN20 FN20 - K2SDR - http://k2sdr.homelinux.com:8073/ FN20wj - http://jerseyshoresdr.hopto.org:8073/  FN21: Milford, PA\n http://k3fef.com:8901/  FN25: Ottawa Ontario\n http://www.ma-ku.com:8073/  FN41 - Cape Cod / Rhode Island\n http://www.levinecentral.com/ham/grid_square.php?Grid=FN41 FN41wq - South Dennis, MA - http://rosslloyd.asuscomm.com:8073/  FN43 - New Hampshire / Maine\n http://www.levinecentral.com/ham/grid_square.php?Grid=FN43 FN43fe - Concord, NH - http://kiwisdr.surriel.com/  "
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/fedora/",
-	"title": "Fedora",
-	"tags": [],
-	"description": "",
-	"content": "Fedora is a Linux distribution sponsored by Red Hat. The Fedora on ARM project brings Fedora to ARM processors.\nhttps://arm.fedoraproject.org/\nFedora 26 Beta is pre-release software.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/writing/fill-the-input-box/",
 	"title": "Fill the input box",
 	"tags": [],
@@ -833,27 +749,6 @@
 	"content": "Flightaware runs an international network of ADS-B receivers to plot airline locations.\nhttp://flightaware.com/adsb/\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/fortran/",
-	"title": "Fortran",
-	"tags": [],
-	"description": "",
-	"content": "ARM Fortran Compiler (Beta) is now available as part of the latest ARM Compiler for HPC Package release. The package also includes ARM C/C++ Compiler and ARM Performance Libraries and is available for leading Linux distributions running on ARMv8-A based hardware.\nhttps://www.hpcwire.com/off-the-wire/arm-announces-beta-release-arm-fortran-compiler/\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/",
-	"title": "FreeBSD",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/gcc/",
-	"title": "GCC",
-	"tags": [],
-	"description": "",
-	"content": "This page intentionally left blank.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/radio/sdr/gqrx/",
 	"title": "GQRX",
 	"tags": [],
@@ -868,25 +763,11 @@
 	"content": "Global Tuners provides access to remotely controlled radio stations around the world. Typically there is a single frequency that can be listened to at a time, and several people can share the audio from a single site.\nhttp://www.globaltuners.com/\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/golang/",
-	"title": "Go (golang)",
-	"tags": [],
-	"description": "",
-	"content": "Go is a systems programming language that came from Google.\nhttp://golang.org\nVersion 1.9 is the first release of Go that plans to have ARM64 support.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/radio/grid/",
 	"title": "Grid",
 	"tags": [],
 	"description": "",
 	"content": "Amateur radio operators use a grid square system (\u0026ldquo;Maidenhead\u0026rdquo;) to give locations of stations with some precision using very few characters. Herein is some set of grid squares with interesting stations.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/hhvm/",
-	"title": "HHVM",
-	"tags": [],
-	"description": "",
-	"content": "HHVM is a virtual machine for running PHP from Facebook.\nHHVM is an open-source virtual machine designed for executing programs written in Hack and PHP. HHVM uses a just-in-time (JIT) compilation approach to achieve superior performance while maintaining the development flexibility that PHP provides.\nAs of March 9, 2017, HHVM has been ported to the ARM environment.\nhttp://groups.google.com/forum/#!forum/hhvm-arm\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/baseball/american-league/houston-astros/",
@@ -908,6 +789,20 @@
 	"tags": [],
 	"description": "",
 	"content": "Central Indiana Skywarn is out of Indianapolis with a repeater network that covers 39 counties.\nWeb: http://www.w9nws.org/\nVia Broadcastify: http://www.broadcastify.com/listen/feed/6063\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/grid/io/",
+	"title": "IO - England",
+	"tags": [],
+	"description": "",
+	"content": "IO83ra * http://hackgreensdr.org:8901/\nIO91of * http://websdr.suws.org.uk/\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/grid/jo/",
+	"title": "JO - Northern Europe",
+	"tags": [],
+	"description": "",
+	"content": "JO32kf - Netherlands\n http://websdr.ewi.utwente.nl:8901/  JO44pn - Germany\n http://dj3le.spdns.de:8901/  "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/jerusalem-garden/",
@@ -939,7 +834,7 @@
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/am-broadcast/kebc/",
-	"title": "KEBC 1560 Oklahoma City OK",
+	"title": "KEBC 1560 Oklahoma City Oklahoma",
 	"tags": [],
 	"description": "",
 	"content": "KEBC 1560 Oklahoma City is an affiliate of the Texas Rangers radio network.\nVia W5TWU KiwiSDR: http://sdr.w5tsu.net:8073/?f=1560.00amz10\n"
@@ -964,13 +859,6 @@
 	"tags": [],
 	"description": "",
 	"content": "KiwiSDR is a software-defined radio tuner that runs as a \u0026ldquo;cape\u0026rdquo; on top of a Beaglebone single-board computer.\nhttp://kiwisdr.com/KiwiSDR/\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/llvm/",
-	"title": "LLVM",
-	"tags": [],
-	"description": "",
-	"content": "This page intentionally left blank.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/aviation/liveatc/",
@@ -1127,20 +1015,6 @@
 	"content": "The New York Yankees flagship station is WFAN-AM 660 and WFAN-FM 101.9 New York.\nRadio network: https://www.wikiwand.com/en/New_York_Yankees_Radio_Network\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/nixos/",
-	"title": "NixOS",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/nodejs/",
-	"title": "Node.JS",
-	"tags": [],
-	"description": "",
-	"content": "Node.JS is fully supported on ARM by NodeSource.\nhttps://nodejs.org/en/\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/",
 	"title": "Nooelec",
 	"tags": [],
@@ -1155,46 +1029,11 @@
 	"content": "Oakland Atheltics baseball can be monitored via KHTK 1140 Sacramento.\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/openjdk/",
-	"title": "OpenJDK",
-	"tags": [],
-	"description": "",
-	"content": "This page intentionally left blank.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/opensuse/",
-	"title": "OpenSUSE",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/",
-	"title": "Operating systems",
-	"tags": [],
-	"description": "",
-	"content": "Some operating systems known to run on ARM, and some hint at their current state. For deeper information see https://www.worksonarm.com/operating-system/ .\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/orchestration/",
-	"title": "Orchestration",
-	"tags": [],
-	"description": "",
-	"content": "Tools for running computing systems at scale, including containerization and other efforts.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/",
 	"title": "Original Cottage Inn",
 	"tags": [],
 	"description": "",
 	"content": "Lunch buffet at this pizza and Italian restaurant on William Street near campus.\nhttp://www.originalcottageinn.com/\n512 E William St, Ann Arbor MI 48104\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/perl/",
-	"title": "Perl",
-	"tags": [],
-	"description": "",
-	"content": "This page intentionally left blank.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/radio/aviation/piaware/",
@@ -1211,20 +1050,6 @@
 	"content": "The Pittsburgh Pirates can be heard via an affiliate, WCBC 1270 Cumberland MD.\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/",
-	"title": "Programming languages",
-	"tags": [],
-	"description": "",
-	"content": "Programming languages with support for ARM, as compilers or interpreters, with special notice when possible of language features that take advantage of ARM assembly speedups.\nhttps://www.worksonarm.com/language/ for more details.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/python/",
-	"title": "Python",
-	"tags": [],
-	"description": "",
-	"content": "This page intentionally left blank.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/radio/sdr/rtl-sdr.com/",
 	"title": "RTL-SDR.com",
 	"tags": [],
@@ -1236,7 +1061,7 @@
 	"title": "Radio",
 	"tags": [],
 	"description": "",
-	"content": " Radio Some notes on radio.\n AM broadcast  \n Amateur Radio  Operating notes for amateur radio.\n Aviation  Radio reception of tower communications for aviation, as well as ADS-B transponders that can be received on 1090 Mhz.\n FM Broadcast stations  A good selection of FM broadcast stations that are interesting to listen to, locally and from afar.\n Grid  Amateur radio operators use a grid square system (\u0026ldquo;Maidenhead\u0026rdquo;) to give locations of stations with some precision using very few characters. Herein is some set of grid squares with interesting stations.\n Marine  Marine radio including automatic ship location with AIS-B.\n Meteors  Meteors can be heard via radio using backscatter.\n Scanners  Listening to remote public service and utility traffic via a variety of scanner systems.\n Shortwave Listening  Tuning in shortwave stations around the world.\n Skywarn  Various Skywarn repeaters and rebroadcast feeds.\n Software defined radio  Radio tuners implemented in software, for your listening and hacking pleasure.\n "
+	"content": " Radio Some notes on radio.\n AM broadcast  \n Amateur Radio  Operating notes for amateur radio.\n Aviation  Radio reception of tower communications for aviation, as well as ADS-B transponders that can be received on 1090 Mhz.\n FM Broadcast stations  A good selection of FM broadcast stations that are interesting to listen to, locally and from afar.\n Grid  Amateur radio operators use a grid square system (\u0026ldquo;Maidenhead\u0026rdquo;) to give locations of stations with some precision using very few characters. Herein is some set of grid squares with interesting stations.\n Marine  Marine radio including automatic ship location with AIS-B.\n Meteors  Meteors can be heard via radio using backscatter.\n Railroad  Railroad radio via scanners.\n Scanners  Listening to remote public service and utility traffic via a variety of scanner systems.\n Shortwave Listening  Tuning in shortwave stations around the world.\n Skywarn  Various Skywarn repeaters and rebroadcast feeds.\n Software defined radio  Radio tuners implemented in software, for your listening and hacking pleasure.\n "
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/weather/twitter/radio/",
@@ -1253,6 +1078,20 @@
 	"content": "Radio Havana Cuba broadcasts to North America on 6000 KHz evenings with a one hour program that is repeated throughout the evening.\nhttp://radiohc.cu/en\nListen on shortwave via NO2CW Hollywood (Miami) FL, 242 miles northeast of Havana.\nhttp://qth.ddns.net:8073/?f=6000.00amz10\n"
 },
 {
+	"uri": "https://vielmetti.github.io/commonplace/radio/railroad/",
+	"title": "Railroad",
+	"tags": [],
+	"description": "",
+	"content": "Railroad radio via scanners.\n"
+},
+{
+	"uri": "https://vielmetti.github.io/commonplace/radio/railroad/railroadradio/",
+	"title": "RailroadRadio.net",
+	"tags": [],
+	"description": "",
+	"content": "http://www.railroadradio.net\nStreams from the USA and Canada of railroad activity.\n"
+},
+{
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/coffee/roos-rosewood/",
 	"title": "Roos Roast on Rosewood",
 	"tags": [],
@@ -1260,32 +1099,11 @@
 	"content": "Roos on Rosewood is close by, the people are nice, and it\u0026rsquo;s always interesting to see John. It\u0026rsquo;s better there when I bring a laptop than a phone.\nhttps://roosroast.com/\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/ruby/",
-	"title": "Ruby",
-	"tags": [],
-	"description": "",
-	"content": "This page intentionally left blank.\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/language/rust/",
-	"title": "Rust",
-	"tags": [],
-	"description": "",
-	"content": "This page intentionally left blank.\n"
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/radio/shortwave/sdr.hu/",
 	"title": "SDR.HU",
 	"tags": [],
 	"description": "",
 	"content": "SDR.HU is an international network of software-defined radio receivers, each of which can be tuned by several (generally four) people across a wide band of spectrum. Many of the SDR.HU sites are running KiwiSDR.\nhttp://sdr.hu\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/suse/",
-	"title": "SUSE",
-	"tags": [],
-	"description": "",
-	"content": ""
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/ann-arbor/lunch/saica/",
@@ -1414,13 +1232,6 @@
 	"content": "Tuscan Cafe is not a bad destination stop for a drive from Ann Arbor. Zingerman\u0026rsquo;s pastries at this cafe on Center St in Northville. Get there via M-14 (Sheldon Rd, then north).\nhttp://www.thetuscancafe.com/\n"
 },
 {
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/operating-system/ubuntu/",
-	"title": "Ubuntu",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "https://vielmetti.github.io/commonplace/radio/amateur-radio/w8um/",
 	"title": "W8UM (University of Michigan Amateur Radio Club)",
 	"tags": [],
@@ -1461,13 +1272,6 @@
 	"tags": [],
 	"description": "",
 	"content": "Workantile is a coworking space on Main Street in downtown Ann Arbor. I\u0026rsquo;m a member.\nhttp://www.workantile.com\n"
-},
-{
-	"uri": "https://vielmetti.github.io/commonplace/works-on-arm/",
-	"title": "Works on ARM News",
-	"tags": [],
-	"description": "",
-	"content": "From the Works on ARM newsletter, one issue at a time for the benefit of search, and with an echo of the main Works on ARM website so that it\u0026rsquo;s easy to find pointers to more detail.\nThis is work done for Packet.\n"
 },
 {
 	"uri": "https://vielmetti.github.io/commonplace/writing/writers-block/",

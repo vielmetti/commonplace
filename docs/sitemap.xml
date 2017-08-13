@@ -11,11 +11,6 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/</loc>
-    <lastmod>2017-04-28T12:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/baseball/national-league/</loc>
   </url>
   
@@ -37,6 +32,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/kdal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/ktar/</loc>
   </url>
   
   <url>
@@ -64,7 +63,15 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wor/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/ktkr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/kxic/</loc>
   </url>
   
   <url>
@@ -92,6 +99,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wsui/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/fm-broadcast/wuom/</loc>
   </url>
   
@@ -116,52 +127,7 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w27/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w26/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w25/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w24/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w23/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w22/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w21/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w20/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtem/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w19/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w18/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/weekly/2017-w17/</loc>
-    <lastmod>2017-04-28T12:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -182,6 +148,10 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/knx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/am-broadcast/wtic/</loc>
   </url>
   
   <url>
@@ -242,7 +212,6 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/</loc>
-    <lastmod>2017-04-28T12:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -254,11 +223,11 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/alpine/</loc>
+    <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/</loc>
+    <loc>https://vielmetti.github.io/commonplace/radio/railroad/otol-amtrak/</loc>
   </url>
   
   <url>
@@ -267,10 +236,6 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coworking/ann-arbor-software-coworkers/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/orchestration/apache-mesos/</loc>
   </url>
   
   <url>
@@ -283,10 +248,6 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/baseball/national-league/arizona-diamondbacks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/armbian/</loc>
   </url>
   
   <url>
@@ -326,6 +287,10 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/baseball/american-league/boston-red-sox/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/scanner/broadcastify/</loc>
   </url>
   
@@ -348,10 +313,6 @@
   <url>
     <loc>https://vielmetti.github.io/commonplace/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/centos/</loc>
   </url>
   
   <url>
@@ -383,10 +344,6 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/coreos/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coworking/</loc>
   </url>
   
@@ -404,10 +361,6 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/grid/do/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/debian/</loc>
   </url>
   
   <url>
@@ -467,10 +420,6 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/fedora/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/writing/fill-the-input-box/</loc>
   </url>
   
@@ -483,18 +432,6 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/fortran/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/freebsd/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/gcc/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/sdr/gqrx/</loc>
   </url>
   
@@ -503,15 +440,7 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/golang/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/grid/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/hhvm/</loc>
   </url>
   
   <url>
@@ -524,6 +453,14 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/skywarn/w9ice/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/grid/io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/grid/jo/</loc>
   </url>
   
   <url>
@@ -556,10 +493,6 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/radio/sdr/kiwisdr/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/llvm/</loc>
   </url>
   
   <url>
@@ -651,14 +584,6 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/nixos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/nodejs/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/nooelec/</loc>
   </url>
   
@@ -667,27 +592,7 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/openjdk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/opensuse/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/orchestration/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/lunch/cottage-inn/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/perl/</loc>
   </url>
   
   <url>
@@ -696,14 +601,6 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/baseball/national-league/pittsburgh-pirates/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/python/</loc>
   </url>
   
   <url>
@@ -723,23 +620,19 @@
   </url>
   
   <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/railroad/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vielmetti.github.io/commonplace/radio/railroad/railroadradio/</loc>
+  </url>
+  
+  <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coffee/roos-rosewood/</loc>
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/ruby/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/language/rust/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/shortwave/sdr.hu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/suse/</loc>
   </url>
   
   <url>
@@ -816,10 +709,6 @@
   </url>
   
   <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/operating-system/ubuntu/</loc>
-  </url>
-  
-  <url>
     <loc>https://vielmetti.github.io/commonplace/radio/amateur-radio/w8um/</loc>
   </url>
   
@@ -841,10 +730,6 @@
   
   <url>
     <loc>https://vielmetti.github.io/commonplace/ann-arbor/coworking/workantile/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vielmetti.github.io/commonplace/works-on-arm/</loc>
   </url>
   
   <url>
