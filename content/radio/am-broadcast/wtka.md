@@ -1,8 +1,9 @@
 ---
-title: WTKA 1050 Ann Arbor
+title: WTKA 1050 Ann Arbor Michigan
 weight: 1050
 ---
-WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball.
+WTKA 1050 Ann Arbor broadcasts Detroit Tigers baseball
+and Michigan Wolverines football.
 
 <!--more-->
 

@@ -1,5 +1,5 @@
 ---
-title: WROC 950 Rochester NY
+title: WROC 950 Rochester New York
 weight: 950
 ---
 http://rx.jimlill.com:8073/?f=950.00amz10

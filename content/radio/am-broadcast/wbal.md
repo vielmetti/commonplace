@@ -1,5 +1,5 @@
 ---
-title: WBAL 1090 Baltimore
+title: WBAL 1090 Baltimore Maryland
 weight: 1090
 ---
 WBAL 1090 Baltimore is the flagship station of the Baltimore

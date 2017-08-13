@@ -1,5 +1,5 @@
 ---
-title: KCSP 610 Kansas City
+title: KCSP 610 Kansas City Missouri
 weight: 610
 ---
 KCSP 610 is the flagship station for the Kansas City Royals.

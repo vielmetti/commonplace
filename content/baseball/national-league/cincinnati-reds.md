@@ -1,7 +1,7 @@
 ---
 title: Cincinnati Reds
 ---
-The Cincinnati Reds radio network is an extensive one,
+The "Cincinnati Bell Reds Radio Network" is an extensive one,
 with stations throughout Ohio, Indiana, Kentucky, and
 West Virginia.
 

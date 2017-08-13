@@ -1,5 +1,5 @@
 ---
-title: KRKO 1380 Everett WAS
+title: KRKO 1380 Everett Washington
 weight: 1380
 ---
 KRKO 1380 Everett Washington carries games of the Class A

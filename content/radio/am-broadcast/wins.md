@@ -1,5 +1,5 @@
 ---
-title: WINS 1010 New York City
+title: WINS 1010 New York City New York
 weight: 1010
 ---
 1010 WINS has 24 hour news coverage from New York City.

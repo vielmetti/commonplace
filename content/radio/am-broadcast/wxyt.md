@@ -1,5 +1,5 @@
 ---
-title: WXYT 1270 Detroit
+title: WXYT 1270 Detroit Michigan
 weight: 1270
 ---
 WXYT 1270 AM and WXYT-FM 97.1 are the radio home of

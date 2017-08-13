@@ -1,5 +1,5 @@
 ---
-title: WINZ 940 Miami
+title: WINZ 940 Miami Florida
 weight: 940
 ---
 WINZ 940 is the flagship station of the Miami Marlins

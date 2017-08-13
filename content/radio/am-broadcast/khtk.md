@@ -1,5 +1,5 @@
 ---
-title: KHTK 1140 Sacramento
+title: KHTK 1140 Sacramento California
 weight: 1140
 ---
 KHTK serves as flagship station for Sacramento Kings basketball and

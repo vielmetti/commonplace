@@ -17,6 +17,9 @@ EM28 - Kansas - Missouri Just south of Kansas City.
 * http://www.levinecentral.com/ham/grid_square.php?Grid=EM28
 * KiwiSDR - http://136.63.226.118:8073/
 
+EM63pj - Birmingham, Alabama - 2 meter WebSDR
+* http://n4dkd.asuscomm.com:8901/
+
 EM79 - Central Indiana
 
 * http://www.levinecentral.com/ham/grid_square.php?Grid=EM79

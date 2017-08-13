@@ -1,5 +1,5 @@
 ---
-title: KDAL 610 Duluth MN
+title: KDAL 610 Duluth Minnesota
 weight: 610
 ---
 KDAL Duluth 610 is a member of the Minnesota Twins "Treasure Island"

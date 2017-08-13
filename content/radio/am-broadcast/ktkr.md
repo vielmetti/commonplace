@@ -1,5 +1,5 @@
 ---
-title: KTKR 760 San Antonio TX
+title: KTKR 760 San Antonio Texas
 weight: 760
 ---
 KTKR 760 San Antonio broadcasts Houston Astros games.

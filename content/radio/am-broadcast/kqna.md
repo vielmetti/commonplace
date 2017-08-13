@@ -1,5 +1,5 @@
 ---
-title: KQNA 1130 Prescott Valley AZ
+title: KQNA 1130 Prescott Valley Arizona
 weight: 1130
 ---
 KQNA 1130 Prescott Valley is part of the Arizona Diamondbacks

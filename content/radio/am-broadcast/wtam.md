@@ -1,5 +1,5 @@
 ---
-title: WTAM 1100 Cleveland
+title: WTAM 1100 Cleveland Ohio
 weight: 1100
 ---
 WTAM 1100 AM is a 50,000 watt Class A radio station

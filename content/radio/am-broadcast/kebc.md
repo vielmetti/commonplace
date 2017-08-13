@@ -1,5 +1,5 @@
 ---
-title: KEBC 1560 Oklahoma City OK
+title: KEBC 1560 Oklahoma City Oklahoma
 ---
 KEBC 1560 Oklahoma City is an affiliate of the
 Texas Rangers radio network.

@@ -1,5 +1,5 @@
 ---
-title: WTMJ 620 Milwaukee
+title: WTMJ 620 Milwaukee Wisconsin
 weight: 620
 ---
 WTMJ is the flagship station of the Milwaukee Brewers radio network.

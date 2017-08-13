@@ -5,6 +5,10 @@ EN36 - Duluth MN
 
 * EN36ws - Duluth, MN - Global Tuners - https://www.globaltuners.com/receiver/1858/js2
 
+EN41gw - Iowa
+
+* http://wjniemi.hopto.org:8073/
+
 EN61 - Chicago IL
 
 * No SDRs in Chicago that I can find.

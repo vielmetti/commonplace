@@ -1,5 +1,5 @@
 ---
-title: KNX 1070 Los Angeles
+title: KNX 1070 Los Angeles Californai
 weight: 1070
 ---
 KNX 1070 is an all-news radio station for Los Angeles, California.

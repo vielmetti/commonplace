@@ -1,5 +1,5 @@
 ---
-title: KMOX 1120 St Louis MO
+title: KMOX 1120 St Louis Missouri
 weight: 1120
 ---
 KMOX 1120 St Louis is the flagship station of the St Louis

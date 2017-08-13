@@ -1,5 +1,5 @@
 ---
-title: WFAN 660 New York City
+title: WFAN 660 New York City New York
 weight: 660
 ---
 WFAN Sports Radio 66AM/101.1FM is the radio home of the

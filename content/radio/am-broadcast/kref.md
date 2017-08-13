@@ -1,5 +1,5 @@
 ---
-title: KREF 1400 Norman OK
+title: KREF 1400 Norman Oklahoma
 weight: 1400
 ---
 KREF 1400 in Norman Oklahoma is an affiliate of the St Louis Cardinals

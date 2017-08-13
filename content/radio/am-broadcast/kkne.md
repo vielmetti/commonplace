@@ -1,5 +1,5 @@
 ---
-title: KKNE 940 Honolulu
+title: KKNE 940 Honolulu Hawaii
 weight: 940
 ---
 KKNE "AM 940 Hawaii" broadcasts in Hawaiian with traditional

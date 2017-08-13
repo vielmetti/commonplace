@@ -1,5 +1,5 @@
 ---
-title: KIKI 990 Honolulu
+title: KIKI 990 Honolulu Hawaii
 weight: 990
 ---
 Fox Sports 990 - Hawaii’s Home for Fox Sports & the Los Angeles Dodgers.
