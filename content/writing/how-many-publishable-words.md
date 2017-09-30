@@ -3,35 +3,23 @@ title: How many words a day?
 ---
 Here’s a thought experiment. Sit down in the morning with a cup of
 coffee and a list of topics. Work through them, one at a time,
-coming up with and writing down 500 words or so on each topic. How
-many topics do you get to over the course of the day, and how long
-does it take you to write 500 words that make sense? Assume for the
-sake of argument that there’s a typical number of distracting email,
-Twitter, and Facebook posts that you have to deal with. Each of the
-pieces that you are writing will need to contemplate a part of the
-net that might lead to its own distractions.
+writing 500 words on each topic. How
+many topics do you get to over the course of the day?
+Assume for the moment the typical number of online distractions.
+Each piece you are writing will have its own set of distractions
+from the net.
 
-I am always impressed by people who have the ability to sit down
-and crank out clean copy that is ready for publication. It’s not
-by any means easy to do this, and certainly every written work can
-be improved by judicious editing. I’m thinking more of the remarkable
-skill where you can type as fast as you can for a short burst and
-have the resulting words make sense, flow nicely, and be worth
-posting to the world.
+I am forever impressed by people who can sit down
+and crank out clean copy ready for publication. It’s not
+easy to do this, and every written work can
+be improved by judicious editing. A remarkable
+skill: typing as fast as you can and making sense when you do.
 
-The practice I get doing this has a lot to do with blogging, where
-I want to capture the moment and some momentarily interesting topic
-and put my mark on it. This is not writing a novel, and not writing
-a little piece of a 20-page or 400-page non-fiction work; rather,
-it’s somewhere between journalism and blogging. The work you are
-composing is temporarily interesting to a number of people in part
-because it has a good headline for Twitter and a body full of words
-that search engines like. You’ve written news, but it’s within the
-context of a blog, and because of that it’s perfectly acceptable
-to leave questions unanswered and stories unresolved. It’s what
-musician Michelle Shocked called the “incomplete image”, and perhaps
-you are waiting for someone with a longer deadline to write up the
-full story.
+Blogging was my outlet for this, to capture a moment and a topic
+of fleeting interest.  This was not writing a novel, and not writing
+a little piece of a 20-page or 400-page non-fiction work.  It’s
+what musician Michelle Shocked called the “incomplete image”.  You
+may have to wait for the full story.
 
 I know from experience that I can put together 500 words in a sitting
 on one topic without taking a break and without needing to consult
@@ -64,3 +52,4 @@ chunks that would eventually tell a story that’s longer and more
 carefully planned.
 
 (Inspired by #writechat on Sunday, 8 December 2013.)
+(Edited to omit some words, 30 September 2017.)

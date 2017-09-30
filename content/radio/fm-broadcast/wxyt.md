@@ -2,7 +2,7 @@
 title: WXYT 97.1 Detroit
 weight: 971
 ---
-Mostly noisy sports talk radio, but when the Tigers
+WXYT "The Ticket" is mostly noisy sports talk radio, but when the Tigers
 are playing, they're the flagship FM station.
 
 I can pick up 97.1 FM on my home SDR setup.

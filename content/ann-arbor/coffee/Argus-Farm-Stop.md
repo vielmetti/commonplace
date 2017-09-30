@@ -7,5 +7,6 @@ coffee in their glass greenhouse.
 
 http://www.argusfarmstop.com/
 
-Argus is working on a second location to be at Packard
+Argus has a second location to be at Packard
 at Dewey, where Clague's Grocery was once upon a time.
+Drink your coffee and buy vegetables right close to home.

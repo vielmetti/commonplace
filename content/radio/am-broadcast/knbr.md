@@ -2,7 +2,7 @@
 title: KNBR 680 San Francisco California
 weight: 680
 ---
-KNBR is the flagship station of the San Francisco Giants.
+KNBR 680 is the flagship station of the San Francisco Giants.
 It is a Cumulus station.
 
 <!--more-->

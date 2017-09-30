@@ -5,3 +5,4 @@ Treasure Island Baseball Network map: http://minnesota.twins.mlb.com/min/schedul
 
 Listen via [KDAL] Duluth 610.
 
+[KDAL]:http:../../../radio/am-broadcast/kdal/

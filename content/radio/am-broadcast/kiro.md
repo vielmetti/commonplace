@@ -3,7 +3,7 @@ title: KIRO 710 Seattle Washington
 weight: 710
 ---
 KIRO-AM is 710 ESPN Seattle with sports programming.
-KIRO is the flagship station for the Seattle Mariners.
+It is the flagship station for the Seattle Mariners.
 
 <!--more-->
 

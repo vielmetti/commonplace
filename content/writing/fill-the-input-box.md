@@ -1,26 +1,21 @@
 ---
 title: Fill the input box
 ---
-This is a strategy for coming up with the right size of a contribution
-to some kind of online system. Figure out what the size of the input
-box is, and then fill it up with what you have to say so that
-everything you type fits without scrolling.
+Figure out the size of the input box, and fill it up so that
+everything you type fits neatly without scrolling.
 
 If your email client gives you ten lines to type your message, type
 ten (and not two or twenty). If letters to the editor have to be
-less than 500 words, never make it 600. If you crummy old cell phone
-has a tiny screen, learn to abbrev your memos to self.
+less than 500 words, never write 600 words. If you old cell phone
+has a tiny screen, abbrev your memos to self.
 
-This principle works as well for paper input methods. I am a recent
-convert from quadrille ruled 8.5x11" lab notebooks to a quad ruled
-pocket Moleskine notebook; it's so much easier to fill up a page
-with one thought when the page only fits five long sentences vs.
-five long paragraphs.
+This principle works just as well for paper. I am a recent convert
+from quadrille ruled 8.5x11" lab notebooks to a quad ruled pocket
+Field Notes notebook. It's so much easier to fill up a page with one
+thought when the page only fits five long sentences.
 
-The input box for the Vacuum wiki where I first wrote "Fill the
-input box without scrolling" is somewhat smaller than the Ecto input
-box, so I'm writing a little more - but not much. It's a cheat to
-change fonts or page widths from the defaults, but I did slide the
-slider between first-page and following page for this one.
+The input box for the wiki where I first wrote this down
+is smaller than this 80x24 terminal screen, I'm writing a little less.
+It's a cheat to change fonts or page widths from the defaults.
 
-January 06, 2005
+January 06, 2005; revised September 30, 2017.
