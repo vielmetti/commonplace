@@ -7,7 +7,7 @@ New York Yankees.
 
 <!--more-->
 
-KiwiSDR Jersey shore: http://jerseyshoresdr.hopto.org:8073/?f=660.00amz10
+KiwiSDR http://k2sdr.homelinux.com:8073/?f=660.00amz10
 
 http://newyork.cbslocal.com/wfanyankeesradionetwork/
 
