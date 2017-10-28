@@ -2,7 +2,8 @@
 title: WFED 1500 Washington DC
 weight: 1500
 ---
-WFED 1500 "Federal News Radio" broadcasts Washington Nationals baseball from
+WFED 1500 "Federal News Radio" broadcasts Washington Nationals baseball and
+Washington Wizards basketball from
 Washington, DC. It is a 50,000 watt Class A station.
 
 <!--more-->
