@@ -1,9 +1,17 @@
 ---
 title: FN - Northeast
 ---
+FN03: Ontario
+
+* VE3HLS http://ve3hls.proxy.kiwisdr.com:8073/
+
+FN10: Central PA
+
+* http://radiodxing.ddns.net:8073/
+
 FN12: Finger Lakes NY
 
-* http://rx320.doesntexist.org:8073/
+* KD2OM http://www.ecsykes.com:8073/
 
 FN13: Rochester NY
 
@@ -11,7 +19,6 @@ FN13: Rochester NY
 
 FN20: New York / New Jersey
 
-* http://www.levinecentral.com/ham/grid_square.php?Grid=FN20
 * FN20 - K2SDR - http://k2sdr.homelinux.com:8073/
 * FN20wj - http://jerseyshoresdr.hopto.org:8073/
 
