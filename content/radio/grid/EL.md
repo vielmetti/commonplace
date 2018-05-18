@@ -2,7 +2,8 @@
 title: EL - Florida, Gulf of Mexico
 ---
 
-EL96:
+* EL96ta NO2CW Miami, FL http://qth.ddns.net:8073/
 
-* http://www.levinecentral.com/ham/grid_square.php?Grid=EL96
-* http://qth.ddns.net:8073/
+Baseball
+
+* Miami Marlins on WINZ 940

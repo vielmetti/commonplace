@@ -3,7 +3,9 @@ title: KIRO 710 Seattle Washington
 weight: 710
 ---
 KIRO-AM is 710 ESPN Seattle with sports programming.
-It is the flagship station for the Seattle Mariners.
+
+KIRO is the flagship station for the Seattle Mariners.
+Rick Rizzs is the lead announcer.
 
 <!--more-->
 

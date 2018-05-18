@@ -5,3 +5,7 @@ theme = "docdock"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
+
+[blackfriday]
+   plainIDAnchors = true
+   hrefTargetBlank = true

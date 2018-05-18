@@ -2,6 +2,8 @@
 title: KLAA 830 Los Angeles California
 weight: 830
 ---
-Los Angeles Angels baseball and Anaheim Ducks hockey.
+KLAA 830 is the home station of the Los Angeles Angels.
 
-https://tunein.com/radio/KLAA-830-s34679/
+* http://tokenradio.proxy.kiwisdr.com:8073/?f=830.00amz10
+* http://am830.net/
+* https://twitter.com/AngelsRadioKLAA
