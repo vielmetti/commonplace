@@ -6,6 +6,7 @@ jobs:
   include:
     - stage: build docker image
       script:
+      - git submodule update --init --recursive
       - docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
       - ls -ltr ./themes/docdock
       - docker build -t commonplace .
