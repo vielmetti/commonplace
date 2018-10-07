@@ -7,7 +7,8 @@ jobs:
     - stage: build docker image
       script:
       - docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
+      - ls -ltr ./themes/docdock
       - docker build -t commonplace .
       - docker images
-      - docker tag travis-ci-build-stages-demo $DOCKER_USERNAME/commonplace
+      - docker tag commonplace $DOCKER_USERNAME/commonplace
       - docker push $DOCKER_USERNAME/commonplace
