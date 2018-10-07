@@ -1,7 +1,7 @@
 # baseURL = "https://vielmetti.github.io/commonplace/"
 languageCode = "en-us"
 title = "Commonplace"
-theme = "docdock"
+theme = "docdock2"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
