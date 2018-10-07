@@ -5,5 +5,5 @@ title: Radio
 
 Some notes on radio.
 
-{{% children description="true"   %}}
+{{< children description="true"   >}}
 
