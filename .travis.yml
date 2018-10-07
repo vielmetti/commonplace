@@ -1,0 +1,12 @@
+sudo: true
+dist: trusty
+
+jobs:
+  include:
+    - stage: build docker image
+      script:
+      - docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
+      - docker build -t commonplace .
+      - docker images
+      - docker tag travis-ci-build-stages-demo $DOCKER_USERNAME/commonplace
+      - docker push $DOCKER_USERNAME/commonplace
