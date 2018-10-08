@@ -9,4 +9,6 @@ title: BL - Hawaii
 Each of these stations covers Hawaii. Best sports station is
 KIKI 990 Honolulu (BL11bh) which broadcasts the LA Dodgers.
 
+Note that in October 2018 none of these are active; not sure why.
+
 http://www.levinecentral.com/ham/grid_square.php?Grid=BL
