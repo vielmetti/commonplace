@@ -9,3 +9,6 @@ theme = "docdock2"
 [blackfriday]
    plainIDAnchors = true
    hrefTargetBlank = true
+
+[params]
+   themeStyle = "original"
