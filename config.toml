@@ -12,3 +12,4 @@ theme = "docdock2"
 
 [params]
    themeStyle = "original"
+   editURL = "https://github.com/vielmetti/commonplace/tree/master/content/"
