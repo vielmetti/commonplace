@@ -7,6 +7,7 @@ technology (paper or electronic) works in this world.
 
 * 2017. [David Rockefeller's Rolodex Was the Stuff of Legend](https://www.wsj.com/articles/david-rockefellers-famous-rolodex-is-astonishing-heres-a-first-peek-1512494592), Wall Street Journal
 * 2017. [Marlon Brando's Rolodex for sale at auction](http://www.hollywood.com/general/marlon-brandos-contacts-book-and-rolodex-set-for-auction-60685785/), Hollywood.com
+* 2017. [Marlon Brando's Rolodex](https://www.thenational.ae/arts-culture/what-makes-marlon-brando-s-rolodex-a-special-piece-of-hollywood-history-1.78508)
 * 2017. [Yes, I still use my Rolodex](http://culture.firespring.com/blog/post/yes-i-still-use-my-rolodex), Brad Penner
 * 2017. [Clinging to the Rolodex](https://www.wsj.com/articles/SB119585920760602459). Wall Street Journal.
 * 2016. [LOS ALAMOS ROLODEX](http://www.clui.org/newsletter/winter-2016/los-alamos-rolodex). A publication and exhibit.
