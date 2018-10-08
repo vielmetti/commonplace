@@ -15,5 +15,10 @@ everything I wrote scrolled off the page.
 This structure at least allows some 
 chance that "old" things won't be totally lost.
 
+At the moment, this web site can be reached
+as http://emv-commonplace.netlify.com on Netlify,
+a continuous deployment platform with native support
+for Hugo.
+
 Written by Edward Vielmetti,
-ed@packet.net or edward.vielmetti@gmail.com 
+edward.vielmetti@gmail.com 
