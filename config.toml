@@ -2,6 +2,7 @@
 languageCode = "en-us"
 title = "Commonplace"
 theme = "docdock2"
+relativeURLs = true
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
