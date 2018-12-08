@@ -1,7 +1,7 @@
 ---
 title: Anaheim Ducks
 ---
-The Anaheim Ducks radio station is [KLAA] Los Angeles. Games are 
+The Anaheim Ducks radio station is [KLAA] 830 Los Angeles. Games are 
 carried on the "Streamguys" player.
 
 [KLAA]:http:../../radio/am-broadcast/klaa/
