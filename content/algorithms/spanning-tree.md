@@ -1,3 +1,7 @@
+---
+title: Spanning Tree
+---
+
 Algorhyme
 
 ```
