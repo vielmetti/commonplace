@@ -7,5 +7,4 @@ tificial intelligence (AI) problems, typically move planning in combinatorial
 games. It combines the generality of random simulation with the precision of tree search.
 
 * http://mcts.ai/
-
-![MCTS](https://mcts.ai/about/mcts-algorithm-1a.png)
+* [Guillaume Chaslot, "Monte Carlo Tree Search", Ph.D. thesis](https://project.dke.maastrichtuniversity.nl/games/files/phd/Chaslot_thesis.pdf)
