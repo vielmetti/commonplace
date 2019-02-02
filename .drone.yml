@@ -7,3 +7,4 @@ steps:
   settings:
     hugo_version: 0.55
     validate: true
+
