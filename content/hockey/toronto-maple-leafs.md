@@ -1,8 +1,8 @@
 ---
 title: Toronto Maple Leafs
 ---
-The Toronto Maple Leafs are on 590 AM and online.
+The Toronto Maple Leafs are on TSN Toronto CHUM 1050 AM and online.
 
-* http://www.sportsnet.ca/590/toronto-maple-leafs-radio/
+* http://www.iheartradio.ca/tsn/tsn-toronto
 * https://www.nhl.com/mapleleafs
 * Twitter: [@MapleLeafs](https://twitter.com/MapleLeafs)
