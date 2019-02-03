@@ -1,5 +1,5 @@
 ---
-name: Chinese Take-Away Curry Sauce
+title: Chinese Take-Away Curry Sauce
 ---
 http://titlisbusykitchen.com/recipe/chinese-take-away-curry-sauce
 

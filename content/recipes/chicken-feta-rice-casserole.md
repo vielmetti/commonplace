@@ -1,4 +1,7 @@
-Chicken feta rice casserole.
+---
+title: Chicken feta rice casserole
+---
+# Chicken feta rice casserole.
 
 * Rice
 * Chicken

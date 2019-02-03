@@ -1,3 +1,6 @@
+---
+title: Green beans with basil
+---
 A week 27 recipe, for when green beans and basil are both in season at market.
 
 Wash and trim the beans.

@@ -1,5 +1,5 @@
 ---
-name: Chicken tacos
+title: Chicken tacos
 ingredients:
 - taco shells
 - tortillas
