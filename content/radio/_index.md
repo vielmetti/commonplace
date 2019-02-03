@@ -5,5 +5,4 @@ title: Radio
 
 Some notes on radio.
 
-{{< children description="true"   >}}
 
