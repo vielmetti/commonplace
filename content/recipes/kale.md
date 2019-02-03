@@ -4,7 +4,6 @@ ingredients:
 - kale
 - garlic
 - sweet corn
-date: Wed, 16 Jan 2019 20:49:48 -0500
 ---
 Saute garlic in oil. Chop kale fine, trimming tough stems. Fry until
 bright green. Turn off heat, cover and let sit until wilted. Serve warm.
