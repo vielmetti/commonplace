@@ -1,8 +1,12 @@
-Chicken curry Kasoa
+---
+title: Chicken curry Kasoa
+---
+A chicken coconut curry rice casserole, with ingredients
+from Kasoa (African market at Ellsworth and Platt).
 
 * Green onions from last week
 * Olive oil
-* @# of chicken, frozen, cubed in 1" cubes. Enough to fit in a big pan.
+* 2 lbs of chicken, frozen, cubed in 1" cubes. Enough to fit in a big pan.
 * Broth made from cubes
 * Rice, cooked (2 measures)
 * Curry powder
