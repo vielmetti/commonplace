@@ -1,4 +1,4 @@
 ---
 title: Recipes
 ---
-Recipes for dinner, organized roughly by category and type.
+Recipes for dinner, with notes from actual cookery.
