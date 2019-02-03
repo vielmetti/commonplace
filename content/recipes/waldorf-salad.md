@@ -1,5 +1,5 @@
 ---
-title: waldorf salad
+title: Waldorf salad
 ingredients:
 - apple
 - celery

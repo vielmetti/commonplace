@@ -1,5 +1,5 @@
 ---
-title: cole slaw
+title: Cole Slaw
 ---
 # cole slaw
 

@@ -1,5 +1,5 @@
 ---
-title: roast cauliflower with lemon and parsley
+title: Roast cauliflower with lemon and parsley
 ingredients:
 - cauliflower
 - lemon 

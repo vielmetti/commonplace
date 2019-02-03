@@ -1,5 +1,5 @@
 ---
-title: baked plantains
+title: Baked Plantains
 ---
 from "food by mars". lots of various of this.
 

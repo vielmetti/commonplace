@@ -1,5 +1,5 @@
 ---
-title: chicken barley stew
+title: Chicken Barley Stew
 ---
 * chicken cut into chunks and browned
 * barley

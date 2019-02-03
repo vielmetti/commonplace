@@ -1,5 +1,5 @@
 ---
-title: coconut carrot soup
+title: Coconut Carrot Soup
 ---
 Saute shallots (onion) and ginger in coconut oil and broth.
 Add 1/2 tbsp curry powder.

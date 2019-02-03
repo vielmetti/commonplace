@@ -1,5 +1,5 @@
 ---
-title: ginger cabbage
+title: Ginger Cabbage
 cookbook: Fast Vegetarian Feasts
 ---
 Cut napa cabbage into 2" pieces, wash throughly.

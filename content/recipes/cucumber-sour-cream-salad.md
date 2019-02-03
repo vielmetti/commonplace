@@ -1,3 +1,6 @@
+---
+title: Cucumber Sour Cream Salad
+---
 Ingredients
 
 * Cucumbers, sliced
