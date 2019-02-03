@@ -1,5 +1,6 @@
 ---
-title: Tuna Pasta, Titli's Busy Kitchen
+title: Tuna Pasta
+cookbook: Titli's Busy Kitchen
 ---
 http://titlisbusykitchen.com/recipe/tuna-pasta-sauce
 
