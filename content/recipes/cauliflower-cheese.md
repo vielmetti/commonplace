@@ -3,12 +3,12 @@ title: Cauliflower cheese
 source: Titli's Busy Kitchen
 location: Grey binder
 ---
+# Cauliflower cheese
+
 Boil the cauliflower 5 min, put in pan.
 Make a cheese sauce, spread over top.
 Sprinkle cheese on top of everything.
 Bake 15-20 minutes until bubbly.
-
-## Cauliflower cheese
 
 - 1 cauli
 - 5 oz cheese (cheddar)

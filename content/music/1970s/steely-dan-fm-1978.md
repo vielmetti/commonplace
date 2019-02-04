@@ -8,4 +8,4 @@ is a winner.
 
 FM: https://www.youtube.com/watch?v=HV3zWSawJiw
 
-<img src="https://img.discogs.com/_VLt5MnTnD8txENScMU01sewcFI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465472-1305651558.jpeg.jpg" />
+![FM cover from Discogs](https://en.wikipedia.org/wiki/File:FM_%28No_Static_At_All%29.jpg)

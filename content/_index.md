@@ -1,4 +1,4 @@
-### Commonplace book
+# Commonplace book
 
 A commonplace book is a place to copy in things
 that you want to keep close to you, rather than
