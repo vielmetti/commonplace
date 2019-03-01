@@ -6,7 +6,7 @@ a problem space. The heuristic is that at the
 beginning of the exploration you start with a
 random solution i and a temperature T. At each
 step along the way you try to find a better
-value for F(i) by picking a neighbor j and 
+value for F(i) by picking a neighbor j and
 evaluating F(j).
 
 The twist in the algorithm is that depending on

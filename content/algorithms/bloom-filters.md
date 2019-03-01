@@ -1,7 +1,7 @@
 ---
 title: Bloom filters
 ---
-Bloom filters test for membership in a set. 
+Bloom filters test for membership in a set.
 
 Compute several hashes across each of the members
 of the set. Store those hashes in a bit vector.
@@ -15,7 +15,7 @@ the candidate is not in the set.
 
 There is a chance of false positives if you have
 a hash collision, which you can reduce by making
-the bit vector longer. 
+the bit vector longer.
 
 * https://llimllib.github.io/bloomfilter-tutorial/
 * https://en.wikipedia.org/wiki/Bloom_filter
