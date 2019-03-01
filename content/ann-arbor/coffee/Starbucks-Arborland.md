@@ -9,9 +9,10 @@ in the country.
 
 There's a good view of the southern and eastern sky
 across a busy Washtenaw / US-23 interchange. A patio
-out front is surprisingly well-attended when the 
-weather is warm. 
+out front is surprisingly well-attended when the
+weather is warm.
 
 The big Arborland A sign marks the landmark.
 
-[Arboralnd Washtenaw and US-23](https://www.starbucks.com/store-locator/store/14031/arborland-washtenaw-us-23-3601-washtenaw-ave-arborland-shopping-center-ann-a), Starbucks store locator.
+[Arborland Washtenaw and US-23](https://www.starbucks.com/store-locator/store/14031/arborland-washtenaw-us-23-3601-washtenaw-ave-arborland-shopping-center-ann-a),
+Starbucks store locator.
