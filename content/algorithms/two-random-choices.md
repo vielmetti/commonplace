@@ -11,6 +11,8 @@ This yields results much better than a purely random choice,
 and it minimizes the amount of expensive decision making
 necessary to get that improved result.
 
-> The important implication of this result is that even a small amount of choice can lead to drastically different results in load balancing. 
+> The important implication of this result is that even a small
+amount of choice can lead to drastically different results in load
+balancing.
 
 * http://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf

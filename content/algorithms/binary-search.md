@@ -8,4 +8,5 @@ and then repeat the process until the element is found.
 
 Getting this exactly right has some subtleties.
 
-* https://lemire.me/blog/2010/07/05/the-five-most-important-algorithms/
+[The Five Most Important Algoriths](https://lemire.me/blog/2010/07/05/the-five-most-important-algorithms/),
+Daniel Lemire.
