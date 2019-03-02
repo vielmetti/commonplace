@@ -6,7 +6,8 @@ ingredients:
 - chipotle
 ---
 
-Look at http://naturallyella.com/chipotle-rhubarb-salsa/ for a chipotle rhubarb salsa.
+Look at [Naturally Ella](http://naturallyella.com/chipotle-rhubarb-salsa/)
+for a chipotle rhubarb salsa.
 
 oil - onion - rhubarb
 sugar - raisins

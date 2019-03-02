@@ -2,7 +2,7 @@
 title: Roast cauliflower with lemon and parsley
 ingredients:
 - cauliflower
-- lemon 
+- lemon
 - parsley
 ---
 Chop a cauliflower into pieces. Roast at 425 for 25 minutes

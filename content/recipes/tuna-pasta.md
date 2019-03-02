@@ -2,7 +2,7 @@
 title: Tuna Pasta
 cookbook: Titli's Busy Kitchen
 ---
-http://titlisbusykitchen.com/recipe/tuna-pasta-sauce
+The recipe is from [Titli's Busy Kitchen](http://titlisbusykitchen.com/recipe/tuna-pasta-sauce).
 
 * 160 g (6 oz) can of tuna in brine
 * 400 g (14 oz) tin of chopped tomatoes
