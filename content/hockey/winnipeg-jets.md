@@ -1,6 +1,6 @@
 ---
 title: Winnipeg Jets
 ---
-Listen on CFRW, TSN 1290
+Listen to the Winnipeg Jets on CFRW, [TSN 1290]
 
-https://www.tsn.ca/radio/winnipeg-1290
+[TSN 1290]:https://www.tsn.ca/radio/winnipeg-1290

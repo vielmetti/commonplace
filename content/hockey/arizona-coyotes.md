@@ -1,6 +1,7 @@
 ---
 title: Arizona Coyotes
 ---
-The Arizona Coyotes have broadcasts on several stations throughout Arizona.
+The [Arizona Coyotes radio] network has broadcasts on several
+stations throughout Arizona.
 
-https://www.nhl.com/coyotes/schedule/radio
+[Arizona Coyotes radio]:https://www.nhl.com/coyotes/schedule/radio
