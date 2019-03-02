@@ -7,12 +7,12 @@ West Virginia.
 
 Some stations:
 
-* [WLW], the flagship, in Cincinnati
+* [WLW] 700, the flagship, in Cincinnati O. is a powerful clear channel station
 * [WIMA] Lima Ohio
 
 A map:
 
 http://cincinnati.reds.mlb.com/cin/images/schedule/y2016/RadioAffiliateMap_Dec-2015_7x6.pdf
 
-[WLW]:http:../../../radio/am-broadcast/wlw/
+[WLW]:https://emv-commonplace.netlify.com/radio/am-broadcast/wlw/
 [WIMA]:http:../../../radio/am-broadcast/wima/
