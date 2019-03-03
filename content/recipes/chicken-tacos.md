@@ -9,8 +9,8 @@ ingredients:
 - cucumbers
 - lettuce
 ---
-Make a spice mix of cumin, oregano, chili. Cook 
-frozen chicken in the instant pot until done. 
+Make a spice mix of cumin, oregano, chili. Cook
+frozen chicken in the instant pot until done.
 Heat up a big pan, fry the spice mix in a little
 oil, add chicken. Pull the chicken until it's in
 shreds. Add reserved cooking liquid if too dry.

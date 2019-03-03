@@ -1,6 +1,6 @@
 ---
 title: Chinese Take-Away Curry Sauce
 ---
-http://titlisbusykitchen.com/recipe/chinese-take-away-curry-sauce
+[Chinese takeaway curry sauce] from Titli's Busy Kitchen.
 
-from Titli's Busy Kitchen.
+[Chinese takeaway curry sauce]:http://titlisbusykitchen.com/recipe/chinese-take-away-curry-sauce

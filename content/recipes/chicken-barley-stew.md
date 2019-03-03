@@ -8,6 +8,7 @@ title: Chicken Barley Stew
 * basil
 * broth + water
 
-cook in instant pot 20 minutes, then 10 minutes cool down
+Cook in instant pot 20 minutes, then 10 minutes cool down.
 
-basically inspired by https://www.365daysofcrockpot.com/instant-pot-chicken-barley-soup/
+Inspired by a recipe from
+[365 Days of Crockpot](https://www.365daysofcrockpot.com/instant-pot-chicken-barley-soup/).
