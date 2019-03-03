@@ -1,7 +1,7 @@
 ---
 title: ArborWX - Chris Dzombak KD8VHL
 ---
-Chris Dzombak runs the @arborwx Twitter feed generally
+Chris Dzombak runs the [@arborwx] Twitter feed generally
 during weather events in the Ann Arbor area.
 
-https://twitter.com/ArborWX
+[@arborwx]:https://twitter.com/ArborWX
