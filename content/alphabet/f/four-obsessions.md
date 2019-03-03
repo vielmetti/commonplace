@@ -1,6 +1,7 @@
 ---
 title: Four Obsessions, Kate Remen-Wait's occasional weblog
 ---
-http://4obsessions.blogspot.com/
+Kate writes (at least annually) about food, books, knitting, and writing
+in her blog [Four Obsessions].
 
-Kate writes (at least annually) about food, books, knitting, and writing.
+[Four Obsessions]:http://4obsessions.blogspot.com/

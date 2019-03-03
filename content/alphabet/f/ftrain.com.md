@@ -1,7 +1,7 @@
 ---
 title: Ftrain - Paul Ford
 ---
-http://www.ftrain.com/
-
-Paul Ford writes Ftrain.com, which started in 1997.
+Paul Ford writes [Ftrain.com], which started in 1997.
 "Some days I want to erase the whole thing."
+
+[FTrain.com]:http://www.ftrain.com/
