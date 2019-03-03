@@ -20,7 +20,7 @@ It's a demonstration of systematic and deliberate efforts to
 write with authority while still learning what there is to learn.
 
 You can become expert simply by being
-persistent and methodical and public in your efforts to learn. 
+persistent and methodical and public in your efforts to learn.
 Your site constructed
 for this purpose cannot be about anything and everything that comes
 to mind; as soon as someone describes it as eclectic or has a hard
