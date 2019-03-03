@@ -1,6 +1,6 @@
 ---
 title: Workantile
 ---
-http://workantile.com/
+[Workantile] is Ann Arbor's premier coworking community.
 
-Ann Arbor's premier coworking community.
+[Workantile]:http://workantile.com/
