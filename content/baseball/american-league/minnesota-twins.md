@@ -1,9 +1,9 @@
 ---
 title: Minnesota Twins
 ---
-Treasure Island Baseball Network map: http://minnesota.twins.mlb.com/min/schedule/tibn.jsp
+Listen to the [Treasure Island Baseball Network] of the Minnesota
+Twins via [KDAL] Duluth 610, or via flagship station [WCCO] 830.
 
-Listen via [KDAL] Duluth 610, or via flagship station [WCCO] 830.
-
-[KDAL]:http:../../../radio/am-broadcast/kdal/
-[WCCO]:http:../../../radio/am-broadcast/wcco/
+[KDAL]:https://emv-commonplace.netlify.com/radio/am-broadcast/kdal/
+[WCCO]:https://emv-commonpalce.netlify.com/radio/am-broadcast/wcco/
+[Treasure Island Baseball Network]:http://minnesota.twins.mlb.com/min/schedule/tibn.jsp
