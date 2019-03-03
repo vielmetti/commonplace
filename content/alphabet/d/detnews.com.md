@@ -1,7 +1,7 @@
 ---
 title: Detroit News
 ---
-http://www.detroitnews.com/
+The [Detroit News] is an also-ran Detroit newspaper, with conservative
+columnists.  Operated under a JOA with the Detroit Free Press.
 
-Also-ran Detroit newspaper, with conservative columnists.
-Operated under a JOA with the Detroit Free Press.
+[Detroit News]:http://www.detroitnews.com/

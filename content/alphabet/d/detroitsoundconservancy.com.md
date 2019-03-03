@@ -1,8 +1,7 @@
 ---
 title: Detroit Sound Conservancy
 ---
-http://detroitsoundconservancy.org/
-
-The Detroit Sound Conservancy (DSC) acts to preserve Detroit's
+The [Detroit Sound Conservancy] aka the (DSC) acts to preserve Detroit's
 musical heritage.
 
+[Detroit Sound Conservancy]:http://detroitsoundconservancy.org/
