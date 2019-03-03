@@ -1,6 +1,8 @@
 ---
 title: KDTW - Detroit Metro Airport
 ---
-LiveATC: https://www.liveatc.net/search/?icao=KDTW
+Monitor the comings and goings at Metro via
+[LiveATC] or arrivals via [FlightRadar24].
 
-FlightRadar24: https://www.flightradar24.com/airport/dtw/arrivals
+[LiveATC]:https://www.liveatc.net/search/?icao=KDTW
+[FlightRadar24]:https://www.flightradar24.com/airport/dtw/arrivals

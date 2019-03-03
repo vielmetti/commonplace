@@ -1,7 +1,7 @@
 ---
 title: Flightaware
 ---
-Flightaware runs an international network of ADS-B
-receivers to plot airline locations.
+[Flightaware] runs an international network of ADS-B
+receivers to plot airliner locations.
 
-http://flightaware.com/adsb/
+[Flightaware]:http://flightaware.com/adsb/
