@@ -1,7 +1,8 @@
 ---
 title: Ann Arbor District Library
 ---
-http://aadl.org
-
-Books, movies, music, and games to play around town during the Summer Game.
+The [Ann Arbor District Library] has
+books, movies, music, and games to play around town during the Summer Game.
 Best library ever!
+
+[Ann Arbor District Library]:https://aadl.org

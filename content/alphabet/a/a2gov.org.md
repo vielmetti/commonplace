@@ -1,6 +1,6 @@
 ---
 title: City of Ann Arbor
 ---
-http://a2gov.org
+The City of Ann Arbor web site [a2gov.org] has details of local government.
 
-City of Ann Arbor web site with details of local government.
+[a2gov.org]:http://a2gov.org

@@ -1,7 +1,7 @@
 ---
 title: Amateur Radio Relay League (ARRL)
 ---
-http://www.arrl.org/
+Amateur radio (ham radio) news and information from
+the [ARRL], the leading national organization for the hobby.
 
-Amateur radio (ham radio) news and information from the
-leading national organization. 
+[ARRL]:http://www.arrl.org/
