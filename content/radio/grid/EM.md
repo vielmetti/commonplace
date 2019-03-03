@@ -10,7 +10,8 @@ title: EM - Southern US
 * EM63pj [N4DKD](http://n4dkd.asuscomm.com:8901/)
   Birmingham, Alabama - 2 meter WebSDR
 * EM79 - [Indiana](http://38.86.67.206:8073/)
-* EM79ti [WC8VOA](http://websdr.wc8voa.org:8073/) Northern Cincinnati suburb
+* EM79ti [WC8VOA](http://websdr.wc8voa.org:8073/) - 
+  National VOA Museum of Broadcasting, West Chester, OH
 
 Baseball
 
