@@ -1,7 +1,7 @@
 ---
 title: CubicSDR
 ---
-CubicSDR is a cross-platform SDR client which drives a
+[CubicSDR] is a cross-platform SDR client which drives a
 wide variety of SDR hardware.
 
-http://cubicsdr.com/
+[CubicSDR]:https://cubicsdr.com/

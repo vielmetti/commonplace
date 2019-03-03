@@ -1,7 +1,7 @@
 ---
 title: RTL-SDR.com
 ---
-RTL-SDR.com is an informative blog about RTL based software
+[RTL-SDR.com] is an informative blog about RTL based software
 defined radio.
 
-http://www.rtl-sdr.com/
+[RTL-SDR.com]:http://www.rtl-sdr.com/
