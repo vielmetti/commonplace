@@ -8,4 +8,6 @@ is one of the loveliest traditions to have been utterly compromised
 by the information age. Let’s start a movement to revive a little
 gracious living.
 
-from [How to Write a Thank-You Note](https://themorningnews.org/article/how-to-write-a-thank-you-note), 
+[How to Write a Thank-You Note].
+
+[How to Write a Thank-You Note]:https://themorningnews.org/article/how-to-write-a-thank-you-note
