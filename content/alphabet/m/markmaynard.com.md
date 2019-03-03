@@ -1,6 +1,6 @@
 ---
 title: Mark Maynard
 ---
-http://markmaynard.com/
+[Mark Maynard] writes about Ypsilanti.
 
-Mark Maynard writes about Ypsilanti.
+[Mark Maynard]:http://markmaynard.com/

@@ -1,6 +1,6 @@
 ---
 title: Marquette Mining Journal
 ---
-http://www.miningjournal.net/
+The [Marquette Mining Journal] is the home town newspaper from Marquette, Michigan.
 
-Home town newspaper from Marquette, Michigan.
+[Marquette Mining Journal]:http://www.miningjournal.net/
