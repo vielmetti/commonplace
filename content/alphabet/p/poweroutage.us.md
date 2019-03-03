@@ -1,7 +1,8 @@
 ---
 title: Power Outage US
 ---
-https://poweroutage.us/
+[PowerOutage.us] has maps of power outages in the US, with state
+by state data updated every few minutes.
 
-Maps of power outages in the US, with state by state data updated 
-every few minutes.
+[PowerOutage.us]:https://poweroutage.us/
+

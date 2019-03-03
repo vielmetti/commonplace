@@ -1,6 +1,7 @@
 ---
 title: Pingdom
 ---
-https://www.pingdom.com/
+[Pingdom] has simple web site monitoring, but no
+longer has a useful free tier to watch a site.
 
-Simple web site monitoring, with a useful free tier to watch a site.
+[Pingdom]:https://www.pingdom.com/
