@@ -1,6 +1,6 @@
 ---
 title: Raspberry Pi Foundation
 ---
-https://www.raspberrypi.org/
+Raspberry Pi information from the [Raspberry Pi Foundation].
 
-Raspberry Pi information from the Raspberry Pi Foundation.
+[Raspberry Pi Foundation]:https://www.raspberrypi.org/
