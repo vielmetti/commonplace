@@ -11,6 +11,8 @@ title: DM - Southwest US
   Utah
 * DM62oh: [W5UXH](http://w5uxh-kiwi.dyndns.org:8073/)
   Las Cruces NM
+* DM93am: [Jurecka](http://kiwisdr.jurecka.net:8073/)
+  Lubbock, TX
 
 Sports:
 
