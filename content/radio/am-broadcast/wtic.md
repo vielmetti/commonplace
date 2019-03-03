@@ -2,8 +2,8 @@
 title: WTIC 1080 Hartford Connecticut
 weight: 1080
 ---
-WTIC 1080 Hartford Connecticut is a 50,000 watt station 
-on the Boston Red Sox radio network. 
+WTIC 1080 Hartford Connecticut is a 50,000 watt station
+on the Boston Red Sox radio network.
 
 Via KiwiSDR:
 

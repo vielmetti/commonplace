@@ -7,7 +7,7 @@ the evening.
 
 http://radiohc.cu/en
 
-Listen on shortwave via NO2CW Hollywood (Miami) FL, 242 miles 
+Listen on shortwave via NO2CW Hollywood (Miami) FL, 242 miles
 northeast of Havana.
 
 http://qth.ddns.net:8073/?f=6000.00amz10

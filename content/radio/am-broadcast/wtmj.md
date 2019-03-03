@@ -11,4 +11,4 @@ http://www.wtmj.com/
 Listen via KiwiSDR:
 
 * Farmington Hills: http://misdr.duckdns.org/?f=620.00lsbz10 (LSB to avoid
-interference from 630 AM CFCO Chatham Ontario).
+  interference from 630 AM CFCO Chatham Ontario).

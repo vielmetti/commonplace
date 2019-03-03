@@ -8,6 +8,6 @@ title: DM - Southwest US
 * DM49gk: KA7EZO, UTAH: http://ka7ezo.proxy.kiwisdr.com:8073/
 * DM62oh: KiwiSDR W5UXH Las Cruces NM http://w5uxh-kiwi.dyndns.org:8073/
 
-Sports: 
+Sports:
 
 * KLAA 830 (Los Angeles Angels) in DM13ew

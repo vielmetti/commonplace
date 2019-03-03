@@ -9,5 +9,5 @@ title: FM - SE US, VA/DC
 
 Baseball
 
-* FM18mw - WTEM 980 Baltimore Orioles (5000 watts at night) in Hyattsville MD 
+* FM18mw - WTEM 980 Baltimore Orioles (5000 watts at night) in Hyattsville MD
 * WFED 1500 Washington Nationals (50000 watts)

@@ -11,8 +11,6 @@ Rick Rizzs is the lead announcer.
 
 https://www.wikiwand.com/en/Seattle_Mariners_Radio_Network
 
-### KiwiSDR
-
 KiwiSDR
 
 * WA6OUR, Sammimish, WA: http://24.17.196.180:8073/?f=710.00amz10

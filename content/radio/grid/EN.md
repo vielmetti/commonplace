@@ -13,7 +13,7 @@ title: EN - North Central US
 Lots of good baseball radio here
 
 * EN35 - WCCO 830 Minnesota Twins
-* EN51xw - WSCR 670 Chicago Cubs 
-* EN52xa - WGN 720 Chicago White Sox 
+* EN51xw - WSCR 670 Chicago Cubs
+* EN52xa - WGN 720 Chicago White Sox
 * EM79 - WLW 700 Cincinnati Reds comes in well on EN70vs
 * EN91eg - WTAM 1100 Cleveland Indians
