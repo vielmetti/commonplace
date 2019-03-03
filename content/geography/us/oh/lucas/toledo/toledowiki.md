@@ -1,4 +1,6 @@
 ---
 title: Toledo Wiki
 ---
-https://localwiki.org/toledo/
+The [Toledo Wiki] is another Localwiki.
+
+[Toledo Wiki]:https://localwiki.org/toledo/
