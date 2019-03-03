@@ -1,6 +1,6 @@
 ---
 title: Saline Post
 ---
-http://thesalinepost.com/
+The [Saline Post] is small town, online only journalism from Saline, Michigan.
 
-Small town, online only journalism from Saline, Michigan.
+[Saline Post]:http://thesalinepost.com/
