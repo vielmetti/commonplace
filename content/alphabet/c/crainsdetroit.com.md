@@ -1,6 +1,6 @@
 ---
 title: Crain's Detroit Business
 ---
-http://www.crainsdetroit.com/
+[Crain's Detroit Business] is business news from Detroit.
 
-Business news from Detroit.
+[Crain's Detroit Business]:http://www.crainsdetroit.com/
