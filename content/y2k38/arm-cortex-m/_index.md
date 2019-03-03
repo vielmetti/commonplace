@@ -1,7 +1,7 @@
 ---
 title: ARM Cortex-M
 ---
-The librares for the ARM Cortex-M for the EFM32 
+The librares for the ARM Cortex-M for the EFM32
 provide a 32-bit time_t and are thus susceptbile
 to the y2k38 problem.
 

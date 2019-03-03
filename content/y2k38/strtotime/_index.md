@@ -1,7 +1,7 @@
 ---
 title: PHP strtotime() unsafe
 ---
-strtotime() is a PHP function which breaks on 32 bit
+[strtotime()] is a PHP function which breaks on 32 bit
 systems in y2k38. Use DateTime() instead.
 
-http://php.net/manual/en/function.strtotime.php
+[strtotime()]:http://php.net/manual/en/function.strtotime.php
