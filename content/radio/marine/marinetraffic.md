@@ -1,6 +1,6 @@
 ---
 title: MarineTraffic.com
 ---
-Marine Traffic has worldwide AIS traffic and maps.
+[Marine Traffic] has worldwide AIS traffic and maps.
 
-https://www.marinetraffic.com
+[Marine Traffic]:https://www.marinetraffic.com

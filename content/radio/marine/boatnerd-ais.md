@@ -2,6 +2,6 @@
 title: Boatnerd AIS
 ---
 Great Lakes shipping vessel locations and information
-available from Boatnerd.
+available from [Boatnerd AIS].
 
-http://ais.boatnerd.com/
+[Boatnerd AIS]:http://ais.boatnerd.com/
