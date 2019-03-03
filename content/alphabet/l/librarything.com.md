@@ -1,6 +1,6 @@
 ---
 title: Librarything
 ---
-http://www.librarything.com/home
+[Librarything] is an online book cataloging system.
 
-Librarything is an online book cataloging system. 
+[Librarything]:http://www.librarything.com/home
