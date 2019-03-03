@@ -1,6 +1,6 @@
 ---
 title: WebSDR
 ---
-WebSDR is a wideband network-ready software defined radio.
+[WebSDR] is a wideband network-ready software defined radio.
 
-http://websdr.org
+[WebSDR]:http://websdr.org
