@@ -9,5 +9,6 @@ I can pick up 97.1 FM on my home SDR setup.
 If you are looking for Tigers baseball and don't have a hardware
 radio, try WTKA 1050 Ann Arbor.
 
-Global Tuners in Pontiac, MI: https://www.globaltuners.com/receiver/1460/js2
+Pick up WXYT on [Global Tuners](https://www.globaltuners.com/receiver/1460/js2)
+Pontiac MI.
 
