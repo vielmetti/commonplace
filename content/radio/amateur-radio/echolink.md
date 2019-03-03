@@ -1,11 +1,10 @@
 ---
 title: Echolink
 ---
-The Echolink system connects cell phones and computers to
+The [Echolink] system connects cell phones and computers to
 2 meter repeaters around the world.
 
-http://echolink.org/
+[Echomac] is a Macintosh client for Echolink.
 
-Echomac is a Macintosh client for Echolink.
-
-http://echomac.sourceforge.net/
+[Echolink]:http://echolink.org/
+[Echomac]:http://echomac.sourceforge.net/
