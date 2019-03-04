@@ -1,9 +1,10 @@
 ---
 title: Jerusalem Garden
 ---
+[Jerusalam Garden] serves
 Middle eastern food on Liberty Street in the old Seva space
 at the old VFW hall.
 
-https://www.jerusalemgarden.net/
+[Jerusalem Garden]:https://www.jerusalemgarden.net/
 
-Ali is running for City Council.
+Ali is on for City Council.
