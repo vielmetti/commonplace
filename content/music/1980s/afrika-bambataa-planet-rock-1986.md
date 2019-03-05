@@ -5,6 +5,5 @@ weight: 1986
 ---
 Old school hip hop, sampling from Kraftwerk.
 
-Discogs: https://www.discogs.com/artist/17531-Afrika-Bambaataa
-
-https://www.youtube.com/watch?v=hh1AypBaIEk
+More at [Discogs](https://www.discogs.com/artist/17531-Afrika-Bambaataa)
+with a clip at [Youtube](https://www.youtube.com/watch?v=hh1AypBaIEk).
