@@ -7,7 +7,7 @@ on the Boston Red Sox radio network.
 
 Via KiwiSDR:
 
-* Luray, VA http://n4ldr-sdr.ddns.net:9000/?f=1080.00amz10
-* Burke, VA http://n4tvc.zapto.org:8073/?f=1080.00amz10
-* New Jersey http://jerseyshoresdr.hopto.org:8073/?f=1080.00amz10
-* Rochester, NY http://rx.jimlill.com:8073/?f=1080.00amz10
+* [Luray, VA](http://n4ldr-sdr.ddns.net:9000/?f=1080.00amz10)
+* [Burke, VA](http://n4tvc.zapto.org:8073/?f=1080.00amz10)
+* [New Jersey](http://jerseyshoresdr.hopto.org:8073/?f=1080.00amz10)
+* [Rochester, NY](http://rx.jimlill.com:8073/?f=1080.00amz10)
