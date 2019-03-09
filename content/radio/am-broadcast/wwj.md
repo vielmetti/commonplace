@@ -10,7 +10,7 @@ A CBS radio station.
 
 Part of the University of Michigan Wolverines Football radio network.
 
-Listen via [W8CMN], Fenton, MI:
+Listen via [W8CMN], Fenton, MI.
 
-[WWJ Newsradio 950]:http://detroit.cbslocal.com/station/wwj-newsradio-950/
+[WWJ Newsradio 950]:https://wwjnewsradio.radio.com/
 [W8CMN]:http://dentonhill-sdr.moses.bz/
