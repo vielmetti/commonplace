@@ -11,6 +11,7 @@ title: EN - North Central US
 * EN82hm - [KiwiSDR KB8SPI](http://misdr.duckdns.org/) Farmington Hills, MI
 * EN82ip - [Global Tuners](https://www.globaltuners.com/receiver/1460/js2)
   Pontiac MI
+* EN82pa - [KiwiSDR SWLGD75](http://198.200.90.74:8073/) Kingsville Ontario
 
 Lots of good baseball radio here
 
