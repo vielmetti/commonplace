@@ -12,6 +12,7 @@ title: FN - Northeast
 * FN25: [Ma-Ku SDR](http://www.ma-ku.com:8073/) Ottawa Ontario
 * FN41wq: [Ross Lloyd](http://rosslloyd.asuscomm.com:8073/) South Dennis, MA
 * FN43fe: [AB1KW](http://kiwisdr.surriel.com/) Concord, NH
+* FN54le: [WA2ZKD/1](http://rx2.wa2zkd.net:8073/) Rockport, ME
 
 Baseball
 
