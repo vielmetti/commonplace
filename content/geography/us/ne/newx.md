@@ -1,5 +1,5 @@
 ---
-title: #newx (Nebraska weather)
+title: newx (Nebraska weather)
 ---
 For weather info from Twitter, the hashtag
 [#newx](https://twitter.com/hashtag/newx) is
