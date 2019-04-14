@@ -14,9 +14,10 @@ positions or to get the temperature of the current system; you
 simply play through until the end and then backpropogate your
 results, over and over and over again.
 
-MCTS was introduced in 2006 as an algorithm for playing the game
+[MCTS] was introduced in 2006 as an algorithm for playing the game
 of Go, which had been resistant to attack by other methods.
 
-* http://mcts.ai/
 * [Guillaume Chaslot, "Monte Carlo Tree Search", Ph.D. thesis](https://project.dke.maastrichtuniversity.nl/games/files/phd/Chaslot_thesis.pdf)
 * [Crazy Stone](https://www.remi-coulom.fr/CrazyStone/) Go playing system, Rémi Coulom.
+
+[MCTS]:http://mcts.ai/

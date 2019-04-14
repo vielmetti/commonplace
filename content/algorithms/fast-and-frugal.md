@@ -1,6 +1,7 @@
 ---
 title: Fast and Frugal
 ---
+
 Fast and Frugal decision trees have the characteristic
 that at every stage of the decision tree, a choice is
 made. This "heuristic" approach allows for very compact,
@@ -10,10 +11,11 @@ that are surprisingly powerful especially in the presence
 of bounds on search time and costs of decision making.
 
 Some code in R computes trees based on training data
-and presents measures of quality:
+and presents measures of quality, including [FFTrees].
+A [paper on FFTrees] gives background.
 
-* FFTrees: https://ndphillips.github.io/FFTrees.html
-* paper on FFTrees: http://journal.sjdm.org/17/17217/jdm17217.pdf
+[FFTrees]:https://ndphillips.github.io/FFTrees.html
+[paper on FFTrees]:http://journal.sjdm.org/17/17217/jdm17217.pdf
 
 > Fast-and-frugal trees were defined by Martignon and colleagues as
 decision trees with exactly two branches extending from each node,
@@ -26,4 +28,4 @@ faster than standard decision trees (to avoid confusion, we refer
 to decision trees that are not fast-and-frugal as standard) while
 simultaneously being easier to understand and use.
 
-* http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.412.3089&rep=rep1&type=pdf
+* [Categorization with limited resources: A family of simple heuristics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.412.3089&rep=rep1&type=pdf), Martignon, 2008.

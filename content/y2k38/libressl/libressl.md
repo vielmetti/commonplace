@@ -10,9 +10,9 @@ for year 2038 issue, and shows warning if the size of time_t is 4.
 * https://github.com/libressl-portable/portable/issues/153
 * https://github.com/libressl-portable/portable/issues/251
 
-The check is at
+The check is at [c8918d].
 
 > # Check if time_t is sized correctly
 > AC_CHECK_SIZEOF([time_t], [time.h])
 
-https://github.com/libressl-portable/portable/commit/c8918dd0be1bbadfcebfc6631bd63f3b3e83befd
+[c8918d]:https://github.com/libressl-portable/portable/commit/c8918dd0be1bbadfcebfc6631bd63f3b3e83befd
