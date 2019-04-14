@@ -6,6 +6,7 @@ relativeURLs = true
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
+  section = [ "HTML", "RSS" ]
 
 [blackfriday]
    plainIDAnchors = true
