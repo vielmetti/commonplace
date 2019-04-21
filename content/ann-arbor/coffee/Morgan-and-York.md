@@ -9,3 +9,6 @@ and a wine bar is opening in the back.
 
 Note that Ricewood BBQ is out in the back parking lot
 and serves from their truck six months of the year.
+
+In mid 2019, Tommy York is doing a bunch of work on
+the space, giving them a new kitchen.
