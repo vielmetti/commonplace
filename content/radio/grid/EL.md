@@ -6,4 +6,5 @@ title: EL - Florida, Gulf of Mexico
 
 Baseball
 
+* New York Yankees on WMEN 640, Royal Palm Beach, FL
 * Miami Marlins on WINZ 940
