@@ -8,8 +8,8 @@ title: FN - Northeast
 * FN15xg [VE3HOA](http://ve3hoa.ddns.net:8073/) Ottawa Ontario
 * FN20wc [K2SDR](http://k2sdr.homelinux.com:8073/) Sea Girt NJ
 * FN20wj [Radio McRadioface](http://jerseyshoresdr.hopto.org:8073/) NJ
+* FN21oh: [K3FEF](http://k3fef.com:8901/) Milford, PA
 * FN21xh [WB2EEE](http://matt1234.viewnetcam.com:8073/) Highland Falls NY
-* FN21: [K3FEF](http://k3fef.com:8901/) Milford, PA
 * FN25: [Ma-Ku SDR](http://www.ma-ku.com:8073/) Ottawa Ontario
 * FN41wq: [Ross Lloyd](http://rosslloyd.asuscomm.com:8073/) South Dennis, MA
 * FN43fe: [AB1KW](http://kiwisdr.surriel.com/) Concord, NH
