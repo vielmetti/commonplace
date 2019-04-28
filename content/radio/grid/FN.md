@@ -1,7 +1,8 @@
 ---
 title: FN - Northeast
 ---
-* FN10eq [W3SWL](http://radiodxing.ddns.net:8073/) Central Penna
+* FN00an [NA0B](http://na0b.ddns.net:8073/) Pittsburgh PA
+* FN10eq [W3SWL](http://radiodxing.ddns.net:8073/) Central Penna (offline)
 * FN12gx [KD2OM](http://www.ecsykes.com:8073/) Finger Lakes NY
 * FN13ed [WA2ZKD](http://rx.jimlill.com:8073/) Rochester NY
 * FN15xg [VE3HOA](http://ve3hoa.ddns.net:8073/) Ottawa Ontario
@@ -16,6 +17,7 @@ title: FN - Northeast
 
 Baseball
 
+* FN00 Pittsburgh Pirates
 * FN03 Toronto Blue Jays CJCL 590
 * FN20 New York Yankees WFAN 660
 
