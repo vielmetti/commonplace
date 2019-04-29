@@ -1,7 +1,7 @@
 ---
 title: N8DUY - Washtenaw Skywarn
 ---
-The N8DUY repeater on 145.15 (minus offset, 600 Hz PL)
+The N8DUY repeater on 145.15 (minus offset, 100 Hz PL)
 is used for the Washtenaw County Skywarn net during severe weather. 
 It also hosts a weekly ARPSC net on Sunday nights at 8:30 p.m. local time.
 
