@@ -9,6 +9,8 @@ title: DM - Southwest US
 * DM44cu: [WebSDR W7RNA](http://w7rna.dyndns-remote.com:18901/)
 * DM49gk: [KA7EZO](http://ka7ezo.proxy.kiwisdr.com:8073/)
   Utah
+* DM61tw: [W5PIE](http://w5pie.proxy.kiwisdr.com:8073/)
+  El Paso, TX
 * DM62oh: [W5UXH](http://w5uxh-kiwi.dyndns.org:8073/)
   Las Cruces NM
 * DM93am: [Jurecka](http://kiwisdr.jurecka.net:8073/)
