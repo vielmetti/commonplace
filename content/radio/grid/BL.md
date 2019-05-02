@@ -7,9 +7,8 @@ title: BL - Hawaii
 * BL11cj: KiwiSDR at [NH6XO](http://72.235.217.245:8073/)
 
 Each of these stations covers Hawaii. Best sports station is
-KIKI 990 Honolulu (BL11bh) which broadcasts the LA Dodgers.
-
-Note that in October 2018 none of these are active; not sure why.
+KIKI 990 Honolulu (BL11bh) which broadcasts the Los Angeles Dodgers,
+and NH6XO does a good job of tuning it in.
 
 [Grid BL](http://www.levinecentral.com/ham/grid_square.php?Grid=BL), Levine
 Central.
