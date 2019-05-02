@@ -4,7 +4,7 @@ weight: 610
 ---
 [KCSP 610] is the flagship station for the Kansas City Royals.
 
-Listen via [KiwiSDR] in Olathe Kansas.
+Listen via KiwiSDR [KD4HSO] in Overland Park, Kansas (EM28qw).
 
-[KiwiSDR]:http://136.63.226.118:8073/?f=610amz10
+[KD4HSO]:http://64.136.200.36:8073/?f=610.00amz8
 [KCSP 610]:http://www.610sports.com/
