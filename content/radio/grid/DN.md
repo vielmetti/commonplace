@@ -10,3 +10,7 @@ DN26:  Montana - Idaho
 
 * DN26: [Levine Central](http://www.levinecentral.com/ham/grid_square.php?Grid=DN26)
 * DN26: [W0AY](http://foxgulch.net:8073/) Stevensville, MT
+
+DN70: Colorado
+
+* DN70kh: [W0AIR](http://w0air.ddns.net:8073/) Berthoud, CO
