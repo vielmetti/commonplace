@@ -1,6 +1,6 @@
 ---
 title: Multi-level feedback queue
-----
+---
 A multi-level feedback queue mechanism was described by Corbato et al in 1962
 as part of MIT's CTSS system. 
 
