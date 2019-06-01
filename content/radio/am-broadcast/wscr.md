@@ -7,6 +7,6 @@ weight: 670
 Listen via KiwiSDR:
 
 * [KH6ILT](http://65.29.112.189:8073/?f=670.00amz10) Elida OH
-* [Addison, IL](http://kiwi.rfoverride.com:18073/?f=670.00amz4)
+* [Addison, IL](http://kiwi.rfoverride.com:18073/?f=670.00amz4) - excellent reception
 
 [WSCR 670]:https://670thescore.radio.com/
