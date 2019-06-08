@@ -1,4 +1,4 @@
 ---
-title: Events in and around Ann Arbor
+title: Events
 ---
-Noting events throughout the year.
+Noting events throughout the year in and around Ann Arbor.
