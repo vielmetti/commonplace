@@ -2,6 +2,8 @@
 title: DM - Southwest US
 ---
 
+* DM12ju: [KA9Q](http://kiwisdr.ka9q.net:8073/)
+  San Diego, California
 * DM15co: [Token](http://tokenradio.proxy.kiwisdr.com:8073/)
   Mojave Desert, California
 * DM16: [ND7M](http://74.82.153.108:8073/)
@@ -14,7 +16,7 @@ title: DM - Southwest US
 * DM61tw: [W5PIE](http://w5pie.proxy.kiwisdr.com:8073/)
   El Paso, TX
 * DM62oh: [W5UXH](http://w5uxh-kiwi.dyndns.org:8073/)
-  Las Cruces NM
+  Las Cruces, NM
 * DM93am: [Jurecka](http://kiwisdr.jurecka.net:8073/)
   Lubbock, TX
 
