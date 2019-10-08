@@ -1,6 +1,10 @@
-sudo: true
-dist: trusty
+arch: 
+- amd64
+- arm64
+os: linux
 
+sudo: true
+dist: bionic
 
 jobs:
   include:
