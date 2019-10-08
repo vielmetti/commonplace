@@ -3,6 +3,7 @@ arch:
 - arm64
 os: linux
 language: c
+install: skip
 sudo: true
 dist: bionic
 
