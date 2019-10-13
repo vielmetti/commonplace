@@ -18,6 +18,7 @@ title: EM - Southern US
 
 Baseball
 
+* EM20 Houston Astros
 * EM28 KCSP 610 Kansas City Royals
 * EM48 KMOX 1120 St Louis Cardinals
 * EM79 WLW 700 Cincinnati Reds
