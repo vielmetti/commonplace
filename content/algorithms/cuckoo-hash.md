@@ -15,5 +15,11 @@ Paper is [Pagh01].
 
 A tutorial from [Adriann].
 
+A visualization from [LKozma].
+
+A [Stanford CS 166] lecture.
+
 [Pagh01]:http://www.cs.tau.ac.il/~shanir/advanced-seminar-data-structures-2007/bib/pagh01cuckoo.pdf
 [Adriann]:https://adriann.github.io/cuckoo.html
+[LKozma]:http://www.lkozma.net/cuckoo_hashing_visualization/
+[Stanford CS 166]:https://web.stanford.edu/class/archive/cs/cs166/cs166.1146/lectures/13/Small13.pdf
