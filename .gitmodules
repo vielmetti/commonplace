@@ -1,6 +1,6 @@
 [submodule "themes/docdock2"]
 	path = themes/docdock2
-	url = ssh://git@github.com/vjeantet/hugo-theme-docdock.git
+	url = https://github.com/vjeantet/hugo-theme-docdock.git
 [submodule "themes/docdock"]
 	path = themes/docdock
-	url = ssh://git@github.com/vjeantet/hugo-theme-docdock.git
+	url = https://github.com/vjeantet/hugo-theme-docdock.git
