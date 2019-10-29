@@ -2,8 +2,11 @@
 title: WMEN 640 Royal Palm Beach, FL
 weight: 640
 ---
-WMEN "The Hurricane" 640 broadcasts New York Yankees
+WMEN "Fox Sports 640" broadcasts New York Yankees
 baseball to a Florida audience. Listen via 
-[NO2CW] Hollywood.
+[N0JEP] West Palm Beach.
 
-[NO2CW]:http://qth.ddns.net:8073/?f=640.00amz9
+The station also carries Florida Panthers hockey
+on the Panthers Radio Network.
+
+[N0JEP]:http://n0jep.ddns.net/?f=640.00amz9
