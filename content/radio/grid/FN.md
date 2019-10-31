@@ -24,3 +24,4 @@ Baseball
 Hockey
 
 * FN15 Ottawa Senators TSN 1200
+* FN35 Montreal Canadiens CKGM 690
