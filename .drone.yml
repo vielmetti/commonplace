@@ -3,6 +3,6 @@ name: default
 
 steps:
 - name: hugo
-  image: monachus/hugo:v0.55
+  image: monachus/hugo:latest
   commands:
   - hugo --buildDrafts --buildExpired --buildFuture
