@@ -3,7 +3,8 @@ title: WXYT 1270 Detroit Michigan
 weight: 1270
 ---
 WXYT 1270 AM and WXYT-FM 97.1 are the flagship stations of
-the [Detroit Tigers Radio Network].
+the [Detroit Tigers Radio Network]. They also carry Detroit
+Red Wings hockey and some University of Michigan sports broadcasts.
 
 Listen via [KB8SPI] Farmington Hills, MI.
 
