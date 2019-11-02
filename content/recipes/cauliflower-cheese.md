@@ -8,8 +8,6 @@ Make a cheese sauce, spread over top.
 Sprinkle cheese on top of everything.
 Bake 15-20 minutes until bubbly.
 
-# Cauliflower cheese
-
 - 1 cauli
 - 5 oz cheese (cheddar)
 - 1 3/4 c milk
