@@ -9,7 +9,7 @@ title: EM - Southern US
 * EM28qw [KD4HSO](http://64.136.200.36:8073/) Kansas
 * EM63pj [N4DKD](http://n4dkd.asuscomm.com:8901/)
   Birmingham, Alabama - 2 meter WebSDR
-* EM71di [KH6RD](http://kh6rd.sytes.net:8073/) - 
+* EM71di [KH6RD](http://kh6rd.sytes.net:8073/) -
   Fort Rucker, Alabama
 * EM79bi [Central Indiana SDR](http://38.86.67.206:8073/) -
   Edinburgh, IN
