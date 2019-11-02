@@ -24,4 +24,4 @@ A lot of the suggestions require significant time commitments
 that are hard to imagine now 20 years later, if even back then. 
 But it’s such a rich source of ideas I thought I should pass it along.
 
-Originall from a [book review](https://vielmetti.wordpress.com/2005/12/02/living_more_wit/) from 2005.
+Originally from a [book review](https://vielmetti.wordpress.com/2005/12/02/living_more_wit/) from 2005.
