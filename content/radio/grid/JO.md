@@ -9,5 +9,3 @@ JO32kf - Netherlands
 JO44pn - Germany
 
 * [WebSDR DJ3LE](http://dj3le.spdns.de:8901/)
-
-

@@ -9,4 +9,3 @@ batteries.
 Photo and info:
 
 * [RigPix](http://www.rigpix.com/rs-realistic/realistic_pro34.htm)
-

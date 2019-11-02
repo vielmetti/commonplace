@@ -7,7 +7,7 @@ on Ann Arbor boosterism and Ypsilanti crime,
 plus lots and lots of sports photos from high
 school sports around the state.
 
-A 2019 story in the New York Times about the Michigan Daily, 
+A 2019 story in the New York Times about the Michigan Daily,
 [When the student newspaper is the only newspaper],
 was strenuously objected to by the few MLive reporters remaining.
 

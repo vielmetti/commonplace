@@ -5,4 +5,3 @@ title: Power Outage US
 by state data updated every few minutes.
 
 [PowerOutage.us]:https://poweroutage.us/
-

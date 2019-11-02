@@ -15,4 +15,5 @@ necessary to get that improved result.
 amount of choice can lead to drastically different results in load
 balancing.
 
-* http://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf
+Paper from
+[Michael Mitzenmacher, 2001](http://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf)

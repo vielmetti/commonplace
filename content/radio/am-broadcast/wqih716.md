@@ -2,7 +2,8 @@
 title: WQIH716 1670 Etna, PA
 weight: 1670
 ---
-You're listening to WQIH716 operating on 1670 from the borough of Etna, Pennsylvania, near Pittsburgh.
+You're listening to WQIH716 operating on 1670 from the borough of Etna,
+Pennsylvania, near Pittsburgh.
 
 Very boring.
 

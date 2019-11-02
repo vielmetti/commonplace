@@ -7,7 +7,7 @@ breadth-first search to accomplish this task.
 
 The algorithm is something of a computer science shibboleth; if you have
 a degree in CS, you should be able to implement this on the spot, or
-at least describe how it works on the white board. 
+at least describe how it works on the white board.
 
 Writeups:
 
