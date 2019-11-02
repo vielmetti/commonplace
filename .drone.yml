@@ -5,4 +5,5 @@ steps:
 - name: hugo
   image: monachus/hugo:latest
   commands:
+  - hugo check
   - hugo --theme docdock --buildDrafts --buildExpired --buildFuture
