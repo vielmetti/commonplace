@@ -6,9 +6,6 @@ ingredients:
 - walnuts
 - mayo
 ---
-
-# Waldorf Salad
-
 Apples, celery, walnuts, maybe grapes cut small if you
 have them.
 

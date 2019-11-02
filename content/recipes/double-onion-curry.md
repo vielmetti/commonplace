@@ -13,4 +13,3 @@ The recipe is in Saveur, I think, or on my blog.
 The double onions are sauteed rings (20 min) and a fried onion
 ginger garlic paste (10 min).  Production would be faster if you
 cooked the double onions simultaneously.
-

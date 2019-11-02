@@ -1,8 +1,6 @@
 ---
 title: Cole Slaw
 ---
-# cole slaw
-
 year round recipe for cabbage and carrots.
 
 * get out the food processor.

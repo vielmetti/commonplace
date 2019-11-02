@@ -1,8 +1,6 @@
 ---
 title: Chicken feta rice casserole
 ---
-# Chicken feta rice casserole
-
 * Rice
 * Chicken
 * Basil, fried in olive oil

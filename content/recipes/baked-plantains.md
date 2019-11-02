@@ -3,7 +3,7 @@ title: Baked Plantains
 ---
 from "food by mars". lots of various of this.
 
-```
+```text
 Roasted Maduros (Sweet Plantains)
 Prep Time
 5 mins
