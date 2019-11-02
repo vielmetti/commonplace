@@ -11,4 +11,3 @@ radio, try WTKA 1050 Ann Arbor.
 
 Pick up WXYT on [Global Tuners](https://www.globaltuners.com/receiver/1460/js2)
 Pontiac MI.
-

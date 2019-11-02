@@ -28,4 +28,6 @@ faster than standard decision trees (to avoid confusion, we refer
 to decision trees that are not fast-and-frugal as standard) while
 simultaneously being easier to understand and use.
 
-* [Categorization with limited resources: A family of simple heuristics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.412.3089&rep=rep1&type=pdf), Martignon, 2008.
+The paper on Categorization with limited resources: A family of simple
+heuristics (Martignon, 2008) is at
+[Citeseer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.412.3089&rep=rep1&type=pdf).

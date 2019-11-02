@@ -12,7 +12,8 @@ One nice thing about mosh is that is provides local echo, so if you have
 a particularly horrible Internet connection you can still get snappy
 interactiver performance.
 
-Mosh is free software, available for GNU/Linux, BSD, macOS, Solaris, Android, Chrome, and iOS.
-Alas, there is no Windows version that I am aware of.
+Mosh is free software, available for GNU/Linux, BSD, macOS, Solaris,
+Android, Chrome, and iOS.  Alas, there is no Windows version that I am
+aware of.
 
 [Mosh]:https://mosh.org/

@@ -11,7 +11,5 @@ amount of time to execute.  If they succeed, yay! You have completed
 some work.  If the task fails to complete in that time, you delete
 it and requeue it to the next system.
 
-https://pbs.twimg.com/media/Duy_lHRXgAIMC4c.jpg
-
 "Task Assignment with Unknown Duration", Mor Harchol-Balter,
 CMU-CS-99-162, August 1999.

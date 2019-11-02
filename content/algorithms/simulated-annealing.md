@@ -18,7 +18,9 @@ result - initially with a high probability, but
 as the temperature decreases, then less and less
 until the system is cooled.
 
-* https://pdfs.semanticscholar.org/beb2/1ee4a3721484b5d2c7ad04e6babd8d67af1d.pdf
+The paper is by Kirkpatrick et al, 1983, which can
+be found among other places on
+[Semantic Scholar](https://pdfs.semanticscholar.org/beb2/1ee4a3721484b5d2c7ad04e6babd8d67af1d.pdf).
 
 @ARTICLE{Kirkpatrick83optimizationby,
     author = {S. Kirkpatrick and C. D. Gelatt and M. P. Vecchi},

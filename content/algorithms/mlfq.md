@@ -2,7 +2,7 @@
 title: Multi-level feedback queue
 ---
 A multi-level feedback queue mechanism was described by Corbato et al in 1962
-as part of MIT's CTSS system. 
+as part of MIT's CTSS system.
 
 This scheduling algorithm attempts to balance throughput and fairness by moving
 processes between queues, depending on their behavior. A job that uses all of the

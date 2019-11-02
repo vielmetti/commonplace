@@ -4,7 +4,7 @@ title: Spanning Tree
 
 Algorhyme
 
-```
+```text
  I think that I shall never see
  A graph more lovely than a tree.
  A tree whose crucial property
