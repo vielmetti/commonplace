@@ -5,4 +5,5 @@ steps:
 - name: build
   image: plugins/hugo
   settings:
-    hugo_version: 0.52
+    hugo_version: 0.55
+    theme: themes/docdock
