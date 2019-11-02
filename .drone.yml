@@ -2,6 +2,12 @@ kind: pipeline
 name: default
 
 steps:
+- name: clone
+  image: plugins/git
+  recursive: true
+  submodule_override:
+    docdock: https://github.com/vjeantet/hugo-theme-docdock.git
+
 - name: build
   image: plugins/hugo
   settings:
