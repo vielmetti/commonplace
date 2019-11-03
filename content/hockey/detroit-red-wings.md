@@ -1,10 +1,10 @@
 ---
 title: Detroit Red Wings
 ---
-Detroit Red Wings hockey is on 
+Detroit Red Wings hockey is on
 [WTKA](http://emv-commonplace.netlify.com/radio/am-broadcast/wtka/)
-1050 Ann Arbor 
-and on 
+1050 Ann Arbor
+and on
 [WXYT](http://emv-commonplace.netlify.com/radio/am-broadcast/wxyt/)
 1270 Detroit.
 

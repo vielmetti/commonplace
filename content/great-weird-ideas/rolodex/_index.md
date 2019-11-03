@@ -71,4 +71,3 @@ New York Times obituary.
 ## 1993
 
 [The Harvey Mackay Rolodex Network Builder](https://archive.org/details/harveymackayrolo00harv)
-

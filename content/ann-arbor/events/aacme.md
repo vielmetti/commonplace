@@ -9,4 +9,4 @@ library and adjacent plaza space. The event is typically in May.
 This was previously the "Ann Arbor Mini Maker Faire", but the
 event is no longer associated with the Maker Faire.
 
-Home page: http://www.a2geeks.org/aacme
+Home page of [AACME](http://www.a2geeks.org/aacme) at a2geeks.

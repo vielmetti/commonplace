@@ -11,5 +11,3 @@ Ralph Towner, Paul McCandless, Glen Moore, Trilok Gurtu, Nancy King.
   [Youtube](https://www.youtube.com/watch?v=jLTwmDcN_ho)
 * Oregon, 45th Parallel on
   [Discogs](https://www.discogs.com/Oregon-45th-Parallel/release/1602076)
-
-

@@ -8,7 +8,7 @@ Radvansky explains.
 "Recalling the decision or activity that was made in a different room
 is difficult because it has been compartmentalized."
 
-The study was published recently in the Quarterly Journal of Experimental
-Psychology.
+The study was published in the Quarterly Journal of Experimental
+Psychology 64(8) as [Radvansky 2001].
 
-* [Radvansky 2001](http://freakonomics.com/media/Radvansky%20Krawietz%20&%20Tamplin%202011%20(QJEP)%20(1).pdf), QJEP 64(8).
+* [Radvansky 2001](https://doi.org/10.1080/17470218.2011.571267)

@@ -1,1 +1,3 @@
-Ed's commonplace book.
+---
+title: Ed's commonplace book
+---
