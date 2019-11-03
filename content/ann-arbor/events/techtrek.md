@@ -8,4 +8,5 @@ mobility technology. Sponsored by Ann Arbor SPARK.
 
 Event info changes year to year.
 
-* [2019](https://annarborusa.org/events/a2tech360-presents-tech-trek-2019/) branded as "a2tech360"
+* [2019](https://annarborusa.org/events/a2tech360-presents-tech-trek-2019/),
+branded as "a2tech360"

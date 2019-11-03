@@ -2,7 +2,7 @@
 title: Rolodex
 ---
 
-# Rolodex
+## Rolodex
 
 A series of ruminations on the Rolodex, how people keep
 track of the people in their lives, and what kind of
