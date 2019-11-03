@@ -4,7 +4,6 @@ weight: 1450
 ---
 WQWK 1450 State College PA is an affiliate of the
 Pittsburgh Pirates radio network. Listen via
-[KiwiSDR].
+[KiwiSDR RadioDXing].
 
-[KiwiSDR]:http://radiodxing.ddns.net:8073/?f=1450.00amz8
-
+[KiwiSDR RadioDXing]:http://radiodxing.ddns.net:8073/?f=1450.00amz8
