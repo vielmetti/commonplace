@@ -8,4 +8,3 @@ the location, at Stadium and Packard where the Food and Drug Mart
 used to be.
 
 There's pricey gelato here too, and they serve an affogato.
-

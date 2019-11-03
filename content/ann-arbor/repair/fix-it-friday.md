@@ -5,4 +5,3 @@ title: Fix It Friday
 the third Friday of each month.
 
 [Fix It Friday]:https://www.maker-works.com/events/fixitfriday
-

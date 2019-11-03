@@ -10,4 +10,3 @@ on toast and get a cortado and tip generously.
 
 Note that Sunday brunch is "no laptop" hours at the tables,
 to encourage conversation and not just typey-typey work.
-
