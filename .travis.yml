@@ -1,9 +1,16 @@
 sudo: true
 dist: trusty
-
+language: node_js
+node_js:
+  - 12
+install:
+  - npm install -g markdownlint-cli
 
 jobs:
   include:
+    - stage: markdown lint
+      script:
+      - markdownlint content
     - stage: build docker image
       script:
       - git submodule update --init --recursive
