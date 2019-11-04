@@ -5,13 +5,17 @@ node_js:
   - 12
 install:
   - npm install -g markdownlint-cli
+stages:
+  - lint
+  - name: deploy
+    if: branch = master
 
 jobs:
   include:
-    - stage: markdown lint
+    - stage: lint
       script:
       - markdownlint content
-    - stage: build docker image
+    - stage: deploy
       script:
       - git submodule update --init --recursive
       - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
