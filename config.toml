@@ -12,5 +12,5 @@ relativeURLs = true
    hrefTargetBlank = true
 
 [params]
-   themeStyle = "original"
+   themeVariant = "blue"
    editURL = "https://github.com/vielmetti/commonplace/tree/master/content/"
