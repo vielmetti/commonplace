@@ -1,7 +1,7 @@
 # baseURL = "https://vielmetti.github.io/commonplace/"
 languageCode = "en-us"
 title = "Commonplace"
-theme = "docdock2"
+theme = "hugo-theme-learn"
 relativeURLs = true
 
 [outputs]
