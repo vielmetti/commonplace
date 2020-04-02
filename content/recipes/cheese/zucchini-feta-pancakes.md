@@ -4,12 +4,12 @@ cookbook: Moosewood 146
 ---
 Zucchini feta pancakes, Moosewood 146.
 
-Zucchini­Feta Pancakes (“Moosewood Cookbook” Mollie Katzen)
+Zucchini Feta Pancakes (“Moosewood Cookbook” Mollie Katzen)
 
 One usually thinks of a pancake supper as a generally starchy affair.
 However, the bulk of these lovely pancakes consists of eggs and
-zucchini­with just enough flour to bind them. This makes enough to
-comfortably fill four average­sized persons.  About 30 minutes to
+zucchini with just enough flour to bind them. This makes enough to
+comfortably fill four average sized persons.  About 30 minutes to
 prepare, before frying.
 
 * 4 packed cups coarsely grated zucchini
