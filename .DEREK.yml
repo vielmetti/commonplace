@@ -1,0 +1,10 @@
+# minimalist install, see 219 
+
+curators:
+ - vielmetti
+
+features:
+ - comments
+ - pr_description_required
+ - release_notes
+ 
