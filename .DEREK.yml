@@ -2,9 +2,9 @@
 
 curators:
  - vielmetti
-
+ - alexellis
+ 
 features:
  - comments
  - pr_description_required
  - release_notes
- 
