@@ -1,9 +1,12 @@
 ---
 title: Radio Havana Cuba
+
 ---
 [Radio Havana Cuba] broadcasts to North America on 6000 KHz
 evenings with a one hour program that is repeated throughout
-the evening.
+the evening. There is also a Spanish language broadcast on 6060
+KHz. Both feature Cuban music, news from Cuba and the world,
+and programs like Arnie Coro's DX's Unlimited.
 
 Listen on shortwave via [NO2CW] Hollywood (Miami) FL, 242 miles
 northeast of Havana, or pick up a signal via the [K3FEF] WebSDR
