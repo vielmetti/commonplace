@@ -16,11 +16,11 @@ This structure at least allows some
 chance that "old" things won't be totally lost.
 
 At the moment, this web site can be reached
-as [https://emv-commonplace.netlify.com] on Netlify,
+as [https://emv-commonplace.netlify.app] on Netlify,
 a continuous deployment platform with native support
 for Hugo.
 
 Written by Edward Vielmetti,
 edward.vielmetti@gmail.com
 
-[https://emv-commonplace.netlify.com]:https://emv-commonplace.netlify.com
+[https://emv-commonplace.netlify.app]:https://emv-commonplace.netlify.app
