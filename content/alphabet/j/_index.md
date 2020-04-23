@@ -1,4 +1,4 @@
 ---
 title: J
 ---
-J is for ...
+J is for jaguar and Java and jump!

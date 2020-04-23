@@ -1,4 +1,4 @@
 ---
 title: Z
 ---
-Z is for ...
+Z is for zebra, and Zoom.
