@@ -8,5 +8,6 @@ on 153 Khz from a remote output in northern Norway, until
 the service's shutdown in December 2019.
 
 We listened via the nearby [ArcticSDR](http://arcticsdr.ddns.net:8073/)
-which got a very strong signal. That SDR is still up for your far-northern listening needs,
+which got a very strong signal. 
+That SDR is still up for your far-northern listening needs,
 but the signal is no more.
