@@ -1,10 +1,11 @@
 ---
-title: Genius at Play: The Curious Mind of John Horton Conway
+title: Genius at Play - The Curious Mind of John Horton Conway
 author: Siobhan Roberts
 date: 2015
 weight: 2015
 publisher: Bloomsbury Publishing
 ---
+
 A biography of mathematician John Horton Conway (d. 2020).
 
 See an excerpt from Genius at Play in
