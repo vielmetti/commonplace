@@ -8,7 +8,8 @@ and how much you want to make.
 
 Before cooking, soak the white beans, perhaps
 overnight. Or parboil them in plenty of boiling
-water until just soft.
+water until just soft. You might also use the
+instant pot, though I didn't.
 
 In a big pot, saute onions, carrots, and celery.
 Add half a can of tomato paste, stir until cooked.
