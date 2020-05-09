@@ -17,3 +17,6 @@ Then add your beans in and enough water to cover.
 Bring to a boil then simmer an hour or so.
 Don't be afraid to add more water if the soup
 gets too much like a stew.
+
+Deb suggested to season with dill; one recipe
+called for paprika.
