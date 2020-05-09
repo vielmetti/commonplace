@@ -1,6 +1,6 @@
 ---
 title: Timbale
-issue: [#214](https://github.com/vielmetti/commonplace/issues/214)
+issue: #214
 ---
 A timbale is a savory custard that incorporates
 chopped vegetables. The custard is baked in a
