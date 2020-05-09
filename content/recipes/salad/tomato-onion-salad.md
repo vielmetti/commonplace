@@ -2,7 +2,8 @@
 title: Tomato Onion Salad
 issue: https://github.com/vielmetti/commonplace/issues/215
 ---
-This salad is in a Korean style.
+This salad is in a Korean style and is
+best with very good tomatoes.
 
 Slice salad tomatoes thin and arrange on the plate.
 
