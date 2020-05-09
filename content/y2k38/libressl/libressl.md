@@ -4,8 +4,8 @@ title: LibreSSL
 LibreSSL checks the size of time_t while building (configure or cmake)
 for year 2038 issue, and shows warning if the size of time_t is 4.
 
-> ** Warning, this system is unable to represent times past 2038
-> ** It will behave incorrectly when handling valid RFC5280 dates
+> Warning, this system is unable to represent times past 2038
+> It will behave incorrectly when handling valid RFC5280 dates
 
 * [Issue 153](https://github.com/libressl-portable/portable/issues/153)
 * [Issue 251](https://github.com/libressl-portable/portable/issues/251)
