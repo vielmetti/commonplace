@@ -1,4 +1,4 @@
 ---
-title: bean recipes
+title: Bean recipes
 ---
 Recipes primarily featuring beans.
