@@ -2,9 +2,9 @@
 title: WSDP 88.1 Plymouth / Canton MI
 weight: 881
 ---
-[WSDP-FM] 88.1 "The Park" is high school radio 
+[WSDP-FM] 88.1 "The Park" is high school radio
 from the Plymouth-Canton Public Schools,
-playing today's music. 
+playing today's music.
 
 [WSDP-FM]:https://www.881thepark.com/
 
