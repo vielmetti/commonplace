@@ -15,4 +15,5 @@ title: CM - San Francisco Bay Area, California
 Sports:
 
 * KNBR 680 broadcasts San Francisco Giants baseball from CM87vn. (50000 watts)
-* KHTK 1140 has Oakland Athletics baseball from CM98hj (50000 watts)
+* KCBS 740 is CBS news and talk. (50000 watts)
+* KHTK 1140 has Oakland Athletics baseball from CM98hj. (50000 watts)
