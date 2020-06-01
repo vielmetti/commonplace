@@ -7,7 +7,7 @@ title: CM - San Francisco Bay Area, California
   Half Moon Bay, CA
 * CM87wb: [N8DTT](http://kiwisdr.wente.com:8073)
   Bonny Doon, CA
-* CM87xi: [N3LGA](http://sdr.n3lga.com:8073/)
+* CM87xi: [N3KA](http://sdr.n3ka.com:8073/)
   Sunnyvale, CA
 * CM97bf: [AE6RQ](http://aardvarq.dyndns.org:8073/)
   San Jose, CA
