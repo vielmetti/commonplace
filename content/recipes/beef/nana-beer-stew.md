@@ -56,7 +56,7 @@ Serve, and expect accolades.
 I often just mix up Bisquick dumplings....but here's the original
 recipe.
 
-### Optional Dumpling recipe
+## Optional Dumpling recipe
 
 * 2 cups sifted self-rising flour
 * 3/4 cup of milk
