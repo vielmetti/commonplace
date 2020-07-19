@@ -1,7 +1,7 @@
 ---
 title: Nana's Beer Stew
 ---
-# Nana's Beer Stew recipe
+## Nana's Beer Stew recipe
 
 From Tish Osborn- Originally from Ada Vielmetti (Nana) & Aunt Florence Burt
 
