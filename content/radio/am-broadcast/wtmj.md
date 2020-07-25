@@ -6,8 +6,9 @@ weight: 620
 
 50000 watts daytime, 10000 watts night time.
 
-Listen: via
-* KiwiSDR [Farmington Hills], LSB to avoid interference from 630 AM CFCO Chatham Ontario
+Listen:
+
+* KiwiSDR [Farmington Hills], LSB to avoid 630 AM CFCO Chatham Ontario
 * KiwiSDR [W9MQ](http://sdr.k9mq.com:8073/?f=620.00amz10) in northwest Indiana.
 
 [WTMJ]:http://www.wtmj.com/
