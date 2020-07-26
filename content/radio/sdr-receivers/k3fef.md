@@ -1,5 +1,6 @@
 ---
 title: K3FEF, Milford PA
+weight: 3
 ---
 [K3FEF] and W3TKP run a WebSDR in Milford, PA
 with good coverage of the northeastern US.
