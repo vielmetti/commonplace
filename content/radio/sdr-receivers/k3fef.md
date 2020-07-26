@@ -13,6 +13,7 @@ The WebSDR software doesn't have an easy
 way to dial in to a specific frequency,
 so you'll have to tune once you connect.
 
+* 630 WEJL - Philadelphia Phillies via Scranton, PA
 * 660 WFAN - New York Yankees
 * 880 WCBS - New York Mets
 * 1010 WINS - New York, news
