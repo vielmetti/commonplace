@@ -12,7 +12,7 @@ station, including the following:
 
 * [WA6OUR] Sammimish WA
 * [KA7U] Weiser ID,
-* a receiver at the ECE department, [University of Victoria] 
+* a receiver at the ECE department, [University of Victoria]
 in British Columbia, Canada.
 
 [Seattle Mariners Radio Network]:https://www.wikiwand.com/en/Seattle_Mariners_Radio_Network
