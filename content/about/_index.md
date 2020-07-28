@@ -3,7 +3,7 @@ title: About Edward Vielmetti
 ---
 
 * [LinkedIn](https://www.linkedin.com/in/edwardvielmetti)
-* Current employer, Packet, an Equinix company: [Ed Vielmetti](https://www.packet.com/about/team/ed-vielmetti/)
+* Current employer: Packet, an Equinix company
 
 Ed Vielmetti is an Internet veteran with over 30 years experience.
 
