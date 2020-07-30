@@ -16,6 +16,7 @@ so you'll have to tune once you connect.
 
 * 630 WEJL - Philadelphia Phillies via Scranton, PA
 * 660 WFAN - New York Yankees
+* 700 WLW - Cincinnati Reds
 * 880 WCBS - New York Mets
 * 1010 WINS - New York, news
 * 1020 KDKA - Pittsburgh, CBS News
