@@ -8,9 +8,11 @@ it over the stronger Radio Rebelde (though you can hear the unmistakable sounds
 of baseball underneath).
 
 A map of the [Rays Radio Network] might suggest some alternatives, such as
-[WJBX] 770 Fort Meyers, or perhaps [WKII] 1070 Port Charlotte.
+[WJBX] 770 Fort Meyers, or perhaps [WKII] 1070 Port Charlotte or even
+[WORL] 950 Orlando.
 
 [Rays Radio Network]:https://www.mlb.com/rays/fans/radio
 [WDAE]:https://emv-commonplace.netlify.com/radio/am-broadcast/wdae/
 [WJBX]:https://emv-commonplace.netlify.com/radio/am-broadcast/wjbx/
 [WKII]:https://emv-commonplace.netlify.com/radio/am-broadcast/wkii/
+[WORL]:https://emv-commonplace.netlify.com/radio/am-broadcast/worl/
