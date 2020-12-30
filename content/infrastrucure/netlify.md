@@ -18,7 +18,8 @@ be an opportunity to revisit this.
 The particular instance running now is pinned to
 an old version of Hugo. That will certainly cause
 problems in some future as Hugo changes from version
-to version.
+to version. (Trying 0.79.1 instead of 0.69.2 to see
+what breaks.)
 
 [hosting on Netlify]:https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 
