@@ -9,7 +9,7 @@ Listen via [K3FEF], [Global Tuners], [Tunein], or
 [Staten Island Global Tuners].
 
 [1010 WINS]:http://newyork.cbslocal.com/station/1010-wins/
-[K3FEF]:http://k3fef.com:8901/
+[K3FEF]:http://k3fef.com:8901/?tune=1010am
 [Global Tuners]:http://www.globaltuners.com/receiver/1370-New-York-SONY-XDR-F1HD-1
 [Tunein]:http://tunein.com/radio/1010-WINS-s29616/
 [Staten Island Global Tuners]:https://www.globaltuners.com/receiver/1841/js2
