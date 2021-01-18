@@ -17,4 +17,4 @@ so really, if you can tune to any SDR anywhere you should try to pick it up.
 
 [Radio Havana Cuba]:http://radiohc.cu/en
 [NO2CW]:http://qth.ddns.net:8073/?f=6000.00amz10
-[K3FEF]:http://k3fef.com:8901/?f=6000
+[K3FEF]:http://k3fef.com:8901/?tune=6000am
