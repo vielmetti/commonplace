@@ -2,6 +2,6 @@
 title: Oakland Athletics
 ---
 Oakland Atheltics baseball can be heard on
-[KHTK] 1140 Sacramento.
+[KHTK] 1140 Sacramento California.
 
-[KHTK]:http:../../../radio/am-broadcast/khtk/
+[KHTK]:{{< ref "/radio/am-broadcast/khtk.md" >}}
