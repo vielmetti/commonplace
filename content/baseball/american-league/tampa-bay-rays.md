@@ -12,7 +12,7 @@ A map of the [Rays Radio Network] might suggest some alternatives, such as
 [WORL] 950 Orlando.
 
 [Rays Radio Network]:https://www.mlb.com/rays/fans/radio
-[WDAE]:https://emv-commonplace.netlify.com/radio/am-broadcast/wdae/
-[WJBX]:https://emv-commonplace.netlify.com/radio/am-broadcast/wjbx/
-[WKII]:https://emv-commonplace.netlify.com/radio/am-broadcast/wkii/
-[WORL]:https://emv-commonplace.netlify.com/radio/am-broadcast/worl/
+[WDAE]:{{< ref "/radio/am-broadcast/wdae.md" >}}
+[WJBX]:{{< ref "/radio/am-broadcast/wjbx.md" >}}
+[WKII]:{{< ref "/radio/am-broadcast/wkii.md" >}}
+[WORL]:{{< ref "/radio/am-broadcast/worl.md" >}}

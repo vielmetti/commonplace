@@ -3,7 +3,7 @@ title: Structured Procrastination
 ---
 [How to procrastinate and still get things done], John Perry.
 
-[How to procrastinate and still get things done]:https://www.chronicle.com/article/How-to-ProcrastinateStill/93959
+[How to procrastinate and still get things done]:http://www.structuredprocrastination.com/
 
 Winner of the Ig Nobel Prize.
 

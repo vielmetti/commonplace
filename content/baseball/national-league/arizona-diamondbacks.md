@@ -6,5 +6,6 @@ The [Arizona Diamondbacks radio network] includes
 station is [KTAR] 620 Phoenix AZ.
 
 [Arizona Diamondbacks radio network]:http://arizona.diamondbacks.mlb.com/ari/schedule/affiliates.jsp
-[KQNA]:http:../../../radio/am-broadcast/kqna/
-[KTAR]:http:../../../radio/am-broadcast/ktar/
+
+[KQNA]:{{< ref "/radio/am-broadcast/kqna.md" >}}
+[KTAR]:{{< ref "/radio/am-broadcast/ktar.md" >}}
