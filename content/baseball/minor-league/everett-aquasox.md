@@ -6,4 +6,4 @@ of the Seattle Mariners.
 
 Listen on [KRKO] 1380 Everett WA.
 
-[KRKO]:http:../../../radio/am-broadcast/krko/
+[KRKO]:{{< ref "/radio/am-broadcast/krko.md" >}}
