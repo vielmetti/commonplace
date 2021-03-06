@@ -5,9 +5,10 @@ staff:
 - Jimmy
 - Ed
 ---
-[Elixir Vitae](https://github.com/vielmetti/issuetracker/issues/8480),
-formerly known at Cafe Ambrosia, is a little cafe in the shadow
-of the Maynard Street parking structure.
+Elixir Vitae,
+formerly known at Cafe Ambrosia, was a little cafe in the shadow
+of the Maynard Street parking structure. It closed just before
+the pandemic in late 2019 (good timing).
 
 Order Ed's Blend if Ed is working, or Jimmy's Blend if Jimmy is working.
 
