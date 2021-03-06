@@ -8,4 +8,4 @@ The New York Yankees flagship station is [WFAN-AM] 660 and
 [radio network]:https://www.wikiwand.com/en/New_York_Yankees_Radio_Network
 
 [WFAN-AM]:{{< ref "/radio/am-broadcast/wfan.md" >}}
-[WFAN-FM]:https://emv-commonplace.netlify.com/radio/fm-broadcast/wfan/
+[WFAN-FM]:{{< ref "/radio/fm-broadcast/wfan.md" >}}
