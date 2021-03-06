@@ -6,6 +6,8 @@ The LA Kings hockey can be found on
 online on the "LA Kings Audio Network".
 Nick Nickson and Daryl Evans call the games.
 
+KWKW-AM Tu Liga Radio 1330 carries the games in Spanish.
+
 It's unclear at the moment just how much
 broadcast radio coverage they have on a regular basis,
 after a [2018 agreement] with iHeartMedia
