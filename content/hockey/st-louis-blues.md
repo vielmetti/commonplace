@@ -1,6 +1,6 @@
 ---
 title: St. Louis Blues
 ---
-St. Louis Blues hockey on [KMOX] 1120 St Louis.
+St. Louis Blues hockey is sometimes on [KMOX] 1120 St Louis.
 
-[KMOX]:http:../../radio/am-broadcast/kmox/
+[KMOX]:{{< ref "/radio/am-broadcast/kmox.md" >}}

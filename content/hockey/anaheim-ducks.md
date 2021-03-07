@@ -7,5 +7,5 @@ on the [Elsinore Peak SDR](http://elsinorepeak.ddns.net:8073/?f=830.00salz10).
 
 Note interference from KXNT 840 Los Angeles.
 
-[KLAA]:http:../../radio/am-broadcast/klaa/
+[KLAA]:{{< ref "/radio/am-broadcast/klaa.md" >}}
 [Streamguys]:http://player.streamguys.com/klaa/sgplayer/player.php
