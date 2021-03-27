@@ -2,6 +2,6 @@
 title: Chicago White Sox
 ---
 The Chicago White Sox radio network has flagship station
-[WLS] 890 Chicago.
+[WGN] 720 Chicago.
 
-[WLS]:{{< ref "/radio/am-broadcast/wls.md" >}}
+[WGN]:{{< ref "/radio/am-broadcast/wgn.md" >}}
