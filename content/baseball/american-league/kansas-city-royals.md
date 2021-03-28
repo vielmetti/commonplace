@@ -8,4 +8,4 @@ extends to Arkansas, Iowa, Kansas, Missouri and Nebraska.
 
 AM broadcasts locally on [KCSP] 610 Kansas City MO.
 
-[KCSP]:https://emv-commonplace.netlify.app/radio/am-broadcast/kcsp/
+[KCSP]:{{< ref "/radio/am-broadcast/kcsp.md" >}}

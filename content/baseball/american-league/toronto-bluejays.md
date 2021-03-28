@@ -8,6 +8,6 @@ network is widespread across Canada, including
 
 Not all stations carry all games.
 
-[CJCL]:https://emv-commonplace.netlify.app/radio/am-broadcast/cjcl/
-[CIWW]:https://emv-commonplace.netlify.app/radio/am-broadcast/ciww/
-[CISL]:https://emv-commonplace.netlify.app/radio/am-broadcast/cisl/
+[CJCL]:{{< ref "/radio/am-broadcast/cjcl.md" >}}
+[CIWW]:{{< ref "/radio/am-broadcast/ciww.md" >}}
+[CISL]:{{< ref "/radio/am-broadcast/cisl.md" >}}

@@ -1,7 +1,9 @@
 ---
 title: Baltimore Orioles
 ---
-Listen to the Orioles on "The Team 980", WTEM-AM 980, Washington DC.
+Listen to the Orioles on "The Team 980", [WTEM-AM] 980, Washington DC.
+
+[WTEM-AM]:{{< ref "/radio/am-broadcast/wtem.md" >}}
 
 The
 [Baltimore Orioles Radio Network](https://www.mlb.com/orioles/schedule/broadcast-affiliates)
