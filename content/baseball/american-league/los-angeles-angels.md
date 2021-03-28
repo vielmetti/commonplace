@@ -1,7 +1,7 @@
 ---
 title: Los Angeles Angels
 ---
-Los Angeles Angels play in Anaheim, California.
+The Los Angeles Angels play in Anaheim, California.
 
 AM broadcasts locally on [KLAA] 830.
 
