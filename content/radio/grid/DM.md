@@ -3,7 +3,7 @@ title: DM - Southwest US
 ---
 
 * DM12ju: [KA9Q](http://kiwisdr.ka9q.net:8073/)
-  San Diego, California
+  [KA9Q], San Diego, California
 * DM15co: [Token](http://tokenradio.proxy.kiwisdr.com:8073/)
   Mojave Desert, California
 * DM16: [ND7M](http://74.82.153.108:8073/)
@@ -23,3 +23,5 @@ title: DM - Southwest US
 Sports:
 
 * DM13ew: KLAA 830 (Los Angeles Angels)
+
+[KA9Q]:{{< ref "/radio/sdr-receivers/ka9q.md" >}}
