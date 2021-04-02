@@ -11,7 +11,7 @@ A full list of [White Sox radio affiliates] includes
 9 additional stations in Illinois and Indiana.
 
 [WGN]:{{< ref "/radio/am-broadcast/wgn.md" >}}
-[WMVP]:{{< ref "/radio/am-broadcast/wmvp.md >}}
-[WRTO]:{{< ref "/radio/am-broadcast/wrto.md >}}
+[WMVP]:{{< ref "/radio/am-broadcast/wmvp.md" >}}
+[WRTO]:{{< ref "/radio/am-broadcast/wrto.md" >}}
 
 [White Sox radio affiliates]:https://www.mlb.com/whitesox/schedule/radio-affiliates
