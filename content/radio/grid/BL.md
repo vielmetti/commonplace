@@ -12,5 +12,5 @@ and [NH6XO] does a good job of tuning it in.
 [Grid BL](http://www.levinecentral.com/ham/grid_square.php?Grid=BL), Levine
 Central.
 
-[KIKI]:{{< ref "/radio/am-broadcast/kiki.md" >}}
+[KIKI]:{{< ref "/radio/am-broadcast/kiki-990.md" >}}
 [NH6XO]:{{< ref "/radio/sdr-receivers/nh6xo.md" >}}

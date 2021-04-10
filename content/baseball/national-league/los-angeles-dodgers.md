@@ -10,5 +10,5 @@ with [KIKI] 990 "Fox Sports 990" in Honolulu carrying the games.
 
 [KLAC]:{{< ref "/radio/am-broadcast/klac.md" >}}
 [KTNQ]:{{< ref "/radio/am-broadcast/ktnq.md" >}}
-[KIKI]:{{< ref "/radio/am-broadcast/kiki.md" >}}
+[KIKI]:{{< ref "/radio/am-broadcast/kiki-990.md" >}}
 [KMPC]:{{< ref "/radio/am-broadcast/kmpc.md" >}}
