@@ -1,10 +1,10 @@
 ---
 title: Calgary Flames
 ---
-The Calgary Flames radio station is [CFAC 960 Calgary]. Games are transmitted
+The Calgary Flames radio station is [CFAC 960] Calgary. Games are transmitted
 via the [Sportsnet 960] "The Fan" application.
 
-[CFAC 960 Calgary]:https://emv-commonplace.netlify.com/radio/am-broadcast/cfac/
+[CFAC 960]:{{< ref "/radio/am-broadcast/cfac-960.md" >}}
 
 [Sportsnet 960]:http://player.sportsnet960.ca/
 
