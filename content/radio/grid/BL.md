@@ -3,7 +3,7 @@ title: BL - Hawaii
 date: 2021-05-09
 ---
 
-* BL01rx: KiwiSDR at [AI6VN/KH6](http://kiwisdr.robinett.us:8073/)
+* BL10rx: KiwiSDR at [AI6VN/KH6](http://kiwisdr.robinett.us:8073/)
 * BL10: WebSDR at [Maui WebSDR](http://mauisdr.wsprdaemon.org:8901/)
 * BL11cj: KiwiSDR at [NH6XO](http://72.235.217.245:8073/)
 

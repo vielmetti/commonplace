@@ -6,7 +6,7 @@ title: EN - North Central US
   Duluth, MN
 * EN41gw - [KiwiSDR WJ Niemi](http://wjniemi.hopto.org:8073/) Iowa
 * EN51xw - [KiwiSDR RF Override](http://kiwi.rfoverride.com:18073/) Addison IL
-* EN61gk - [KiwiSD K8MQ](http://k9mq.ddns.net:8073/) Saint John, IN
+* EN61gk - [KiwiSDR K9MQ](http://k9mq.ddns.net:8073/) Saint John, IN
 * EN70vs - [KiwiSDR KH6ILT](http://65.29.112.189:8073/) Elida, OH
 * EN80nd - [KiwiSDR OhioSWL](http://ohioswl.com:8073/) Westerville, OH
 * EN82de - [KiwiSDR W8CMN](http://dentonhill-sdr.moses.bz/) Fenton, MI
