@@ -10,7 +10,7 @@ to the ginger/garlic mixture. Cook until fragrant.
 
 While the peanuts are cooking, trim a pound of
 green beans and cut a package of savory baked
-tofu into small cubes. 
+tofu into small cubes.
 
 Add the tofu to the peanut mixture and fry until
 hot. Add lemon juice and some hot pepper flakes.
