@@ -1,15 +1,15 @@
 {
 "countdata":[
-{"facility":"80","spacesavail":"192","timestamp":"6/14/2021 12:04:58 PM"},
-{"facility":"83","spacesavail":"325","timestamp":"6/14/2021 12:04:58 PM"},
-{"facility":"84","spacesavail":"591","timestamp":"6/14/2021 12:04:58 PM"},
-{"facility":"86","spacesavail":"1102","timestamp":"6/14/2021 12:04:58 PM"},
-{"facility":"82","spacesavail":"601","timestamp":"6/14/2021 12:04:58 PM"},
-{"facility":"85","spacesavail":"403","timestamp":"6/14/2021 12:04:58 PM"},
-{"facility":"88","spacesavail":"0","timestamp":"6/14/2021 12:04:58 PM"},
-{"facility":"89","spacesavail":"200","timestamp":"6/14/2021 12:04:58 PM"},
-{"facility":"87","spacesavail":"0","timestamp":"6/14/2021 12:04:58 PM"},
-{"facility":"81","spacesavail":"0","timestamp":"6/14/2021 12:04:58 PM"},
-{"facility":"87 S","spacesavail":"0","timestamp":"6/14/2021 12:04:58 PM"}
+{"facility":"80","spacesavail":"199","timestamp":"6/14/2021 12:44:18 PM"},
+{"facility":"83","spacesavail":"326","timestamp":"6/14/2021 12:44:18 PM"},
+{"facility":"84","spacesavail":"591","timestamp":"6/14/2021 12:44:18 PM"},
+{"facility":"86","spacesavail":"1108","timestamp":"6/14/2021 12:44:18 PM"},
+{"facility":"82","spacesavail":"577","timestamp":"6/14/2021 12:44:18 PM"},
+{"facility":"85","spacesavail":"401","timestamp":"6/14/2021 12:44:18 PM"},
+{"facility":"88","spacesavail":"0","timestamp":"6/14/2021 12:44:18 PM"},
+{"facility":"89","spacesavail":"200","timestamp":"6/14/2021 12:44:18 PM"},
+{"facility":"87","spacesavail":"0","timestamp":"6/14/2021 12:44:18 PM"},
+{"facility":"81","spacesavail":"0","timestamp":"6/14/2021 12:44:18 PM"},
+{"facility":"87 S","spacesavail":"0","timestamp":"6/14/2021 12:44:18 PM"}
 ]
 }
