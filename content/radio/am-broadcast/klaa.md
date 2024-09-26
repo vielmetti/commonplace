@@ -6,6 +6,7 @@ weight: 830
 The Twitter feed is from [@AngelsRadioKLAA]. Pick it up
 on a KiwiSDR [Token Radio] in the Mojave Desert, or
 KiwiSDR [AK7V] in Wrightwood, CA, or
+KiwiSDR [W6FNO] at Elsinore Peak, or
 KiwiSDR [KA9Q] in San Diego. The transmitter is
 in Chino, CA, about 45 miles west of downtown LA.
 
@@ -17,6 +18,7 @@ protect clear-channel [WCCO] Minneapolis.
 [Token Radio]:http://tokenradio.proxy.kiwisdr.com:8073/?f=830.00amz10
 [AK7V]:http://ak7v.hopto.org:8073/?f=830.00amz10
 [KA9Q]:http://kiwisdr.ka9q.net:8073/?f=830.00amz10
+[W6FNO]:http://elsinorepeak.ddns.net:8073/?f=830.00amz10
 [KLAA 830]:http://am830.net/
 [@AngelsRadioKLAA]:https://twitter.com/AngelsRadioKLAA
 
