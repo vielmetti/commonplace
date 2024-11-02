@@ -1,7 +1,7 @@
 # baseURL = "https://vielmetti.github.io/commonplace/"
 languageCode = "en-us"
 title = "Commonplace"
-theme = "hugo-theeme-relearn"
+theme = "hugo-theme-relearn"
 relativeURLs = true
 
 [outputs]
